@@ -1,0 +1,23 @@
+name: Refresh events
+on:
+  schedule:
+    - cron: "0 10,16,22 * * *"   # 3x a day (UTC)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python3 scripts/fetch_events.py
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
+      - run: |
+          git config user.name "events-bot"
+          git config user.email "events-bot@users.noreply.github.com"
+          git add site/data/events.json
+          git diff --cached --quiet || (git commit -m "Refresh events" && git push)

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0b0b0d">
+<title>Hudson Happens: what's on in Jersey City, Hoboken &amp; Bayonne</title>
+<meta name="description" content="Everything happening in Jersey City, Hoboken and Bayonne, in one place. Tonight, this weekend, free events, venues and more.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#app">Skip to content</a>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="logo" href="#/" aria-label="Hudson Happens home">HUDSON<span>HAPPENS</span></a>
+    <nav class="mainnav" aria-label="Main">
+      <a href="#/events" data-nav="events">Events</a>
+      <a href="#/venues" data-nav="venues">Venues</a>
+      <a href="#/tonight" data-nav="tonight">Tonight</a>
+      <a href="#/weekend" data-nav="weekend">Weekend</a>
+      <a href="#/free" data-nav="free" class="nav-free">Free</a>
+      <a href="#/saved" data-nav="saved">Saved<span class="saved-count" id="saved-count"></span></a>
+      <a href="#/spontaneous" data-nav="spontaneous">Surprise me</a>
+    </nav>
+    <form class="topsearch" role="search" data-search>
+      <label class="sr-only" for="top-q">Search events</label>
+      <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="top-q" name="q" type="search" placeholder="Search events…" autocomplete="off">
+    </form>
+  </div>
+</header>
+
+<main id="app" tabindex="-1"><p class="loading">Loading events…</p></main>
+
+<footer class="footer">
+  <div class="footer-inner" id="footer"></div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

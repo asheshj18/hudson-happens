@@ -1,0 +1,59 @@
+# One Eventbrite organizer ID per line. Text after # is a comment.
+# Find an ID: open the organizer's page on eventbrite.com; the URL ends in -<number>, e.g.
+#   https://www.eventbrite.com/o/some-brewery-jersey-city-12345678901  ->  12345678901
+# Only in-person events in Jersey City, Hoboken or Bayonne are kept.
+
+# Top 50 organizers by in-person events in Jersey City / Hoboken / Bayonne,
+# found on Eventbrite's public listings (map box over Hudson County) on 2026-11-03.
+# Ranked by local event count; ties broken by total events hosted on Eventbrite.
+# Format: id  # name - local events (cities) / total hosted
+71245500743   # Strive Networking - 15 local (Hoboken 15) / 8,876 total
+28148339697   # Madd Hatter Hoboken - 12 local (Hoboken 12) / 3,041 total
+115899812071  # Hyatt Regency Jersey City on the Hudson - 9 local (Jersey City 9) / 993 total
+83466915963   # Limitless Productions - 9 local (Hoboken 9) / 277 total
+76386920503   # The ASHFORD - 7 local (Jersey City 7) / 461 total
+54651369283   # 902 Brewing Co - 6 local (Jersey City 6) / 339 total
+42441605053   # Little City Books, Hoboken, NJ - 5 local (Hoboken 5) / 430 total
+37990403233   # Jersey City Connects - 5 local (Jersey City 5) / 207 total
+20248855693   # Lissa Sarno Welles - 5 local (Jersey City 5) / 80 total
+72919396563   # SMUSH Gallery - 5 local (Jersey City 5) / 66 total
+11153774687   # Hudson County Community College Continuing Ed - 4 local (Jersey City 4) / 593 total
+20054583239   # WFMU - 4 local (Jersey City 4) / 233 total
+11063745866   # W Hotels of New York - 4 local (Hoboken 4) / 229 total
+108253026661  # BarCada - 3 local (Bayonne 1, Jersey City 2) / 50,048 total
+105305487311  # ADDVentures - 3 local (Hoboken 1, Jersey City 2) / 40,652 total
+77686786313   # Organizer - 3 local (Jersey City 1, Bayonne 1, Hoboken 1) / 14,007 total
+7828165243    # PubCrawls.com - 3 local (Jersey City 2, Hoboken 1) / 10,930 total
+14412723752   # JobFairX - 3 local (Jersey City 3) / 5,257 total
+17911436496   # Jersey City Office of Cultural Affairs - 3 local (Jersey City 3) / 128 total
+15685770131   # Tally Ho - 3 local (Hoboken 3) / 108 total
+111318938861  # Keep Mahjing On - 3 local (Hoboken 3) / 21 total
+103527860421  # JOONBUG Hoboken - 3 local (Hoboken 3) / 20 total
+121115568571  # Hoboken's VIP Exclusive Parties - 3 local (Hoboken 3) / 7 total
+121115267478  # Hoboken's Best Parties - 3 local (Hoboken 3) / 7 total
+121115249352  # Hoboken's Best New Years Parties - 3 local (Hoboken 3) / 0 total
+27153393487   # Kat Nelson, Owner of Alley Kat Adventures - 2 local (Hoboken 1, Jersey City 1) / 2,863,238 total
+18083498558   # Illusions The Drag Queen Show. Brunch & Dinner Shows - 2 local (Hoboken 2) / 44,826 total
+29446193521   # VIP Nightlife - Live the Best VIP Life. - 2 local (Hoboken 2) / 2,676 total
+12375882978   # Bar Crawl LIVE - 2 local (Hoboken 2) / 970 total
+96010389923   # BarCrawl.com - 2 local (Hoboken 1, Jersey City 1) / 498 total
+26870692335   # Segunda Quimbamba Folkloric Center, Inc. - 2 local (Jersey City 2) / 270 total
+12316568664   # The Hutton Restaurant & Bar - 2 local (Jersey City 2) / 243 total
+46064710493   # Bollywood Nights NYC - 2 local (Jersey City 2) / 238 total
+18149471156   # Crockpot Comedy - 2 local (Jersey City 2) / 183 total
+47502152643   # Jersey City Bitcoin Meetup - 2 local (Jersey City 2) / 100 total
+121757556246  # Cre8sArt School - 2 local (Hoboken 2) / 59 total
+120944653482  # Jersey Creative Lab - 2 local (Hoboken 1, Jersey City 1) / 22 total
+121604800388  # Fluid Arts Studio - 2 local (Jersey City 2) / 21 total
+12457428831   # HobokenNYE - 2 local (Hoboken 2) / 9 total
+121376926358  # Modesto Foundation - 2 local (Jersey City 2) / 3 total
+120349926331  # Ermantourage UK - 1 local (Bayonne 1) / 76,704 total
+28484204407   # Tammy Whalen-Blake at Go To Yellow - 1 local (Jersey City 1) / 48,187 total
+105775796591  # Real Estate investors - 1 local (Jersey City 1) / 43,854 total
+17759779275   # Muscle Men Male Strippers Revue, Male Strip Club Show & Male Strippers for Hire - 1 local (Hoboken 1) / 31,198 total
+12837454519   # Chad Earhart Company - 1 local (Jersey City 1) / 29,331 total
+17964590991   # Ebony Men Black Male Strippers Revue & Male Strip Club Shows - 1 local (Hoboken 1) / 25,385 total
+18012235182   # Male Strippers UNLEASHED - 1 local (Hoboken 1) / 24,493 total
+18438588912   # Booze N' Brush Sip N' Paint Events - 1 local (Hoboken 1) / 20,138 total
+18051701526   # BuffBoyzz Gay Friendly Male Strippers & Male Strip Club Shows - 1 local (Hoboken 1) / 18,182 total
+78811575103   # Public Speaking Domination - 1 local (Jersey City 1) / 16,897 total

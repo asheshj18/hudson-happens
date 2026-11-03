@@ -40,7 +40,16 @@
   }
   const isTonight = (e) => e._day === today() && !e.all_day && nyHour(e._start) >= 16 && !e.categories.includes("Civic");
   const isWeekend = (e) => { const [a, b] = weekendRange(); return e._day >= a && e._day <= b; };
-  const inWeek = (e) => e._day >= today() && e._day <= addDays(today(), 6);
+  const WINDOW_DAYS = 30;
+  const inWindow = (e) => e._day >= today() && e._day <= addDays(today(), WINDOW_DAYS - 1);
+  // Date-range presets shared by the home page and the events page.
+  const RANGES = {
+    week: ["Next 7 days", 0, 6],
+    nextweek: ["Next week", 7, 13],
+    later: ["Later this month", 14, WINDOW_DAYS - 1],
+    month: ["Next 30 days", 0, WINDOW_DAYS - 1],
+  };
+  const inRange = (e, key) => { const r = RANGES[key]; return !!r && e._day >= addDays(today(), r[1]) && e._day <= addDays(today(), r[2]); };
 
   // ---------------------------------------------------------------- icons
   const ICON_CAL = `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><rect x="3.5" y="5" width="17" height="15" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/></svg>`;
@@ -72,12 +81,17 @@
 
   function tile(e, pick) {
     const p = priceText(e);
+    const d = new Date(e._day + "T12:00:00Z");
+    const stamp = `<span class="stamp" aria-hidden="true"><b>${d.toLocaleDateString("en-US", { timeZone: "UTC", weekday: "short" }).toUpperCase()}</b><strong>${d.getUTCDate()}</strong><i>${d.toLocaleDateString("en-US", { timeZone: "UTC", month: "short" }).toUpperCase()}</i></span>`;
     return `<li class="tile${pick ? " pick" : ""}">
       <a class="tile-link" href="${href(e)}">
-        <span class="tile-top"><span class="tile-cat">${esc(e.categories[0])}</span>${p ? `<span class="tile-price${e.free ? " free" : ""}">${esc(p)}</span>` : ""}</span>
-        <span class="tile-title">${esc(e.title)}</span>
-        <span class="tile-when">${esc(when(e))}</span>
-        <span class="tile-where">${esc(e.venue || e.city)}</span>
+        ${stamp}
+        <span class="tile-body">
+          <span class="tile-top"><span class="tile-cat">${esc(e.categories[0])}</span>${p ? `<span class="tile-price${e.free ? " free" : ""}">${esc(p)}</span>` : ""}</span>
+          <span class="tile-title">${esc(e.title)}</span>
+          <span class="tile-when">${esc(e.all_day ? "All day" : fmtTime(e._start))}</span>
+          <span class="tile-where">${esc(e.venue || e.city)}</span>
+        </span>
       </a>
       ${calBtn(e)}
     </li>`;
@@ -127,7 +141,7 @@
   // ---------------------------------------------------------------- picks
   // "Local picks": upcoming, has an image, not civic/library-admin, spread across cities and categories.
   function insiderPicks(n = 10) {
-    const pool = events.filter((e) => e._day <= addDays(today(), 7) && !e.categories.includes("Civic") && !/board of trustees|registration|drop-in|book a librarian/i.test(e.title));
+    const pool = events.filter((e) => e._day <= addDays(today(), 14) && !e.categories.includes("Civic") && !/board of trustees|registration|drop-in|book a librarian/i.test(e.title));
     const score = (e) => (e.image ? 3 : 0) + (e.source === "Ticketmaster" || e.source === "Eventbrite" || e.source === "Luma" ? 3 : 0) + (nyHour(e._start) >= 17 ? 1 : 0) - (e.categories.includes("Kids & Family") ? 1 : 0);
     const sorted = pool.slice().sort((a, b) => score(b) - score(a) || a._start - b._start);
     const out = [], seenCat = {}, seenTitle = new Set();
@@ -146,28 +160,29 @@
   function viewHome() {
     const upcoming = events.filter((e) => e._day >= today());
     const added = events.length;
-    const week = upcoming.filter(inWeek);
+    const month = upcoming.filter(inWindow);
+    const week = month.filter((e) => inRange(e, "week"));
     const t = today();
-    const dayChips = [["all", "All"], ["today", "Today"], [addDays(t, 1), "Tmrw"]];
-    for (let i = 2; i < 7; i++) dayChips.push([addDays(t, i), dayChipLabel(addDays(t, i))]);
+    const dayChips = [["all", "All 30 days"], ["today", "Today"], [addDays(t, 1), "Tomorrow"], ["weekend", "This weekend"], ["week", "Next 7 days"], ["nextweek", "Next week"], ["later", "Later this month"]];
     const sel = state.homeDay || "all";
-    const weekList = week.filter((e) => sel === "all" || (sel === "today" ? e._day === t : e._day === sel));
+    const monthList = month.filter((e) => sel === "all" || (sel === "today" ? e._day === t : sel === "weekend" ? isWeekend(e) : RANGES[sel] ? inRange(e, sel) : e._day === sel));
     const counts = Object.fromEntries(CITIES.map((c) => [c.name, upcoming.filter((e) => e.city === c.name).length]));
 
     return `<div class="wrap">
       <section class="hero">
-        <p class="kicker">${added.toLocaleString()} upcoming events · Jersey City · Hoboken · Bayonne</p>
-        <h1 class="display">What's the move<br><span class="hl">tonight?</span></h1>
+        <p class="kicker">${added.toLocaleString()} things on the calendar · Jersey City · Hoboken · Bayonne</p>
+        <h1 class="display">What's happening on <span class="hl">our side of the river.</span></h1>
+        <div class="wave" aria-hidden="true"></div>
         <form class="hero-search" role="search" data-search>
           ${ICON_SEARCH}<label class="sr-only" for="hero-q">Search events, venues, neighborhoods</label>
-          <input id="hero-q" name="q" type="search" placeholder="Search events, venues, neighborhoods…" autocomplete="off">
+          <input id="hero-q" name="q" type="search" placeholder="Try “farmers market”, “jazz” or “Grove St”…" autocomplete="off">
         </form>
         <div class="chips">
           <a class="chip" href="#/tonight">Tonight</a>
           <a class="chip" href="#/weekend">This weekend</a>
           <a class="chip" href="#/free">Free</a>
           <a class="chip" href="#/events?cat=Kids%20%26%20Family">With the kids</a>
-          <a class="chip gold-outline" href="#/spontaneous">I'm feeling spontaneous</a>
+          <a class="chip gold-outline" href="#/spontaneous">Surprise me</a>
         </div>
       </section>
 
@@ -175,13 +190,13 @@
         ${CITIES.map((c) => `<a class="city-card ${c.cls}" href="#/events?city=${c.slug}"><strong>${esc(c.name)}</strong><span>${plural(counts[c.name], "event")} · ${esc(c.blurb)}</span></a>`).join("")}
       </div>
 
-      ${shelf(`Local <span class="hl">picks</span>`, insiderPicks(), "#/events", { picks: true })}
-      ${shelf(`<span class="hl green">Free</span> this week`, uniqueTitles(week.filter((e) => e.free && !e.categories.includes("Civic")), 14), "#/free")}
-      ${shelf(`Tonight <span class="hl">after 4</span>`, uniqueTitles(upcoming.filter(isTonight), 14), "#/tonight")}
-      ${shelf(`Out with <span class="hl">the kids</span>`, uniqueTitles(week.filter((e) => e.categories.includes("Kids & Family")), 14), "#/events?cat=Kids%20%26%20Family")}
+      ${shelf(`Worth the <span class="hl">trip</span>`, insiderPicks(), "#/events", { picks: true })}
+      ${shelf(`<span class="hl green">Free</span> this month`, uniqueTitles(month.filter((e) => e.free && !e.categories.includes("Civic")), 14), "#/free")}
+      ${shelf(`Tonight, <span class="hl">after work</span>`, uniqueTitles(upcoming.filter(isTonight), 14), "#/tonight")}
+      ${shelf(`Bring <span class="hl">the kids</span>`, uniqueTitles(month.filter((e) => e.categories.includes("Kids & Family")), 14), "#/events?cat=Kids%20%26%20Family")}
 
-      <p class="section-kicker">Guides</p>
-      <h2 class="display section-title">When you already know the move</h2>
+      <p class="section-kicker">Shortcuts</p>
+      <h2 class="display section-title">Know what you're after?</h2>
       <div class="guides">
         ${[
           ["Tonight", "What's on after 4. No morning story times.", "#/tonight"],
@@ -190,21 +205,21 @@
           ["Venues", "Every place on the calendar, by city.", "#/venues"],
           ["Learn something", "Classes, workshops, ESL and talks.", "#/events?cat=Learning"],
           ["Get moving", "Yoga, runs, tai chi and wellness.", "#/events?cat=Fitness%20%26%20Wellness"],
-        ].map(([h, p, l]) => `<a class="guide" href="${l}"><h3>${h}</h3><p>${p}</p><span class="open-link">Open →</span></a>`).join("")}
+        ].map(([h, p, l]) => `<a class="guide" href="${l}"><h3>${h}</h3><p>${p}</p><span class="open-link">Take me there →</span></a>`).join("")}
       </div>
 
       <section class="spont-banner">
-        <div><p class="kicker" style="margin-bottom:6px">No plan</p><h2>One thing to do in the next few hours</h2><p>Spontaneous pulls a single real event. Pass if it's not the one.</p></div>
-        <a class="btn primary" href="#/spontaneous">I'm feeling spontaneous</a>
+        <div><p class="kicker" style="margin-bottom:6px">Bored?</p><h2>Let us pick something for the next few hours</h2><p>One real event, close by. Not feeling it? Roll again.</p></div>
+        <a class="btn primary" href="#/spontaneous">Surprise me</a>
       </section>
 
       <section style="margin-top:56px">
-        <h2 class="display section-title" style="margin-bottom:6px;font-size:clamp(40px,6vw,64px)">This week</h2>
-        <p style="color:var(--muted);margin:0 0 16px">Everything happening in the next 7 days</p>
+        <h2 class="display section-title" style="margin-bottom:6px">The month ahead</h2>
+        <p style="color:var(--muted);margin:0 0 16px">The next 30 days, day by day. Plenty of time to plan.</p>
         <div class="chips" role="group" aria-label="Pick a day">
           ${dayChips.map(([v, l]) => `<button type="button" class="chip" data-act="homeday" data-day="${v}" aria-current="${sel === v}">${esc(l)}</button>`).join("")}
         </div>
-        ${dayGroups(weekList, { perDay: 8 })}
+        ${dayGroups(monthList, { perDay: sel === "all" ? 5 : 8 })}
       </section>
     </div>`;
   }
@@ -220,6 +235,7 @@
       if (q.day === "today" && e._day !== today()) return false;
       if (q.day === "tomorrow" && e._day !== addDays(today(), 1)) return false;
       if (q.day && /^\d{4}-/.test(q.day) && e._day !== q.day) return false;
+      if (q.day && RANGES[q.day] && !inRange(e, q.day)) return false;
       if (q.venue && slugify(e.venue) !== q.venue) return false;
       if (q.q && !e._text.includes(q.q.toLowerCase())) return false;
       return true;
@@ -253,7 +269,7 @@
     const allCats = [...new Set(events.flatMap((e) => e.categories))];
     const catItems = allCats.map((c) => [c, countFor({ cat: c })]).filter(([c, n]) => n > 0 || q.cat === c).sort((a, b) => b[1] - a[1]);
     const t = today();
-    const dayOpts = preset === "tonight" || preset === "weekend" ? [] : [["", "All dates"], ["today", "Today"], ["tomorrow", "Tomorrow"], ...[2, 3, 4, 5, 6].map((i) => [addDays(t, i), dayChipLabel(addDays(t, i))])];
+    const dayOpts = preset === "tonight" || preset === "weekend" ? [] : [["", "All dates"], ["today", "Today"], ["tomorrow", "Tomorrow"], ...[2, 3, 4, 5, 6].map((i) => [addDays(t, i), dayChipLabel(addDays(t, i))]), ...["week", "nextweek", "later", "month"].map((k) => [k, RANGES[k][0]])];
     const shown = list.slice(0, state.shown);
     const view = q.view === "grid" ? "grid" : "list";
 
@@ -323,7 +339,7 @@
     const known = Object.entries(venues.reduce((acc, v) => ((acc[v.top] = (acc[v.top] || 0) + 1), acc), {})).sort((a, b) => b[1] - a[1]);
 
     return `<div class="wrap narrow" style="max-width:900px">
-      <header class="page-head"><p class="kicker" style="color:var(--muted)">Venues</p><h1 class="display">Where it's happening</h1>
+      <header class="page-head"><p class="kicker" style="color:var(--muted)">Venues</p><h1 class="display">Places <span class="hl">around town</span></h1>
       <p class="sub">Every place below has an upcoming public event. Filter by city or what a place is known for.</p></header>
       <form class="venue-tools" data-venue-search>
         <label class="field">${ICON_SEARCH}<span class="sr-only">Find a venue by name</span><input name="vq" type="search" value="${esc(q.q || "")}" placeholder="Find a venue by name" autocomplete="off"></label>
@@ -355,13 +371,13 @@
 
   function viewSpontaneous() {
     const pool = spontaneousPool();
-    if (!pool.length) return `<div class="wrap narrow"><header class="page-head"><h1 style="font-size:36px;margin:0">I'm feeling spontaneous</h1></header><p class="empty">Nothing coming up in the next few hours. <a href="#/events?day=tomorrow" style="color:var(--accent)">See tomorrow →</a></p></div>`;
+    if (!pool.length) return `<div class="wrap narrow"><header class="page-head"><h1 class="display" style="font-size:40px">Surprise me</h1></header><p class="empty">Nothing coming up in the next few hours. <a href="#/events?day=tomorrow" style="color:var(--accent)">See tomorrow →</a></p></div>`;
     if (state.spontIdx == null || state.spontIdx >= pool.length) state.spontIdx = Math.floor(Math.random() * pool.length);
     const e = pool[state.spontIdx];
     const c = CITY_BY_NAME[e.city];
     const p = priceText(e);
     return `<div class="wrap narrow">
-      <header class="page-head"><h1 style="font-size:36px;margin:0;font-weight:700">I'm feeling spontaneous</h1>
+      <header class="page-head"><h1 class="display" style="font-size:40px">Surprise me</h1>
       <p class="sub">One thing worth leaving the house for, happening in the next few hours. Don't like it? Roll again.</p></header>
       <article class="spont-card" aria-live="polite">
         <div class="top"><span class="tile-cat">${esc(e.categories[0])}</span>${p ? `<span class="tile-price${e.free ? " free" : ""}">${esc(p)}</span>` : ""}</div>
@@ -421,7 +437,7 @@
       <div><h4>Explore</h4><ul>
         <li><a href="#/events">All events</a></li><li><a href="#/venues">Venues</a></li><li><a href="#/tonight">Tonight</a></li>
         <li><a href="#/weekend">This weekend</a></li><li><a href="#/free" style="color:var(--free)">Free events</a></li>
-        <li><a href="#/saved">Saved</a></li><li><a href="#/spontaneous">I'm feeling spontaneous</a></li></ul></div>
+        <li><a href="#/saved">Saved</a></li><li><a href="#/spontaneous">Surprise me</a></li></ul></div>
       <div><h4>Hudson Happens</h4>
         <p>Events across Jersey City, Hoboken and Bayonne in one calendar.</p>
         ${generated ? `<p>Updated ${esc(new Date(generated.generated).toLocaleString("en-US", { timeZone: TZ, dateStyle: "medium", timeStyle: "short" }))}</p>` : ""}
@@ -456,7 +472,7 @@
     app.innerHTML = html;
 
     document.querySelectorAll(".mainnav a").forEach((a) => (a.dataset.nav === route ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
-    const titles = { events: "Things to do", venues: "Venues", tonight: "Tonight", weekend: "This weekend", free: "Free events", saved: "Saved", spontaneous: "I'm feeling spontaneous" };
+    const titles = { events: "Things to do", venues: "Venues", tonight: "Tonight", weekend: "This weekend", free: "Free events", saved: "Saved", spontaneous: "Surprise me" };
     document.title = route === "event" && byId.get(arg) ? `${byId.get(arg).title} · Hudson Happens` : `${titles[route] ? titles[route] + " · " : ""}Hudson Happens: what's on in Jersey City, Hoboken & Bayonne`;
     if (routeChanged) { window.scrollTo(0, 0); }
     updateSavedCount();

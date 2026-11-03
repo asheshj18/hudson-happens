@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T16:31:16.445281-05:00",
+ "generated": "2026-11-03T17:31:17.387424-05:00",
  "sources": {
   "jersey_city_gov": 115,
   "bayonne_library": 375,
@@ -6291,7 +6291,7 @@
    "address": "500 Park Ave, Hoboken",
    "city": "Hoboken",
    "url": "https://hobokenlibrary.libnet.info/event/17809203",
-   "image": null,
+   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/CE_BOTM_SkitScat_8.5x11_Nov21_1_2_-1.png",
    "price": "Free",
    "source": "Hoboken Public Library",
    "categories": [

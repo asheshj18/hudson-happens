@@ -19,8 +19,11 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -39,10 +42,20 @@ CENTER = (40.7282, -74.0435)  # between downtown JC and Hoboken
 
 
 # ---------------------------------------------------------------- helpers
-def get(url, timeout=30):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode("utf-8", errors="replace")
+def get(url, timeout=30, headers=None, tries=3):
+    """GET with a couple of retries for flaky networks (not for 4xx errors)."""
+    req = urllib.request.Request(url, headers={**UA, **(headers or {})})
+    for attempt in range(tries):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read().decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as ex:
+            if ex.code < 500 and ex.code != 429 or attempt == tries - 1:
+                raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError):
+            if attempt == tries - 1:
+                raise
+        time.sleep(2 * (attempt + 1))
 
 
 def strip_html(s):
@@ -207,43 +220,45 @@ def ticketmaster():
         return []
     out = []
     now = dt.datetime.now(dt.timezone.utc)
-    for page in range(5):
-        q = {"apikey": key, "latlong": f"{CENTER[0]},{CENTER[1]}", "radius": 4, "unit": "miles",
-             "size": 200, "page": page, "sort": "date,asc",
-             "startDateTime": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-             "endDateTime": (now + dt.timedelta(days=DAYS_AHEAD)).strftime("%Y-%m-%dT%H:%M:%SZ")}
-        d = json.loads(get("https://app.ticketmaster.com/discovery/v2/events.json?" + urllib.parse.urlencode(q)))
-        for ev in d.get("_embedded", {}).get("events", []):
-            venue = (ev.get("_embedded", {}).get("venues") or [{}])[0]
-            city = (venue.get("city") or {}).get("name")
-            if city not in CITIES:
-                continue
-            dates = ev.get("dates", {}).get("start", {})
-            if dates.get("dateTime"):
-                start = dt.datetime.fromisoformat(dates["dateTime"].replace("Z", "+00:00"))
-            elif dates.get("localDate"):
-                start = dt.datetime.fromisoformat(dates["localDate"]).replace(tzinfo=TZ)
-            else:
-                continue
-            pr = (ev.get("priceRanges") or [{}])[0]
-            imgs = sorted(ev.get("images") or [], key=lambda i: -i.get("width", 0))
-            cls = (ev.get("classifications") or [{}])[0]
-            out.append({
-                "id": f"ticketmaster:{ev['id']}",
-                "title": ev["name"].strip(),
-                "description": strip_html(ev.get("info") or ev.get("pleaseNote") or ""),
-                "start": iso(start), "end": None, "all_day": not dates.get("dateTime"),
-                "venue": venue.get("name"),
-                "address": (venue.get("address") or {}).get("line1", ""),
-                "city": city,
-                "url": ev.get("url"),
-                "image": imgs[0]["url"] if imgs else None,
-                "price": f"${pr['min']:.0f}+" if pr.get("min") else "Paid",
-                "source": "Ticketmaster",
-                "raw_tags": [x.get("name") for x in (cls.get("segment"), cls.get("genre")) if x and x.get("name") not in (None, "Undefined")],
-            })
-        if page + 1 >= d.get("page", {}).get("totalPages", 0):
-            break
+    # Search each city by name: a radius search is swamped by Manhattan events.
+    for city_name in CITIES:
+        for page in range(3):
+            q = {"apikey": key, "city": city_name, "stateCode": "NJ",
+                 "size": 200, "page": page, "sort": "date,asc",
+                 "startDateTime": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                 "endDateTime": (now + dt.timedelta(days=DAYS_AHEAD)).strftime("%Y-%m-%dT%H:%M:%SZ")}
+            d = json.loads(get("https://app.ticketmaster.com/discovery/v2/events.json?" + urllib.parse.urlencode(q)))
+            for ev in d.get("_embedded", {}).get("events", []):
+                venue = (ev.get("_embedded", {}).get("venues") or [{}])[0]
+                city = (venue.get("city") or {}).get("name")
+                if city not in CITIES:
+                    continue
+                dates = ev.get("dates", {}).get("start", {})
+                if dates.get("dateTime"):
+                    start = dt.datetime.fromisoformat(dates["dateTime"].replace("Z", "+00:00"))
+                elif dates.get("localDate"):
+                    start = dt.datetime.fromisoformat(dates["localDate"]).replace(tzinfo=TZ)
+                else:
+                    continue
+                pr = (ev.get("priceRanges") or [{}])[0]
+                imgs = sorted(ev.get("images") or [], key=lambda i: -i.get("width", 0))
+                cls = (ev.get("classifications") or [{}])[0]
+                out.append({
+                    "id": f"ticketmaster:{ev['id']}",
+                    "title": ev["name"].strip(),
+                    "description": strip_html(ev.get("info") or ev.get("pleaseNote") or ""),
+                    "start": iso(start), "end": None, "all_day": not dates.get("dateTime"),
+                    "venue": venue.get("name"),
+                    "address": (venue.get("address") or {}).get("line1", ""),
+                    "city": city,
+                    "url": ev.get("url"),
+                    "image": imgs[0]["url"] if imgs else None,
+                    "price": f"${pr['min']:.0f}+" if pr.get("min") else "Paid",
+                    "source": "Ticketmaster",
+                    "raw_tags": [x.get("name") for x in (cls.get("segment"), cls.get("genre")) if x and x.get("name") not in (None, "Undefined")],
+                })
+            if page + 1 >= d.get("page", {}).get("totalPages", 0):
+                break
     return out
 
 
@@ -258,26 +273,24 @@ def eventbrite():
     if not ids:
         print("  (skipped: add organizer IDs to eventbrite_organizers.txt)", file=sys.stderr)
         return []
-    out = []
-    for org in ids:
-        url = (f"https://www.eventbriteapi.com/v3/organizers/{org}/events/"
-               "?status=live&order_by=start_asc&expand=venue,ticket_availability,category")
-        while url:
-            req = urllib.request.Request(url, headers={**UA, "Authorization": f"Bearer {token}"})
+    horizon = dt.datetime.now(dt.timezone.utc) + dt.timedelta(days=DAYS_AHEAD)
+    base = "https://www.eventbriteapi.com/v3/organizers/{}/events/?status=live&order_by=start_asc&expand=venue,ticket_availability,category"
+
+    def one_org(org):
+        found, url = [], base.format(org)
+        for _ in range(10):  # results are date-sorted; stop once past the horizon
             try:
-                with urllib.request.urlopen(req, timeout=30) as r:
-                    d = json.loads(r.read())
+                d = json.loads(get(url, headers={"Authorization": f"Bearer {token}"}))
             except Exception as ex:
                 print(f"  eventbrite organizer {org}: {ex}", file=sys.stderr)
                 break
-            for ev in d.get("events", []):
+            evs = d.get("events", [])
+            for ev in evs:
                 venue = ev.get("venue") or {}
                 addr = venue.get("address") or {}
                 city = (addr.get("city") or "").strip()
-                if city not in CITIES and not ev.get("online_event"):
-                    continue
-                if ev.get("online_event"):
-                    continue  # in-person events only
+                if ev.get("online_event") or city not in CITIES:
+                    continue  # in-person events in our cities only
                 ta = ev.get("ticket_availability") or {}
                 if ev.get("is_free"):
                     price = "Free"
@@ -285,7 +298,7 @@ def eventbrite():
                     price = f"${float(ta['minimum_ticket_price']['major_value']):.0f}+"
                 else:
                     price = "Paid"
-                out.append({
+                found.append({
                     "id": f"eventbrite:{ev['id']}",
                     "title": (ev.get("name") or {}).get("text", "").strip(),
                     "description": strip_html((ev.get("summary") or (ev.get("description") or {}).get("text") or "")),
@@ -302,9 +315,14 @@ def eventbrite():
                     "raw_tags": [(ev.get("category") or {}).get("short_name")] if ev.get("category") else [],
                 })
             pg = d.get("pagination") or {}
-            url = (f"https://www.eventbriteapi.com/v3/organizers/{org}/events/?status=live&order_by=start_asc"
-                   f"&expand=venue,ticket_availability,category&continuation={pg['continuation']}") if pg.get("has_more_items") else None
-    return out
+            past = evs and dt.datetime.fromisoformat(evs[-1]["start"]["utc"].replace("Z", "+00:00")) > horizon
+            if past or not pg.get("has_more_items"):
+                break
+            url = base.format(org) + f"&continuation={pg['continuation']}"
+        return found
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        return [e for evs in pool.map(one_org, ids) for e in evs]
 
 
 SOURCES = [jersey_city_gov, bayonne_library, hoboken_library, luma, ticketmaster, eventbrite]

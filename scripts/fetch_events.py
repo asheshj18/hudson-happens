@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch events for Jersey City, Hoboken and Bayonne from free sources.
+"""Fetch events for Jersey City, Hoboken and Bayonne.
 
 Writes site/data/events.json. Standard library only — no pip install needed.
 
@@ -10,6 +10,10 @@ Sources:
   - Luma public discover (geo search around Hudson County)
   - Ticketmaster Discovery API (only if TICKETMASTER_API_KEY is set)
   - Eventbrite, per organizer in eventbrite_organizers.txt (only if EVENTBRITE_TOKEN is set)
+  - Stevens Institute (iCal; performing arts + home games only)
+  - JC Families (iCal)
+  - SeatGeek (only if SEATGEEK_CLIENT_ID is set)
+  - Google Events via SerpApi (only if SERPAPI_KEY is set; cached, ~once a day)
 
 API keys can go in a .env file next to this project (KEY=value per line).
 """
@@ -325,7 +329,181 @@ def eventbrite():
         return [e for evs in pool.map(one_org, ids) for e in evs]
 
 
-SOURCES = [jersey_city_gov, bayonne_library, hoboken_library, luma, ticketmaster, eventbrite]
+def stevens():
+    """Stevens Institute (Hoboken). The feed is mostly internal room bookings, so keep only
+    DeBaun performing-arts shows and home games ("X vs Y")."""
+    out = []
+    for e in from_ical("https://events.stevens.edu/ical/upcoming.ics", "Stevens Institute", "Hoboken"):
+        tags = " ".join(e["raw_tags"])
+        if "DeBaun" in tags:
+            e["raw_tags"] = ["Arts & Theatre"]
+        elif "Athletics" in tags and re.search(r"\bvs\.?\b", e["title"], re.I):
+            e["title"] = "Stevens " + re.sub(r"\s+\d{1,2}(:\d{2})?\s*[ap]m$", "", e["title"], flags=re.I)
+            e["raw_tags"] = ["Sports"]
+        else:
+            continue
+        e["price"] = None
+        e["url"] = e["url"] or "https://events.stevens.edu/"
+        out.append(e)
+    return out
+
+
+def jc_families():
+    evs = from_ical("https://jcfamilies.com/events/?ical=1", "JC Families", "Jersey City")
+    for e in evs:
+        e["price"] = None  # feed doesn't say; don't claim free
+    return evs
+
+
+SEATGEEK_TYPES = {"concert": "Music", "music_festival": "Music", "sports": "Sports", "theater": "Arts & Theatre",
+                  "broadway_tickets_national": "Arts & Theatre", "comedy": "Comedy", "family": "Family"}
+
+
+def seatgeek():
+    cid = os.environ.get("SEATGEEK_CLIENT_ID")
+    if not cid:
+        print("  (skipped: set SEATGEEK_CLIENT_ID to enable)", file=sys.stderr)
+        return []
+    now = dt.datetime.now(dt.timezone.utc)
+    out = []
+    for city_name in CITIES:
+        for page in range(1, 6):
+            q = {"client_id": cid, "venue.city": city_name, "venue.state": "NJ", "per_page": 100, "page": page,
+                 "sort": "datetime_utc.asc",
+                 "datetime_utc.gte": now.strftime("%Y-%m-%dT%H:%M:%S"),
+                 "datetime_utc.lte": (now + dt.timedelta(days=DAYS_AHEAD)).strftime("%Y-%m-%dT%H:%M:%S")}
+            d = json.loads(get("https://api.seatgeek.com/2/events?" + urllib.parse.urlencode(q)))
+            for ev in d.get("events", []):
+                venue = ev.get("venue") or {}
+                city = venue.get("city")
+                if city not in CITIES:
+                    continue
+                start = dt.datetime.fromisoformat(ev["datetime_local"]).replace(tzinfo=TZ)
+                low = (ev.get("stats") or {}).get("lowest_price")
+                img = next((p.get("image") for p in ev.get("performers") or [] if p.get("image")), None)
+                out.append({
+                    "id": f"seatgeek:{ev['id']}",
+                    "title": (ev.get("title") or "").strip(),
+                    "description": ev.get("description") or "",
+                    "start": iso(start), "end": None,
+                    "all_day": bool(ev.get("time_tbd") or ev.get("datetime_tbd")),
+                    "venue": venue.get("name"),
+                    "address": venue.get("address") or "",
+                    "city": city,
+                    "url": ev.get("url"),
+                    "image": img,
+                    "price": f"${low:.0f}+" if low else "Paid",
+                    "source": "SeatGeek",
+                    "raw_tags": [SEATGEEK_TYPES[ev.get("type")]] if ev.get("type") in SEATGEEK_TYPES else [],
+                })
+            meta = d.get("meta") or {}
+            if page * meta.get("per_page", 100) >= meta.get("total", 0):
+                break
+    return out
+
+
+# SerpApi free plan = 250 searches/month. 3 cities x 2 queries x once a day ~= 180/month.
+# Results are cached in data/serpapi_cache.json and reused until they're SERPAPI_MAX_AGE_H old,
+# so the 3x-daily refresh only spends searches once a day.
+SERPAPI_CACHE = ROOT / "data" / "serpapi_cache.json"
+SERPAPI_MAX_AGE_H = 20
+# Google Events ignores `start` paging (page 2 == page 1), so vary the query instead.
+SERPAPI_QUERIES = ("Events in {city}, NJ", "Concerts and shows in {city}, NJ")
+MONTHS = {m: i for i, m in enumerate(["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], 1)}
+
+
+def parse_google_when(start_date, when):
+    """Google Events gives fuzzy dates: start_date 'Nov 8', when 'Sat, Nov 8, 7:30 - 9:30 PM'."""
+    m = re.match(r"([A-Z][a-z]{2})\s+(\d{1,2})", start_date or "")
+    if not m or m.group(1) not in MONTHS:
+        return None, True
+    today = dt.date.today()
+    month, day = MONTHS[m.group(1)], int(m.group(2))
+    year = today.year + (1 if month < today.month - 1 else 0)
+    try:
+        date = dt.date(year, month, day)
+    except ValueError:
+        return None, True
+    w = (when or "").replace("\u202f", " ")
+    # "7:30 – 9:30 PM", "6 – 9 PM", "11 AM – 3 PM", "8 PM"
+    m = re.search(r"\b(\d{1,2})(?::(\d{2}))?\s*(AM|PM)?\s*(?:[-–—]\s*\d{1,2}(?::\d{2})?\s*(AM|PM)|(?<=AM|PM))", w)
+    if not m or not (m.group(3) or m.group(4)):
+        return dt.datetime.combine(date, dt.time(), TZ), True
+    h, mi, ap = m.group(1), m.group(2), m.group(3) or m.group(4)
+    hour = int(h) % 12 + (12 if ap == "PM" else 0)
+    return dt.datetime.combine(date, dt.time(hour, int(mi or 0)), TZ), False
+
+
+def host_label(url):
+    host = urllib.parse.urlparse(url or "").netloc.lower().removeprefix("www.")
+    known = {"facebook.com": "Facebook", "eventbrite.com": "Eventbrite", "allevents.in": "AllEvents",
+             "patch.com": "Patch", "ticketmaster.com": "Ticketmaster", "meetup.com": "Meetup"}
+    return next((v for k, v in known.items() if host.endswith(k)), host or "Google Events")
+
+
+def serpapi_google_events():
+    key = os.environ.get("SERPAPI_KEY")
+    if not key:
+        print("  (skipped: set SERPAPI_KEY to enable)", file=sys.stderr)
+        return []
+    cache = json.loads(SERPAPI_CACHE.read_text()) if SERPAPI_CACHE.exists() else {}
+    fetched = dt.datetime.fromisoformat(cache["fetched"]) if cache.get("fetched") else None
+    fresh = fetched and dt.datetime.now(dt.timezone.utc) - fetched < dt.timedelta(hours=SERPAPI_MAX_AGE_H)
+    if fresh and not os.environ.get("SERPAPI_FORCE"):
+        print(f"  (using cached SerpApi results from {cache['fetched']})", file=sys.stderr)
+        raw = cache["results"]
+    else:
+        raw, spent = [], 0
+        for city_name in CITIES:
+            for query in SERPAPI_QUERIES:
+                q = {"engine": "google_events", "q": query.format(city=city_name), "hl": "en", "gl": "us",
+                     "htichips": "date:month", "api_key": key}
+                d = json.loads(get("https://serpapi.com/search.json?" + urllib.parse.urlencode(q), timeout=60))
+                spent += 1
+                raw.extend({**r, "_query_city": city_name} for r in d.get("events_results") or [])
+        SERPAPI_CACHE.parent.mkdir(parents=True, exist_ok=True)
+        SERPAPI_CACHE.write_text(json.dumps({"fetched": dt.datetime.now(dt.timezone.utc).isoformat(), "searches": spent, "results": raw}, indent=1))
+        print(f"  (SerpApi: spent {spent} searches)", file=sys.stderr)
+
+    out, seen = [], set()
+    for r in raw:
+        addr = r.get("address") or []
+        addr_text = ", ".join(addr)
+        city = next((c for c in CITIES if c.lower() in addr_text.lower()), None)
+        if not city:
+            continue  # Google mixes in Manhattan and other nearby towns
+        start, all_day = parse_google_when((r.get("date") or {}).get("start_date"), (r.get("date") or {}).get("when"))
+        if not start:
+            continue
+        title = (r.get("title") or "").strip()
+        eid = "google:" + re.sub(r"\W+", "", f"{title}{start.date()}{city}".lower())[:80]
+        if eid in seen:
+            continue
+        seen.add(eid)
+        tickets = r.get("ticket_info") or []
+        link = (next((t["link"] for t in tickets if t.get("link_type") == "tickets" and t.get("link")), None)
+                or next((t["link"] for t in tickets if t.get("link")), None)
+                or r.get("link") or (r.get("venue") or {}).get("link"))
+        venue = (r.get("venue") or {}).get("name") or (addr[0].split(",")[0] if addr else city)
+        out.append({
+            "id": eid,
+            "title": title,
+            "description": r.get("description") or "",
+            "start": iso(start), "end": None, "all_day": all_day,
+            "venue": venue,
+            "address": addr_text,
+            "city": city,
+            "url": link,
+            "image": r.get("image") or r.get("thumbnail"),
+            "price": None,
+            "source": host_label(link) if tickets else "Google Events",
+            "raw_tags": [],
+        })
+    return out
+
+
+SOURCES = [jersey_city_gov, bayonne_library, hoboken_library, stevens, jc_families, luma,
+           ticketmaster, seatgeek, eventbrite, serpapi_google_events]
 
 # ---------------------------------------------------------------- categorize
 # Order matters: first match wins for the primary category, but every match is kept.

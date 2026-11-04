@@ -182,6 +182,7 @@
           <a class="chip" href="#/weekend">This weekend</a>
           <a class="chip" href="#/free">Free</a>
           <a class="chip" href="#/events?cat=Kids%20%26%20Family">With the kids</a>
+          <a class="chip gold" href="#/pick">Help me pick</a>
           <a class="chip gold-outline" href="#/spontaneous">Surprise me</a>
         </div>
       </section>
@@ -209,8 +210,8 @@
       </div>
 
       <section class="spont-banner">
-        <div><p class="kicker" style="margin-bottom:6px">Bored?</p><h2>Let us pick something for the next few hours</h2><p>One real event, close by. Not feeling it? Roll again.</p></div>
-        <a class="btn primary" href="#/spontaneous">Surprise me</a>
+        <div><p class="kicker" style="margin-bottom:6px">Not sure what to do?</p><h2>Answer six quick questions and we'll pick for you</h2><p>When, who's coming, what you're in the mood for. Takes about 20 seconds.</p></div>
+        <div class="banner-btns"><a class="btn primary" href="#/pick">Help me pick</a><a class="btn ghost" href="#/spontaneous">${ICON_DICE} Surprise me</a></div>
       </section>
 
       <section style="margin-top:56px">
@@ -389,6 +390,136 @@
     </div>`;
   }
 
+  // ---------------------------------------------------------------- help me pick
+  // A few tap-to-answer questions, one at a time. Answers live in the URL (#/pick?when=..&time=..)
+  // so the browser back button steps back a question and results are shareable.
+  const PICK_Q = [
+    { key: "when", q: "When do you plan to go?", opts: [["today", "Today"], ["tomorrow", "Tomorrow"], ["weekend", "This weekend"], ["week", "Sometime this week"], ["month", "Anytime this month"]] },
+    { key: "time", q: "What time of day works?", opts: [["morning", "Morning", "Before noon"], ["afternoon", "Afternoon", "Noon to 5"], ["evening", "Evening", "5pm and later"], ["any", "Any time"]] },
+    { key: "who", q: "Who's coming?", opts: [["solo", "Just me"], ["date", "Date night", "The two of us"], ["friends", "A group of friends"], ["kids", "Bringing the kids"]] },
+    { key: "vibe", q: "What are you in the mood for?", opts: [["music", "Live music"], ["arts", "Arts & culture", "Shows, galleries, theater"], ["food", "Food & drink"], ["laughs", "A night out", "Comedy, bars, nightlife"], ["active", "Get active", "Fitness, sports, outdoors"], ["learn", "Learn something", "Classes, talks, workshops"], ["any", "Surprise me", "Anything good"]] },
+    { key: "price", q: "Paid or free?", opts: [["free", "Free only"], ["any", "Either is fine"]] },
+    { key: "city", q: "Where?", opts: [...CITIES.map((c) => [c.slug, c.name]), ["any", "Anywhere nearby"]] },
+  ];
+  const VIBE_CATS = {
+    music: ["Music"], arts: ["Arts & Culture"], food: ["Food & Drink"], laughs: ["Comedy", "Nightlife"],
+    active: ["Fitness & Wellness", "Sports", "Outdoors"], learn: ["Learning", "Tech & Business"],
+  };
+  const WHO_BOOST = { date: ["Music", "Arts & Culture", "Food & Drink", "Comedy", "Nightlife"], friends: ["Nightlife", "Food & Drink", "Music", "Comedy", "Sports"] };
+  const ADMIN = /registration|drop-in|book a librarian|board of trustees|office hours|meeting of/i;
+  const NOT_PICKABLE = /strip(per|pers|club)|male revue|gentlemen'?s club|xxx|18\+ only/i;
+  const label = (key, val) => (PICK_Q.find((x) => x.key === key).opts.find((o) => o[0] === val) || [])[1] || "";
+
+  function pickMatches(a, relax) {
+    const now = new Date(), t = today();
+    const hr = (e) => nyHour(e._start);
+    const tests = {
+      when: (e) => a.when === "today" ? e._day === t && (e._end || e._start) >= now
+        : a.when === "tomorrow" ? e._day === addDays(t, 1)
+        : a.when === "weekend" ? isWeekend(e)
+        : a.when === "week" ? inRange(e, "week") : inWindow(e),
+      time: (e) => a.time === "any" || e.all_day || (a.time === "morning" ? hr(e) < 12 : a.time === "afternoon" ? hr(e) >= 12 && hr(e) < 17 : hr(e) >= 17),
+      who: (e) => a.who === "kids" ? e.categories.includes("Kids & Family")
+        : a.who === "solo" ? true
+        : !e.categories.includes("Kids & Family") && !/\b(family|kids?|toddler|baby|storytime|story time)\b/i.test(e.title),
+      vibe: (e) => a.vibe === "any" || e.categories.some((c) => VIBE_CATS[a.vibe]?.includes(c)),
+      price: (e) => a.price !== "free" || e.free,
+      city: (e) => a.city === "any" || CITY_BY_SLUG[a.city]?.name === e.city,
+    };
+    return events.filter((e) => !e.categories.includes("Civic") && !ADMIN.test(e.title) && !NOT_PICKABLE.test(e.title) && e._start >= new Date(now.getTime() - 3 * 3600e3)
+      && Object.entries(tests).every(([k, f]) => relax.includes(k) || f(e)));
+  }
+
+  function pickResults(a) {
+    const boost = WHO_BOOST[a.who] || [];
+    const want = VIBE_CATS[a.vibe] || [];
+    const score = (e) => (e.image ? 2 : 0) + (e.description && e.description.length > 80 ? 1 : 0)
+      + (e.categories.some((c) => want.includes(c)) ? 3 : 0) + (e.categories.some((c) => boost.includes(c)) ? 2 : 0)
+      + (a.who === "date" && !e.all_day && nyHour(e._start) >= 18 ? 1 : 0) + (e.all_day ? -1 : 0);
+    const seen = new Set(), perDay = {};
+    const rank = (list) => list.slice().sort((x, y) => score(y) - score(x) || x._start - y._start).filter((e) => {
+      const k = e.title.toLowerCase();
+      if (seen.has(k) || (perDay[e._day] || 0) >= 3) return false;
+      seen.add(k); perDay[e._day] = (perDay[e._day] || 0) + 1; return true;
+    });
+    const exact = rank(pickMatches(a, []));
+    // Too few exact matches: loosen the least important answers, one at a time, and show those separately.
+    let relaxed = [], close = [];
+    if (exact.length < 5) {
+      for (const k of ["vibe", "time", "city", "who"]) {
+        if (a[k] === "any") continue;
+        relaxed = [...relaxed, k];
+        close = rank(pickMatches(a, relaxed));
+        if (exact.length + close.length >= 5) break;
+      }
+    }
+    return { exact, close: close.slice(0, Math.max(3, 5 - exact.length)), relaxed };
+  }
+
+  function pickReasons(e, a) {
+    const r = [];
+    if (a.when !== "month") r.push(e._day === today() ? "Today" : e._day === addDays(today(), 1) ? "Tomorrow" : fmtDayShort(e._day).split(",")[0]);
+    if (a.time !== "any" && !e.all_day) r.push(label("time", a.time));
+    if (e.free) r.push("Free");
+    if (a.who === "kids") r.push("Kid-friendly");
+    else if (a.who === "date" && e.categories.some((c) => WHO_BOOST.date.includes(c))) r.push("Good for a date");
+    else if (a.who === "friends" && e.categories.some((c) => WHO_BOOST.friends.includes(c))) r.push("Fun with a group");
+    const vc = e.categories.find((c) => (VIBE_CATS[a.vibe] || []).includes(c));
+    if (vc) r.push(vc);
+    if (a.city !== "any") r.push(e.city);
+    return r;
+  }
+
+  function viewPick(q) {
+    const a = {};
+    for (const x of PICK_Q) { if (x.opts.some((o) => o[0] === q[x.key])) a[x.key] = q[x.key]; else break; }
+    const step = Object.keys(a).length;
+    const head = (sub) => `<header class="page-head"><p class="kicker">Help me pick</p>
+      <h1 class="display" id="pick-h" tabindex="-1" style="font-size:clamp(32px,4.6vw,46px)">${sub}</h1></header>`;
+    const trail = step ? `<p class="pick-trail">${PICK_Q.slice(0, step).map((x) => `<a href="${qs("pick", Object.fromEntries(PICK_Q.slice(0, PICK_Q.indexOf(x)).map((y) => [y.key, a[y.key]])))}" title="Change">${esc(label(x.key, a[x.key]))}</a>`).join(" · ")}</p>` : "";
+
+    if (step < PICK_Q.length) {
+      const x = PICK_Q[step];
+      return `<div class="wrap narrow pick">
+        ${head(esc(x.q))}
+        <p class="pick-progress"><span style="width:${(step / PICK_Q.length) * 100}%"></span></p>
+        <p class="pick-count">Question ${step + 1} of ${PICK_Q.length}</p>
+        ${trail}
+        <div class="pick-opts">${x.opts.map(([v, l, hint]) => `<a class="pick-opt" href="${qs("pick", { ...a, [x.key]: v })}"><strong>${esc(l)}</strong>${hint ? `<span>${esc(hint)}</span>` : ""}</a>`).join("")}</div>
+        <div class="pick-nav">${step ? `<a class="btn" href="javascript:history.back()">← Back</a>` : `<span></span>`}<a class="pick-skip" href="#/spontaneous">Just surprise me instead</a></div>
+      </div>`;
+    }
+
+    const { exact, close, relaxed } = pickResults(a);
+    const loosened = relaxed.map((k) => ({ vibe: "type of event", time: "time of day", city: "town", who: "who's coming" })[k]).join(", ");
+    const pickCard = (e, i) => {
+      const c = CITY_BY_NAME[e.city], p = priceText(e);
+      return `<li class="pick-card">
+        <span class="pick-rank" aria-hidden="true">${i + 1}</span>
+        <div class="pick-body">
+          <p class="pick-why">${pickReasons(e, a).map((r) => `<span>${esc(r)}</span>`).join("")}</p>
+          <h2><a href="${href(e)}">${esc(e.title)}</a></h2>
+          <p class="meta">${esc(when(e))}${e.venue ? ` · ${esc(e.venue)}` : ""} · <span class="city-tag ${c?.cls || ""}">${esc(e.city)}</span>${p && !e.free ? ` · ${esc(p)}` : ""}</p>
+        </div>
+        <div class="pick-acts">${heartBtn(e)}${calBtn(e)}</div>
+      </li>`;
+    };
+    const shown = exact.slice(0, state.pickShown);
+    const browse = qs("events", { day: { today: "today", tomorrow: "tomorrow", week: "week", month: "month" }[a.when] || "", city: a.city !== "any" ? a.city : "", free: a.price === "free" ? "1" : "", cat: a.who === "kids" ? "Kids & Family" : VIBE_CATS[a.vibe]?.length === 1 ? VIBE_CATS[a.vibe][0] : "" });
+    const title = exact.length ? `Here's what we'd <span class="hl">go to</span>` : close.length ? `Nothing exact, but <span class="hl">close</span>` : "Nothing quite fits";
+    return `<div class="wrap narrow pick">
+      ${head(title)}
+      ${trail}
+      ${shown.length ? `<ol class="pick-results">${shown.map(pickCard).join("")}</ol>
+        ${exact.length > shown.length ? `<button type="button" class="btn another" data-act="pickmore">Show me more (${exact.length - shown.length} left)</button>` : ""}` : ""}
+      ${close.length ? `<h2 class="pick-close-h">${exact.length ? "Close, but not exact" : "These come closest"}</h2>
+        <p class="pick-close-sub">Matches everything except the ${esc(loosened)}.</p>
+        <ol class="pick-results close" start="${shown.length + 1}">${close.map((e, i) => pickCard(e, shown.length + i)).join("")}</ol>` : ""}
+      ${!exact.length && !close.length ? `<p class="empty">We couldn't find anything for that combination. Try a different day or "Any time".</p>` : ""}
+      <div class="pick-nav"><a class="btn" href="#/pick">Start over</a>${exact.length ? `<a class="pick-skip" href="${browse}">Browse more like this →</a>` : ""}</div>
+    </div>`;
+  }
+
   function viewSaved() {
     const list = events.filter((e) => saved.has(e.id));
     return `<div class="wrap" style="max-width:900px">
@@ -437,7 +568,7 @@
       <div><h4>Explore</h4><ul>
         <li><a href="#/events">All events</a></li><li><a href="#/venues">Venues</a></li><li><a href="#/tonight">Tonight</a></li>
         <li><a href="#/weekend">This weekend</a></li><li><a href="#/free" style="color:var(--free)">Free events</a></li>
-        <li><a href="#/saved">Saved</a></li><li><a href="#/spontaneous">Surprise me</a></li></ul></div>
+        <li><a href="#/saved">Saved</a></li><li><a href="#/pick">Help me pick</a></li><li><a href="#/spontaneous">Surprise me</a></li></ul></div>
       <div><h4>Hudson Happens</h4>
         <p>Events across Jersey City, Hoboken and Bayonne in one calendar.</p>
         ${generated ? `<p>Updated ${esc(new Date(generated.generated).toLocaleString("en-US", { timeZone: TZ, dateStyle: "medium", timeStyle: "short" }))}</p>` : ""}
@@ -446,7 +577,7 @@
   }
 
   // ---------------------------------------------------------------- routing
-  const state = { shown: PAGE, homeDay: "all", spontIdx: null, lastRoute: "" };
+  const state = { shown: PAGE, pickShown: 5, homeDay: "all", spontIdx: null, lastRoute: "" };
 
   function parseHash() {
     const h = location.hash.replace(/^#\/?/, "");
@@ -458,7 +589,7 @@
   function render() {
     const { route, arg, q } = parseHash();
     const key = route + "|" + JSON.stringify({ ...q, view: undefined });
-    if (key !== state.lastRoute) { state.shown = PAGE; if (route !== "spontaneous") state.spontIdx = null; }
+    if (key !== state.lastRoute) { state.shown = PAGE; state.pickShown = 5; if (route !== "spontaneous") state.spontIdx = null; }
     const routeChanged = route + arg !== state.lastRoute.split("|")[0] + (state.lastArg || "");
     state.lastRoute = key; state.lastArg = arg;
 
@@ -466,15 +597,18 @@
     if (route === "events" || route === "tonight" || route === "weekend" || route === "free") html = viewEvents(route, q);
     else if (route === "venues") html = viewVenues(q);
     else if (route === "spontaneous") html = viewSpontaneous();
+    else if (route === "pick") html = viewPick(q);
     else if (route === "saved") html = viewSaved();
     else if (route === "event") html = viewDetail(arg);
     else html = viewHome();
     app.innerHTML = html;
 
     document.querySelectorAll(".mainnav a").forEach((a) => (a.dataset.nav === route ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")));
-    const titles = { events: "Things to do", venues: "Venues", tonight: "Tonight", weekend: "This weekend", free: "Free events", saved: "Saved", spontaneous: "Surprise me" };
+    const titles = { events: "Things to do", venues: "Venues", tonight: "Tonight", weekend: "This weekend", free: "Free events", saved: "Saved", spontaneous: "Surprise me", pick: "Help me pick" };
     document.title = route === "event" && byId.get(arg) ? `${byId.get(arg).title} · Hudson Happens` : `${titles[route] ? titles[route] + " · " : ""}Hudson Happens: what's on in Jersey City, Hoboken & Bayonne`;
-    if (routeChanged) { window.scrollTo(0, 0); }
+    if (routeChanged || route === "pick") { window.scrollTo(0, 0); }
+    if (route === "pick" && state.lastPick !== key) document.getElementById("pick-h")?.focus({ preventScroll: true });
+    state.lastPick = route === "pick" ? key : null;
     updateSavedCount();
   }
 
@@ -528,6 +662,8 @@
       const n = spontaneousPool().length;
       if (n > 1) { let i; do { i = Math.floor(Math.random() * n); } while (i === state.spontIdx); state.spontIdx = i; }
       render();
+    } else if (act === "pickmore") {
+      state.pickShown += 5; const y = window.scrollY; app.innerHTML = viewPick(parseHash().q); window.scrollTo(0, y);
     } else if (act === "scroll") {
       btn.previousElementSibling.scrollBy({ left: 520, behavior: "smooth" });
     }

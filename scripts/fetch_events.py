@@ -497,7 +497,7 @@ def serpapi_google_events():
             "image": r.get("image") or r.get("thumbnail"),
             "price": None,
             "source": host_label(link) if tickets else "Google Events",
-            "raw_tags": [],
+            "raw_tags": ["Music"] if re.search(r"bandsintown|jambase|songkick|spotify", link or "") else [],
         })
     return out
 
@@ -510,7 +510,7 @@ SOURCES = [jersey_city_gov, bayonne_library, hoboken_library, stevens, jc_famili
 CATEGORY_RULES = [
     ("Civic", r"\b(council|caucus|board meeting|planning board|zoning|commission|committee|town hall|hearing|senior freeze|anchor|court outreach|community meeting|ward)\b"),
     ("Kids & Family", r"\b(kids?|children'?s?|storytime|story time|toddler|baby|babies|lapsit|family|teens?|tweens?|ages \d|grades? \d|homework|lego|parent)\b"),
-    ("Music", r"\b(concert|music|live band|jazz|dj|orchestra|choir|open mic|karaoke|singer|songwriter|hip.?hop|rock|piano|guitar)\b"),
+    ("Music", r"\b(concert|music|live band|band|jazz|blues|dj|orchestra|symphony|choir|open mic|karaoke|singer|songwriter|acoustic|recital|hip.?hop|rock|piano|guitar)\b"),
     ("Comedy", r"\b(comedy|comedian|stand.?up|improv)\b"),
     ("Arts & Culture", r"\b(art|arts|gallery|exhibit|exhibition|museum|painting|drawing|craft|crafts|knit|crochet|theater|theatre|film|movie|screening|poetry|book club|author|reading|writing|photography|dance|ceramics)\b"),
     ("Tech & Business", r"\b(tech|ai|startup|founder|networking|entrepreneur|coding|developer|career|resume|job|business|investor|marketing|linkedin|small business|crypto|product)\b"),

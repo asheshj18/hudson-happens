@@ -166,7 +166,8 @@ def footer():
   <div><h4>This weekend</h4><ul>{weekend}<li><a href="/this-weekend/">Everywhere this weekend</a></li></ul></div>
   <div><h4>Free &amp; family</h4><ul>{free}<li><a href="/kids/">With the kids</a></li><li><a href="/live-music/">Live music</a></li></ul></div>
   <div><h4>Hudson Happens</h4><p>Events across Jersey City, Hoboken and Bayonne in one calendar, updated three times a day.</p>
-  <p>Details come from each organizer. Check the original listing before you go.</p><p><a href="/venues/">All venues</a> · <a href="/">Home</a></p></div>
+  <p>Details come from each organizer. Check the original listing before you go.</p><p><a href="/venues/">All venues</a> · <a href="/">Home</a></p>
+  <p class="foot-contact">Questions or a missing event? <a href="mailto:info@hudsonhappens.com">info@hudsonhappens.com</a><br>Advertise with us: <a href="mailto:query@hudsonhappens.com">query@hudsonhappens.com</a></p></div>
 </div></footer>"""
 
 

@@ -574,7 +574,8 @@
         <p>Events across Jersey City, Hoboken and Bayonne in one calendar.</p>
         ${generated ? `<p>Updated ${esc(new Date(generated.generated).toLocaleString("en-US", { timeZone: TZ, dateStyle: "medium", timeStyle: "short" }))}</p>` : ""}
         ${srcs.length ? `<p>Sources: ${esc(srcs.join(", "))}</p>` : ""}
-        <p>Details come from each organizer. Check the original listing before you go.</p></div>`;
+        <p>Details come from each organizer. Check the original listing before you go.</p>
+        <p class="foot-contact">Questions or a missing event? <a href="mailto:info@hudsonhappens.com">info@hudsonhappens.com</a><br>Advertise with us: <a href="mailto:query@hudsonhappens.com">query@hudsonhappens.com</a></p></div>`;
   }
 
   // ---------------------------------------------------------------- routing

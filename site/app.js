@@ -554,6 +554,20 @@
   });
   window.addEventListener("hashchange", render);
 
+  // ---------------------------------------------------------------- mobile menu
+  const topbar = document.querySelector(".topbar");
+  const menuBtn = document.querySelector(".menu-btn");
+  const setMenu = (open) => {
+    topbar.classList.toggle("open", open);
+    menuBtn.setAttribute("aria-expanded", String(open));
+    menuBtn.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+  };
+  menuBtn.addEventListener("click", () => setMenu(!topbar.classList.contains("open")));
+  window.addEventListener("hashchange", () => setMenu(false));
+  document.addEventListener("click", (ev) => { if (topbar.classList.contains("open") && !topbar.contains(ev.target)) setMenu(false); });
+  document.addEventListener("keydown", (ev) => { if (ev.key === "Escape" && topbar.classList.contains("open")) { setMenu(false); menuBtn.focus(); } });
+  matchMedia("(min-width: 801px)").addEventListener("change", (m) => m.matches && setMenu(false));
+
   // ---------------------------------------------------------------- load
   fetch("data/events.json").then((r) => r.json()).then((data) => {
     generated = data;

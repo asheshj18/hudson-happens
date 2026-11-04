@@ -17,7 +17,15 @@
 <header class="topbar">
   <div class="topbar-inner">
     <a class="logo" href="#/" aria-label="Hudson Happens home"><svg viewBox="0 0 28 20" width="28" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M2 6q3-3 6 0t6 0 6 0 6 0M2 12q3-3 6 0t6 0 6 0 6 0M2 18q3-3 6 0t6 0 6 0 6 0"/></svg>Hudson <span>Happens</span></a>
-    <nav class="mainnav" aria-label="Main">
+    <button type="button" class="menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="mainnav">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path class="l1" d="M4 7h16"/><path class="l2" d="M4 12h16"/><path class="l3" d="M4 17h16"/></svg>
+    </button>
+    <nav class="mainnav" id="mainnav" aria-label="Main">
+      <form class="nav-search" role="search" data-search>
+        <label class="sr-only" for="nav-q">Search events</label>
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="nav-q" name="q" type="search" placeholder="Search the calendar…" autocomplete="off">
+      </form>
       <a href="#/events" data-nav="events">All events</a>
       <a href="#/venues" data-nav="venues">Venues</a>
       <a href="#/tonight" data-nav="tonight">Tonight</a>

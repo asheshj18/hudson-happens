@@ -6,7 +6,6 @@
   <url><loc>https://hudsonhappens.com/events/basic-life-support-bls-certification-fall-2026-dates-sep-10-f955e8/</loc></url>
   <url><loc>https://hudsonhappens.com/events/microsoft-excel-beginner-to-intermediate-course-oct-6-2eb0fa/</loc></url>
   <url><loc>https://hudsonhappens.com/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/</loc></url>
-  <url><loc>https://hudsonhappens.com/events/taco-tuesdays-at-madd-hatter-nov-3-ee42d6/</loc></url>
   <url><loc>https://hudsonhappens.com/events/taco-tequila-tuesdays-at-the-exchange-nov-3-3b7c9b/</loc></url>
   <url><loc>https://hudsonhappens.com/events/jccs-court-outreach-twin-rivers-recovery-nov-4-5a318d/</loc></url>
   <url><loc>https://hudsonhappens.com/events/esl-class-nov-4-e761cb/</loc></url>
@@ -91,6 +90,7 @@
   <url><loc>https://hudsonhappens.com/events/jc-queer-bookclub-reads-dust-nov-8-494f23/</loc></url>
   <url><loc>https://hudsonhappens.com/events/the-history-of-applied-companies-with-joe-barry-nov-8-10d063/</loc></url>
   <url><loc>https://hudsonhappens.com/events/sunday-supper-at-the-exchange-nov-8-2bdd46/</loc></url>
+  <url><loc>https://hudsonhappens.com/events/outside-context-nov-8-2f01f5/</loc></url>
   <url><loc>https://hudsonhappens.com/events/pilates-pups-pot-class-1-nov-8-990f37/</loc></url>
   <url><loc>https://hudsonhappens.com/events/live-music-irish-music-session-every-sunday-at-the-hutt-nov-8-57bff0/</loc></url>
   <url><loc>https://hudsonhappens.com/events/hoboken-lodge-soccer-shoot-nov-8-e85d12/</loc></url>
@@ -128,6 +128,7 @@
   <url><loc>https://hudsonhappens.com/events/library-board-of-trustees-meeting-nov-10-dfae29/</loc></url>
   <url><loc>https://hudsonhappens.com/events/women-s-support-group-nov-10-5f26ff/</loc></url>
   <url><loc>https://hudsonhappens.com/events/yarn-group-knitting-class-nov-10-d77f44/</loc></url>
+  <url><loc>https://hudsonhappens.com/events/taco-tuesdays-at-madd-hatter-nov-10-2cf3bc/</loc></url>
   <url><loc>https://hudsonhappens.com/events/jersey-city-networking-happy-hour-5-beers-at-902-brewin-nov-10-d4c122/</loc></url>
   <url><loc>https://hudsonhappens.com/events/jersey-city-networking-happy-hour-5-beers-nov-10-072aab/</loc></url>
   <url><loc>https://hudsonhappens.com/events/pitch-a-friend-hoboken-nov-10-41fedf/</loc></url>
@@ -277,7 +278,6 @@
   <url><loc>https://hudsonhappens.com/events/meet-greet-giants-legend-sean-landeta-giants-vs-colts-w-nov-29-76e2a5/</loc></url>
   <url><loc>https://hudsonhappens.com/events/stevens-women-s-basketball-vs-kean-nov-29-a35655/</loc></url>
   <url><loc>https://hudsonhappens.com/events/kidney-wellness-workshop-dec-1-edb220/</loc></url>
-  <url><loc>https://hudsonhappens.com/events/from-fog-to-focus-dec-1-f00ee5/</loc></url>
   <url><loc>https://hudsonhappens.com/events/lip-sync-dec-1-678ee7/</loc></url>
   <url><loc>https://hudsonhappens.com/events/stevens-men-s-basketball-vs-arcadia-dec-2-0e41df/</loc></url>
   <url><loc>https://hudsonhappens.com/events/tween-teen-art-club-glass-lantern-decorating-with-izzy-dec-3-232c68/</loc></url>
@@ -357,6 +357,7 @@
   <url><loc>https://hudsonhappens.com/hoboken/kids/</loc></url>
   <url><loc>https://hudsonhappens.com/hoboken/live-music/</loc></url>
   <url><loc>https://hudsonhappens.com/bayonne/</loc></url>
+  <url><loc>https://hudsonhappens.com/bayonne/tonight/</loc></url>
   <url><loc>https://hudsonhappens.com/bayonne/this-weekend/</loc></url>
   <url><loc>https://hudsonhappens.com/bayonne/free/</loc></url>
   <url><loc>https://hudsonhappens.com/bayonne/kids/</loc></url>
@@ -368,7 +369,6 @@
   <url><loc>https://hudsonhappens.com/live-music/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/waterfront-montesoori/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/hudson-county-community-college/</loc></url>
-  <url><loc>https://hudsonhappens.com/venues/madd-hatter-hoboken/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/hyatt-regency-jersey-city-on-the-hudson/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/bayonne-public-library/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/little-city-books/</loc></url>
@@ -380,6 +380,7 @@
   <url><loc>https://hudsonhappens.com/venues/cre8sart-school-hoboken/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/1st-floor-board-room-of-the-holloway-building/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/yanitelli-center/</loc></url>
+  <url><loc>https://hudsonhappens.com/venues/madd-hatter-hoboken/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/w-hoboken/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/art-house-productions/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/pet-shop/</loc></url>

@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-03T21:36:08.111787-05:00",
+ "generated": "2026-11-04T05:58:53.102150-05:00",
  "sources": {
   "jersey_city_gov": 115,
   "bayonne_library": 375,
   "hoboken_library": 160,
   "stevens": 38,
   "jc_families": 6,
-  "luma": 11,
+  "luma": 12,
   "ticketmaster": 10,
   "seatgeek": 19,
-  "eventbrite": 469,
+  "eventbrite": 463,
   "serpapi_google_events": 50
  },
  "events": [
@@ -114,26 +114,6 @@
    ],
    "free": false,
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
-  },
-  {
-   "id": "eventbrite:1397814614139",
-   "title": "Taco Tuesdays at Madd Hatter",
-   "description": "Unlimited Tacos every Tuesday at the madd hatter",
-   "start": "2026-11-03T19:00:00-05:00",
-   "end": "2026-11-03T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/taco-tuesdays-at-madd-hatter-tickets-1397814614139",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1046383773%2F1927671691523%2F1%2Foriginal.20250605-061908?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481082800663&fp-y=0.555270522388&s=5600ffa6cc73c5e57593a6505864a6a3",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/taco-tuesdays-at-madd-hatter-nov-3-ee42d6/"
   },
   {
    "id": "eventbrite:1984580523770",
@@ -1483,7 +1463,7 @@
    "price": null,
    "source": "jambase.com",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/shyne-nov-6-ff749a/"
@@ -1523,7 +1503,7 @@
    "price": null,
    "source": "open.spotify.com",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/samino-nov-6-7de530/"
@@ -1915,7 +1895,7 @@
    "price": null,
    "source": "bandsintown.com",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/the-vic-tavern-tennessee-honey-band-nov-7-b0f04a/"
@@ -1935,7 +1915,7 @@
    "price": null,
    "source": "bandsintown.com",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/tennessee-honey-band-nov-7-fe0024/"
@@ -1955,7 +1935,7 @@
    "price": null,
    "source": "bandsintown.com",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/the-cliffs-band-nov-7-d99258/"
@@ -2123,6 +2103,26 @@
    ],
    "free": true,
    "path": "/events/sunday-supper-at-the-exchange-nov-8-2bdd46/"
+  },
+  {
+   "id": "luma:evt-QWQIh0Lk3ma8nLa",
+   "title": "Outside Context",
+   "description": "",
+   "start": "2026-11-08T17:00:00-05:00",
+   "end": "2026-11-08T18:00:00-05:00",
+   "all_day": false,
+   "venue": "The Indian Tapas",
+   "address": "The Indian Tapas, 101 Greene St, Jersey City, NJ 07302, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/7zjrvz4p",
+   "image": "https://images.lumacdn.com/uploads/p5/9c30bf0e-221e-4f75-b61f-03792215e2c4.jpg",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/outside-context-nov-8-2f01f5/"
   },
   {
    "id": "luma:evt-vxOZccCVILa8NkO",
@@ -5009,7 +5009,7 @@
    "price": null,
    "source": "bandsintown.com",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/sean-patrick-and-the-alibis-nov-14-97f6f4/"
@@ -9572,26 +9572,6 @@
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-dec-1-60468b/"
   },
   {
-   "id": "eventbrite:1985055237652",
-   "title": "From Fog To Focus",
-   "description": "You will learn essential skills that will increase your productivity so you have more margin in your life and business.",
-   "start": "2026-12-01T20:00:00-05:00",
-   "end": "2026-12-01T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "Online via Zoom, Jersey City, NJ 07030",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/from-fog-to-focus-tickets-1985055237652",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179681451%2F199988229301%2F1%2Foriginal.20260312-131323?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7ca8a827dc641855774efddb3e7eadf3",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/from-fog-to-focus-dec-1-f00ee5/"
-  },
-  {
    "id": "Stevens Institute:qDsNgy9IaQs60D930uFt",
    "title": "Lip Sync",
    "description": "Phi Sigma Sigma's Annual Lip Sync Competition",
@@ -10079,7 +10059,7 @@
    "price": null,
    "source": "Google Events",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/gregory-mcloughlin-the-lemonade-band-with-barbara-beema-dec-3-9a12df/"
@@ -12238,7 +12218,7 @@
    "price": null,
    "source": "Google Events",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/anthony2-band-the-vic-tavern-dec-12-e60070/"
@@ -12258,7 +12238,7 @@
    "price": null,
    "source": "Google Events",
    "categories": [
-    "Community"
+    "Music"
    ],
    "free": false,
    "path": "/events/anthony2-band-dec-12-2d518f/"

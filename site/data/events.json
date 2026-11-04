@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T05:58:53.102150-05:00",
+ "generated": "2026-11-04T11:44:35.730709-05:00",
  "sources": {
   "jersey_city_gov": 115,
   "bayonne_library": 375,
@@ -9,7 +9,7 @@
   "luma": 12,
   "ticketmaster": 10,
   "seatgeek": 19,
-  "eventbrite": 463,
+  "eventbrite": 464,
   "serpapi_google_events": 50
  },
  "events": [
@@ -136,26 +136,6 @@
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-3-3b7c9b/"
   },
   {
-   "id": "City of Jersey City:21429860",
-   "title": "JCCS Court Outreach @ Twin Rivers Recovery",
-   "description": "JCCS Court Outreach Team expands access to court services by offering community events in partnership with local organizations. Individuals may receive assistance finding information about outstanding court cases and fines. Referrals to support services are available on request, including access to peer support.",
-   "start": "2026-11-04T09:30:00-05:00",
-   "end": "2026-11-04T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Twin Rivers Recovery, 78 MLK Dr., Jersey City, NJ 07305",
-   "address": "Twin Rivers Recovery, 78 MLK Dr., Jersey City, NJ 07305",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/jccs-court-outreach-twin-rivers-recovery-nov-4-5a318d/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17701572",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -174,46 +154,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-4-e761cb/"
-  },
-  {
-   "id": "eventbrite:2001403205865",
-   "title": "Story Time with Laura",
-   "description": "Story Time with Laura for 0-5 yr olds",
-   "start": "2026-11-04T10:00:00-05:00",
-   "end": "2026-11-04T10:45:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/story-time-with-laura-tickets-2001403205865",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193791547%2F294282509964%2F1%2Foriginal.20260917-214840?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a12bf446a6e63d83f2e79f2c662dc518",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": false,
-   "path": "/events/story-time-with-laura-nov-4-8366b2/"
-  },
-  {
-   "id": "hoboken-library:17683866",
-   "title": "Toddler Story Time",
-   "description": "Through reading, talking, singing, and dancing, Toddler Story Time helps your little one develop their early literacy skills with a focus on phonological awareness, vocabulary expansion, and print awareness.\n\nAttending story times regularly helps prep your toddler for the transition to preschool as they develop the necessary listening and social skills they\u2019ll need in the classroom.\n\nThis program is geared for children 18 months to 3 years old.\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
-   "start": "2026-11-04T10:30:00-05:00",
-   "end": "2026-11-04T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17683866",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Toddler_Story_Time.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/toddler-story-time-nov-4-226e36/"
   },
   {
    "id": "hoboken-library:17726641",
@@ -2209,7 +2149,7 @@
   {
    "id": "hoboken-library:17743610",
    "title": "Pop-Up Library",
-   "description": "Librarians from the Hoboken Public Library are so excited to bring a Pop-Up Library to Brandt Elementary School! During the Pop-Up Library Visit you can:\n\nPick out 1 new book to borrow\n\nReturn any library items you have at home or at school\n\nQuestions? Email Ms. Val at valerie.coughlin@hobokenlibrary.org.\n\nMake sure to bring your library card to school with you!",
+   "description": "Librarians from the Hoboken Public Library are so excited to bring a Pop-Up Library to Wallace Elementary School! During the Pop-Up Library Visit you can:\n\nPick out 1 new book to borrow\n\nReturn any library items you have at home or at school\n\nQuestions? Email Ms. Val at valerie.coughlin@hobokenlibrary.org.\n\nMake sure to bring your library card to school with you!",
    "start": "2026-11-09T07:30:00-05:00",
    "end": "2026-11-09T15:30:00-05:00",
    "all_day": false,
@@ -2595,7 +2535,7 @@
   {
    "id": "hoboken-library:17743611",
    "title": "Pop-Up Library",
-   "description": "Librarians from the Hoboken Public Library are so excited to bring a Pop-Up Library to Brandt Elementary School! During the Pop-Up Library Visit you can:\n\nPick out 1 new book to borrow\n\nReturn any library items you have at home or at school\n\nQuestions? Email Ms. Val at valerie.coughlin@hobokenlibrary.org.\n\nMake sure to bring your library card to school with you!",
+   "description": "Librarians from the Hoboken Public Library are so excited to bring a Pop-Up Library to Wallace Elementary School! During the Pop-Up Library Visit you can:\n\nPick out 1 new book to borrow\n\nReturn any library items you have at home or at school\n\nQuestions? Email Ms. Val at valerie.coughlin@hobokenlibrary.org.\n\nMake sure to bring your library card to school with you!",
    "start": "2026-11-10T07:30:00-05:00",
    "end": "2026-11-10T15:30:00-05:00",
    "all_day": false,
@@ -3551,7 +3491,7 @@
   {
    "id": "hoboken-library:17743612",
    "title": "Pop-Up Library",
-   "description": "Librarians from the Hoboken Public Library are so excited to bring a Pop-Up Library to Brandt Elementary School! During the Pop-Up Library Visit you can:\n\nPick out 1 new book to borrow\n\nReturn any library items you have at home or at school\n\nQuestions? Email Ms. Val at valerie.coughlin@hobokenlibrary.org.\n\nMake sure to bring your library card to school with you!",
+   "description": "Librarians from the Hoboken Public Library are so excited to bring a Pop-Up Library to Wallace Elementary School! During the Pop-Up Library Visit you can:\n\nPick out 1 new book to borrow\n\nReturn any library items you have at home or at school\n\nQuestions? Email Ms. Val at valerie.coughlin@hobokenlibrary.org.\n\nMake sure to bring your library card to school with you!",
    "start": "2026-11-12T07:30:00-05:00",
    "end": "2026-11-12T15:30:00-05:00",
    "all_day": false,
@@ -4839,7 +4779,7 @@
    "address": "101 Pacific Avenue, Jersey City, NJ 07304",
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/veterans-day-celebration-fundraiser-at-902-brewing-salute-to-our-troops-tickets-2003879027113",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1164543523%2F156559819633%2F1%2Foriginal.20251028-161753?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.45&fp-y=0.052&s=9052668d655c51502a3431f03849bea1",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197263563%2F156559819633%2F1%2Foriginal.20261104-151241?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1cbf9820332bc7bf664bc30ed550eac3",
    "price": "$30+",
    "source": "Eventbrite",
    "categories": [
@@ -7937,6 +7877,27 @@
    "path": "/events/sci-fi-fantasy-book-club-nov-23-c210b5/"
   },
   {
+   "id": "eventbrite:2004380471948",
+   "title": "Community Meeting with Mayor James Solomon",
+   "description": "Join Mayor Solomon & the Jersey City Municipal Utilities Authority for an update on the water and sewer projects  affecting Country Village",
+   "start": "2026-11-23T18:00:00-05:00",
+   "end": "2026-11-23T19:30:00-05:00",
+   "all_day": false,
+   "venue": "Starting Points of Hudson County",
+   "address": "254 Bartholdi Avenue, Jersey City, NJ 07305",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2004380471948",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197268693%2F274366617814%2F1%2Foriginal.20261104-160822?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.887&fp-y=0.477&s=8e65e7ce50266aeeae079b407d8d7eb3",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-meeting-with-mayor-james-solomon-nov-23-258662/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-15911701",
    "title": "Intuitive Tarot Card Reading",
    "description": "Join us at the Bayonne Public Library for intuitive tarot card reading classes for beginners!\n\nUnlock the power of tarot in this beginner friendly class with Bayonne tarot card reader, @tarot2thepeople! You\u2019ll learn how to interpret the imagery and symbolism of the cards to spark your intuitive insights in order to start reading for yourself and others. \n\nThis class will meet on the following Mondays at 7 pm:\n\n\tJanuary 12th & 26th\n\tFebruary 9th & 23rd\n\tMarch 9th & 23rd\n\tApril 6th & 27th\n\tMay 4th & 18th\n\tJune 8th & 22nd\n\tJuly 13th & 20th\n\tAugust 10th & 24th\n\tSeptember 14th & 21st\n\tOctober 5th &",
@@ -8638,7 +8599,7 @@
    "title": "Hoboken Official Thanksgiving Eve Bar Crawl 2026",
    "description": "Join us for the best Hoboken Thanksgiving Eve Bar Crawl yet! Bar hop through the best bars in Hoboken for our annual pub crawl.",
    "start": "2026-11-25T20:00:00-05:00",
-   "end": "2026-11-26T01:00:00-05:00",
+   "end": "2026-11-26T02:00:00-05:00",
    "all_day": false,
    "venue": "Madd Hatter Hoboken",
    "address": "221 Washington Street, Hoboken, NJ 07030",
@@ -8659,10 +8620,10 @@
    "title": "Jersey City Official Thanksgiving Eve Bar Crawl 2026",
    "description": "Join us for the best Jersey City Thanksgiving Eve Bar Crawl yet! Bar hop through the best bars in Jersey City for our annual pub crawl.",
    "start": "2026-11-25T20:00:00-05:00",
-   "end": "2026-11-26T01:00:00-05:00",
+   "end": "2026-11-26T02:00:00-05:00",
    "all_day": false,
-   "venue": "Downtown Jersey City",
-   "address": "Jersey City, NJ",
+   "venue": "BOOTS & BONES",
+   "address": "116 Newark Avenue, Jersey City, NJ 07302",
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/jersey-city-official-thanksgiving-eve-bar-crawl-2026-tickets-1983726919617",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178149243%2F1957809580253%2F1%2Foriginal.20260222-193519?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C853&s=01a11494d7e972e21db9c29b83310252",
@@ -11369,7 +11330,7 @@
   },
   {
    "id": "seatgeek:18594188",
-   "title": "Smith & Myers",
+   "title": "Smith & Myers with Ice Nine Kills",
    "description": "",
    "start": "2026-12-09T19:00:00-05:00",
    "end": null,
@@ -11385,7 +11346,7 @@
     "Music"
    ],
    "free": false,
-   "path": "/events/smith-myers-dec-9-59c315/"
+   "path": "/events/smith-myers-with-ice-nine-kills-dec-9-59c315/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17068935",

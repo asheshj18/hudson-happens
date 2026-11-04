@@ -5,12 +5,16 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: refresh
+  cancel-in-progress: false
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with: { python-version: "3.11" }
       - run: python3 scripts/fetch_events.py
         env:
@@ -23,4 +27,11 @@ jobs:
           git config user.email "events-bot@users.noreply.github.com"
           git add site/data/events.json
           if [ -f data/serpapi_cache.json ]; then git add data/serpapi_cache.json; fi
-          git diff --cached --quiet || (git commit -m "Refresh events" && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh events"
+          # main may have moved during the ~4 min fetch; replay on top, keeping this run's fresh data
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1

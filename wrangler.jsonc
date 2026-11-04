@@ -1,0 +1,10 @@
+// Cloudflare Workers static-assets config. The site is plain files in ./site.
+{
+  "name": "hudson-happens",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./site",
+    // Serve site/404.html (with a real 404 status) for paths that don't exist.
+    "not_found_handling": "404-page"
+  }
+}

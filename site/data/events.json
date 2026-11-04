@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-03T17:31:17.387424-05:00",
+ "generated": "2026-11-03T21:20:42.786867-05:00",
  "sources": {
   "jersey_city_gov": 115,
   "bayonne_library": 375,
-  "hoboken_library": 161,
-  "luma": 12,
+  "hoboken_library": 160,
+  "luma": 11,
   "ticketmaster": 10,
   "eventbrite": 469
  },
@@ -88,122 +88,6 @@
    "free": false
   },
   {
-   "id": "Bayonne Public Library:LibCal-17197-17271631",
-   "title": "Voting Day - General Elections",
-   "description": "It\u2019s voting day! If you haven\u2019t already voted early, the polls are open from 6 am to 8 pm today, Tuesday, November 3rd. \n\nVisit vote.nj.gov for information about where to vote, to check your registration, or track your ballot! \n\nIf your polling place is the library, please enter via the 31st St handicap doors. If you haven\u2019t dropped off your mail-in ballot, it\u2019s not too late! Mail-in Ballots are accepted at the secure Ballot Drop Box (outside City Hall at 630 Ave C) until 8 pm on Election Day.\n\nNo matter how you vote, please make sure you vote!",
-   "start": "2026-11-03T06:00:00-05:00",
-   "end": "2026-11-03T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classrooms C&D, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17271631",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16203008",
-   "title": "Tween Dungeons & Dragons",
-   "description": "Watched Stranger Things and want to try some Dungeons & Dragons? Looking for a good after school activity? Used to play but can\u2019t find enough friends for a campaign? Want to make some fun new friends?\n\nThen join us at the Bayonne Public Library for Dungeons & Dragons! What\u2019s that? Dungeons & Dragons (D&D) is a fantasy tabletop role-playing game where the players form an adventuring party who explore fantasy worlds together as they embark on epic quests and level up in experience. \n\nThis every-other-Tuesday gaming session is run by a professional Dungeon Master on the following dates:\n\n\t\n\tJanua",
-   "start": "2026-11-03T16:00:00-05:00",
-   "end": "2026-11-03T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16203008",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15994577",
-   "title": "Adult Dungeons & Dragons",
-   "description": "Watched Stranger Things and want to try some Dungeons & Dragons? Looking for a good after school activity? Used to play but can\u2019t find enough friends for a campaign? Want to make some fun new friends?\n\nThen join us at the Bayonne Public Library for Dungeons & Dragons! What\u2019s that? Dungeons & Dragons (D&D) is a fantasy tabletop role-playing game where the players form an adventuring party who explore fantasy worlds together as they embark on epic quests and level up in experience. \n\nThis every-other-Tuesday gaming session is run by a professional Dungeon Master on the following dates:\n\n\tJanuary",
-   "start": "2026-11-03T18:30:00-05:00",
-   "end": "2026-11-03T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15994577",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17491180",
-   "title": "Women's Support  Group",
-   "description": "The group would provide a safe and welcoming space for women to discuss current challenges they may be facing, connect with others, and learn practical coping strategies and tools to support their emotional well-being. The meetings would be free of charge, held weekly, and open to women in the community.",
-   "start": "2026-11-03T19:00:00-05:00",
-   "end": "2026-11-03T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17491180",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16178888",
-   "title": "Yarn Group & Knitting Class",
-   "description": "Join Susan Averello at the Bayonne Public Library for a yarn group & knitting class! She has been knitting for over 30 years and she can also crochet. She has worked at Michaels as a knitting teacher and with Crafty Fox Studios until the studio closed. \n\nThe group will meet on Tuesdays from 7-8:30 pm in the Art & Music Room on the 2nd floor of the Bayonne Public Library.\n\nKnitters and crocheters of all experience levels are welcome, including those who would like to learn. No registration is required. \n\nIf you are an experienced knitter or crocheter, please bring with you whatever project you'",
-   "start": "2026-11-03T19:00:00-05:00",
-   "end": "2026-11-03T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16178888",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture",
-    "Learning"
-   ],
-   "free": true
-  },
-  {
-   "id": "luma:evt-FURWtu98MnVF1GY",
-   "title": "Yoga in the Community Room, Nov 3, 7pm - 8pm",
-   "description": "",
-   "start": "2026-11-03T19:00:00-05:00",
-   "end": "2026-11-03T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "",
-   "city": "Jersey City",
-   "url": "https://lu.ma/ti50pnm1",
-   "image": "https://images.lumacdn.com/uploads/6o/164e2f7c-6b10-45b7-8927-cefcb9c6e59b.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness"
-   ],
-   "free": true
-  },
-  {
    "id": "eventbrite:1397814614139",
    "title": "Taco Tuesdays at Madd Hatter",
    "description": "Unlimited Tacos every Tuesday at the madd hatter",
@@ -238,45 +122,6 @@
    "source": "Eventbrite",
    "categories": [
     "Food & Drink"
-   ],
-   "free": true
-  },
-  {
-   "id": "eventbrite:2003826493985",
-   "title": "General Knowledge Trivia at Farside Tavern!",
-   "description": "Come show what you know at General Knowledge Trivia!",
-   "start": "2026-11-03T19:30:00-05:00",
-   "end": "2026-11-03T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Farside Tavern",
-   "address": "531 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-farside-tavern-tickets-2003826493985",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1062336773%2F2124635856523%2F1%2Foriginal.20250628-003304?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=f8bc837f51a6ee9fb7addd8cf089477b",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Nightlife"
-   ],
-   "free": true
-  },
-  {
-   "id": "eventbrite:1985055236649",
-   "title": "From Fog To Focus",
-   "description": "You will learn essential skills that will increase your productivity so you have more margin in your life and business.",
-   "start": "2026-11-03T20:00:00-05:00",
-   "end": "2026-11-03T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "Online via Zoom, Jersey City, NJ 07030",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/from-fog-to-focus-tickets-1985055236649",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179681451%2F199988229301%2F1%2Foriginal.20260312-131323?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7ca8a827dc641855774efddb3e7eadf3",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
    ],
    "free": true
   },
@@ -12979,6 +12824,27 @@
    "address": "221 Washington Street, Hoboken, NJ 07030",
    "city": "Hoboken",
    "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594595299",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music",
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": true
+  },
+  {
+   "id": "eventbrite:1406594605329",
+   "title": "Dance Party at Madd Hatter",
+   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
+   "start": "2027-01-02T19:00:00-05:00",
+   "end": "2027-01-02T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594605329",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
    "price": "Free",
    "source": "Eventbrite",

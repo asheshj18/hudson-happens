@@ -578,9 +578,12 @@ def main():
         del e["raw_tags"]
         cleaned.append(e)
 
+    import build_pages  # noqa: E402  (same folder)
+    build_pages.assign_paths(cleaned)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"generated": now.isoformat(), "sources": status, "events": cleaned}, indent=1))
     print(f"\nwrote {len(cleaned)} events -> {OUT}", file=sys.stderr)
+    build_pages.build(cleaned, now)
 
 
 if __name__ == "__main__":

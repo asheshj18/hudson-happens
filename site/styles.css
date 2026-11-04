@@ -240,7 +240,7 @@ main { outline: none; }
 .spont-actions { display: flex; gap: 10px; margin-top: 20px; align-items: center; }
 .spont-actions .icon-btn { width: 44px; height: 44px; border: 1px solid var(--line-strong); }
 .another { width: 100%; margin-top: 12px; justify-content: center; background: transparent; }
-.detail { padding-top: 26px; }
+.detail { padding-top: 22px; }
 .back { color: var(--muted); text-decoration: none; font-size: 14px; }
 .back:hover { color: var(--accent); }
 .detail-hero { margin: 18px 0 0; border-radius: var(--radius); overflow: hidden; background: var(--panel-2); box-shadow: var(--shadow); }
@@ -345,3 +345,24 @@ main { outline: none; }
   .pick-card { grid-template-columns: auto 1fr; }
   .pick-acts { grid-column: 2; }
 }
+
+/* ---------------------------------------------------------------- static pages */
+.crumbs { padding-top: 22px; padding-bottom: 2px; font-size: 13.5px; color: var(--dim); }
+.crumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.crumbs li + li::before { content: "/"; margin-right: 6px; color: var(--line-strong); }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { color: var(--accent); }
+.crumbs [aria-current] { color: var(--dim); max-width: 46ch; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.crumbs + .page-head { padding-top: 22px; }
+.detail .crumbs { padding-top: 0; margin-bottom: 4px; }
+.lede { color: var(--muted); font-size: 17px; margin: 12px 0 0; max-width: 720px; }
+.detail-sub { font-family: var(--display); font-size: 22px; margin: 36px 0 4px; }
+.detail-sub a { color: inherit; }
+.related .rows { margin-top: 6px; }
+.sublinks { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 6px; }
+.more-note { color: var(--muted); margin-top: 22px; }
+.more-note a { color: var(--accent); }
+.venue-index { list-style: none; margin: 8px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px; }
+.venue-index a { display: flex; flex-direction: column; gap: 2px; text-decoration: none; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 14px; }
+.venue-index a:hover { border-color: var(--accent); }
+.venue-index span { color: var(--muted); font-size: 13.5px; }

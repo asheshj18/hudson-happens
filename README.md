@@ -35,8 +35,18 @@ Copy `.env.example` to `.env` and fill in the keys. `.env` is gitignored. On Git
 ### Adding a source
 Write a function in `scripts/fetch_events.py` that returns event dicts (see `from_ical` for the shape) and add it to `SOURCES`. If an organizer publishes an iCal feed, adding it takes one line with `from_ical(url, source, city)`.
 
+## Search pages (SEO)
+The app at `/` uses `#` routes, which search engines ignore. `scripts/build_pages.py` writes plain HTML pages next to it, with the content in the page itself, and `fetch_events.py` runs it after every refresh:
+
+- `/events/<slug>/`: one page per event, with schema.org `Event` data. Repeat dates of a recurring event are `noindex` and link to each other.
+- `/<town>/`, plus `/<town>/this-weekend/`, `tonight/`, `free/`, `kids/` and `live-music/`, and the same pages across all three towns (`/this-weekend/` etc.).
+- `/venues/` and `/venues/<slug>/`, for venues with 2 or more upcoming events.
+- `/sitemap.xml`, `/robots.txt` and `/404.html`.
+
+These folders are regenerated every run, so don't edit them by hand. To rebuild from the current data without refetching, run `python3 scripts/build_pages.py`.
+
 ## Deploy
-Push to GitHub, then point Netlify, Vercel or GitHub Pages at the `site/` folder. `.github/workflows/refresh.yml` refreshes the data 3 times a day.
+Cloudflare deploys the `site/` folder from GitHub on every push. `.github/workflows/refresh.yml` refreshes the data 3 times a day.
 
 ## Known gaps / next steps
 - Hoboken city has no public event feed (only a RecDesk recreation calendar).

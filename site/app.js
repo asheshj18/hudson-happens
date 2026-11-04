@@ -60,7 +60,7 @@
 
   const calBtn = (e) => `<button type="button" class="icon-btn" data-act="cal" data-id="${esc(e.id)}" aria-label="Add ${esc(e.title)} to calendar" title="Add to calendar">${ICON_CAL}</button>`;
   const heartBtn = (e) => `<button type="button" class="icon-btn heart" data-act="save" data-id="${esc(e.id)}" aria-pressed="${saved.has(e.id)}" aria-label="Save ${esc(e.title)}" title="Save">${ICON_HEART}</button>`;
-  const href = (e) => `#/event/${encodeURIComponent(e.id)}`;
+  const href = (e) => e.path || `#/event/${encodeURIComponent(e.id)}`;
   const priceText = (e) => (e.free ? "Free" : e.price && e.price !== "Paid" ? e.price : "");
 
   // ---------------------------------------------------------------- components
@@ -564,9 +564,10 @@
     const srcs = generated ? Object.entries(generated.sources).filter(([, n]) => typeof n === "number" && n > 0).map(([s]) => s.replace(/_/g, " ")) : [];
     return `
       <div><h4>Categories</h4><ul>${cats.map((c) => `<li><a href="#/events?cat=${encodeURIComponent(c)}">${esc(c)}</a></li>`).join("")}</ul></div>
-      <div><h4>Cities</h4><ul>${CITIES.map((c) => `<li><a href="#/events?city=${c.slug}">${esc(c.name)}</a></li>`).join("")}</ul></div>
+      <div><h4>Towns</h4><ul>${CITIES.map((c) => `<li><a href="/${c.slug}/">Things to do in ${esc(c.name)}</a></li>`).join("")}
+        ${CITIES.map((c) => `<li><a href="/${c.slug}/this-weekend/">${esc(c.name)} this weekend</a></li>`).join("")}</ul></div>
       <div><h4>Explore</h4><ul>
-        <li><a href="#/events">All events</a></li><li><a href="#/venues">Venues</a></li><li><a href="#/tonight">Tonight</a></li>
+        <li><a href="#/events">All events</a></li><li><a href="/venues/">Venues</a></li><li><a href="/kids/">With the kids</a></li><li><a href="/live-music/">Live music</a></li><li><a href="#/tonight">Tonight</a></li>
         <li><a href="#/weekend">This weekend</a></li><li><a href="#/free" style="color:var(--free)">Free events</a></li>
         <li><a href="#/saved">Saved</a></li><li><a href="#/pick">Help me pick</a></li><li><a href="#/spontaneous">Surprise me</a></li></ul></div>
       <div><h4>Hudson Happens</h4>
@@ -588,6 +589,7 @@
 
   function render() {
     const { route, arg, q } = parseHash();
+    if (route === "event" && byId.get(arg)?.path) { location.replace(byId.get(arg).path); return; }
     const key = route + "|" + JSON.stringify({ ...q, view: undefined });
     if (key !== state.lastRoute) { state.shown = PAGE; state.pickShown = 5; if (route !== "spontaneous") state.spontIdx = null; }
     const routeChanged = route + arg !== state.lastRoute.split("|")[0] + (state.lastArg || "");
@@ -651,7 +653,7 @@
       document.body.appendChild(a); a.click(); a.remove();
       toast("Calendar file downloaded");
     } else if (act === "share" && e) {
-      const url = location.href.split("#")[0] + href(e);
+      const url = e.path ? location.origin + e.path : location.href.split("#")[0] + href(e);
       if (navigator.share) { try { await navigator.share({ title: e.title, url }); } catch {} }
       else { await navigator.clipboard?.writeText(url); toast("Link copied"); }
     } else if (act === "more") {
@@ -705,7 +707,7 @@
   matchMedia("(min-width: 801px)").addEventListener("change", (m) => m.matches && setMenu(false));
 
   // ---------------------------------------------------------------- load
-  fetch("data/events.json").then((r) => r.json()).then((data) => {
+  fetch("/data/events.json").then((r) => r.json()).then((data) => {
     generated = data;
     const now = new Date();
     events = data.events.map((e) => {

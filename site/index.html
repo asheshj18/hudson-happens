@@ -6,10 +6,20 @@
 <meta name="theme-color" content="#0a111d">
 <title>Hudson Happens: what's on in Jersey City, Hoboken &amp; Bayonne</title>
 <meta name="description" content="Everything happening in Jersey City, Hoboken and Bayonne, in one place. Tonight, this weekend, free events, venues and more.">
+<link rel="canonical" href="https://hudsonhappens.com/">
+<meta property="og:site_name" content="Hudson Happens">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Hudson Happens: what's on in Jersey City, Hoboken &amp; Bayonne">
+<meta property="og:description" content="Everything happening in Jersey City, Hoboken and Bayonne, in one place. Tonight, this weekend, free events and more.">
+<meta property="og:url" content="https://hudsonhappens.com/">
+<meta property="og:image" content="https://hudsonhappens.com/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Hudson Happens","url":"https://hudsonhappens.com/","description":"Events in Jersey City, Hoboken and Bayonne, NJ."}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="/styles.css">
 </head>
 <body>
 <a class="skip" href="#app">Skip to content</a>
@@ -43,13 +53,17 @@
   </div>
 </header>
 
-<main id="app" tabindex="-1"><p class="loading">Loading events…</p></main>
+<main id="app" tabindex="-1"><div class="wrap"><p class="loading">Loading events…</p>
+  <nav class="sublinks" aria-label="Browse" style="justify-content:center">
+    <a class="chip" href="/jersey-city/">Things to do in Jersey City</a><a class="chip" href="/hoboken/">Things to do in Hoboken</a><a class="chip" href="/bayonne/">Things to do in Bayonne</a>
+    <a class="chip" href="/this-weekend/">This weekend</a><a class="chip" href="/tonight/">Tonight</a><a class="chip" href="/free/">Free events</a><a class="chip" href="/kids/">With kids</a><a class="chip" href="/live-music/">Live music</a><a class="chip" href="/venues/">Venues</a>
+  </nav></div></main>
 
 <footer class="footer">
   <div class="footer-inner" id="footer"></div>
 </footer>
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script src="app.js"></script>
+<script src="/app.js"></script>
 </body>
 </html>

@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-04T17:39:00.156346-05:00",
+ "generated": "2026-11-05T05:52:18.144713-05:00",
  "sources": {
-  "jersey_city_gov": 119,
+  "jersey_city_gov": 117,
   "bayonne_library": 375,
-  "hoboken_library": 161,
-  "stevens": 38,
+  "hoboken_library": 155,
+  "stevens": 39,
   "jc_families": 6,
   "luma": 11,
   "ticketmaster": 10,
   "seatgeek": 20,
-  "eventbrite": 462,
+  "eventbrite": 523,
   "serpapi_google_events": 36
  },
  "events": [
@@ -116,293 +116,6 @@
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
   },
   {
-   "id": "eventbrite:1984580523770",
-   "title": "Taco & Tequila Tuesdays at The Exchange",
-   "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
-   "start": "2026-11-03T19:00:00-05:00",
-   "end": "2026-11-04T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/taco-tequila-tuesdays-at-the-exchange-tickets-1984580523770",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179147819%2F2894508074541%2F1%2Foriginal.20260305-205711?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=50be47c881f7dd9eb9cd7c1af4ae8279",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-3-3b7c9b/"
-  },
-  {
-   "id": "eventbrite:1986851452178",
-   "title": "Wine Wednesday at The Exchange \u2013 Sip with Skyline Views",
-   "description": "Enjoy 15% off bottles of wine and $15 local cheese plates every Wednesday, 4\u201311 PM, with Manhattan skyline views.",
-   "start": "2026-11-04T16:00:00-05:00",
-   "end": "2026-11-04T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/wine-wednesday-at-the-exchange-sip-with-skyline-views-tickets-1986851452178",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1132150203%2F2894508074541%2F1%2Foriginal.20250923-015933?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=91ecb775a8a4b6d778354dc1a9f69adf",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-nov-4-4b2885/"
-  },
-  {
-   "id": "hoboken-library:17723249",
-   "title": "Math Circle",
-   "description": "Organized jointly with Stevens Institute of Technology, a math circle exposes participants to interesting, challenging, and fun mathematical activities composed by faculty in the Department of Mathematical Sciences and led by STEM undergraduates at Stevens. Students in grades 4-5 are encouraged to register and can expect to play mathematical games, solve puzzles, and do hands-on activities.\u00a0There are no entry requirements other than an interest in exploring a different side of math!\u00a0\n\nThis program is supported by Grant No. 2236229 from the National Science Foundation.\u00a0For more information on m",
-   "start": "2026-11-04T17:45:00-05:00",
-   "end": "2026-11-04T18:45:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17723249",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Math_Circle_2.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/math-circle-nov-4-10c27f/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15977891",
-   "title": "Chess Club (Ages 8-18)",
-   "description": "Join us at Bayonne Public Library for a Chess Club with Phil Rosado! Phil is the author of \u201cMind Matter: Welcome to Chess!\u201d This weekly class for ages 8-18 meets from 6-7 pm in the Children\u2019s Room. Attendees will learn how to play chess and meet other novices. Advanced registration is required for every session that you plan to attend. Walk-ins will be included if space permits.",
-   "start": "2026-11-04T18:00:00-05:00",
-   "end": "2026-11-04T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15977891",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Sports"
-   ],
-   "free": true,
-   "path": "/events/chess-club-ages-8-18-nov-4-c8a412/"
-  },
-  {
-   "id": "eventbrite:2002616940177",
-   "title": "Networking in Jersey City. 11.4.26",
-   "description": "Make meaningful business connections  at our Networking event in Jersey City!",
-   "start": "2026-11-04T18:00:00-05:00",
-   "end": "2026-11-04T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Brightside Tavern",
-   "address": "141 Bright Street, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/networking-in-jersey-city-11426-tickets-2002616940177",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196627432%2F153284777701%2F1%2Foriginal.20261026-194751?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=df6f13f8d585540b501c3cc6101ca673",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/networking-in-jersey-city-11-4-26-nov-4-3a2557/"
-  },
-  {
-   "id": "eventbrite:2003935898216",
-   "title": "Networking & Brain Boost  Jersey City 11.4.26",
-   "description": "Make meaningful business connections  at our Networking event in Jersey City! Sample BEA Brain for mental focus and clarity.",
-   "start": "2026-11-04T18:00:00-05:00",
-   "end": "2026-11-04T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Brightside Tavern",
-   "address": "141 Bright Street, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/networking-brain-boost-jersey-city-11426-tickets-2003935898216",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196545085%2F153284777701%2F1%2Foriginal.20261025-170454?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.233&s=977a8bd5e099bde1f4bf0d505b199a2a",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/networking-brain-boost-jersey-city-11-4-26-nov-4-914aba/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17590281",
-   "title": "Tween & Teen Art Club: Diamond Painting with Lauren",
-   "description": "Join us at the Bayonne Public Library on Wednesday, November 4th from 6:30- 7:30pm to paint a picture with sparkling gems! All Art Club programs are for tweens and teens aged 9-18 and will take place in the Art & Music Room on the 2nd floor of the library. The supplies will be provided, just bring yourself and your creativity. Advanced registration is required for each session individually. Walk-ins will be accommodated if space permits. #Bayonne #BayonneNJ #ArtClub",
-   "start": "2026-11-04T18:30:00-05:00",
-   "end": "2026-11-04T19:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17590281",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/tween-teen-art-club-diamond-painting-with-lauren-nov-4-59968a/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17701614",
-   "title": "ESL Class",
-   "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
-   "start": "2026-11-04T18:30:00-05:00",
-   "end": "2026-11-04T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom A, Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17701614",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/esl-class-nov-4-af4661/"
-  },
-  {
-   "id": "google:wonderwanderasocialnightfortravelerscurioussouls20261104jerseycity",
-   "title": "Wonder & Wander: A Social Night for Travelers & Curious Souls",
-   "description": "",
-   "start": "2026-11-04T18:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Departed Soles Brewing Company",
-   "address": "Departed Soles Brewing Company, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/wonder-wander-a-social-night-for-travelers-curious-souls-tickets-2003604740715",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTULJq8nAvdfj0McCNq1ZYlqnpjuRhc9yziHs3sXBatDkmHKMV8umjy5JyiaO80SrPK9pQL7z2bGqfqtU",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/wonder-wander-a-social-night-for-travelers-curious-soul-nov-4-23db32/"
-  },
-  {
-   "id": "luma:evt-wCMUhaj6YycdjSv",
-   "title": "Hoboken Climate Changemakers!",
-   "description": "",
-   "start": "2026-11-04T19:00:00-05:00",
-   "end": "2026-11-04T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Pilsener Haus & Biergarten",
-   "address": "Pilsener Haus & Biergarten, 1423 Grand St, Hoboken, NJ 07030, USA",
-   "city": "Hoboken",
-   "url": "https://lu.ma/jheuwt1k",
-   "image": "https://images.lumacdn.com/gallery-images/vd/e2da9014-0ab2-40ad-84ca-594823ed8995.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/hoboken-climate-changemakers-nov-4-ac30c5/"
-  },
-  {
-   "id": "eventbrite:2002246979615",
-   "title": "Six Week Intro to Improv Comedy Workshop for Adults (Wed. in Jersey City)",
-   "description": "Meet fellow locals...one scene at a time.",
-   "start": "2026-11-04T19:00:00-05:00",
-   "end": "2026-11-04T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City Writers Loft",
-   "address": "157B 1st Street Room 608, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/six-week-intro-to-improv-comedy-workshop-for-adults-wed-in-jersey-city-registration-2002246979615",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194777894%2F2990717001563%2F1%2Foriginal.20261001-001524?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1861ce4c57df5660ae243f407aa04fb7",
-   "price": "$275+",
-   "source": "Eventbrite",
-   "categories": [
-    "Comedy",
-    "Arts & Culture",
-    "Learning"
-   ],
-   "free": false,
-   "path": "/events/six-week-intro-to-improv-comedy-workshop-for-adults-wed-nov-4-424b1f/"
-  },
-  {
-   "id": "City of Jersey City:21433187",
-   "title": "Community Meeting: St. John's Church",
-   "description": "Join Mayor Solomon & Sgt. Anthony Park Neighborhood Association for a community meeting focused on the issues affecting residents\n\nPlease join the Washington Park Association for a community meeting with Mayor James Solomon.\n\nThis meeting is an opportunity for residents to speak directly with the Mayor, share feedback, ask questions, and discuss the issues and priorities affecting Jersey City residents.\n\nCommunity meetings are intended to bring City Hall directly into Jersey City neighborhoods and provide residents with an opportunity to have an open conversation about the concerns, ideas, and",
-   "start": "2026-11-04T19:30:00-05:00",
-   "end": "2026-11-04T21:30:00-05:00",
-   "all_day": false,
-   "venue": "155 North St.",
-   "address": "155 North St.",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/community-meeting-st-john-s-church-nov-4-dac505/"
-  },
-  {
-   "id": "eventbrite:2003826949347",
-   "title": "General Knowledge Trivia at The Ale House!",
-   "description": "Come show what you know at General Knowledge Trivia!",
-   "start": "2026-11-04T19:30:00-05:00",
-   "end": "2026-11-04T21:00:00-05:00",
-   "all_day": false,
-   "venue": "The Ale House",
-   "address": "1034 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-the-ale-house-tickets-2003826949347",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173592145%2F2124635856523%2F1%2Foriginal.20251228-053352?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.443&fp-y=0.399&s=4c362522dbbfff93f25cef128ad04014",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/general-knowledge-trivia-at-the-ale-house-nov-4-2936df/"
-  },
-  {
-   "id": "eventbrite:2003827781837",
-   "title": "Game of Thrones TV Universe Trivia at Black Bear!",
-   "description": "Come show what you know at Game of Thrones TV Universe Trivia!",
-   "start": "2026-11-04T19:30:00-05:00",
-   "end": "2026-11-04T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Black Bear Hoboken Bar & Grill",
-   "address": "205 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/game-of-thrones-tv-universe-trivia-at-black-bear-tickets-2003827781837",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196448727%2F2124635856523%2F1%2Foriginal.20261023-152648?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cc4225c1ae799ba34bdbefe4882690b5",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/game-of-thrones-tv-universe-trivia-at-black-bear-nov-4-9af129/"
-  },
-  {
    "id": "eventbrite:2003974361260",
    "title": "Hoboken: Kids ( Ages 4-9) Fantasy Worlds Art Camp",
    "description": "Dive into a magical art camp where your wildest fantasy worlds come to life with colors and creativity!",
@@ -455,7 +168,7 @@
    "address": "",
    "city": "Jersey City",
    "url": "https://lu.ma/3ptx9afe",
-   "image": "https://images.lumacdn.com/uploads/ul/00421f93-7002-4196-8206-015a76fd8d8c.png",
+   "image": "https://images.lumacdn.com/uploads/d7/246974fd-86d5-440b-8bfd-ad7b96fdac95.png",
    "price": "Free",
    "source": "Luma",
    "categories": [
@@ -647,6 +360,26 @@
    ],
    "free": true,
    "path": "/events/teen-zone-nov-5-fb29af/"
+  },
+  {
+   "id": "eventbrite:1987134035392",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-05T16:00:00-05:00",
+   "end": "2026-11-05T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134035392",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-5-0af60e/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17613117",
@@ -1100,6 +833,26 @@
    ],
    "free": true,
    "path": "/events/teen-led-debate-club-nov-6-41d80b/"
+  },
+  {
+   "id": "eventbrite:1986851547463",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2026-11-06T16:00:00-05:00",
+   "end": "2026-11-06T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851547463",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-nov-6-b9df95/"
   },
   {
    "id": "eventbrite:1999736740422",
@@ -1782,6 +1535,26 @@
    "path": "/events/sunday-supper-at-the-exchange-nov-8-2bdd46/"
   },
   {
+   "id": "luma:evt-J2hASkCwaG7jVCj",
+   "title": "The JC Collective: Demo Day, a Live Comedy Show",
+   "description": "",
+   "start": "2026-11-08T16:30:00-05:00",
+   "end": "2026-11-08T20:30:00-05:00",
+   "all_day": false,
+   "venue": "333 Washington Street",
+   "address": "333 Washington Street, 333 Washington St, Jersey City, NJ 07302, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/the-gkeb",
+   "image": "https://images.lumacdn.com/api-uploads/bz/9b62b442-248e-4543-933e-cfd17f91921c.png",
+   "price": "Paid",
+   "source": "Luma",
+   "categories": [
+    "Comedy"
+   ],
+   "free": false,
+   "path": "/events/the-jc-collective-demo-day-a-live-comedy-show-nov-8-184a62/"
+  },
+  {
    "id": "luma:evt-QWQIh0Lk3ma8nLa",
    "title": "Outside Context",
    "description": "",
@@ -2064,6 +1837,26 @@
    ],
    "free": true,
    "path": "/events/city-caucus-meeting-nov-9-de6796/"
+  },
+  {
+   "id": "eventbrite:1987134036395",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-09T16:00:00-05:00",
+   "end": "2026-11-09T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134036395",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-9-dff4c3/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17613232",
@@ -2573,6 +2366,26 @@
    "path": "/events/tech-time-nov-10-77a80f/"
   },
   {
+   "id": "eventbrite:1987134037398",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-10T16:00:00-05:00",
+   "end": "2026-11-10T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134037398",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-10-5f6559/"
+  },
+  {
    "id": "hoboken-library:17826531",
    "title": "Mystery Book Club",
    "description": "Join the Mystery Book Club for a discussion of A Deadly Episode by Anthony Horowitz\n\nTuesday, November 10 at 4:30pm\n\nat St. Matthew's Trinity 798 Hudson St.\n\nEx-Detective Inspector Daniel Hawthorne is dead.\n\nOr, rather, the actor playing him in the film adaptation of The Word is Murder is. Rising star David Caine has been stabbed, and it seems that everyone on the set had a motive.\n\nCaine had just fired his PA. He had fallen out with his director, slept with the screenwriter, humiliated his co-star and dropped his agent days before he was about to sign a multi-million-dollar deal to appear in ",
@@ -2996,6 +2809,26 @@
    ],
    "free": true,
    "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-nov-11-a704c5/"
+  },
+  {
+   "id": "eventbrite:1987134038401",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-11T16:00:00-05:00",
+   "end": "2026-11-11T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134038401",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-11-d584b4/"
   },
   {
    "id": "eventbrite:153877344279",
@@ -3486,6 +3319,26 @@
    ],
    "free": true,
    "path": "/events/teen-zone-nov-12-2f4eb9/"
+  },
+  {
+   "id": "eventbrite:1987134039404",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-12T16:00:00-05:00",
+   "end": "2026-11-12T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134039404",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-12-85a9d7/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17600180",
@@ -3996,6 +3849,26 @@
    ],
    "free": true,
    "path": "/events/teen-led-debate-club-nov-13-b33674/"
+  },
+  {
+   "id": "eventbrite:1986851548466",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2026-11-13T16:00:00-05:00",
+   "end": "2026-11-13T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851548466",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-nov-13-d88e4e/"
   },
   {
    "id": "eventbrite:1999736741425",
@@ -4915,6 +4788,26 @@
    "path": "/events/tween-led-chess-club-nov-16-82eff7/"
   },
   {
+   "id": "eventbrite:1987134040407",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-16T16:00:00-05:00",
+   "end": "2026-11-16T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134040407",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-16-d241ed/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17613233",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -5018,27 +4911,6 @@
    "path": "/events/art-music-and-wine-nov-16-d66d98/"
   },
   {
-   "id": "City of Jersey City:21355180",
-   "title": "Historic Preservation Commission",
-   "description": "",
-   "start": "2026-11-16T18:30:00-05:00",
-   "end": "2026-11-16T22:30:00-05:00",
-   "all_day": false,
-   "venue": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
-   "address": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community",
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/historic-preservation-commission-nov-16-4aa4b3/"
-  },
-  {
    "id": "City of Jersey City:21059938",
    "title": "Shade Tree Committee",
    "description": "Third Monday of each month, 6:30PM (except for holidays) and are open to the public.\u00a0\n\nJune and December Meetings will be held in-person\nCouncil Caucus Room, Ground floor, City Hall, 280 Grove Street\n\nJanuary-May and July-November meetings will be held virtually on Teams\u00a0\n\nhttps://jcnj.org/vstc",
@@ -5058,6 +4930,27 @@
    ],
    "free": true,
    "path": "/events/shade-tree-committee-nov-16-92d6bd/"
+  },
+  {
+   "id": "City of Jersey City:21355180",
+   "title": "Historic Preservation Commission",
+   "description": "",
+   "start": "2026-11-16T18:30:00-05:00",
+   "end": "2026-11-16T22:30:00-05:00",
+   "all_day": false,
+   "venue": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
+   "address": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Community",
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/historic-preservation-commission-nov-16-4aa4b3/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17590217",
@@ -5322,6 +5215,26 @@
    ],
    "free": true,
    "path": "/events/tween-dungeons-dragons-nov-17-ecb0d6/"
+  },
+  {
+   "id": "eventbrite:1987134041410",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-17T16:00:00-05:00",
+   "end": "2026-11-17T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134041410",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-17-923839/"
   },
   {
    "id": "City of Jersey City:21245785",
@@ -5875,6 +5788,26 @@
    "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-nov-18-ef4793/"
   },
   {
+   "id": "eventbrite:1987134042413",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-18T16:00:00-05:00",
+   "end": "2026-11-18T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134042413",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-18-88fdf4/"
+  },
+  {
    "id": "hoboken-library:17706462",
    "title": "Scary Movie Night - Clown in a Cornfield",
    "description": "Join us for a screening of Clown in a Cornfield (2025)! Light refreshments will be served.\n\nLooking for a fresh start, Quinn (Katie Douglas) and her father move to the quiet town of Kettle Springs. They soon learn the fractured community has fallen on hard times after losing a treasured factory to a fire. As the locals bicker amongst themselves and tensions boil over, a sinister, grinning clown emerges from the cornfields to cleanse the town of its burdens, one bloody victim at a time.\n\nInterested in reading the book, you can reserve it in the BCCLS catalog here.\n\nPlease email\u00a0sean.willey@hobo",
@@ -6017,6 +5950,327 @@
    ],
    "free": false,
    "path": "/events/lafayette-leopards-at-saint-peter-s-peacocks-womens-bas-nov-18-33bd77/"
+  },
+  {
+   "id": "eventbrite:1993054929947",
+   "title": "Law and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Law and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/law-and-business-networking-elevating-your-potential-hoboken-tickets-1993054929947",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918930213%2F2244249934723%2F1%2Foriginal.20241217-152516?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.497159090909&fp-y=0.489238410596&s=377afc3ba91303572051b24b28fc76fb",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/law-and-business-networking-elevating-your-potential-ho-nov-18-51149f/"
+  },
+  {
+   "id": "eventbrite:1993054935965",
+   "title": "Non-Profits and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Non-Profits and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/non-profits-and-business-networking-elevating-your-potential-hoboken-tickets-1993054935965",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918935863%2F2244249934723%2F1%2Foriginal.20241217-153240?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.514204545455&fp-y=0.479304635762&s=8107311b1cfc578b4ea58b1229e5e797",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/non-profits-and-business-networking-elevating-your-pote-nov-18-5ad40c/"
+  },
+  {
+   "id": "eventbrite:1993054937971",
+   "title": "Fashion and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Fashion and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/fashion-and-business-networking-elevating-your-potential-hoboken-tickets-1993054937971",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918936543%2F2244249934723%2F1%2Foriginal.20241217-153333?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.512310606061&fp-y=0.479304635762&s=6a46cf3a2c750b23cb1a5d9b613fa26a",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/fashion-and-business-networking-elevating-your-potentia-nov-18-71a911/"
+  },
+  {
+   "id": "eventbrite:1993054943989",
+   "title": "Media and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Media and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/media-and-business-networking-elevating-your-potential-hoboken-tickets-1993054943989",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918938943%2F2244249934723%2F1%2Foriginal.20241217-153619?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508522727273&fp-y=0.492549668874&s=2c2a8152469915c38946cdff204f3958",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/media-and-business-networking-elevating-your-potential-nov-18-bc1b9c/"
+  },
+  {
+   "id": "eventbrite:1993054950007",
+   "title": "Multi-Vertical Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Multi-Vertical Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/multi-vertical-business-networking-elevating-your-potential-hoboken-tickets-1993054950007",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028003%2F1764357700343%2F1%2Foriginal.20241217-172454?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.500022194602&fp-y=0.52346345515&s=eefe87b48178ec50f40de119b5aaa84b",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/multi-vertical-business-networking-elevating-your-poten-nov-18-9a998e/"
+  },
+  {
+   "id": "eventbrite:1993054959034",
+   "title": "Politics and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Politics and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/politics-and-business-networking-elevating-your-potential-hoboken-tickets-1993054959034",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918938533%2F2244249934723%2F1%2Foriginal.20241217-153546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508522727273&fp-y=0.469370860927&s=a0403f971fcd360316cc7ab1fdcfd0b8",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/politics-and-business-networking-elevating-your-potenti-nov-18-d9b5bd/"
+  },
+  {
+   "id": "eventbrite:1993054964049",
+   "title": "Hospitality and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Hospitality and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/hospitality-and-business-networking-elevating-your-potential-hoboken-tickets-1993054964049",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028023%2F1764357700343%2F1%2Foriginal.20241217-172458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.498128255208&fp-y=0.526785714286&s=170b2f9d1d160ce02193efd713eb7713",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/hospitality-and-business-networking-elevating-your-pote-nov-18-e4cd48/"
+  },
+  {
+   "id": "eventbrite:1993054976085",
+   "title": "Engineering and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Engineering and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/engineering-and-business-networking-elevating-your-potential-hoboken-tickets-1993054976085",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918941433%2F2244249934723%2F1%2Foriginal.20241217-153949?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495265151515&fp-y=0.469370860927&s=45ea98cfc97421afe71472e42b260af2",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/engineering-and-business-networking-elevating-your-pote-nov-18-d43035/"
+  },
+  {
+   "id": "eventbrite:1993054982103",
+   "title": "Real Estate and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Real Estate and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/real-estate-and-business-networking-elevating-your-potential-hoboken-tickets-1993054982103",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918941873%2F2244249934723%2F1%2Foriginal.20241217-154027?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.514204545455&fp-y=0.459437086093&s=25aaa76312ed8047f57a04f64f6b1c12",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/real-estate-and-business-networking-elevating-your-pote-nov-18-743e4f/"
+  },
+  {
+   "id": "eventbrite:1993055056325",
+   "title": "Healthcare and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-hoboken-tickets-1993055056325",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918942143%2F2244249934723%2F1%2Foriginal.20241217-154055?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495265151515&fp-y=0.48261589404&s=426ac1f2a97df6a1b7e5f74a7dd93535",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/healthcare-and-business-networking-elevating-your-poten-nov-18-67f874/"
+  },
+  {
+   "id": "eventbrite:1993055059334",
+   "title": "Music and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Music and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/music-and-business-networking-elevating-your-potential-hoboken-tickets-1993055059334",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918942473%2F2244249934723%2F1%2Foriginal.20241217-154123?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.506628787879&fp-y=0.469370860927&s=90fb7382371fd613d1278fd7cd7af382",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business",
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/music-and-business-networking-elevating-your-potential-nov-18-eee3ac/"
+  },
+  {
+   "id": "eventbrite:1993055067358",
+   "title": "General Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'General Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/general-business-networking-elevating-your-potential-hoboken-tickets-1993055067358",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918942953%2F2244249934723%2F1%2Foriginal.20241217-154202?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7a14a6597785c2dcc273868a8eea3891",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/general-business-networking-elevating-your-potential-ho-nov-18-b1514e/"
+  },
+  {
+   "id": "eventbrite:1993055074379",
+   "title": "Blockchain and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-hoboken-tickets-1993055074379",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028093%2F1764357700343%2F1%2Foriginal.20241217-172502?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501916133996&fp-y=0.526785714286&s=5157ae9268a5aebf71ba04686e3d20a2",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/blockchain-and-business-networking-elevating-your-poten-nov-18-ec31a9/"
+  },
+  {
+   "id": "eventbrite:1993055082403",
+   "title": "Acting, Production & Business Networking|Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Acting, Production and Business Networking', an event for tenured and newcomers at Shepherd! 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/acting-production-business-networkingelevating-your-potential-hoboken-tickets-1993055082403",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F927419813%2F1764357700343%2F1%2Foriginal.20250104-065526?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f05214ffb50bdae2149ca2cf00de83e6",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/acting-production-business-networking-elevating-your-po-nov-18-b2db7b/"
+  },
+  {
+   "id": "eventbrite:1993055087418",
+   "title": "Finance and Business Networking | Elevate Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Finance and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/finance-and-business-networking-elevate-your-potential-hoboken-tickets-1993055087418",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918937683%2F2244249934723%2F1%2Foriginal.20241217-153449?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.512310606061&fp-y=0.489238410596&s=49f96f245d336f0fd41af1615b20e807",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/finance-and-business-networking-elevate-your-potential-nov-18-b8001a/"
+  },
+  {
+   "id": "eventbrite:1993055181700",
+   "title": "Tech and Business Networking | Elevating Your Potential - Hoboken",
+   "description": "Strive welcomes you to 'Tech and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-hoboken-tickets-1993055181700",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918937183%2F2244249934723%2F1%2Foriginal.20241217-153409?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508522727273&fp-y=0.452814569536&s=52666b37b85af109de022117f016340d",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/tech-and-business-networking-elevating-your-potential-h-nov-18-5096ca/"
   },
   {
    "id": "eventbrite:2002178118650",
@@ -6409,6 +6663,26 @@
    "path": "/events/teen-zone-nov-19-6ec001/"
   },
   {
+   "id": "eventbrite:1987134043416",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-19T16:00:00-05:00",
+   "end": "2026-11-19T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134043416",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-19-8681ab/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17600190",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -6735,6 +7009,26 @@
    ],
    "free": true,
    "path": "/events/teen-led-debate-club-nov-20-58c73f/"
+  },
+  {
+   "id": "eventbrite:1986851549469",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2026-11-20T16:00:00-05:00",
+   "end": "2026-11-20T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851549469",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-nov-20-60ae51/"
   },
   {
    "id": "eventbrite:1999736742428",
@@ -7491,6 +7785,26 @@
    "path": "/events/city-caucus-meeting-nov-23-1d7325/"
   },
   {
+   "id": "eventbrite:1987134044419",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-23T16:00:00-05:00",
+   "end": "2026-11-23T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134044419",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-23-520cd2/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17613234",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -7797,6 +8111,26 @@
    ],
    "free": true,
    "path": "/events/tech-time-nov-24-da55b3/"
+  },
+  {
+   "id": "eventbrite:1987134045422",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-24T16:00:00-05:00",
+   "end": "2026-11-24T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134045422",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-24-af9a03/"
   },
   {
    "id": "Stevens Institute:IFJ7GTKCMxBRqrUHS3Af",
@@ -8227,6 +8561,26 @@
    "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-nov-25-c714c7/"
   },
   {
+   "id": "eventbrite:1987134046425",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-25T16:00:00-05:00",
+   "end": "2026-11-25T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134046425",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-25-f2dee3/"
+  },
+  {
    "id": "City of Jersey City:21343564",
    "title": "City Council Meeting",
    "description": "Stream Live via Microsoft Teams\n\nRegister to Speak\n\nView Meeting Archive",
@@ -8391,6 +8745,26 @@
    "path": "/events/jersey-city-new-jersey-empower-your-finances-nov-26-9e4368/"
   },
   {
+   "id": "eventbrite:1987134047428",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-26T16:00:00-05:00",
+   "end": "2026-11-26T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134047428",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-26-062514/"
+  },
+  {
    "id": "eventbrite:1406594434819",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -8431,6 +8805,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-nov-27-18068a/"
+  },
+  {
+   "id": "eventbrite:1986851550472",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2026-11-27T16:00:00-05:00",
+   "end": "2026-11-27T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851550472",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-nov-27-a716dc/"
   },
   {
    "id": "eventbrite:1999736743431",
@@ -8862,6 +9256,26 @@
    "path": "/events/tween-led-chess-club-nov-30-d8b19e/"
   },
   {
+   "id": "eventbrite:1987134048431",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-11-30T16:00:00-05:00",
+   "end": "2026-11-30T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134048431",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-nov-30-867b1d/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17613235",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -9043,6 +9457,26 @@
    ],
    "free": true,
    "path": "/events/tween-dungeons-dragons-dec-1-a4f1ba/"
+  },
+  {
+   "id": "eventbrite:1987134049434",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-01T16:00:00-05:00",
+   "end": "2026-12-01T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134049434",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-1-745dcd/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-16000195",
@@ -9410,6 +9844,26 @@
    "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-dec-2-a8d190/"
   },
   {
+   "id": "eventbrite:1987134050437",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-02T16:00:00-05:00",
+   "end": "2026-12-02T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134050437",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-2-7795db/"
+  },
+  {
    "id": "hoboken-library:17723256",
    "title": "Math Circle",
    "description": "Organized jointly with Stevens Institute of Technology, a math circle exposes participants to interesting, challenging, and fun mathematical activities composed by faculty in the Department of Mathematical Sciences and led by STEM undergraduates at Stevens. Students in grades 4-5 are encouraged to register and can expect to play mathematical games, solve puzzles, and do hands-on activities.\u00a0There are no entry requirements other than an interest in exploring a different side of math!\u00a0\n\nThis program is supported by Grant No. 2236229 from the National Science Foundation.\u00a0For more information on m",
@@ -9594,6 +10048,26 @@
    ],
    "free": true,
    "path": "/events/teen-zone-dec-3-3ef0f4/"
+  },
+  {
+   "id": "eventbrite:1987134051440",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-03T16:00:00-05:00",
+   "end": "2026-12-03T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134051440",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-3-f4065d/"
   },
   {
    "id": "City of Jersey City:21342965",
@@ -9799,6 +10273,26 @@
    ],
    "free": true,
    "path": "/events/teen-led-debate-club-dec-4-4daef1/"
+  },
+  {
+   "id": "eventbrite:1986851551475",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2026-12-04T16:00:00-05:00",
+   "end": "2026-12-04T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851551475",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-dec-4-82525f/"
   },
   {
    "id": "eventbrite:1999736744434",
@@ -10270,6 +10764,26 @@
    "path": "/events/maker-monday-dec-7-bfc917/"
   },
   {
+   "id": "eventbrite:1987134052443",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-07T16:00:00-05:00",
+   "end": "2026-12-07T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134052443",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-7-7682c1/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17613236",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -10513,6 +11027,26 @@
    ],
    "free": true,
    "path": "/events/tech-time-dec-8-ea2639/"
+  },
+  {
+   "id": "eventbrite:1987134053446",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-08T16:00:00-05:00",
+   "end": "2026-12-08T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134053446",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-8-4baf64/"
   },
   {
    "id": "City of Jersey City:21075715",
@@ -10881,6 +11415,26 @@
    "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-dec-9-3e297a/"
   },
   {
+   "id": "eventbrite:1987134054449",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-09T16:00:00-05:00",
+   "end": "2026-12-09T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134054449",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-9-93467c/"
+  },
+  {
    "id": "JC Families:108681-1796837400-1796932800@jcfamilies.com",
    "title": "Chris Tomlin - Jersey City",
    "description": "Join us for an unforgettable evening with the renowned worship leader Chris Tomlin at the iconic Loew\u2019s Jersey Theatre in Jersey City! This beautiful venue, with its stunning architecture and warm atmosphere, sets the perfect backdrop for an inspiring night of music and worship. Experience the uplifting melodies and heartfelt lyrics that have touched millions, as Chris Tomlin brings his powerful message to life in this historic setting. \nDon\u2019t miss your chance to be part of this special event, \u201c\u201dChris Tomlin \u2013 Jersey City,\u201d\u201d where you can connect with fellow music lovers and share in a night o",
@@ -11184,6 +11738,26 @@
    "path": "/events/teen-zone-dec-10-80d592/"
   },
   {
+   "id": "eventbrite:1987134055452",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-10T16:00:00-05:00",
+   "end": "2026-12-10T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134055452",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-10-e2a40b/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17600203",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -11427,6 +12001,26 @@
    ],
    "free": true,
    "path": "/events/teen-led-debate-club-dec-11-71c141/"
+  },
+  {
+   "id": "eventbrite:1986851552478",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2026-12-11T16:00:00-05:00",
+   "end": "2026-12-11T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851552478",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-dec-11-3a5e9a/"
   },
   {
    "id": "eventbrite:1999736745437",
@@ -12062,6 +12656,26 @@
    "path": "/events/maker-monday-dec-14-6e95fa/"
   },
   {
+   "id": "eventbrite:1987134056455",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-14T16:00:00-05:00",
+   "end": "2026-12-14T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134056455",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-14-c626cc/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17613237",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -12244,6 +12858,26 @@
    ],
    "free": true,
    "path": "/events/tween-dungeons-dragons-dec-15-82076e/"
+  },
+  {
+   "id": "eventbrite:1987134057458",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-15T16:00:00-05:00",
+   "end": "2026-12-15T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134057458",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-15-b76c86/"
   },
   {
    "id": "City of Jersey City:21245787",
@@ -12592,6 +13226,26 @@
    "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-dec-16-5cf0d6/"
   },
   {
+   "id": "eventbrite:1987134058461",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-16T16:00:00-05:00",
+   "end": "2026-12-16T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134058461",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-16-bbb889/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-16001091",
    "title": "Multiple Sclerosis Monthly Support Meeting",
    "description": "Join the Bayonne Public Library and the Multiple Sclerosis Foundation for a monthly Multiple Sclerosis (MS) meeting. This meeting is a welcoming and supportive space for individuals living with MS, their families, and caregivers. \n\nEach session provides an opportunity to share experiences, learn practical tips for managing symptoms, and hear from guest speakers on topics related to health, wellness, & living well with MS. The group fosters connection, encouragement, and a sense of community, reminding members that they are not alone on their journey.\n\nThe group will meet on the following Wedne",
@@ -12840,6 +13494,26 @@
    "path": "/events/teen-zone-dec-17-fb717e/"
   },
   {
+   "id": "eventbrite:1987134059464",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-17T16:00:00-05:00",
+   "end": "2026-12-17T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134059464",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-17-17f8c8/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17600207",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -13002,6 +13676,26 @@
    ],
    "free": true,
    "path": "/events/yoga-story-time-dec-18-3259e7/"
+  },
+  {
+   "id": "eventbrite:1986851553481",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2026-12-18T16:00:00-05:00",
+   "end": "2026-12-18T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851553481",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-dec-18-e7c3df/"
   },
   {
    "id": "eventbrite:1999736746440",
@@ -13353,6 +14047,26 @@
    "path": "/events/maker-monday-dec-21-103b6c/"
   },
   {
+   "id": "eventbrite:1987134060467",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-21T16:00:00-05:00",
+   "end": "2026-12-21T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134060467",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-21-ee3f65/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17613238",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -13556,6 +14270,26 @@
    ],
    "free": true,
    "path": "/events/tech-time-dec-22-9ddf37/"
+  },
+  {
+   "id": "eventbrite:1987134061470",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-22T16:00:00-05:00",
+   "end": "2026-12-22T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134061470",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-22-6320d5/"
   },
   {
    "id": "hoboken-library:17166408",
@@ -13762,6 +14496,26 @@
    "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-dec-23-8d7c98/"
   },
   {
+   "id": "eventbrite:1987134062473",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-23T16:00:00-05:00",
+   "end": "2026-12-23T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134062473",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-23-30cb4d/"
+  },
+  {
    "id": "eventbrite:1986851358899",
    "title": "Power Lunch for People on the Go",
    "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
@@ -13842,6 +14596,26 @@
    "path": "/events/jersey-city-new-jersey-empower-your-finances-dec-24-461156/"
   },
   {
+   "id": "eventbrite:1987134063476",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-24T16:00:00-05:00",
+   "end": "2026-12-24T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134063476",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-24-c9f444/"
+  },
+  {
    "id": "eventbrite:1406594555179",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -13882,6 +14656,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-dec-25-5472b1/"
+  },
+  {
+   "id": "eventbrite:1986851554484",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2026-12-25T16:00:00-05:00",
+   "end": "2026-12-25T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851554484",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-dec-25-485449/"
   },
   {
    "id": "eventbrite:1999736747443",
@@ -14131,6 +14925,26 @@
    "path": "/events/maker-monday-dec-28-aba522/"
   },
   {
+   "id": "eventbrite:1987134064479",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-28T16:00:00-05:00",
+   "end": "2026-12-28T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134064479",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-28-171f52/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17613239",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -14290,6 +15104,26 @@
    ],
    "free": false,
    "path": "/events/stevens-men-s-basketball-tournament-cortland-vs-endicot-dec-29-8dd078/"
+  },
+  {
+   "id": "eventbrite:1987134065482",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-29T16:00:00-05:00",
+   "end": "2026-12-29T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134065482",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-29-4dd3b8/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17491188",
@@ -14516,6 +15350,26 @@
    "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-dec-30-24a6bc/"
   },
   {
+   "id": "eventbrite:1987134066485",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-30T16:00:00-05:00",
+   "end": "2026-12-30T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134066485",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-30-9b2313/"
+  },
+  {
    "id": "Stevens Institute:t4yQqtB4NLj6PBilUCyC",
    "title": "Stevens Women's Basketball vs St Joseph's Brooklyn",
    "description": "Sports Game",
@@ -14554,6 +15408,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-dec-31-0f7fd2/"
+  },
+  {
+   "id": "eventbrite:1987134067488",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2026-12-31T16:00:00-05:00",
+   "end": "2026-12-31T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134067488",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-dec-31-4d314b/"
   },
   {
    "id": "eventbrite:2003959091588",
@@ -14777,6 +15651,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-jan-1-27507b/"
+  },
+  {
+   "id": "eventbrite:1986851555487",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2027-01-01T16:00:00-05:00",
+   "end": "2027-01-01T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851555487",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-jan-1-aa5bb4/"
   },
   {
    "id": "eventbrite:1999736748446",

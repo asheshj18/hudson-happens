@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-05T05:52:18.144713-05:00",
+ "generated": "2026-11-05T11:57:49.881533-05:00",
  "sources": {
   "jersey_city_gov": 117,
   "bayonne_library": 375,
   "hoboken_library": 155,
   "stevens": 39,
   "jc_families": 6,
-  "luma": 11,
+  "luma": 10,
   "ticketmaster": 10,
   "seatgeek": 20,
-  "eventbrite": 523,
+  "eventbrite": 524,
   "serpapi_google_events": 36
  },
  "events": [
@@ -158,26 +158,6 @@
    "path": "/events/hoboken-teens-ages-10-17-fantasy-worlds-art-camp-nov-5-7840d1/"
   },
   {
-   "id": "luma:evt-FTgxJkuGIgCJwvL",
-   "title": "TechWalk | Jersey City, 11/5",
-   "description": "",
-   "start": "2026-11-05T09:00:00-05:00",
-   "end": "2026-11-05T10:00:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "",
-   "city": "Jersey City",
-   "url": "https://lu.ma/3ptx9afe",
-   "image": "https://images.lumacdn.com/uploads/d7/246974fd-86d5-440b-8bfd-ad7b96fdac95.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/techwalk-jersey-city-11-5-nov-5-350a0b/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17701573",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -196,28 +176,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-5-338d06/"
-  },
-  {
-   "id": "hoboken-library:17686837",
-   "title": "Tai Chi Workshop",
-   "description": "Every Thursday, meet us in the gymnasium on the 2nd floor of the Multi-Service Center at 124 Grand Street for a free Tai Chi Workshop led by instructor Peter.\n\nOpen to beginners and all levels.\n\nPlease email laura.knittel@hobokenlibrary.org for more information.",
-   "start": "2026-11-05T10:00:00-05:00",
-   "end": "2026-11-05T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17686837",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Tai_chi_practitioner_in_a_calm_balanced_pose_flowing_movement_serene_atmosphere_clean_composition_realistic_lighting.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/tai-chi-workshop-nov-5-b7c0b4/"
   },
   {
    "id": "eventbrite:1986851323794",
@@ -647,6 +605,26 @@
    ],
    "free": true,
    "path": "/events/jersey-city-we-create-real-estate-investors-learn-how-nov-5-d749ff/"
+  },
+  {
+   "id": "luma:evt-3mVCpmVNE6b2sID",
+   "title": "Ship 'n Run: a run club for founders & builders",
+   "description": "",
+   "start": "2026-11-06T07:00:00-05:00",
+   "end": "2026-11-06T09:00:00-05:00",
+   "all_day": false,
+   "venue": "Hoboken",
+   "address": "",
+   "city": "Hoboken",
+   "url": "https://lu.ma/shipnrun1106",
+   "image": "https://images.lumacdn.com/uploads/c3/3a7c709a-f16d-4b13-802b-cb5c7e3370d3.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/ship-n-run-a-run-club-for-founders-builders-nov-6-0e90ac/"
   },
   {
    "id": "eventbrite:2003974364269",
@@ -1553,26 +1531,6 @@
    ],
    "free": false,
    "path": "/events/the-jc-collective-demo-day-a-live-comedy-show-nov-8-184a62/"
-  },
-  {
-   "id": "luma:evt-QWQIh0Lk3ma8nLa",
-   "title": "Outside Context",
-   "description": "",
-   "start": "2026-11-08T17:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "all_day": false,
-   "venue": "The Indian Tapas",
-   "address": "The Indian Tapas, 101 Greene St, Jersey City, NJ 07302, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/7zjrvz4p",
-   "image": "https://images.lumacdn.com/uploads/p5/9c30bf0e-221e-4f75-b61f-03792215e2c4.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/outside-context-nov-8-2f01f5/"
   },
   {
    "id": "luma:evt-vxOZccCVILa8NkO",
@@ -7892,11 +7850,11 @@
    "start": "2026-11-23T18:00:00-05:00",
    "end": "2026-11-23T19:30:00-05:00",
    "all_day": false,
-   "venue": "Starting Points of Hudson County",
-   "address": "254 Bartholdi Avenue, Jersey City, NJ 07305",
+   "venue": "Our Lady of Mercy Roman Catholic Church",
+   "address": "40 Sullivan Drive, Jersey City, NJ 07305",
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2004380471948",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197268693%2F274366617814%2F1%2Foriginal.20261104-160822?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.887&fp-y=0.477&s=8e65e7ce50266aeeae079b407d8d7eb3",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197356040%2F274366617814%2F1%2Foriginal.20261105-162302?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.881&fp-y=0.533&s=473475256d419a23c4e229d62cdbee47",
    "price": "Free",
    "source": "Eventbrite",
    "categories": [
@@ -10110,6 +10068,27 @@
    ],
    "free": true,
    "path": "/events/tween-teen-art-club-glass-lantern-decorating-with-izzy-dec-3-232c68/"
+  },
+  {
+   "id": "eventbrite:2004156921302",
+   "title": "Jersey City Connects | Singles Party | Ugly Sweater Edition | Singles Mixer",
+   "description": "Get ready to mingle and jingle in your ugliest sweater at the chillest singles mixer of the season!",
+   "start": "2026-12-03T18:30:00-05:00",
+   "end": "2026-12-03T22:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shepherd & the Knucklehead of Hoboken",
+   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/jersey-city-connects-singles-party-ugly-sweater-edition-singles-mixer-tickets-2004156921302",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196971623%2F3018376597838%2F1%2Foriginal.20261031-024114?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d6d34045d856dfb19a42d3995bf54150",
+   "price": "$25+",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/jersey-city-connects-singles-party-ugly-sweater-edition-dec-3-5d7934/"
   },
   {
    "id": "eventbrite:1406594464909",
@@ -15816,6 +15795,26 @@
    ],
    "free": true,
    "path": "/events/sunday-supper-at-the-exchange-jan-3-17e519/"
+  },
+  {
+   "id": "eventbrite:1986851365920",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-04T11:30:00-05:00",
+   "end": "2027-01-04T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851365920",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-4-9e1bfc/"
   }
  ]
 }

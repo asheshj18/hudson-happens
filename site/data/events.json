@@ -1,18 +1,38 @@
 {
- "generated": "2026-11-05T17:38:14.317871-05:00",
+ "generated": "2026-11-06T05:52:44.433797-05:00",
  "sources": {
   "jersey_city_gov": 117,
-  "bayonne_library": 375,
-  "hoboken_library": 155,
+  "bayonne_library": 369,
+  "hoboken_library": 149,
   "stevens": 39,
-  "jc_families": 0,
+  "jc_families": 6,
   "luma": 11,
   "ticketmaster": 10,
-  "seatgeek": 20,
-  "eventbrite": 519,
+  "seatgeek": 19,
+  "eventbrite": 515,
   "serpapi_google_events": 27
  },
  "events": [
+  {
+   "id": "JC Families:105809-1768561200-1798628400@jcfamilies.com",
+   "title": "Liberty Science Center\u2019s New Touch Tank and Climate Time Machine Virtual Reality Experience",
+   "description": "Liberty Science Center introduces two new interactive experiences\u2014the Izzo Family Touch Tank and the Climate Time Machine VR viewfinder\u2014as part of the reimagining of its longtime Our Hudson Home gallery. The Touch Tank features a 29-foot-long, 1,000-gallon, two-level riverscape habitat showcasing seven native Hudson River species, with hands-on encounters guided by trained STEM educators exploring how climate change impacts local marine life. The Climate Time Machine invites visitors to peer through a VR viewfinder overlooking the Hudson River and travel through time from the Ice Age to today ",
+   "start": "2026-01-16T11:00:00-05:00",
+   "end": "2026-12-30T11:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/liberty-science-centers-new-touch-tank-and-climate-time-machine-virtual-reality-experience-2/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": false,
+   "path": "/events/liberty-science-centers-new-touch-tank-and-climate-time-jan-16-6421f3/"
+  },
   {
    "id": "eventbrite:1992021494915",
    "title": "Certificates in Construction Management Fall 2026",
@@ -94,333 +114,6 @@
    ],
    "free": false,
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
-  },
-  {
-   "id": "hoboken-library:17724922",
-   "title": "Teen Zone",
-   "description": "Join Mr. Kieran for a diverse range of activities that cater to every taste: unleash your inner artist with craft sessions, dive into immersive gaming experiences, embark on epic adventures with Dungeons & Dragons, and get the support you need with homework help.\u00a0The Teen Zone is a welcoming space where you can make new friends, express yourself, and discover new hobbies. Whether you're a seasoned gamer or just looking for a place to hang out, the Teen Zone has something for everyone.\n\nCome be a part of our community and enjoy the fun!\n\nTAB members! Let us know which programs you'd like to see",
-   "start": "2026-11-05T15:45:00-05:00",
-   "end": "2026-11-05T19:45:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17724922",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/teen-zone-nov-5-fb29af/"
-  },
-  {
-   "id": "eventbrite:1987134035392",
-   "title": "Hudson Happy Hour",
-   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
-   "start": "2026-11-05T16:00:00-05:00",
-   "end": "2026-11-05T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134035392",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hudson-happy-hour-nov-5-0af60e/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17613117",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-11-05T17:30:00-05:00",
-   "end": "2026-11-05T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17613117",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-nov-5-5a6d64/"
-  },
-  {
-   "id": "City of Jersey City:21342963",
-   "title": "Zoning Board Meeting",
-   "description": "Join via Zoom:\n\n(ID: 834 5083 8695): https://us02web.zoom.us/j/83450838695",
-   "start": "2026-11-05T18:00:00-05:00",
-   "end": "2026-11-05T20:30:00-05:00",
-   "all_day": false,
-   "venue": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
-   "address": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community",
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/zoning-board-meeting-nov-5-0f9b5f/"
-  },
-  {
-   "id": "luma:evt-IZXySyjKIfQu8vZ",
-   "title": "Solar Maverick 300: Clean Energy Networking & Celebration",
-   "description": "",
-   "start": "2026-11-05T18:00:00-05:00",
-   "end": "2026-11-05T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Hudson Hall",
-   "address": "Hudson Hall, 364 Marin Blvd, Jersey City, NJ 07302, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/oj8frtug",
-   "image": "https://images.lumacdn.com/uploads/nf/830255c8-067b-4e89-9ee2-f393762eb423.png",
-   "price": "Paid",
-   "source": "Luma",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/solar-maverick-300-clean-energy-networking-celebration-nov-5-9bb238/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17263958",
-   "title": "\"Read and Watch\" Book Club: Rez Ball",
-   "description": "Join us at the Bayonne Public Library for a Read & Watch book club for young adults! \n\nThis two-part event will meet first on Thursday, November 5th from 6:30-7:30 pm to discuss Rez Ball, a YA novel by Byron Graves. If you have not already read the book, make sure to check it out ahead of time and bring your thoughts to share with other tweens and teens. \n\nWe will meet again on Thursday, November 19th from 6:30-8:30 pm and we will watch the movie adaptation of Rez Ball, available on Netflix.\n\nThis program is for tweens and teens ages 12-18 and will take place in the Art & Music Room on the 2nd",
-   "start": "2026-11-05T18:30:00-05:00",
-   "end": "2026-11-05T19:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/calendar/BPL/Nov2026RandWPt1",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/read-and-watch-book-club-rez-ball-nov-5-2cb499/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17701615",
-   "title": "ESL Class",
-   "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
-   "start": "2026-11-05T18:30:00-05:00",
-   "end": "2026-11-05T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom A, Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17701615",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/esl-class-nov-5-202e48/"
-  },
-  {
-   "id": "luma:evt-uq6PT7eUbh24vUB",
-   "title": "Fast Forward with Filed.",
-   "description": "",
-   "start": "2026-11-05T18:30:00-05:00",
-   "end": "2026-11-05T21:30:00-05:00",
-   "all_day": false,
-   "venue": "RPM Raceway | Race Play More",
-   "address": "RPM Raceway | Race Play More, 99 Caven Point Rd, Jersey City, NJ 07305, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/ket3ttrp",
-   "image": "https://images.lumacdn.com/uploads/4c/9fa9d023-b0aa-4633-97d2-478d2e6c75cf.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/fast-forward-with-filed-nov-5-36f785/"
-  },
-  {
-   "id": "seatgeek:18532535",
-   "title": "Binghamton Bearcats at Saint Peter's Peacocks Mens Basketball",
-   "description": "",
-   "start": "2026-11-05T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Yanitelli Center",
-   "address": "870 Montgomery Street",
-   "city": "Jersey City",
-   "url": "https://seatgeek.com/saint-peter-s-peacocks-mens-basketball-tickets/ncaa-basketball/2026-11-05-7-pm/18532535",
-   "image": null,
-   "price": "Paid",
-   "source": "SeatGeek",
-   "categories": [
-    "Sports"
-   ],
-   "free": false,
-   "path": "/events/binghamton-bearcats-at-saint-peter-s-peacocks-mens-bask-nov-5-d76f32/"
-  },
-  {
-   "id": "eventbrite:1406594344549",
-   "title": "Dance Party at Madd Hatter",
-   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
-   "start": "2026-11-05T19:00:00-05:00",
-   "end": "2026-11-05T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594344549",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music",
-    "Arts & Culture",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/dance-party-at-madd-hatter-nov-5-cbff88/"
-  },
-  {
-   "id": "eventbrite:1996246123894",
-   "title": "Positively Fourth and Mercer: The Inside Story of New York's Iconic Music C",
-   "description": "Moderated by local radio personality Jerry Treacy, the event will also unveil a gallery of rare photographs.",
-   "start": "2026-11-05T19:00:00-05:00",
-   "end": "2026-11-05T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/positively-fourth-and-mercer-the-inside-story-of-new-yorks-iconic-music-c-tickets-1996246123894",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190046604%2F294282509964%2F1%2Foriginal.20260731-163201?crop=focalpoint&fit=crop&h=121&w=267&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4d4546c535befc6b5770f669db4cb914",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/positively-fourth-and-mercer-the-inside-story-of-new-yo-nov-5-db9b48/"
-  },
-  {
-   "id": "eventbrite:2001887585658",
-   "title": "Sinatra Nights at W Hoboken",
-   "description": "Join us for Sinatra Nights, a festive evening celebrating the timeless music of Frank Sinatra and the magic of the holiday season.",
-   "start": "2026-11-05T19:00:00-05:00",
-   "end": "2026-11-05T21:00:00-05:00",
-   "all_day": false,
-   "venue": "W Hoboken",
-   "address": "225 River Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/sinatra-nights-at-w-hoboken-tickets-2001887585658",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194016389%2F146733578081%2F1%2Foriginal.20260921-153210?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a99b90e70ec7215432de5a02163668bb",
-   "price": "$25+",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/sinatra-nights-at-w-hoboken-nov-5-13cc76/"
-  },
-  {
-   "id": "eventbrite:2002244973615",
-   "title": "Six Week Intro to Improv Comedy Workshop for Adults (Thu. in Hoboken)",
-   "description": "Meet fellow locals...one scene at a time.",
-   "start": "2026-11-05T19:00:00-05:00",
-   "end": "2026-11-05T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Symposia Community Bookstore",
-   "address": "510 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/six-week-intro-to-improv-comedy-workshop-for-adults-thu-in-hoboken-registration-2002244973615",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194777761%2F2990717001563%2F1%2Foriginal.20261001-001309?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=83c5a7e633fcef1a36d1d8564609e39b",
-   "price": "$275+",
-   "source": "Eventbrite",
-   "categories": [
-    "Comedy",
-    "Arts & Culture",
-    "Learning"
-   ],
-   "free": false,
-   "path": "/events/six-week-intro-to-improv-comedy-workshop-for-adults-thu-nov-5-ba8d8e/"
-  },
-  {
-   "id": "eventbrite:2003375094838",
-   "title": "Free Stand-Up Comedy at Pet Shop - Thursday, Nov 5th at 8:30 & 10:30",
-   "description": "Jersey City's fun, chaotic, free night of stand-up comedy! Showtimes at 8:30 and 10:30. Longest running free comedy show in Jersey City.",
-   "start": "2026-11-05T20:00:00-05:00",
-   "end": "2026-11-05T23:30:00-05:00",
-   "all_day": false,
-   "venue": "Pet Shop",
-   "address": "193 Newark Avenue, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/free-stand-up-comedy-at-pet-shop-thursday-nov-5th-at-830-1030-tickets-2003375094838",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195725728%2F26477195001%2F1%2Foriginal.20261013-202752?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.483&fp-y=0.547&s=af03a08212f4eea81a2656c96067b166",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink",
-    "Comedy"
-   ],
-   "free": true,
-   "path": "/events/free-stand-up-comedy-at-pet-shop-thursday-nov-5th-at-8-nov-5-50b611/"
-  },
-  {
-   "id": "Stevens Institute:SFmwUKacQ7Xgkx8poSII",
-   "title": "Rumors",
-   "description": "Performance of the Neil Simon farce Rumors",
-   "start": "2026-11-05T21:00:00-05:00",
-   "end": "2026-11-05T23:00:00-05:00",
-   "all_day": false,
-   "venue": "DeBaun Auditorium",
-   "address": "DeBaun Auditorium",
-   "city": "Hoboken",
-   "url": "https://events.stevens.edu/",
-   "image": null,
-   "price": null,
-   "source": "Stevens Institute",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/rumors-nov-5-ae69fc/"
-  },
-  {
-   "id": "eventbrite:1999818878098",
-   "title": "Jersey City: We Create Real Estate Investors, learn how",
-   "description": "Learn how to invest in real estate, reduce risk and mistakes, use OPM, and get the support you need to be decisive.",
-   "start": "2026-11-05T21:00:00-05:00",
-   "end": "2026-11-05T22:30:00-05:00",
-   "all_day": false,
-   "venue": "Zoom Event",
-   "address": "Zoom, Jersey City, NH 07307",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-we-create-real-estate-investors-learn-how-tickets-1999818878098",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131909343%2F2572415076401%2F1%2Foriginal.20250922-211055?crop=focalpoint&fit=crop&h=105&w=233&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=42a33e3ac669d5984ba01b99ee4a532c",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/jersey-city-we-create-real-estate-investors-learn-how-nov-5-d749ff/"
   },
   {
    "id": "luma:evt-3mVCpmVNE6b2sID",
@@ -2444,6 +2137,26 @@
    "path": "/events/mst-november-open-mic-night-nov-10-47bea9/"
   },
   {
+   "id": "JC Families:108435-1794387600-1794420000@jcfamilies.com",
+   "title": "Connect the Waterfront Annual Celebration",
+   "description": "Join Fund for a Better Waterfront for their main event of the year! The always festive evening features an open bar (beer & wine), hors d\u2019oeuvres, live local entertainment and a raffle with items donated by local businesses. \nLearn more at betterwaterfront.org",
+   "start": "2026-11-11T09:00:00-05:00",
+   "end": "2026-11-11T18:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/connect-the-waterfront-annual-celebration/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Outdoors"
+   ],
+   "free": false,
+   "path": "/events/connect-the-waterfront-annual-celebration-nov-11-5ba81b/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17701576",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -4029,6 +3742,26 @@
    "path": "/events/technique-showcase-nov-14-ed0371/"
   },
   {
+   "id": "luma:evt-Rle8u6sDDsCFxH7",
+   "title": "Masjid Al Wali Youth | Liberty Science Center Trip",
+   "description": "",
+   "start": "2026-11-14T09:00:00-05:00",
+   "end": "2026-11-14T16:15:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/o67je5g9",
+   "image": "https://images.lumacdn.com/uploads/ue/b4e598af-7f98-448a-8136-c85211d1517a.jpg",
+   "price": "Paid",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/masjid-al-wali-youth-liberty-science-center-trip-nov-14-6febf0/"
+  },
+  {
    "id": "eventbrite:1984140851699",
    "title": "Storytime with Laura - Saturday",
    "description": "Storytime with Laura Saturdays at 9am at Little City Books! $10",
@@ -4088,6 +3821,27 @@
    ],
    "free": false,
    "path": "/events/stevens-swimming-vs-montclair-nov-14-912960/"
+  },
+  {
+   "id": "luma:evt-2NYiVHTpAY4TjG2",
+   "title": "PMAI: Vibe Coding Workshop",
+   "description": "",
+   "start": "2026-11-14T10:00:00-05:00",
+   "end": "2026-11-14T12:00:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/97skc5ko",
+   "image": "https://images.lumacdn.com/uploads/n4/94d3c23c-fa74-4d27-8dc7-a054aad191d9.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Tech & Business",
+    "Learning"
+   ],
+   "free": true,
+   "path": "/events/pmai-vibe-coding-workshop-nov-14-580ab1/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17512768",
@@ -6639,6 +6393,26 @@
    ],
    "free": true,
    "path": "/events/free-stand-up-comedy-at-pet-shop-thursday-nov-19th-at-8-nov-19-3df73a/"
+  },
+  {
+   "id": "JC Families:108453-1795161600-1826733600@jcfamilies.com",
+   "title": "Autism 2026",
+   "description": "Autism Conference 2026 \u2013 The World Congress on Autism and Neurodevelopmental Disorders will take place on November 19\u201320, 2026, in London, UK, with virtual participation available. The conference brings together researchers, clinicians, psychologists, therapists, educators, healthcare professionals, and autism specialists to explore the latest developments in autism research, diagnosis, early intervention, neurobiology, behavioral approaches, inclusive education, sensory processing, co-occurring conditions, and lifelong support.\nUnder the theme \u201cAdvancing Research, Care, and Inclusion,\u201d Autism",
+   "start": "2026-11-20T08:00:00-05:00",
+   "end": "2027-11-20T18:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/autism-2026/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/autism-2026-nov-20-7a94b8/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17068931",
@@ -11208,6 +10982,26 @@
    "path": "/events/hudson-happy-hour-dec-9-93467c/"
   },
   {
+   "id": "JC Families:108681-1796837400-1796932800@jcfamilies.com",
+   "title": "Chris Tomlin - Jersey City",
+   "description": "Join us for an unforgettable evening with the renowned worship leader Chris Tomlin at the iconic Loew\u2019s Jersey Theatre in Jersey City! This beautiful venue, with its stunning architecture and warm atmosphere, sets the perfect backdrop for an inspiring night of music and worship. Experience the uplifting melodies and heartfelt lyrics that have touched millions, as Chris Tomlin brings his powerful message to life in this historic setting. \nDon\u2019t miss your chance to be part of this special event, \u201c\u201dChris Tomlin \u2013 Jersey City,\u201d\u201d where you can connect with fellow music lovers and share in a night o",
+   "start": "2026-12-09T17:30:00-05:00",
+   "end": "2026-12-10T20:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/chris-tomlin-jersey-city/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/chris-tomlin-jersey-city-dec-9-8eea8e/"
+  },
+  {
    "id": "hoboken-library:17723258",
    "title": "Math Circle",
    "description": "Organized jointly with Stevens Institute of Technology, a math circle exposes participants to interesting, challenging, and fun mathematical activities composed by faculty in the Department of Mathematical Sciences and led by STEM undergraduates at Stevens. Students in grades 4-5 are encouraged to register and can expect to play mathematical games, solve puzzles, and do hands-on activities.\u00a0There are no entry requirements other than an interest in exploring a different side of math!\u00a0\n\nThis program is supported by Grant No. 2236229 from the National Science Foundation.\u00a0For more information on m",
@@ -13862,6 +13656,27 @@
    "path": "/events/intuitive-tarot-card-reading-dec-21-567f9b/"
   },
   {
+   "id": "eventbrite:2004457837350",
+   "title": "Hearts & Hops: Romance Book Club",
+   "description": "Love a good romance novel? Looking for some new bookish friends? We've got just the thing.",
+   "start": "2026-12-21T19:00:00-05:00",
+   "end": "2026-12-21T21:30:00-05:00",
+   "all_day": false,
+   "venue": "902 Brewing Co .",
+   "address": "101 Pacific Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hearts-hops-romance-book-club-tickets-2004457837350",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197387788%2F156559819633%2F1%2Foriginal.20261105-223416?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=84a21b60df4d46161709dbcb75873c15",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Arts & Culture"
+   ],
+   "free": true,
+   "path": "/events/hearts-hops-romance-book-club-dec-21-8d0fa1/"
+  },
+  {
    "id": "eventbrite:1999108738050",
    "title": "Open Mic Monday at The Hutton",
    "description": "Get ready to showcase your talent and vibe with the crowd at The Hutton's Open Mic Monday! Comedians, Singers, Musicians, Poets, and More!",
@@ -14515,6 +14330,26 @@
    ],
    "free": true,
    "path": "/events/tally-ho-customer-appreciation-party-dec-26-fd0f79/"
+  },
+  {
+   "id": "JC Families:108668-1798365600-1798995600@jcfamilies.com",
+   "title": "The Power of Poison Exhibition at Liberty Science Center",
+   "description": "Whether as a defense against predators, a magical source of immortality, a lethal weapon, or a lifesaving medical treatment, the story of poison is full of surprising turns. \nThis premium exhibition organized by the American Museum of Natural History explores the many facets of poison\u2014its roles in nature, history, myth, health, and forensic science\u2014and shows the immense power of transformation that can be contained in a tiny drop. \nLifelike models and interactive exhibits illustrate how poisons show up in the natural world. The exhibition also features unique live presentations by the Science ",
+   "start": "2026-12-27T10:00:00-05:00",
+   "end": "2027-01-03T17:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/the-power-of-poison-exhibition-at-liberty-science-center/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/the-power-of-poison-exhibition-at-liberty-science-cente-dec-27-10fd19/"
   },
   {
    "id": "eventbrite:1774166061449",
@@ -15296,7 +15131,7 @@
    "city": "Hoboken",
    "url": "https://www.eventbrite.com/e/2027-posh-w-hotel-hoboken-new-years-eve-party-tickets-2001695157099",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183897295%2F412671342061%2F1%2Foriginal.20260506-095231?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9ba617720b97662b6367bf13802137ea",
-   "price": "$97+",
+   "price": "$102+",
    "source": "Eventbrite",
    "categories": [
     "Nightlife"
@@ -15316,7 +15151,7 @@
    "city": "Hoboken",
    "url": "https://www.eventbrite.com/e/the-w-hotel-hoboken-nye-party-2027-tickets-1991466300313",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186589713%2F131949733542%2F1%2Foriginal.20260610-133347?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c56c9eeee904013a370fcf23ddee464d",
-   "price": "$94+",
+   "price": "$103+",
    "source": "Eventbrite",
    "categories": [
     "Music",

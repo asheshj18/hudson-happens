@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-06T05:52:44.433797-05:00",
+ "generated": "2026-11-06T11:40:55.677944-05:00",
  "sources": {
   "jersey_city_gov": 117,
   "bayonne_library": 369,
   "hoboken_library": 149,
   "stevens": 39,
   "jc_families": 6,
-  "luma": 11,
+  "luma": 10,
   "ticketmaster": 10,
   "seatgeek": 19,
-  "eventbrite": 515,
+  "eventbrite": 516,
   "serpapi_google_events": 27
  },
  "events": [
@@ -116,26 +116,6 @@
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
   },
   {
-   "id": "luma:evt-3mVCpmVNE6b2sID",
-   "title": "Ship 'n Run: a run club for founders & builders",
-   "description": "",
-   "start": "2026-11-06T07:00:00-05:00",
-   "end": "2026-11-06T09:00:00-05:00",
-   "all_day": false,
-   "venue": "Hoboken",
-   "address": "",
-   "city": "Hoboken",
-   "url": "https://lu.ma/shipnrun1106",
-   "image": "https://images.lumacdn.com/uploads/c3/3a7c709a-f16d-4b13-802b-cb5c7e3370d3.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/ship-n-run-a-run-club-for-founders-builders-nov-6-0e90ac/"
-  },
-  {
    "id": "eventbrite:2003974364269",
    "title": "Hoboken: Kids ( Ages 4-9) Fantasy Worlds Art Camp",
    "description": "Dive into a magical art camp where your wildest fantasy worlds come to life with colors and creativity!",
@@ -196,28 +176,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-6-d74a0f/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17882605",
-   "title": "Caregiver and Me Pilates Class",
-   "description": "Join the Bayonne Public Library for a \u201cCaregiver and Me\u201d Pilates class! The class will meet twice monthly from 10:30-11:30 am in Gallery on the following Fridays:\n\n\tMarch 13\n\tApril 24\n\tMay 29\n\tJune 26\n\tJuly 17 & 31\n\tAugust 14 & 28\n\tSeptember 4 & 18\n\tOctober 16 & 30\n\tNovember 6 & 13\n\tDecember 11 \n\nWhat is \u201cCaregiver and Me\u201d Pilates class? It\u2019s a blend of gentle exercise and playful, child-friendly activities. It\u2019s specially designed for caregivers to strengthen their bodies while introducing little ones to the joy of movement. With gentle Pilates exercises modified for both adults and kids, the",
-   "start": "2026-11-06T10:30:00-05:00",
-   "end": "2026-11-06T11:15:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17882605",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/caregiver-and-me-pilates-class-nov-6-e63f65/"
   },
   {
    "id": "google:hobokennjcoffeewithnewfriends20261106hoboken",
@@ -7822,6 +7780,26 @@
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-24-242c47/"
   },
   {
+   "id": "eventbrite:2004109305883",
+   "title": "Jersey City Connects | Couples Mixer | Meet Other Couples in Jersey City",
+   "description": "Switch up your date night with great food, fun conversations, and other local couples in Jersey City!",
+   "start": "2026-11-24T19:00:00-05:00",
+   "end": "2026-11-24T21:30:00-05:00",
+   "all_day": false,
+   "venue": "Luna",
+   "address": "279 Grove Street, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jersey-city-connects-couples-mixer-meet-other-couples-in-jersey-city-tickets-2004109305883",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196911271%2F3018376597838%2F1%2Foriginal.20261030-065301?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c6835a46c1997b9c5dc08a7c79e59415",
+   "price": "$30+",
+   "source": "Eventbrite",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/jersey-city-connects-couples-mixer-meet-other-couples-i-nov-24-833fef/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17701584",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -15404,6 +15382,26 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-jan-4-05055e/"
+  },
+  {
+   "id": "eventbrite:1986851366923",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-05T11:30:00-05:00",
+   "end": "2027-01-05T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851366923",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-5-fb1bf6/"
   }
  ]
 }

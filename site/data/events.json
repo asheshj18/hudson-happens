@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-06T11:40:55.677944-05:00",
+ "generated": "2026-11-06T17:31:27.613279-05:00",
  "sources": {
   "jersey_city_gov": 117,
-  "bayonne_library": 369,
+  "bayonne_library": 370,
   "hoboken_library": 149,
   "stevens": 39,
   "jc_families": 6,
   "luma": 10,
   "ticketmaster": 10,
   "seatgeek": 19,
-  "eventbrite": 516,
-  "serpapi_google_events": 27
+  "eventbrite": 510,
+  "serpapi_google_events": 31
  },
  "events": [
   {
@@ -116,170 +116,6 @@
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
   },
   {
-   "id": "eventbrite:2003974364269",
-   "title": "Hoboken: Kids ( Ages 4-9) Fantasy Worlds Art Camp",
-   "description": "Dive into a magical art camp where your wildest fantasy worlds come to life with colors and creativity!",
-   "start": "2026-11-06T08:30:00-05:00",
-   "end": "2026-11-06T12:00:00-05:00",
-   "all_day": false,
-   "venue": "Cre8sArt School Hoboken",
-   "address": "644 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/hoboken-kids-ages-4-9-fantasy-worlds-art-camp-registration-2003974364269",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196683161%2F164633544847%2F1%2Foriginal.20261027-141634?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.761&fp-y=0.35&s=27df73910737748e5a7196db1c802e43",
-   "price": "$110+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/hoboken-kids-ages-4-9-fantasy-worlds-art-camp-nov-6-af8fcf/"
-  },
-  {
-   "id": "eventbrite:2003976300059",
-   "title": "Hoboken: Teens ( Ages 10-17) Fantasy Worlds Art Camp",
-   "description": "Dive into a magical art camp where your wildest fantasy worlds come to life with colors and creativity!",
-   "start": "2026-11-06T08:30:00-05:00",
-   "end": "2026-11-06T12:00:00-05:00",
-   "all_day": false,
-   "venue": "Cre8sArt School Hoboken",
-   "address": "644 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/hoboken-teens-ages-10-17-fantasy-worlds-art-camp-registration-2003976300059",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196687543%2F164633544847%2F1%2Foriginal.20261027-150351?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=59f1c00501353993c48ac7a3c576b871",
-   "price": "$116+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/hoboken-teens-ages-10-17-fantasy-worlds-art-camp-nov-6-1356eb/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17877392",
-   "title": "ESL Class",
-   "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
-   "start": "2026-11-06T10:00:00-05:00",
-   "end": "2026-11-06T12:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17877392",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/esl-class-nov-6-d74a0f/"
-  },
-  {
-   "id": "google:hobokennjcoffeewithnewfriends20261106hoboken",
-   "title": "Hoboken (NJ) - Coffee With New Friends",
-   "description": "",
-   "start": "2026-11-06T10:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Boomerang Bites",
-   "address": "Boomerang Bites, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/events/boomerang-bites/hoboken-nj-coffee-with-new-friends/1075081512018459/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_3XM1PNjVjm2DqxwpbRQrIEw6KgRoMzHrtGInrc44e7W0_wVeTiWnOlMa2QRHE6QMWvNY7TXM4S1YZfY",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/hoboken-nj-coffee-with-new-friends-nov-6-7fe7ca/"
-  },
-  {
-   "id": "eventbrite:1986851324797",
-   "title": "Power Lunch for People on the Go",
-   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
-   "start": "2026-11-06T11:30:00-05:00",
-   "end": "2026-11-06T14:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851324797",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/power-lunch-for-people-on-the-go-nov-6-711851/"
-  },
-  {
-   "id": "hoboken-library:17809186",
-   "title": "Yoga Story Time",
-   "description": "Through one longer story and lots of yoga poses our Yoga Story Time focuses on developing early literacy skills through reading and play.\u00a0\n\nMovement in story time increases your little ones engagement, attention, and comprehension. Acting as animals and objects from our stories help our young readers begin to understand narrative structure.\n\nTo ensure everyone has a wonderful experience, please arrive early as spots are limited. Our Story Time session will kick off promptly at 11:45pm.",
-   "start": "2026-11-06T11:45:00-05:00",
-   "end": "2026-11-06T12:15:00-05:00",
-   "all_day": false,
-   "venue": "Damon Murray Community Gym",
-   "address": "Damon Murray Community Gym",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17809186",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/yoga-story-time-nov-6-37d98b/"
-  },
-  {
-   "id": "hoboken-library:17684018",
-   "title": "Feel Good Friday",
-   "description": "Every Friday, we encourage children and their caregivers to share in a story at the library. Each child who checks out a book or stays and reads with us can enjoy a treat! Learn about library programs, listen to music, and spend time reading with your child.\u00a0\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
-   "start": "2026-11-06T15:30:00-05:00",
-   "end": "2026-11-06T16:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17684018",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Feel_Good_Fridays.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/feel-good-friday-nov-6-69ae21/"
-  },
-  {
-   "id": "hoboken-library:17723311",
-   "title": "Teen-Led Debate Club",
-   "description": "This vibrant club provides a welcoming environment where teens can engage in lively debate games, allowing them to explore diverse topics while having fun. Participants will learn the essentials of formal debating, including its structure, rules, and effective techniques to present compelling arguments.\n\nGuided by TAB Member Gabriel, teens will have the opportunity to practice public speaking, develop persuasive strategies, and enhance their ability to think on their feet. Whether you're a seasoned debater or new to the art of argumentation, the Teen-Led Debate Club is the perfect place to cul",
-   "start": "2026-11-06T15:45:00-05:00",
-   "end": "2026-11-06T16:45:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17723311",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/teen-led-debate-club-nov-6-41d80b/"
-  },
-  {
    "id": "eventbrite:1986851547463",
    "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
    "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
@@ -362,6 +198,26 @@
    "path": "/events/candlelight-bollywood-ghar-more-pardesiya-choreography-nov-6-9610e4/"
   },
   {
+   "id": "google:stage14cperformingartsfestival202620261106jerseycity",
+   "title": "Stage 14C Performing Arts Festival 2026",
+   "description": "",
+   "start": "2026-11-06T18:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "ARTS 14C",
+   "address": "ARTS 14C, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/2004026339729?aff=ebdiglgoogleliveevents",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_UGgEozhnNMo_naUM9GYm62rHcuq4BbviVEfQKOT5M5mAClAhrKsWUnbTbJ_OjpdsSsWmNFvI-51BbhE",
+   "price": null,
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/stage-14c-performing-arts-festival-2026-nov-6-2c243c/"
+  },
+  {
    "id": "eventbrite:1406594354579",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -422,26 +278,6 @@
    ],
    "free": false,
    "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-6-575eb4/"
-  },
-  {
-   "id": "google:afterworkfridaysinjc5happyhour2for1bottles20261106jerseycity",
-   "title": "AFTER WORK FRIDAYS IN JC | $5 HAPPY HOUR & 2-FOR-1 BOTTLES",
-   "description": "",
-   "start": "2026-11-06T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Ashford",
-   "address": "The Ashford, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/after-work-fridays-in-jc-5-happy-hour-2-for-1-bottles-tickets-2004048512047",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReKtkmdFVNakam8Ic7FiODSR8rvA24zZW41JZBRfcNUgoO28nxoOMm9PVFZAV25JlG6LTdfr8UwoRrgAw",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/after-work-fridays-in-jc-5-happy-hour-2-for-1-bottles-nov-6-214f19/"
   },
   {
    "id": "google:feelgoodfridays20261106hoboken",
@@ -837,7 +673,7 @@
   },
   {
    "id": "google:360stageopenformatboilerroom20261107hoboken",
-   "title": "360\u00b0 Stage Open Format Boiler Room",
+   "title": "360 STAGE Open Format Boiler Room",
    "description": "",
    "start": "2026-11-07T21:00:00-05:00",
    "end": null,
@@ -846,7 +682,7 @@
    "address": "Madd Hatter Hoboken, Hoboken, NJ",
    "city": "Hoboken",
    "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6aed0550e140f018e3295f6f/images/bGXTBaCzE2CXhbmE1smYA8Bcn--wj0vGQkq8OihJVPA.jpg",
+   "image": "https://serpapi.com/searches/6aee552c93a73fd9cb19865e/images/rkJnkAoIH3RJG-mOa3lA2NG09Csk0HhxHUSosXT-eFY.jpg",
    "price": null,
    "source": "Google Events",
    "categories": [
@@ -854,46 +690,6 @@
    ],
    "free": false,
    "path": "/events/360-stage-open-format-boiler-room-nov-7-b713ed/"
-  },
-  {
-   "id": "google:thevictaverntennesseehoneyband20261107bayonne",
-   "title": "The Vic Tavern-Tennessee Honey Band",
-   "description": "",
-   "start": "2026-11-07T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Vic Tavern",
-   "address": "The Vic Tavern, Bayonne, NJ",
-   "city": "Bayonne",
-   "url": "https://www.bandsintown.com/e/108568875?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUWFUWMt7_3lVqsSP1DVIOChuK-e1ae9KnkzuxpbiUydTZhS8DyKfufK2IPFBVrrBUk-VuZVx_SKWN9sY",
-   "price": null,
-   "source": "bandsintown.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/the-vic-tavern-tennessee-honey-band-nov-7-b0f04a/"
-  },
-  {
-   "id": "google:thecliffsbandriverstreetgarage20261107hoboken",
-   "title": "The Cliffs Band: River Street Garage",
-   "description": "",
-   "start": "2026-11-07T22:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "River Street Garage, LLC.",
-   "address": "River Street Garage, LLC., Hoboken, NJ",
-   "city": "Hoboken",
-   "url": null,
-   "image": "https://serpapi.com/searches/6aed05528b61d6798a4641fd/images/YQjyd73FbLaXS_TLvb3fZyZJeMfxufb_iNoShb9HSF4.jpg",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/the-cliffs-band-river-street-garage-nov-7-e2e0ba/"
   },
   {
    "id": "eventbrite:1774165991239",
@@ -3009,6 +2805,26 @@
    "path": "/events/jersey-city-bitcoin-meetup-nov-12-6be9cb/"
   },
   {
+   "id": "google:thursdaysinglesnight20261112jerseycity",
+   "title": "Thursday Singles Night",
+   "description": "",
+   "start": "2026-11-12T19:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Porta",
+   "address": "Porta, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.instagram.com/reel/DevYxFZubjt/",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjJi54Xsuv6JzJpqzrb6zoC_Cg3INUEa48oJt9XR1SMpygRDTZxWnFcxruhuKmdcNmMJFuBU4uhMwuRnk",
+   "price": null,
+   "source": "instagram.com",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/thursday-singles-night-nov-12-5c57e5/"
+  },
+  {
    "id": "eventbrite:2002132371820",
    "title": "Award Breakfast",
    "description": "Celebrate excellence, honor leadership, and connect with community leaders at Modesto Foundation\u2019s 2026 Award Breakfast.",
@@ -3437,26 +3253,6 @@
    "path": "/events/closing-reception-cat-stick-easel-moon-paintings-by-rac-nov-13-47bd54/"
   },
   {
-   "id": "google:secondanniversary20261113bayonne",
-   "title": "Second Anniversary",
-   "description": "",
-   "start": "2026-11-13T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Villa Maria",
-   "address": "Villa Maria, Bayonne, NJ",
-   "city": "Bayonne",
-   "url": "https://www.zeffy.com/en-US/ticketing/second-anniversary",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRxZn6XeXBDBXgOOWa1XalU5OKOQA-BHPBkVuK-3sucemPcdiMeVAApCdgfahqS43iWzMVHLKmIpusZKo",
-   "price": null,
-   "source": "zeffy.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/second-anniversary-nov-13-39c3f5/"
-  },
-  {
    "id": "eventbrite:2003010886481",
    "title": "Knife Skills 101: Precision Blades WEBINAR",
    "description": "Sharpen your knife skills virtually alongside an Expert Chef from your home kitchen. Mastering  precision, presentation, and speed.",
@@ -3560,26 +3356,6 @@
    "path": "/events/find-your-voice-vocal-workshop-with-brian-wiseman-nov-13-ff5d83/"
   },
   {
-   "id": "google:benefitforthewaterprojectfoodiesnewfriendsjerseycity20261113jerseycity",
-   "title": "Benefit for The Water Project | Foodies + New Friends: Jersey City",
-   "description": "",
-   "start": "2026-11-13T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Rustique Pizza",
-   "address": "Rustique Pizza, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/2001095055178?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQV_4F-sHF1dSMOPGIDAc35r-TNBSQ_iI2eHEXeQ1FRDQAZccE05W5meD1jDC0nnyYEu3q9zLJjrxwzg4",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/benefit-for-the-water-project-foodies-new-friends-jerse-nov-13-c9c83e/"
-  },
-  {
    "id": "google:amyrigby20261113hoboken",
    "title": "Amy Rigby",
    "description": "",
@@ -3589,8 +3365,8 @@
    "venue": "Little City Books",
    "address": "Little City Books, Hoboken, NJ",
    "city": "Hoboken",
-   "url": null,
-   "image": "https://serpapi.com/searches/6aed05528b61d6798a4641fd/images/l_wRUlKuM2Ufo4N4L2edpNTA02flDuWYf357r3mazcU.jpg",
+   "url": "https://www.google.com/search?q=Little+City+Books&ludocid=1827797988423809037&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://serpapi.com/searches/6aee5531412f43c6df15aa9a/images/r4b9w6jseZMPWBZaFXXjDW7OnxAdC9mh7pG-3LOHqv8.jpg",
    "price": null,
    "source": "Google Events",
    "categories": [
@@ -4029,6 +3805,46 @@
    "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-14-09d14a/"
   },
   {
+   "id": "google:seanpatrickandthealibis20261114hoboken",
+   "title": "Sean Patrick and the Alibis",
+   "description": "",
+   "start": "2026-11-14T21:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Willie McBride\u2019s",
+   "address": "Willie McBride\u2019s, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.bandsintown.com/e/109025495?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_aWChlRU59e2fJIdIxDLCYVITrFjcs11dy5mCHHq5-859piMnrMw3c2WSsapM-ocYJrRtwDdgr55gFi4",
+   "price": null,
+   "source": "bandsintown.com",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/sean-patrick-and-the-alibis-nov-14-97f6f4/"
+  },
+  {
+   "id": "google:sundaynaturewalks20261115bayonne",
+   "title": "Sunday Nature Walks",
+   "description": "",
+   "start": "2026-11-15T09:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Otaiko Hibachi & Sushi Lounge",
+   "address": "Otaiko Hibachi & Sushi Lounge, Bayonne, NJ",
+   "city": "Bayonne",
+   "url": "https://www.facebook.com/events/near-otaiko-hibachi-sushi-lounge-south-cove-commons-mall-bayonne-nj/sunday-nature-walks/2117514272212422/",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLRnAqiG8iKQNM4GtSmBGC-8AQqmt7lR2IsxFwMQlhR-bqmqaaisuEAa4UWtV1t4ITMej--KnWTqHVE8",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Outdoors"
+   ],
+   "free": false,
+   "path": "/events/sunday-nature-walks-nov-15-0ce238/"
+  },
+  {
    "id": "eventbrite:1774166001269",
    "title": "Breakfast with the Bros | Jersey City",
    "description": "Need a circle of good men in your life? Meet some new bros over  breakfast or coffee!",
@@ -4093,7 +3909,7 @@
   },
   {
    "id": "eventbrite:2002177741522",
-   "title": "Holiday Afternoon Tea Drag Experience with Peppermint",
+   "title": "Holiday Afternoon Tea Drag Experience with Ru Paul's Drag Race: Peppermint",
    "description": "Celebrate the holidays with Peppermint and Moody Tea at W Hoboken for an afternoon of tea, cocktails, festive bites, and more.",
    "start": "2026-11-15T15:00:00-05:00",
    "end": "2026-11-15T17:00:00-05:00",
@@ -4101,7 +3917,7 @@
    "venue": "W Hoboken",
    "address": "225 River Street, Hoboken, NJ 07030",
    "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/holiday-afternoon-tea-drag-experience-with-peppermint-tickets-2002177741522",
+   "url": "https://www.eventbrite.com/e/holiday-afternoon-tea-drag-experience-with-ru-pauls-drag-race-peppermint-tickets-2002177741522",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194907935%2F146733578081%2F1%2Foriginal.20261002-140730?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.045&fp-y=0.435&s=7b1dd24ee1245c705bb703ec70642801",
    "price": "$87+",
    "source": "Eventbrite",
@@ -4109,7 +3925,7 @@
     "Nightlife"
    ],
    "free": false,
-   "path": "/events/holiday-afternoon-tea-drag-experience-with-peppermint-nov-15-c457a5/"
+   "path": "/events/holiday-afternoon-tea-drag-experience-with-ru-paul-s-dr-nov-15-c457a5/"
   },
   {
    "id": "eventbrite:1984582756448",
@@ -6332,6 +6148,26 @@
    "path": "/events/jersey-city-bitcoin-socratic-seminar-series-nov-19-6dd508/"
   },
   {
+   "id": "google:bayonnebookclub20261119bayonne",
+   "title": "Bayonne Book Club",
+   "description": "",
+   "start": "2026-11-19T19:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Bayonne Public Library, Bayonne, NJ",
+   "city": "Bayonne",
+   "url": "https://www.instagram.com/p/DfHwSq5l2MY/",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJRgXKJI6QpBYwVJFx_EGdd6ElY0TjtqSujqGFItFkENF8fXhD9XCY35yEk8eEQVOsmmFXupqvucTX-A",
+   "price": null,
+   "source": "instagram.com",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/bayonne-book-club-nov-19-47f85a/"
+  },
+  {
    "id": "eventbrite:2003375414795",
    "title": "Free Stand-Up Comedy at Pet Shop - Thursday, Nov 19th at 8:30 & 10:30",
    "description": "Jersey City's fun, chaotic, free night of stand-up comedy! Showtimes at 8:30 and 10:30. Longest running free comedy show in Jersey City.",
@@ -6351,6 +6187,26 @@
    ],
    "free": true,
    "path": "/events/free-stand-up-comedy-at-pet-shop-thursday-nov-19th-at-8-nov-19-3df73a/"
+  },
+  {
+   "id": "google:singathatter20261119hoboken",
+   "title": "Sing At Hatter",
+   "description": "",
+   "start": "2026-11-19T21:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "Madd Hatter Hoboken, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://serpapi.com/searches/6aee5531412f43c6df15aa9a/images/C4EkHHcJ3wuN_8-zs_FAPsU-NY2livvAYoY7pAJKJlk.jpg",
+   "price": null,
+   "source": "Google Events",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/sing-at-hatter-nov-19-c2494a/"
   },
   {
    "id": "JC Families:108453-1795161600-1826733600@jcfamilies.com",
@@ -6659,26 +6515,6 @@
    "path": "/events/scorsese-and-the-stones-nov-20-bc8a08/"
   },
   {
-   "id": "google:secondnatureatthewellgrill20261120bayonne",
-   "title": "Second Nature at The Well & Grill",
-   "description": "",
-   "start": "2026-11-20T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Well & Grill",
-   "address": "The Well & Grill, Bayonne, NJ",
-   "city": "Bayonne",
-   "url": "https://www.facebook.com/events/the-well-grill/second-nature-at-the-well-grill/1443546931130012/",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSArsB5JfXqQHrO6FGWo6maDoAYh-sCdAwfRlq09TGdYLENNqLxzoSTjGp1zMSZ5mO_stu8Hx8sNUk7510",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Outdoors"
-   ],
-   "free": false,
-   "path": "/events/second-nature-at-the-well-grill-nov-20-d60e46/"
-  },
-  {
    "id": "eventbrite:676802322967",
    "title": "Muscle Men Male Strippers Revue & Male Strip Club Shows Hoboken, NJ",
    "description": "Muscle Men Male Revue the hottest male stripper revue in Hoboken. Come visit this ultimate Hoboken male strip club show!",
@@ -6759,26 +6595,6 @@
    ],
    "free": true,
    "path": "/events/cats-and-coffee-adoption-event-nov-21-8e024a/"
-  },
-  {
-   "id": "google:volunteershorelinecleanup20261121jerseycity",
-   "title": "Volunteer Shoreline Cleanup",
-   "description": "",
-   "start": "2026-11-21T10:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Liberty State Park",
-   "address": "Liberty State Park, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.facebook.com/LibertyStateParkOfficial/posts/and-just-like-that-its-november-join-us-in-learning-about-our-local-habitat-and-/1433262465671088/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuaEiG0kvjr91Pf3DSA5zsRlRE1aOm4x9UHzOlmdvBURpLtDcDcYOOpAomI37hFZDxYmbxJ0-gbcv1EqI",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Outdoors"
-   ],
-   "free": false,
-   "path": "/events/volunteer-shoreline-cleanup-nov-21-596988/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-16000089",
@@ -7024,6 +6840,26 @@
    ],
    "free": false,
    "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-21-913c5b/"
+  },
+  {
+   "id": "google:sundaynaturewalks20261122bayonne",
+   "title": "Sunday Nature Walks",
+   "description": "",
+   "start": "2026-11-22T09:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Otaiko Hibachi & Sushi Lounge",
+   "address": "Otaiko Hibachi & Sushi Lounge, Bayonne, NJ",
+   "city": "Bayonne",
+   "url": "https://www.google.com/search?q=Otaiko+Hibachi+%26+Sushi+Lounge&ludocid=7259433585278313848&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://serpapi.com/searches/6aee55311b6c6edccf9e7bf2/images/xvQLcdTt1cufQZ8gqTm9v350wjbFviedHqo5erIec_Y.jpg",
+   "price": null,
+   "source": "Google Events",
+   "categories": [
+    "Outdoors"
+   ],
+   "free": false,
+   "path": "/events/sunday-nature-walks-nov-22-15cff3/"
   },
   {
    "id": "eventbrite:2003029969559",
@@ -9679,6 +9515,26 @@
    "path": "/events/dance-party-at-madd-hatter-dec-3-5f1b2d/"
   },
   {
+   "id": "google:gregorymcloughlinthelemonadebandwithbarbarabeeman20261203hoboken",
+   "title": "GREGORY McLOUGHLIN & The LEMONADE BAND with BARBARA BEEMAN!",
+   "description": "",
+   "start": "2026-12-03T19:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "503 Social Club",
+   "address": "503 Social Club, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.google.com/search?q=503+Social+Club&ludocid=5239736050251432147&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://serpapi.com/searches/6aee5531412f43c6df15aa9a/images/2VjainoQtk90Ih-O4d24GJyNk4gH2_B00XEefb4H3ww.jpg",
+   "price": null,
+   "source": "Google Events",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/gregory-mcloughlin-the-lemonade-band-with-barbara-beema-dec-3-9a12df/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17068933",
    "title": "Bayonne Public Schools Class Visit",
    "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
@@ -10016,10 +9872,10 @@
    "venue": "503 Social Club",
    "address": "503 Social Club, Hoboken, NJ",
    "city": "Hoboken",
-   "url": null,
-   "image": "https://serpapi.com/searches/6aed05528b61d6798a4641fd/images/tjjtxdyf9XdSaRP3iisSrTiOtPJrxOQhQoiNSnC1d3Y.jpg",
+   "url": "https://www.facebook.com/events/503-3rd-st-hoboken-nj-united-states-new-jersey-07030/james-maddock-returns-new-date/2372492266573210/",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4iTvKxViw2mCIGyTAArFqR5z2RZJJ61ZFWboaSDA7u80aanpHs0wY42S78y2YEp5xUvXaqL9gZKQiDbQ",
    "price": null,
-   "source": "Google Events",
+   "source": "Facebook",
    "categories": [
     "Community"
    ],
@@ -11682,7 +11538,7 @@
    "address": "Buttero, Bayonne, NJ",
    "city": "Bayonne",
    "url": "https://www.google.com/search?q=Buttero&ludocid=4654859303875029944&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6aed05536a1f11d750fa26f3/images/4ugw7fITf8ig75_ui9aPkEQ7OlFEEMt53uvtL45WWJU.jpg",
+   "image": "https://serpapi.com/searches/6aee55311b6c6edccf9e7bf2/images/6RwJqU_npqodS20uAm32BgRuVCE48srVG-u3OiawXOc.jpg",
    "price": null,
    "source": "Google Events",
    "categories": [
@@ -15402,6 +15258,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-jan-5-fb1bf6/"
+  },
+  {
+   "id": "eventbrite:1987134069494",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2027-01-05T16:00:00-05:00",
+   "end": "2027-01-05T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134069494",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-jan-5-44fe92/"
   }
  ]
 }

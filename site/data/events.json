@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-06T17:31:27.613279-05:00",
+ "generated": "2026-11-07T05:31:11.320469-05:00",
  "sources": {
-  "jersey_city_gov": 117,
-  "bayonne_library": 370,
-  "hoboken_library": 149,
+  "jersey_city_gov": 113,
+  "bayonne_library": 361,
+  "hoboken_library": 146,
   "stevens": 39,
   "jc_families": 6,
-  "luma": 10,
+  "luma": 12,
   "ticketmaster": 10,
   "seatgeek": 19,
-  "eventbrite": 510,
+  "eventbrite": 508,
   "serpapi_google_events": 31
  },
  "events": [
@@ -114,190 +114,6 @@
    ],
    "free": false,
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
-  },
-  {
-   "id": "eventbrite:1986851547463",
-   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
-   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
-   "start": "2026-11-06T16:00:00-05:00",
-   "end": "2026-11-06T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851547463",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-nov-6-b9df95/"
-  },
-  {
-   "id": "eventbrite:1999736740422",
-   "title": "$5 FRIDAYS JERSEY CITY | HAPPY HOUR \u2192 TOP DJS + 2-FOR-1 BOTTLES",
-   "description": "Kick off your weekend with killer DJs and unbeatable 2-for-1 bottle deals at $5 Fridays!",
-   "start": "2026-11-06T16:00:00-05:00",
-   "end": "2026-11-06T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Ashford",
-   "address": "145 Newark Avenue, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/5-fridays-jersey-city-happy-hour-top-djs-2-for-1-bottles-tickets-1999736740422",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192645557%2F2997424828956%2F1%2Foriginal.20260904-014259?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.477&fp-y=0.856&s=3e9de0df4d799f0dbd198f1380403c6a",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/5-fridays-jersey-city-happy-hour-top-djs-2-for-1-bottle-nov-6-6ff89c/"
-  },
-  {
-   "id": "eventbrite:1999737040319",
-   "title": "$5 FRIDAYS AT SIX26 | HAPPY HOUR + DRAG SHOW + TOP DJS",
-   "description": "Kick off your weekend with killer beats, drag vibes, and happy hour specials that won\u2019t break the bank.",
-   "start": "2026-11-06T16:00:00-05:00",
-   "end": "2026-11-06T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Six26 - Lounge and Rooftop",
-   "address": "128 Christopher Columbus Drive, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/5-fridays-at-six26-happy-hour-drag-show-top-djs-tickets-1999737040319",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192643391%2F2997424828956%2F1%2Foriginal.20260904-010942?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.487&fp-y=0.852&s=e9e21ae1f6d46da2ccf67f51da4f1c48",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-nov-6-2ee967/"
-  },
-  {
-   "id": "eventbrite:2004238422073",
-   "title": "Candlelight Bollywood - \"Ghar More Pardesiya\" Choreography Dance Class",
-   "description": "Celebrate Diwali with an enchanting evening of graceful movement set to the timeless, classical-infused beauty of \"Ghar More Pardesiya.\"",
-   "start": "2026-11-06T17:30:00-05:00",
-   "end": "2026-11-06T18:30:00-05:00",
-   "all_day": false,
-   "venue": "Fluid Arts Studio",
-   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/candlelight-bollywood-ghar-more-pardesiya-choreography-dance-class-tickets-2004238422073",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197090272%2F3009697406825%2F1%2Foriginal.20261102-161339?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=26edd9df37cf1e89f72c0e679a457de7",
-   "price": "$29+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture",
-    "Learning"
-   ],
-   "free": false,
-   "path": "/events/candlelight-bollywood-ghar-more-pardesiya-choreography-nov-6-9610e4/"
-  },
-  {
-   "id": "google:stage14cperformingartsfestival202620261106jerseycity",
-   "title": "Stage 14C Performing Arts Festival 2026",
-   "description": "",
-   "start": "2026-11-06T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "ARTS 14C",
-   "address": "ARTS 14C, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/2004026339729?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_UGgEozhnNMo_naUM9GYm62rHcuq4BbviVEfQKOT5M5mAClAhrKsWUnbTbJ_OjpdsSsWmNFvI-51BbhE",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/stage-14c-performing-arts-festival-2026-nov-6-2c243c/"
-  },
-  {
-   "id": "eventbrite:1406594354579",
-   "title": "Dance Party at Madd Hatter",
-   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
-   "start": "2026-11-06T19:00:00-05:00",
-   "end": "2026-11-06T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594354579",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music",
-    "Arts & Culture",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/dance-party-at-madd-hatter-nov-6-45ed49/"
-  },
-  {
-   "id": "Stevens Institute:qbjQkUjc9prekCt9fcwA",
-   "title": "Rumors",
-   "description": "Performance of the Neil Simon farce Rumors",
-   "start": "2026-11-06T20:00:00-05:00",
-   "end": "2026-11-06T22:00:00-05:00",
-   "all_day": false,
-   "venue": "DeBaun Auditorium",
-   "address": "DeBaun Auditorium",
-   "city": "Hoboken",
-   "url": "https://events.stevens.edu/",
-   "image": null,
-   "price": null,
-   "source": "Stevens Institute",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/rumors-nov-6-f316ed/"
-  },
-  {
-   "id": "eventbrite:676802282847",
-   "title": "Muscle Men Male Strippers Revue & Male Strip Club Shows Hoboken, NJ",
-   "description": "Muscle Men Male Revue the hottest male stripper revue in Hoboken. Come visit this ultimate Hoboken male strip club show!",
-   "start": "2026-11-06T21:00:00-05:00",
-   "end": "2026-11-06T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Muscle Men Male Strippers Hoboken NJ",
-   "address": "150-198 7th St, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/muscle-men-male-strippers-revue-male-strip-club-shows-hoboken-nj-tickets-676802282847",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F126587963%2F269303848782%2F1%2Foriginal.20190808-020455?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=261%2C0%2C1730%2C865&s=7825c824ad1bf882ee5ad9d6241bb501",
-   "price": "$12+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-6-575eb4/"
-  },
-  {
-   "id": "google:feelgoodfridays20261106hoboken",
-   "title": "Feel Good Fridays",
-   "description": "",
-   "start": "2026-11-06T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://events.musicofourdesire.com/el/event/sd3n-feel-good-fridays-dj-set-new-york-city-united-states",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUVX1ck2ArgJCbhcP9Gy3hv9_gpgck0cOcj7V9QVJcylAVhe_L2eAQvVVU0dWyqbK_6mms3ZSqkLAzNsQ",
-   "price": null,
-   "source": "events.musicofourdesire.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/feel-good-fridays-nov-6-850b99/"
   },
   {
    "id": "eventbrite:1984140850696",
@@ -3702,6 +3518,46 @@
    "path": "/events/family-funday-story-time-nov-14-232f8d/"
   },
   {
+   "id": "luma:evt-iYCx2RhTngt1fFM",
+   "title": "diwali, like we were kids again.",
+   "description": "",
+   "start": "2026-11-14T15:00:00-05:00",
+   "end": "2026-11-14T17:00:00-05:00",
+   "all_day": false,
+   "venue": "Hoboken",
+   "address": "",
+   "city": "Hoboken",
+   "url": "https://lu.ma/0inopc6y",
+   "image": "https://images.lumacdn.com/uploads/m8/5dd94602-ba49-4f8b-962b-e6745379b370.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": true,
+   "path": "/events/diwali-like-we-were-kids-again-nov-14-3db699/"
+  },
+  {
+   "id": "luma:evt-v0vQ31JHHbV9FvX",
+   "title": "Table 3: AFRO-Chophouse",
+   "description": "",
+   "start": "2026-11-14T18:00:00-05:00",
+   "end": "2026-11-14T20:30:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/ql6yknaf",
+   "image": "https://images.lumacdn.com/uploads/iy/222d1d88-f852-475f-bef1-fa79dbdea763.png",
+   "price": "Paid",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/table-3-afro-chophouse-nov-14-f385c7/"
+  },
+  {
    "id": "eventbrite:1406594394699",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -4211,27 +4067,6 @@
    "path": "/events/financial-literacy-roadshow-nov-16-469067/"
   },
   {
-   "id": "City of Jersey City:21059938",
-   "title": "Shade Tree Committee",
-   "description": "Third Monday of each month, 6:30PM (except for holidays) and are open to the public.\u00a0\n\nJune and December Meetings will be held in-person\nCouncil Caucus Room, Ground floor, City Hall, 280 Grove Street\n\nJanuary-May and July-November meetings will be held virtually on Teams\u00a0\n\nhttps://jcnj.org/vstc",
-   "start": "2026-11-16T18:30:00-05:00",
-   "end": "2026-11-16T20:00:00-05:00",
-   "all_day": false,
-   "venue": "City Hall/ Virtually",
-   "address": "City Hall/ Virtually",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic",
-    "Outdoors"
-   ],
-   "free": true,
-   "path": "/events/shade-tree-committee-nov-16-92d6bd/"
-  },
-  {
    "id": "City of Jersey City:21355180",
    "title": "Historic Preservation Commission",
    "description": "",
@@ -4251,6 +4086,27 @@
    ],
    "free": true,
    "path": "/events/historic-preservation-commission-nov-16-4aa4b3/"
+  },
+  {
+   "id": "City of Jersey City:21059938",
+   "title": "Shade Tree Committee",
+   "description": "Third Monday of each month, 6:30PM (except for holidays) and are open to the public.\u00a0\n\nJune and December Meetings will be held in-person\nCouncil Caucus Room, Ground floor, City Hall, 280 Grove Street\n\nJanuary-May and July-November meetings will be held virtually on Teams\u00a0\n\nhttps://jcnj.org/vstc",
+   "start": "2026-11-16T18:30:00-05:00",
+   "end": "2026-11-16T20:00:00-05:00",
+   "all_day": false,
+   "venue": "City Hall/ Virtually",
+   "address": "City Hall/ Virtually",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Civic",
+    "Outdoors"
+   ],
+   "free": true,
+   "path": "/events/shade-tree-committee-nov-16-92d6bd/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17590217",
@@ -15278,6 +15134,46 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-jan-5-44fe92/"
+  },
+  {
+   "id": "eventbrite:1397814704409",
+   "title": "Taco Tuesdays at Madd Hatter",
+   "description": "Unlimited Tacos every Tuesday at the madd hatter",
+   "start": "2027-01-05T19:00:00-05:00",
+   "end": "2027-01-05T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/taco-tuesdays-at-madd-hatter-tickets-1397814704409",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1046383773%2F1927671691523%2F1%2Foriginal.20250605-061908?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481082800663&fp-y=0.555270522388&s=5600ffa6cc73c5e57593a6505864a6a3",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": false,
+   "path": "/events/taco-tuesdays-at-madd-hatter-jan-5-0cd3ac/"
+  },
+  {
+   "id": "eventbrite:1984580532797",
+   "title": "Taco & Tequila Tuesdays at The Exchange",
+   "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
+   "start": "2027-01-05T19:00:00-05:00",
+   "end": "2027-01-06T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/taco-tequila-tuesdays-at-the-exchange-tickets-1984580532797",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179147819%2F2894508074541%2F1%2Foriginal.20260305-205711?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=50be47c881f7dd9eb9cd7c1af4ae8279",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/taco-tequila-tuesdays-at-the-exchange-jan-5-9d2a6c/"
   }
  ]
 }

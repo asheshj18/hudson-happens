@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-07T05:31:11.320469-05:00",
+ "generated": "2026-11-07T11:28:05.438201-05:00",
  "sources": {
   "jersey_city_gov": 113,
   "bayonne_library": 361,
   "hoboken_library": 146,
   "stevens": 39,
   "jc_families": 6,
-  "luma": 12,
+  "luma": 13,
   "ticketmaster": 10,
   "seatgeek": 19,
   "eventbrite": 508,
@@ -116,26 +116,6 @@
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
   },
   {
-   "id": "eventbrite:1984140850696",
-   "title": "Storytime with Laura - Saturday",
-   "description": "Storytime with Laura Saturdays at 9am at Little City Books! $10",
-   "start": "2026-11-07T09:00:00-05:00",
-   "end": "2026-11-07T10:00:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/storytime-with-laura-saturday-tickets-1984140850696",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179694701%2F294282509964%2F1%2Foriginal.20260312-152844?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=68b976d406464fb8184a1a561dc2933b",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": false,
-   "path": "/events/storytime-with-laura-saturday-nov-7-66884a/"
-  },
-  {
    "id": "eventbrite:2003972191771",
    "title": "Jersey City Entrepreneur Bootcamp",
    "description": "Turn your business idea into reality! Join our free Jersey City bootcamp on entrepreneurship, legal considerations, and financial management",
@@ -154,27 +134,6 @@
    ],
    "free": true,
    "path": "/events/jersey-city-entrepreneur-bootcamp-nov-7-4d0a7b/"
-  },
-  {
-   "id": "hoboken-library:17600443",
-   "title": "Morning Music",
-   "description": "Meet us for a story time that focuses on singing, dancing, and play. While we may not be reading books, Morning Music Class still helps promote your little ones early literacy skills with a focus on vocabulary expansion, and memory development,\u00a0Singing and dancing with the crowd will help our little ones (and adults!) foster community through shared experience.\u00a0\n\nRegistration is not required.",
-   "start": "2026-11-07T10:30:00-05:00",
-   "end": "2026-11-07T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17600443",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Music"
-   ],
-   "free": true,
-   "path": "/events/morning-music-nov-7-1cbac4/"
   },
   {
    "id": "google:morningmusicwithmrcorey20261107hoboken",
@@ -1664,6 +1623,26 @@
    ],
    "free": true,
    "path": "/events/jersey-city-networking-happy-hour-5-beers-at-902-brewin-nov-10-d4c122/"
+  },
+  {
+   "id": "luma:evt-R59ZX2vBFiVYDOS",
+   "title": "Yoga Nidra in the Community Room, Nov 10, 7.30 - 8:45pm",
+   "description": "",
+   "start": "2026-11-10T19:30:00-05:00",
+   "end": "2026-11-10T20:45:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/9jlkqvwj",
+   "image": "https://images.lumacdn.com/uploads/6a/1b502761-71d7-4f8c-84d5-0c6a6e29ac0d.jpg",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/yoga-nidra-in-the-community-room-nov-10-7-30-8-45pm-nov-10-60dac4/"
   },
   {
    "id": "eventbrite:2003828373607",
@@ -15174,6 +15153,26 @@
    ],
    "free": true,
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-jan-5-9d2a6c/"
+  },
+  {
+   "id": "Bayonne Public Library:LibCal-17197-17741938",
+   "title": "Bayonne Public Schools Class Visit",
+   "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
+   "start": "2027-01-06T09:30:00-05:00",
+   "end": "2027-01-06T11:00:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17741938",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Learning"
+   ],
+   "free": true,
+   "path": "/events/bayonne-public-schools-class-visit-jan-6-7ceb23/"
   }
  ]
 }

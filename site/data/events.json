@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-07T17:26:41.905787-05:00",
+ "generated": "2026-11-08T05:31:40.638568-05:00",
  "sources": {
-  "jersey_city_gov": 113,
-  "bayonne_library": 361,
-  "hoboken_library": 146,
-  "stevens": 39,
+  "jersey_city_gov": 111,
+  "bayonne_library": 353,
+  "hoboken_library": 143,
+  "stevens": 37,
   "jc_families": 6,
-  "luma": 14,
+  "luma": 16,
   "ticketmaster": 10,
   "seatgeek": 19,
-  "eventbrite": 504,
+  "eventbrite": 500,
   "serpapi_google_events": 47
  },
  "events": [
@@ -114,251 +114,6 @@
    ],
    "free": false,
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
-  },
-  {
-   "id": "eventbrite:2001001621716",
-   "title": "Bollywood Family Diwali Cruise Party - Bollywood Nights NYC",
-   "description": "Get ready to dance and celebrate Diwali Bollywood style on a cruise with family and friends!",
-   "start": "2026-11-07T18:00:00-05:00",
-   "end": "2026-11-07T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Liberty Landing Marina",
-   "address": "80 Audrey Zapp Drive, Jersey City, NJ 07305",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/bollywood-family-diwali-cruise-party-bollywood-nights-nyc-tickets-2001001621716",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193463255%2F931819574253%2F1%2Foriginal.20260914-163330?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.513&fp-y=0.014&s=b58988cbcac1fe609fed60d9348a44ee",
-   "price": "$61+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family",
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/bollywood-family-diwali-cruise-party-bollywood-nights-n-nov-7-3caab7/"
-  },
-  {
-   "id": "eventbrite:2001002595629",
-   "title": "Diwali On Hudson - Family Diwali Cruise Party",
-   "description": "Get ready to dance and celebrate Diwali Bollywood style on a cruise with family and friends!",
-   "start": "2026-11-07T18:00:00-05:00",
-   "end": "2026-11-07T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Liberty Landing Marina",
-   "address": "80 Audrey Zapp Drive, Jersey City, NJ 07305",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/diwali-on-hudson-family-diwali-cruise-party-tickets-2001002595629",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193463255%2F931819574253%2F1%2Foriginal.20260914-163330?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.513&fp-y=0.014&s=b58988cbcac1fe609fed60d9348a44ee",
-   "price": "$61+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family",
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/diwali-on-hudson-family-diwali-cruise-party-nov-7-c11a2b/"
-  },
-  {
-   "id": "eventbrite:1406594364609",
-   "title": "Dance Party at Madd Hatter",
-   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
-   "start": "2026-11-07T19:00:00-05:00",
-   "end": "2026-11-07T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594364609",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music",
-    "Arts & Culture",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/dance-party-at-madd-hatter-nov-7-cdffc0/"
-  },
-  {
-   "id": "eventbrite:2003369772920",
-   "title": "Agua Azul: A One Act Play with Santos, Songs  & Dance",
-   "description": "Dive into a night of storytelling featuring vibrant rhythms, soulful songs, and dance: Mi familia!",
-   "start": "2026-11-07T19:00:00-05:00",
-   "end": "2026-11-07T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Nimbus Arts Center",
-   "address": "329 Warren Street, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/agua-azul-a-one-act-play-with-santos-songs-dance-tickets-2003369772920",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196147441%2F113362999825%2F1%2Foriginal.20261020-000943?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.512&fp-y=0.052&s=d01284517330f6031226401304a713d6",
-   "price": "$18+",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/agua-azul-a-one-act-play-with-santos-songs-dance-nov-7-f83d09/"
-  },
-  {
-   "id": "google:aguaazul20261107jerseycity",
-   "title": "Agua Azul",
-   "description": "",
-   "start": "2026-11-07T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Nimbus Arts Center",
-   "address": "Nimbus Arts Center, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.viagogo.es/Entradas-Conciertos/Musica-del-Mundo/Agua-Azul-Sacamecate-Cinco-Entradas/E-162453472",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvwrBePvpmn5oMPCpMS75YJjcsRDcROdgkWrQ8RMS__WWDFD9UrLxxAmvctkBeltTfgMv3Zk26dZYv91Y",
-   "price": null,
-   "source": "viagogo.es",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/agua-azul-nov-7-66508f/"
-  },
-  {
-   "id": "Stevens Institute:EWV9BmMHWXaTsMvteR1z",
-   "title": "Rumors",
-   "description": "Performance of the Neil Simon farce Rumors",
-   "start": "2026-11-07T20:00:00-05:00",
-   "end": "2026-11-07T22:00:00-05:00",
-   "all_day": false,
-   "venue": "DeBaun Auditorium",
-   "address": "DeBaun Auditorium",
-   "city": "Hoboken",
-   "url": "https://events.stevens.edu/",
-   "image": null,
-   "price": null,
-   "source": "Stevens Institute",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/rumors-nov-7-9a3188/"
-  },
-  {
-   "id": "eventbrite:2001080000148",
-   "title": "LITTLE CITY LAUGHING with Leah Williams",
-   "description": "Amelia Ritthaler James Azzaretti  Conor Janda  Tyler Groce Demetrius Fields",
-   "start": "2026-11-07T20:00:00-05:00",
-   "end": "2026-11-07T21:30:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/little-city-laughing-with-leah-williams-tickets-2001080000148",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193585701%2F294282509964%2F1%2Foriginal.20260915-184752?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.465&fp-y=0.395&s=f796f8c2320d3f9316bc2315b6bbb705",
-   "price": "$25+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/little-city-laughing-with-leah-williams-nov-7-c2f346/"
-  },
-  {
-   "id": "eventbrite:676802292877",
-   "title": "Muscle Men Male Strippers Revue & Male Strip Club Shows Hoboken, NJ",
-   "description": "Muscle Men Male Revue the hottest male stripper revue in Hoboken. Come visit this ultimate Hoboken male strip club show!",
-   "start": "2026-11-07T21:00:00-05:00",
-   "end": "2026-11-07T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Muscle Men Male Strippers Hoboken NJ",
-   "address": "150-198 7th St, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/muscle-men-male-strippers-revue-male-strip-club-shows-hoboken-nj-tickets-676802292877",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F126587963%2F269303848782%2F1%2Foriginal.20190808-020455?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=261%2C0%2C1730%2C865&s=7825c824ad1bf882ee5ad9d6241bb501",
-   "price": "$12+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-7-6ac650/"
-  },
-  {
-   "id": "google:garyowen20261107jerseycity",
-   "title": "Gary Owen",
-   "description": "",
-   "start": "2026-11-07T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Sherman Place",
-   "address": "Sherman Place, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.facebook.com/events/hoyt-sherman-place-theater/gary-owen/4591407864446140/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsCrM4yW0BTJVem0i6uJau8_BinsLHxp-lW_aSKlYudM4NrUyuOZ0MXy_qe9IMQN2N0IqiAOdsbaWyliY",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/gary-owen-nov-7-884fe9/"
-  },
-  {
-   "id": "google:360stageopenformatboilerroom20261107hoboken",
-   "title": "360 STAGE Open Format Boiler Room",
-   "description": "",
-   "start": "2026-11-07T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/2004380533131?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTL4LB1TdsliPphY-bsPPhnKodoUysJJ4efE0EjUwArxKOlEy49s91S1RiT5_20EUCPUKRNk89CMjz-x2g",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/360-stage-open-format-boiler-room-nov-7-b713ed/"
-  },
-  {
-   "id": "google:thevictaverntennesseehoneyband20261107bayonne",
-   "title": "The Vic Tavern-Tennessee Honey Band",
-   "description": "",
-   "start": "2026-11-07T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Vic Tavern",
-   "address": "The Vic Tavern, Bayonne, NJ",
-   "city": "Bayonne",
-   "url": "https://www.bandsintown.com/e/108568875?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUWFUWMt7_3lVqsSP1DVIOChuK-e1ae9KnkzuxpbiUydTZhS8DyKfufK2IPFBVrrBUk-VuZVx_SKWN9sY",
-   "price": null,
-   "source": "bandsintown.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/the-vic-tavern-tennessee-honey-band-nov-7-b0f04a/"
-  },
-  {
-   "id": "google:thecliffsbandriverstreetgarage20261107hoboken",
-   "title": "The Cliffs Band: River Street Garage",
-   "description": "",
-   "start": "2026-11-07T22:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "River Street Garage, LLC.",
-   "address": "River Street Garage, LLC., Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.bandsintown.com/ja/e/108204116-the-cliffs-band-at-river-street-garage-llc.?event_id=108204116",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNLqh8STsAJJkOBSU5lhIYHN7CyKBnWTCQ4RqT8AlF6SHXcWhFtNFpNHrAUc43JVzMcZcWGKcojHgv7OU",
-   "price": null,
-   "source": "bandsintown.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/the-cliffs-band-river-street-garage-nov-7-e2e0ba/"
   },
   {
    "id": "eventbrite:1774165991239",
@@ -3877,6 +3632,47 @@
    "path": "/events/sunday-supper-at-the-exchange-nov-15-022399/"
   },
   {
+   "id": "eventbrite:2004533503670",
+   "title": "Open Level Afro Dance Workshop",
+   "description": "Experience Afro dance through foundational training, across-the-floor movement, cultural history, rhythm and high-energy choreography.",
+   "start": "2026-11-15T16:00:00-05:00",
+   "end": "2026-11-15T17:30:00-05:00",
+   "all_day": false,
+   "venue": "Fluid Arts Studio",
+   "address": "99 Mallory Ave, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/open-level-afro-dance-workshop-tickets-2004533503670",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195071995%2F3009697406825%2F1%2Foriginal.20261005-131309?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.032&fp-y=0.521&s=26df7815cb2de3e501b315cfe77d2b25",
+   "price": "$10+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture",
+    "Learning"
+   ],
+   "free": false,
+   "path": "/events/open-level-afro-dance-workshop-nov-15-763c58/"
+  },
+  {
+   "id": "luma:evt-QWQIh0Lk3ma8nLa",
+   "title": "Outside Context",
+   "description": "",
+   "start": "2026-11-15T17:00:00-05:00",
+   "end": "2026-11-15T18:00:00-05:00",
+   "all_day": false,
+   "venue": "The Indian Tapas",
+   "address": "The Indian Tapas, 101 Greene St, Jersey City, NJ 07302, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/7zjrvz4p",
+   "image": "https://images.lumacdn.com/uploads/p5/9c30bf0e-221e-4f75-b61f-03792215e2c4.jpg",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/outside-context-nov-15-2f01f5/"
+  },
+  {
    "id": "eventbrite:1999108333841",
    "title": "Live Music: Irish Music Session Every Sunday at The Hutton",
    "description": "Come join us at The Hutton for a lively Irish session every Sunday!",
@@ -3915,6 +3711,26 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-16-d0b604/"
+  },
+  {
+   "id": "luma:evt-jn48U79TBTaTNNb",
+   "title": "Mamas Who Walk: Providers Walk, Hudson County",
+   "description": "",
+   "start": "2026-11-16T10:00:00-05:00",
+   "end": "2026-11-16T12:00:00-05:00",
+   "all_day": false,
+   "venue": "The Hive",
+   "address": "The Hive, 1000 Park Ave, Hoboken, NJ 07030, USA",
+   "city": "Hoboken",
+   "url": "https://lu.ma/59zj8k5x",
+   "image": "https://images.lumacdn.com/uploads/hx/a2195d7b-9cf6-458e-8f03-894742430433.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/mamas-who-walk-providers-walk-hudson-county-nov-16-5f2e64/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-15952323",
@@ -15347,6 +15163,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-jan-6-d85136/"
+  },
+  {
+   "id": "hoboken-library:17743566",
+   "title": "Afternoon Story Time",
+   "description": "Story Times are a great place to meet other families and join our story time community. Together we will practice our ABCs, counting to 10, and try out our animal sounds!\u00a0\n\nThe Story Time is geared towards babies and toddlers of all ages.\n\nThrough reading, talking, and singing, Story Time helps your little one develop pre-literacy skills.\u00a0\n\nQuestions? Please email Ms. Val at valerie.coughlin@hobokenlibrary.org",
+   "start": "2027-01-06T13:15:00-05:00",
+   "end": "2027-01-06T13:45:00-05:00",
+   "all_day": false,
+   "venue": "ResilienCity Park Community Room",
+   "address": "ResilienCity Park Community Room",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17743566",
+   "image": null,
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": true,
+   "path": "/events/afternoon-story-time-jan-6-643fb4/"
   },
   {
    "id": "eventbrite:1986851461205",

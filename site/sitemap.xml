@@ -8,8 +8,6 @@
   <url><loc>https://hudsonhappens.com/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/</loc></url>
   <url><loc>https://hudsonhappens.com/events/pop-up-library-nov-9-cc66ff/</loc></url>
   <url><loc>https://hudsonhappens.com/events/esl-class-nov-9-9750f6/</loc></url>
-  <url><loc>https://hudsonhappens.com/events/503-509-communipaw-affordable-housing-lottery-nov-9-f38107/</loc></url>
-  <url><loc>https://hudsonhappens.com/events/lapsit-program-ages-18-24-months-nov-9-ed71f3/</loc></url>
   <url><loc>https://hudsonhappens.com/events/power-lunch-for-people-on-the-go-nov-9-9089d9/</loc></url>
   <url><loc>https://hudsonhappens.com/events/baby-story-time-nov-9-804159/</loc></url>
   <url><loc>https://hudsonhappens.com/events/social-work-drop-in-hours-mondays-nov-9-e90c9a/</loc></url>
@@ -56,6 +54,7 @@
   <url><loc>https://hudsonhappens.com/events/afternoon-story-time-nov-11-7a5e50/</loc></url>
   <url><loc>https://hudsonhappens.com/events/red-foxes-senior-group-nov-11-ee8829/</loc></url>
   <url><loc>https://hudsonhappens.com/events/story-time-ages-4-5-years-old-nov-11-3f6998/</loc></url>
+  <url><loc>https://hudsonhappens.com/events/tab-veteran-s-day-volunteer-hour-nov-11-500f09/</loc></url>
   <url><loc>https://hudsonhappens.com/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-nov-11-a704c5/</loc></url>
   <url><loc>https://hudsonhappens.com/events/sat-act-math-la-prep-classes-nov-11-ae86cb/</loc></url>
   <url><loc>https://hudsonhappens.com/events/chess-club-ages-8-18-nov-11-43a964/</loc></url>
@@ -147,6 +146,7 @@
   <url><loc>https://hudsonhappens.com/events/outside-context-nov-15-2f01f5/</loc></url>
   <url><loc>https://hudsonhappens.com/events/live-music-irish-music-session-every-sunday-at-the-hutt-nov-15-83c2ad/</loc></url>
   <url><loc>https://hudsonhappens.com/events/mamas-who-walk-providers-walk-hudson-county-nov-16-5f2e64/</loc></url>
+  <url><loc>https://hudsonhappens.com/events/lapsit-program-ages-18-24-months-nov-16-239649/</loc></url>
   <url><loc>https://hudsonhappens.com/events/tween-led-chess-club-nov-16-82eff7/</loc></url>
   <url><loc>https://hudsonhappens.com/events/read-to-a-dog-nov-16-b3018e/</loc></url>
   <url><loc>https://hudsonhappens.com/events/financial-literacy-roadshow-nov-16-469067/</loc></url>
@@ -294,10 +294,12 @@
   <url><loc>https://hudsonhappens.com/events/wilmington-de-wildcats-at-saint-peter-s-peacocks-womens-dec-13-308f1c/</loc></url>
   <url><loc>https://hudsonhappens.com/events/how-hoboken-celebrated-the-bicentennial-with-bob-foster-dec-13-0529ee/</loc></url>
   <url><loc>https://hudsonhappens.com/events/halloween-party-dec-13-cdae40/</loc></url>
+  <url><loc>https://hudsonhappens.com/events/winter-solstice-workout-with-barry-s-dec-14-ab0006/</loc></url>
   <url><loc>https://hudsonhappens.com/events/tween-teen-art-club-wooden-holiday-ornaments-with-rose-dec-14-6377a3/</loc></url>
   <url><loc>https://hudsonhappens.com/events/conversation-with-the-president-dec-16-505134/</loc></url>
   <url><loc>https://hudsonhappens.com/events/holiday-cocktail-making-class-at-living-room-bar-dec-16-eb640e/</loc></url>
   <url><loc>https://hudsonhappens.com/events/american-mahjong-101-for-beginners-at-mojo-coffee-compa-dec-16-125a9b/</loc></url>
+  <url><loc>https://hudsonhappens.com/events/le-moyne-dolphins-at-saint-peter-s-peacocks-mens-basket-dec-18-d9de25/</loc></url>
   <url><loc>https://hudsonhappens.com/events/hoboken-santacon-2026-dec-19-43a4ea/</loc></url>
   <url><loc>https://hudsonhappens.com/events/spanish-conversation-cafe-dec-19-31c7c6/</loc></url>
   <url><loc>https://hudsonhappens.com/events/nimbus-dance-in-jersey-nutcracker-dec-19-c29b4c/</loc></url>
@@ -352,10 +354,10 @@
   <url><loc>https://hudsonhappens.com/live-music/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/waterfront-montesoori/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/hudson-county-community-college/</loc></url>
-  <url><loc>https://hudsonhappens.com/venues/bayonne-public-library/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/hyatt-regency-jersey-city-on-the-hudson/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/damon-murray-community-gym/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/grand-street-branch/</loc></url>
+  <url><loc>https://hudsonhappens.com/venues/bayonne-public-library/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/the-hutton-bar-and-grill/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/mile-square-theatre/</loc></url>
   <url><loc>https://hudsonhappens.com/venues/jersey-city-ballroom/</loc></url>

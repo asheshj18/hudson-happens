@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-09T05:46:11.879503-05:00",
+ "generated": "2026-11-09T11:55:45.405205-05:00",
  "sources": {
   "jersey_city_gov": 111,
   "bayonne_library": 346,
-  "hoboken_library": 143,
+  "hoboken_library": 144,
   "stevens": 37,
   "jc_families": 6,
   "luma": 13,
   "ticketmaster": 10,
-  "seatgeek": 20,
-  "eventbrite": 495,
+  "seatgeek": 21,
+  "eventbrite": 496,
   "serpapi_google_events": 34
  },
  "events": [
@@ -154,46 +154,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-9-9750f6/"
-  },
-  {
-   "id": "City of Jersey City:21429834",
-   "title": "\"503-509\" Communipaw Affordable Housing Lottery",
-   "description": "For the Lottery Viewing of the \"503-509 Communipaw\", located at 503-509 Communipaw Ave., Jersey City, NJ 07304. Please click this zoom link: https://us06web.zoom.us/j/88589275108. Lottery date and time subject to change. Please check back regularly to view updated lottery scheduling and zoom link information.",
-   "start": "2026-11-09T11:00:00-05:00",
-   "end": "2026-11-09T11:15:00-05:00",
-   "all_day": false,
-   "venue": null,
-   "address": "",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/503-509-communipaw-affordable-housing-lottery-nov-9-f38107/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15952322",
-   "title": "Lapsit Program (Ages 18-24 Months)",
-   "description": "The Lapsit program is Mondays from 11:00-11:30. It is for children ages 18-24 months. Each week features themed stories and songs. Parents/guardians must be present during the entire program. No advanced registration is required. Spots will be filled on a first come, first served basis.",
-   "start": "2026-11-09T11:00:00-05:00",
-   "end": "2026-11-09T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15952322",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/lapsit-program-ages-18-24-months-nov-9-ed71f3/"
   },
   {
    "id": "eventbrite:1986851325800",
@@ -1248,6 +1208,26 @@
    ],
    "free": true,
    "path": "/events/story-time-ages-4-5-years-old-nov-11-3f6998/"
+  },
+  {
+   "id": "hoboken-library:17863612",
+   "title": "TAB Veteran's Day Volunteer Hour",
+   "description": "Meet Ms. Brenda outside 124 Grand St. at 3:30 PM to walk together to the Hoboken American Legion Post 107.\n\nWe'll be passing out coffee and pastries, spreading warmth and gratitude to our cherished local veterans.\n\nIt's a wonderful opportunity to connect, give thanks, and share smiles with those who have served our country.\n\nLearn more about joining TAB here.\n\nEmail Ms. Val at valerie.coughlin@hobokenlibrary.org\u00a0with any questions!",
+   "start": "2026-11-11T15:30:00-05:00",
+   "end": "2026-11-11T16:30:00-05:00",
+   "all_day": false,
+   "venue": "Hoboken American Legion Post 107",
+   "address": "Hoboken American Legion Post 107",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17863612",
+   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/TAB_Veteran_s_day.png",
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": true,
+   "path": "/events/tab-veteran-s-day-volunteer-hour-nov-11-500f09/"
   },
   {
    "id": "eventbrite:1986851453181",
@@ -3229,8 +3209,8 @@
    "start": "2026-11-15T12:00:00-05:00",
    "end": "2026-11-15T14:00:00-05:00",
    "all_day": false,
-   "venue": "Anthony David's",
-   "address": "Anthony David's, 953 Bloomfield St, Hoboken, NJ 07030, USA",
+   "venue": "The Madison Bar & Grill",
+   "address": "The Madison Bar & Grill, 1316 Washington St, Hoboken, NJ 07030, USA",
    "city": "Hoboken",
    "url": "https://lu.ma/hmvpqg6i",
    "image": "https://images.lumacdn.com/gallery-images/yl/35c06a9f-fe5b-4598-93de-bdde26f03157",
@@ -11576,6 +11556,26 @@
    "path": "/events/book-a-librarian-dec-14-7c511a/"
   },
   {
+   "id": "eventbrite:2004590343680",
+   "title": "Winter Solstice Workout With Barry's",
+   "description": "Sweat, celebrate, and recharge! Join Barry\u2019s for a high-energy HIIT class, then toast the Winter Solstice with a cocktail at W Hoboken.",
+   "start": "2026-12-14T17:30:00-05:00",
+   "end": "2026-12-14T19:30:00-05:00",
+   "all_day": false,
+   "venue": "W Hoboken",
+   "address": "225 River Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/winter-solstice-workout-with-barrys-tickets-2004590343680",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197599574%2F146733578081%2F1%2Foriginal.20261109-154114?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8a8b494ceaae5577935f6cb1fd3ed9ce",
+   "price": "$18+",
+   "source": "Eventbrite",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": false,
+   "path": "/events/winter-solstice-workout-with-barry-s-dec-14-ab0006/"
+  },
+  {
    "id": "hoboken-library:17723259",
    "title": "Math Circle",
    "description": "Organized jointly with Stevens Institute of Technology, a math circle exposes participants to interesting, challenging, and fun mathematical activities composed by faculty in the Department of Mathematical Sciences and led by STEM undergraduates at Stevens. Students in grades 4-5 are encouraged to register and can expect to play mathematical games, solve puzzles, and do hands-on activities.\u00a0There are no entry requirements other than an interest in exploring a different side of math!\u00a0\n\nThis program is supported by Grant No. 2236229 from the National Science Foundation.\u00a0For more information on m",
@@ -12617,6 +12617,26 @@
    ],
    "free": true,
    "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-dec-18-696a8b/"
+  },
+  {
+   "id": "seatgeek:18622177",
+   "title": "Le Moyne Dolphins at Saint Peter's Peacocks Mens Basketball",
+   "description": "",
+   "start": "2026-12-18T19:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Yanitelli Center",
+   "address": "870 Montgomery Street",
+   "city": "Jersey City",
+   "url": "https://seatgeek.com/saint-peter-s-peacocks-mens-basketball-tickets/ncaa-basketball/2026-12-18-7-pm/18622177",
+   "image": null,
+   "price": "Paid",
+   "source": "SeatGeek",
+   "categories": [
+    "Sports"
+   ],
+   "free": false,
+   "path": "/events/le-moyne-dolphins-at-saint-peter-s-peacocks-mens-basket-dec-18-d9de25/"
   },
   {
    "id": "eventbrite:1406594535119",
@@ -15039,6 +15059,46 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-jan-7-29838b/"
+  },
+  {
+   "id": "Bayonne Public Library:LibCal-17197-17741939",
+   "title": "Bayonne Public Schools Class Visit",
+   "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
+   "start": "2027-01-08T09:30:00-05:00",
+   "end": "2027-01-08T11:00:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17741939",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Learning"
+   ],
+   "free": true,
+   "path": "/events/bayonne-public-schools-class-visit-jan-8-12a67b/"
+  },
+  {
+   "id": "eventbrite:1986851369932",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-08T11:30:00-05:00",
+   "end": "2027-01-08T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851369932",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-8-ee3af2/"
   }
  ]
 }

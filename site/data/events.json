@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-08T17:28:03.128012-05:00",
+ "generated": "2026-11-09T05:46:11.879503-05:00",
  "sources": {
   "jersey_city_gov": 111,
-  "bayonne_library": 353,
+  "bayonne_library": 346,
   "hoboken_library": 143,
   "stevens": 37,
   "jc_families": 6,
-  "luma": 15,
+  "luma": 13,
   "ticketmaster": 10,
-  "seatgeek": 19,
-  "eventbrite": 497,
+  "seatgeek": 20,
+  "eventbrite": 495,
   "serpapi_google_events": 34
  },
  "events": [
@@ -114,150 +114,6 @@
    ],
    "free": false,
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
-  },
-  {
-   "id": "eventbrite:1774165991239",
-   "title": "Breakfast with the Bros | Jersey City",
-   "description": "Need a circle of good men in your life? Meet some new bros over  breakfast or coffee!",
-   "start": "2026-11-08T10:00:00-05:00",
-   "end": "2026-11-09T00:00:00-05:00",
-   "all_day": false,
-   "venue": "Cafe of the Day",
-   "address": "Jersey City, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/breakfast-with-the-bros-jersey-city-tickets-1774165991239",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1144984503%2F2665070848231%2F1%2Foriginal.20251005-144948?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c94c02f2e5d09354cbd0bf31e546b8ea",
-   "price": "$23+",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/breakfast-with-the-bros-jersey-city-nov-8-9fcce4/"
-  },
-  {
-   "id": "hoboken-library:16236014",
-   "title": "The History of Applied Companies with Joe Barry",
-   "description": "Real estate developer Joseph Barry co-founded Applied Housing, a company that played a key role in revitalizing Hoboken in the 1970s. Unlike large-scale demolition and redevelopment, Applied focused on rehabilitating existing buildings into affordable housing, which helped stabilize the community. Barry will discuss how his company, alongside federal initiatives like the Model Cities program, contributed to Hoboken\u2019s resurgence during a time of economic struggle, and the long-term impact of these efforts on the city\u2019s growth.",
-   "start": "2026-11-08T16:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/16236014",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Joe_Barry_SM_Image.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Kids & Family",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/the-history-of-applied-companies-with-joe-barry-nov-8-10d063/"
-  },
-  {
-   "id": "eventbrite:1984582755445",
-   "title": "Sunday Supper at The Exchange",
-   "description": "Unwind Sundays at The Exchange with a $45 Pasta Prix Fixe\u2014your choice of salad, pasta entr\u00e9e, and dessert from 4\u201311 PM.",
-   "start": "2026-11-08T16:00:00-05:00",
-   "end": "2026-11-08T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/sunday-supper-at-the-exchange-tickets-1984582755445",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179152613%2F2894508074541%2F1%2Foriginal.20260305-214350?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d169dc00386743c7970596216cc3422b",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/sunday-supper-at-the-exchange-nov-8-2bdd46/"
-  },
-  {
-   "id": "luma:evt-J2hASkCwaG7jVCj",
-   "title": "The JC Collective: Demo Day, a Live Comedy Show",
-   "description": "",
-   "start": "2026-11-08T16:30:00-05:00",
-   "end": "2026-11-08T20:30:00-05:00",
-   "all_day": false,
-   "venue": "333 Washington Street",
-   "address": "333 Washington Street, 333 Washington St, Jersey City, NJ 07302, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/the-gkeb",
-   "image": "https://images.lumacdn.com/api-uploads/bz/9b62b442-248e-4543-933e-cfd17f91921c.png",
-   "price": "Paid",
-   "source": "Luma",
-   "categories": [
-    "Comedy"
-   ],
-   "free": false,
-   "path": "/events/the-jc-collective-demo-day-a-live-comedy-show-nov-8-184a62/"
-  },
-  {
-   "id": "luma:evt-vxOZccCVILa8NkO",
-   "title": "Pilates, Pups & Pot class 1",
-   "description": "",
-   "start": "2026-11-08T17:00:00-05:00",
-   "end": "2026-11-08T18:00:00-05:00",
-   "all_day": false,
-   "venue": "638 Newark Ave",
-   "address": "638 Newark Ave, Jersey City, NJ 07306, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/1dl6nir5",
-   "image": "https://images.lumacdn.com/uploads/e7/bbc6c9c5-8e47-4515-95b9-cdc989ef27a6.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/pilates-pups-pot-class-1-nov-8-990f37/"
-  },
-  {
-   "id": "eventbrite:1999108332838",
-   "title": "Live Music: Irish Music Session Every Sunday at The Hutton",
-   "description": "Come join us at The Hutton for a lively Irish session every Sunday!",
-   "start": "2026-11-08T17:00:00-05:00",
-   "end": "2026-11-08T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Hutton Bar and Grill",
-   "address": "225 Hutton St., Jersey City, NJ 07307",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/live-music-irish-music-session-every-sunday-at-the-hutton-tickets-1999108332838",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1039750163%2F196151990297%2F1%2Foriginal.20250527-152612?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.895833333333&fp-y=0.475247524752&s=d4846f37b74a72b5237fcf3a8e5a7891",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": true,
-   "path": "/events/live-music-irish-music-session-every-sunday-at-the-hutt-nov-8-57bff0/"
-  },
-  {
-   "id": "luma:evt-Dz4gGagGDbkQQWc",
-   "title": "Pilates, Pups & Pot Class 2",
-   "description": "",
-   "start": "2026-11-08T18:00:00-05:00",
-   "end": "2026-11-08T19:00:00-05:00",
-   "all_day": false,
-   "venue": "638 Newark Ave",
-   "address": "638 Newark Ave, Jersey City, NJ 07306, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/f274jwwe",
-   "image": "https://images.lumacdn.com/uploads/d3/29d9dde5-8177-4021-ab4d-e5ead4fe0e14.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/pilates-pups-pot-class-2-nov-8-de4535/"
   },
   {
    "id": "hoboken-library:17743610",
@@ -3430,6 +3286,26 @@
    "path": "/events/illusions-the-drag-brunch-hoboken-drag-queen-brunch-hob-nov-15-218287/"
   },
   {
+   "id": "luma:evt-OxiIFfVjhyWyP2C",
+   "title": "\u4e24\u79cd\u8bed\u8a00\u4e4b\u95f4\u7684\u6211\u2014\u827a\u672f+\u5fc3\u7406\u8f7b\u793e\u4ea4\u5de5\u4f5c\u574a",
+   "description": "",
+   "start": "2026-11-15T14:00:00-05:00",
+   "end": "2026-11-15T16:00:00-05:00",
+   "all_day": false,
+   "venue": "18 Journal Square Plaza",
+   "address": "18 Journal Square Plaza, Jersey City, NJ 07306, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/83i7ksfx",
+   "image": "https://images.lumacdn.com/uploads/ii/ee84ca45-31da-465d-943d-182ada334d39.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/event-nov-15-93ae84/"
+  },
+  {
    "id": "eventbrite:2002177741522",
    "title": "Holiday Afternoon Tea Drag Experience with Ru Paul's Drag Race: Peppermint",
    "description": "Celebrate the holidays with Peppermint and Moody Tea at W Hoboken for an afternoon of tea, cocktails, festive bites, and more.",
@@ -3794,27 +3670,6 @@
    "path": "/events/financial-literacy-roadshow-nov-16-469067/"
   },
   {
-   "id": "City of Jersey City:21355180",
-   "title": "Historic Preservation Commission",
-   "description": "",
-   "start": "2026-11-16T18:30:00-05:00",
-   "end": "2026-11-16T22:30:00-05:00",
-   "all_day": false,
-   "venue": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
-   "address": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community",
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/historic-preservation-commission-nov-16-4aa4b3/"
-  },
-  {
    "id": "City of Jersey City:21059938",
    "title": "Shade Tree Committee",
    "description": "Third Monday of each month, 6:30PM (except for holidays) and are open to the public.\u00a0\n\nJune and December Meetings will be held in-person\nCouncil Caucus Room, Ground floor, City Hall, 280 Grove Street\n\nJanuary-May and July-November meetings will be held virtually on Teams\u00a0\n\nhttps://jcnj.org/vstc",
@@ -3834,6 +3689,27 @@
    ],
    "free": true,
    "path": "/events/shade-tree-committee-nov-16-92d6bd/"
+  },
+  {
+   "id": "City of Jersey City:21355180",
+   "title": "Historic Preservation Commission",
+   "description": "",
+   "start": "2026-11-16T18:30:00-05:00",
+   "end": "2026-11-16T22:30:00-05:00",
+   "all_day": false,
+   "venue": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
+   "address": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Community",
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/historic-preservation-commission-nov-16-4aa4b3/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17590217",
@@ -15083,6 +14959,26 @@
    "path": "/events/power-lunch-for-people-on-the-go-jan-7-ad851d/"
   },
   {
+   "id": "hoboken-library:17724928",
+   "title": "Teen Zone",
+   "description": "Join Mr. Kieran for a diverse range of activities that cater to every taste: unleash your inner artist with craft sessions, dive into immersive gaming experiences, embark on epic adventures with Dungeons & Dragons, and get the support you need with homework help.\u00a0The Teen Zone is a welcoming space where you can make new friends, express yourself, and discover new hobbies. Whether you're a seasoned gamer or just looking for a place to hang out, the Teen Zone has something for everyone.\n\nCome be a part of our community and enjoy the fun!\n\nTAB members! Let us know which programs you'd like to see",
+   "start": "2027-01-07T15:45:00-05:00",
+   "end": "2027-01-07T19:45:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17724928",
+   "image": null,
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": true,
+   "path": "/events/teen-zone-jan-7-49ce49/"
+  },
+  {
    "id": "eventbrite:1987134071500",
    "title": "Hudson Happy Hour",
    "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
@@ -15101,6 +14997,48 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-jan-7-9c69ea/"
+  },
+  {
+   "id": "seatgeek:18540686",
+   "title": "Canisius Golden Griffins at Saint Peter's Peacocks Womens Basketball",
+   "description": "",
+   "start": "2027-01-07T18:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Yanitelli Center",
+   "address": "870 Montgomery Street",
+   "city": "Jersey City",
+   "url": "https://seatgeek.com/saint-peter-s-peacocks-womens-basketball-tickets/ncaa-womens-basketball/2027-01-07-6-pm/18540686",
+   "image": null,
+   "price": "Paid",
+   "source": "SeatGeek",
+   "categories": [
+    "Sports"
+   ],
+   "free": false,
+   "path": "/events/canisius-golden-griffins-at-saint-peter-s-peacocks-wome-jan-7-06a0e6/"
+  },
+  {
+   "id": "eventbrite:1406594615359",
+   "title": "Dance Party at Madd Hatter",
+   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
+   "start": "2027-01-07T19:00:00-05:00",
+   "end": "2027-01-07T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594615359",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music",
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/dance-party-at-madd-hatter-jan-7-29838b/"
   }
  ]
 }

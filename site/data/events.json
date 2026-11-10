@@ -1,38 +1,18 @@
 {
- "generated": "2026-11-10T05:44:33.956101-05:00",
+ "generated": "2026-11-10T11:39:04.435886-05:00",
  "sources": {
   "jersey_city_gov": 111,
-  "bayonne_library": 344,
-  "hoboken_library": 140,
+  "bayonne_library": 343,
+  "hoboken_library": 141,
   "stevens": 37,
-  "jc_families": 6,
+  "jc_families": 0,
   "luma": 12,
   "ticketmaster": 11,
   "seatgeek": 21,
-  "eventbrite": 497,
+  "eventbrite": 498,
   "serpapi_google_events": 28
  },
  "events": [
-  {
-   "id": "JC Families:105809-1768561200-1798628400@jcfamilies.com",
-   "title": "Liberty Science Center\u2019s New Touch Tank and Climate Time Machine Virtual Reality Experience",
-   "description": "Liberty Science Center introduces two new interactive experiences\u2014the Izzo Family Touch Tank and the Climate Time Machine VR viewfinder\u2014as part of the reimagining of its longtime Our Hudson Home gallery. The Touch Tank features a 29-foot-long, 1,000-gallon, two-level riverscape habitat showcasing seven native Hudson River species, with hands-on encounters guided by trained STEM educators exploring how climate change impacts local marine life. The Climate Time Machine invites visitors to peer through a VR viewfinder overlooking the Hudson River and travel through time from the Ice Age to today ",
-   "start": "2026-01-16T11:00:00-05:00",
-   "end": "2026-12-30T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "city": "Jersey City",
-   "url": "https://jcfamilies.com/event/liberty-science-centers-new-touch-tank-and-climate-time-machine-virtual-reality-experience-2/",
-   "image": null,
-   "price": null,
-   "source": "JC Families",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": false,
-   "path": "/events/liberty-science-centers-new-touch-tank-and-climate-time-jan-16-6421f3/"
-  },
   {
    "id": "eventbrite:1992021494915",
    "title": "Certificates in Construction Management Fall 2026",
@@ -176,27 +156,6 @@
    "path": "/events/mamas-who-walk-jersey-city-nov-10-bf3206/"
   },
   {
-   "id": "hoboken-library:17683857",
-   "title": "Rise & Read",
-   "description": "Rise & Read engages toddlers and their caregivers in a story time followed by a craft! Our weekly Story Times are a great place to meet other families and join our story time community.\u00a0\n\nThis story time will feature picture books, nursery rhymes, finger plays, and music.\u00a0Through reading, talking, and singing, Story Time helps your little one develop early literacy skills.\u00a0Our rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nThis program is geared for children 18 months to 3 years old.\n\nQuestions? Please ",
-   "start": "2026-11-10T10:30:00-05:00",
-   "end": "2026-11-10T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17683857",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Rise_n_Read_Tuesdays.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/rise-read-nov-10-8c9586/"
-  },
-  {
    "id": "City of Jersey City:21429865",
    "title": "JCCS Court Outreach @ CSPNJ",
    "description": "JCCS Court Outreach Team expands access to court services by offering community events in partnership with local organizations. Individuals may receive assistance finding information about outstanding court cases and fines. Referrals to support services are available on request, including access to peer support.",
@@ -215,26 +174,6 @@
    ],
    "free": true,
    "path": "/events/jccs-court-outreach-cspnj-nov-10-25c8e0/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15955052",
-   "title": "Parent/Toddler Time (Ages 2-3 Years Old)",
-   "description": "The Parent/Toddler program is on Tuesdays from 11 to 11:30 am. It is for children ages 2-3 years. Each week features themed stories and songs. Parents/guardians must be present during the entire program. No advanced registration is required. Spots will be filled on a first come, first served basis.",
-   "start": "2026-11-10T11:00:00-05:00",
-   "end": "2026-11-10T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15955052",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/parent-toddler-time-ages-2-3-years-old-nov-10-e44857/"
   },
   {
    "id": "eventbrite:1986851326803",
@@ -681,26 +620,6 @@
    ],
    "free": false,
    "path": "/events/november-open-mic-night-nov-10-b30fff/"
-  },
-  {
-   "id": "JC Families:108435-1794387600-1794420000@jcfamilies.com",
-   "title": "Connect the Waterfront Annual Celebration",
-   "description": "Join Fund for a Better Waterfront for their main event of the year! The always festive evening features an open bar (beer & wine), hors d\u2019oeuvres, live local entertainment and a raffle with items donated by local businesses. \nLearn more at betterwaterfront.org",
-   "start": "2026-11-11T09:00:00-05:00",
-   "end": "2026-11-11T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "city": "Jersey City",
-   "url": "https://jcfamilies.com/event/connect-the-waterfront-annual-celebration/",
-   "image": null,
-   "price": null,
-   "source": "JC Families",
-   "categories": [
-    "Outdoors"
-   ],
-   "free": false,
-   "path": "/events/connect-the-waterfront-annual-celebration-nov-11-5ba81b/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17701576",
@@ -4091,7 +4010,7 @@
    "address": "Meet us in the Harrison Gardens Community Room at\u00a0311 Harrison Street, Hoboken, NJ.",
    "city": "Hoboken",
    "url": "https://hobokenlibrary.libnet.info/event/17602972",
-   "image": null,
+   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/btf.png",
    "price": "Free",
    "source": "Hoboken Public Library",
    "categories": [
@@ -5200,26 +5119,6 @@
    ],
    "free": true,
    "path": "/events/free-stand-up-comedy-at-pet-shop-thursday-nov-19th-at-8-nov-19-3df73a/"
-  },
-  {
-   "id": "JC Families:108453-1795161600-1826733600@jcfamilies.com",
-   "title": "Autism 2026",
-   "description": "Autism Conference 2026 \u2013 The World Congress on Autism and Neurodevelopmental Disorders will take place on November 19\u201320, 2026, in London, UK, with virtual participation available. The conference brings together researchers, clinicians, psychologists, therapists, educators, healthcare professionals, and autism specialists to explore the latest developments in autism research, diagnosis, early intervention, neurobiology, behavioral approaches, inclusive education, sensory processing, co-occurring conditions, and lifelong support.\nUnder the theme \u201cAdvancing Research, Care, and Inclusion,\u201d Autism",
-   "start": "2026-11-20T08:00:00-05:00",
-   "end": "2027-11-20T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "city": "Jersey City",
-   "url": "https://jcfamilies.com/event/autism-2026/",
-   "image": null,
-   "price": null,
-   "source": "JC Families",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/autism-2026-nov-20-7a94b8/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17068931",
@@ -8485,27 +8384,6 @@
    "path": "/events/zoning-board-meeting-dec-3-3d3453/"
   },
   {
-   "id": "Bayonne Public Library:LibCal-17197-17590221",
-   "title": "Tween & Teen Art Club: Glass Lantern Decorating with Izzy",
-   "description": "Join us at the Bayonne Public Library on Thursday, December 3rd from 6:30- 7:30pm for a Glass Lantern Decorating event. Decorate a glass lantern you can use to brighten up any space this winter season and all year long! All Art Club programs are for tweens and teens aged 9-18 and will take place in the Art & Music Room on the 2nd floor of the library. The supplies will be provided, just bring yourself and your creativity. Advanced registration is required for each session individually. Walk-ins will be accommodated if space permits. #Bayonne #BayonneNJ #ArtClub",
-   "start": "2026-12-03T18:30:00-05:00",
-   "end": "2026-12-03T19:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17590221",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/tween-teen-art-club-glass-lantern-decorating-with-izzy-dec-3-232c68/"
-  },
-  {
    "id": "eventbrite:2004156921302",
    "title": "Jersey City Connects | Singles Party | Ugly Sweater Edition | Singles Mixer",
    "description": "Get ready to mingle and jingle in your ugliest sweater at the chillest singles mixer of the season!",
@@ -9848,26 +9726,6 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-dec-9-93467c/"
-  },
-  {
-   "id": "JC Families:108681-1796837400-1796932800@jcfamilies.com",
-   "title": "Chris Tomlin - Jersey City",
-   "description": "Join us for an unforgettable evening with the renowned worship leader Chris Tomlin at the iconic Loew\u2019s Jersey Theatre in Jersey City! This beautiful venue, with its stunning architecture and warm atmosphere, sets the perfect backdrop for an inspiring night of music and worship. Experience the uplifting melodies and heartfelt lyrics that have touched millions, as Chris Tomlin brings his powerful message to life in this historic setting. \nDon\u2019t miss your chance to be part of this special event, \u201c\u201dChris Tomlin \u2013 Jersey City,\u201d\u201d where you can connect with fellow music lovers and share in a night o",
-   "start": "2026-12-09T17:30:00-05:00",
-   "end": "2026-12-10T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "city": "Jersey City",
-   "url": "https://jcfamilies.com/event/chris-tomlin-jersey-city/",
-   "image": null,
-   "price": null,
-   "source": "JC Families",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/chris-tomlin-jersey-city-dec-9-8eea8e/"
   },
   {
    "id": "hoboken-library:17723258",
@@ -13301,26 +13159,6 @@
    "path": "/events/tally-ho-customer-appreciation-party-dec-26-fd0f79/"
   },
   {
-   "id": "JC Families:108668-1798365600-1798995600@jcfamilies.com",
-   "title": "The Power of Poison Exhibition at Liberty Science Center",
-   "description": "Whether as a defense against predators, a magical source of immortality, a lethal weapon, or a lifesaving medical treatment, the story of poison is full of surprising turns. \nThis premium exhibition organized by the American Museum of Natural History explores the many facets of poison\u2014its roles in nature, history, myth, health, and forensic science\u2014and shows the immense power of transformation that can be contained in a tiny drop. \nLifelike models and interactive exhibits illustrate how poisons show up in the natural world. The exhibition also features unique live presentations by the Science ",
-   "start": "2026-12-27T10:00:00-05:00",
-   "end": "2027-01-03T17:00:00-05:00",
-   "all_day": false,
-   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "city": "Jersey City",
-   "url": "https://jcfamilies.com/event/the-power-of-poison-exhibition-at-liberty-science-center/",
-   "image": null,
-   "price": null,
-   "source": "JC Families",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/the-power-of-poison-exhibition-at-liberty-science-cente-dec-27-10fd19/"
-  },
-  {
    "id": "eventbrite:1774166061449",
    "title": "Breakfast with the Bros | Jersey City",
    "description": "Need a circle of good men in your life? Meet some new bros over  breakfast or coffee!",
@@ -14007,6 +13845,26 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-dec-31-5219f3/"
+  },
+  {
+   "id": "eventbrite:1996323803235",
+   "title": "New Year's Eve at Tally Ho",
+   "description": "Last party of the year. Make it count.",
+   "start": "2026-12-31T21:00:00-05:00",
+   "end": "2026-12-31T23:30:00-05:00",
+   "all_day": false,
+   "venue": "Tally-Ho",
+   "address": "215 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/new-years-eve-at-tally-ho-tickets-1996323803235",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190083837%2F234542736450%2F1%2Foriginal.20260801-055554?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=403b38ba8e28aa15caed95652d59c8b8",
+   "price": "$42+",
+   "source": "Eventbrite",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/new-year-s-eve-at-tally-ho-dec-31-f378e5/"
   },
   {
    "id": "eventbrite:1995094469264",
@@ -14697,26 +14555,6 @@
    "path": "/events/power-lunch-for-people-on-the-go-jan-8-ee3af2/"
   },
   {
-   "id": "JC Families:108635-1799420400-1799427600@jcfamilies.com",
-   "title": "Jeff Dunham - Jersey City",
-   "description": "Get ready for a night of laughter and unforgettable entertainment as the one and only Jeff Dunham takes the stage in Jersey City! Join us at the historic Loew\u2019s Jersey Theatre, where the charming atmosphere and stunning architecture create the perfect backdrop for an evening filled with comedy and fun. Jeff\u2019s unique blend of humor and his beloved puppet characters will have you in stitches, making this a must-see event for comedy lovers. \nDon\u2019t miss your chance to experience Jeff Dunham \u2013 Jersey City live! Gather your friends and family for a night of joy and laughter that you won\u2019t soon forge",
-   "start": "2027-01-08T15:00:00-05:00",
-   "end": "2027-01-08T17:00:00-05:00",
-   "all_day": false,
-   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "city": "Jersey City",
-   "url": "https://jcfamilies.com/event/jeff-dunham-jersey-city/",
-   "image": null,
-   "price": null,
-   "source": "JC Families",
-   "categories": [
-    "Comedy"
-   ],
-   "free": false,
-   "path": "/events/jeff-dunham-jersey-city-jan-8-51cd12/"
-  },
-  {
    "id": "hoboken-library:17723316",
    "title": "Teen-Led Debate Club",
    "description": "This vibrant club provides a welcoming environment where teens can engage in lively debate games, allowing them to explore diverse topics while having fun. Participants will learn the essentials of formal debating, including its structure, rules, and effective techniques to present compelling arguments.\n\nGuided by TAB Member Gabriel, teens will have the opportunity to practice public speaking, develop persuasive strategies, and enhance their ability to think on their feet. Whether you're a seasoned debater or new to the art of argumentation, the Teen-Led Debate Club is the perfect place to cul",
@@ -14818,6 +14656,26 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-jan-8-28af2d/"
+  },
+  {
+   "id": "Stevens Institute:snvMybDX7l4nrPP0vaVI",
+   "title": "Stevens Women's Basketball vs FDU",
+   "description": "Sports Game",
+   "start": "2027-01-09T11:00:00-05:00",
+   "end": "2027-01-09T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Schaefer Canavan Arena (Entire Arena)",
+   "address": "Schaefer Canavan Arena (Entire Arena)",
+   "city": "Hoboken",
+   "url": "https://events.stevens.edu/",
+   "image": null,
+   "price": null,
+   "source": "Stevens Institute",
+   "categories": [
+    "Sports"
+   ],
+   "free": false,
+   "path": "/events/stevens-women-s-basketball-vs-fdu-jan-9-c320b4/"
   }
  ]
 }

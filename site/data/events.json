@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T05:48:51.748465-05:00",
+ "generated": "2026-11-11T11:42:28.640958-05:00",
  "sources": {
   "jersey_city_gov": 111,
   "bayonne_library": 341,
@@ -8,7 +8,7 @@
   "jc_families": 7,
   "luma": 10,
   "ticketmaster": 17,
-  "seatgeek": 23,
+  "seatgeek": 24,
   "eventbrite": 504,
   "serpapi_google_events": 28
  },
@@ -7871,6 +7871,26 @@
    ],
    "free": false,
    "path": "/events/jersey-city-s-inaugural-holiday-concert-presented-by-ma-dec-2-e9bf73/"
+  },
+  {
+   "id": "seatgeek:18756678",
+   "title": "New Jersey Symphony Orchestra - Jersey City",
+   "description": "",
+   "start": "2026-12-02T18:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Loew's Jersey Theatre",
+   "address": "54 Journal Square Plaza",
+   "city": "Jersey City",
+   "url": "https://seatgeek.com/new-jersey-symphony-orchestra-tickets/orchestral/2026-12-02-6-30-pm/18756678",
+   "image": null,
+   "price": "Paid",
+   "source": "SeatGeek",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/new-jersey-symphony-orchestra-jersey-city-dec-2-ea02bd/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-15911873",

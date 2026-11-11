@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-10T17:30:24.619633-05:00",
+ "generated": "2026-11-11T05:48:51.748465-05:00",
  "sources": {
   "jersey_city_gov": 111,
-  "bayonne_library": 343,
-  "hoboken_library": 141,
-  "stevens": 37,
+  "bayonne_library": 341,
+  "hoboken_library": 135,
+  "stevens": 36,
   "jc_families": 7,
-  "luma": 11,
+  "luma": 10,
   "ticketmaster": 17,
   "seatgeek": 23,
-  "eventbrite": 506,
+  "eventbrite": 504,
   "serpapi_google_events": 28
  },
  "events": [
@@ -116,188 +116,6 @@
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
   },
   {
-   "id": "eventbrite:2003086606963",
-   "title": "Good Vibes & Great Health at  Om Life Wellness 11.10.26",
-   "description": "Come learn about the therapies we offer and sample functional drinks to support your wellness",
-   "start": "2026-11-10T15:00:00-05:00",
-   "end": "2026-11-10T20:00:00-05:00",
-   "all_day": false,
-   "venue": "om.life Wellness * Modern Recovery Spa",
-   "address": "18 Park View Avenue #Apartment 2A, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/good-vibes-great-health-at-om-life-wellness-111026-tickets-2003086606963",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195305891%2F153284777701%2F1%2Foriginal.20261007-185107?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.152&s=0be5728b98020913e70a69694475dd44",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/good-vibes-great-health-at-om-life-wellness-11-10-26-nov-10-3047dd/"
-  },
-  {
-   "id": "eventbrite:1987134037398",
-   "title": "Hudson Happy Hour",
-   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
-   "start": "2026-11-10T16:00:00-05:00",
-   "end": "2026-11-10T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134037398",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hudson-happy-hour-nov-10-5f6559/"
-  },
-  {
-   "id": "City of Jersey City:21075713",
-   "title": "Planning Board Meeting",
-   "description": "To access the 2026 Planning Board Agendas, click on this link and download a pdf of today\u2019s meeting:\n\n    \n    \n\n    https://data.jerseycitynj.gov/explore/dataset/planning-board-agendas-2026/information/\u00a0\n\n    \n    \n    In accordance with N.J.S.A 10:4-12, the \u201cOpen Public Meetings Act,\u201d be advised the following items will be heard at a meeting of the Jersey City Planning Board, scheduled for Tuesday at 5:30 pm in the Boardroom at the Holloway Building, City Hall Annex, 4 Jackson Square, Jersey City, NJ 07305. The building is also known as 39 Kearney Avenue, Jersey City, NJ 07305.\n\n    ADVISORI",
-   "start": "2026-11-10T17:30:00-05:00",
-   "end": "2026-11-10T23:59:00-05:00",
-   "all_day": false,
-   "venue": "Boardroom at the Holloway Building, City Hall Annex, 4 Jackson Square, Jersey City, NJ 07305.",
-   "address": "Boardroom at the Holloway Building, City Hall Annex, 4 Jackson Square, Jersey City, NJ 07305.",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/planning-board-meeting-nov-10-4d3b29/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16000194",
-   "title": "NAACP Membership Meetings",
-   "description": "The Bayonne Branch of the NAACP is having a Membership Meeting. For more information, visit their website here: https://naacpbayonnebranch.com/",
-   "start": "2026-11-10T18:00:00-05:00",
-   "end": "2026-11-10T20:15:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classrooms C&D, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16000194",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/naacp-membership-meetings-nov-10-64e56c/"
-  },
-  {
-   "id": "Stevens Institute:kmy8tuGnCuYYcbnSnFdC",
-   "title": "Shakespeare Auditions",
-   "description": "Auditions for DeBaun PAC Spring Shakespeare workshop of A Midsummer Night's Dream.",
-   "start": "2026-11-10T18:00:00-05:00",
-   "end": "2026-11-10T22:00:00-05:00",
-   "all_day": false,
-   "venue": "DeBaun Auditorium",
-   "address": "DeBaun Auditorium",
-   "city": "Hoboken",
-   "url": "https://events.stevens.edu/",
-   "image": null,
-   "price": null,
-   "source": "Stevens Institute",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/shakespeare-auditions-nov-10-5e3ca6/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15913031",
-   "title": "Library Board of Trustees Meeting",
-   "description": "BAYONNE PUBLIC LIBRARY BOARD OF TRUSTEES\n\nSchedule of Meeting Dates for 2026\n\n \n\nTuesday, January 6, 2026 at 7:00 p.m.\n\nTuesday, February 3, 2026 at 7:00 p.m.\n\nTuesday, March 3, 2026 at 7:00 p.m.\n\nTuesday, April 14, 2026 at 7:00 p.m.\n\nTuesday, May 5, 2026 at 7:00 p.m.\n\nTuesday, June 2, 2026 at 7:00 p.m.\n\nTuesday, September 1, 2026 at 7:00 p.m.\n\nTuesday, October 6, 2026 at 7:00 p.m.\n\nTuesday, November 10, 2026 at 7:00 p.m.\n\nTuesday, December 1, 2026 at 7:00 p.m.\n\n \n\nAll meetings will take place in the Board Room of the Bayonne Public Library, located at 697 Ave C, Bayonne, NJ 07002. \n\n \n\nAll me",
-   "start": "2026-11-10T19:00:00-05:00",
-   "end": "2026-11-10T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Board Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/calendar/BPL/TrusteesMeetings26",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/library-board-of-trustees-meeting-nov-10-dfae29/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17491181",
-   "title": "Women's Support  Group",
-   "description": "The group would provide a safe and welcoming space for women to discuss current challenges they may be facing, connect with others, and learn practical coping strategies and tools to support their emotional well-being. The meetings would be free of charge, held weekly, and open to women in the community.",
-   "start": "2026-11-10T19:00:00-05:00",
-   "end": "2026-11-10T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17491181",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/women-s-support-group-nov-10-5f26ff/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16178890",
-   "title": "Yarn Group & Knitting Class",
-   "description": "Join Susan Averello at the Bayonne Public Library for a yarn group & knitting class! She has been knitting for over 30 years and she can also crochet. She has worked at Michaels as a knitting teacher and with Crafty Fox Studios until the studio closed. \n\nThe group will meet on Tuesdays from 7-8:30 pm in the Art & Music Room on the 2nd floor of the Bayonne Public Library.\n\nKnitters and crocheters of all experience levels are welcome, including those who would like to learn. No registration is required. \n\nIf you are an experienced knitter or crocheter, please bring with you whatever project you'",
-   "start": "2026-11-10T19:00:00-05:00",
-   "end": "2026-11-10T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16178890",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/yarn-group-knitting-class-nov-10-d77f44/"
-  },
-  {
-   "id": "eventbrite:1397814624169",
-   "title": "Taco Tuesdays at Madd Hatter",
-   "description": "Unlimited Tacos every Tuesday at the madd hatter",
-   "start": "2026-11-10T19:00:00-05:00",
-   "end": "2026-11-10T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/taco-tuesdays-at-madd-hatter-tickets-1397814624169",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1046383773%2F1927671691523%2F1%2Foriginal.20250605-061908?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481082800663&fp-y=0.555270522388&s=5600ffa6cc73c5e57593a6505864a6a3",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/taco-tuesdays-at-madd-hatter-nov-10-2cf3bc/"
-  },
-  {
    "id": "eventbrite:1984580524773",
    "title": "Taco & Tequila Tuesdays at The Exchange",
    "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
@@ -316,88 +134,6 @@
    ],
    "free": true,
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-10-dfed70/"
-  },
-  {
-   "id": "eventbrite:2003618091648",
-   "title": "Jersey City Networking Happy Hour | $5 Beers at 902 Brewing",
-   "description": "Meet local professionals in Jersey City & enjoy a cold beer at 902 Brewing!",
-   "start": "2026-11-10T19:00:00-05:00",
-   "end": "2026-11-10T21:30:00-05:00",
-   "all_day": false,
-   "venue": "902 Brewing Co .",
-   "address": "101 Pacific Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-networking-happy-hour-5-beers-at-902-brewing-tickets-2003618091648",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196110431%2F156559819633%2F1%2Foriginal.20261019-165509?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.488&fp-y=0.483&s=9b8bba530ecef56f11064b6c8141fa31",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business",
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/jersey-city-networking-happy-hour-5-beers-at-902-brewin-nov-10-d4c122/"
-  },
-  {
-   "id": "luma:evt-R59ZX2vBFiVYDOS",
-   "title": "Yoga Nidra in the Community Room, Nov 10, 7.15 - 8:30pm",
-   "description": "",
-   "start": "2026-11-10T19:15:00-05:00",
-   "end": "2026-11-10T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "",
-   "city": "Jersey City",
-   "url": "https://lu.ma/9jlkqvwj",
-   "image": "https://images.lumacdn.com/uploads/6a/1b502761-71d7-4f8c-84d5-0c6a6e29ac0d.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/yoga-nidra-in-the-community-room-nov-10-7-15-8-30pm-nov-10-60dac4/"
-  },
-  {
-   "id": "eventbrite:2003828373607",
-   "title": "FRIENDS Trivia at Farside Tavern!",
-   "description": "Come show what you know at FRIENDS Trivia!",
-   "start": "2026-11-10T19:30:00-05:00",
-   "end": "2026-11-10T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Farside Tavern",
-   "address": "531 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/friends-trivia-at-farside-tavern-tickets-2003828373607",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1013603663%2F2124635856523%2F1%2Foriginal.20250421-230434?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=bcf9f896ddf0016c0d1eb06dc6e9f37c",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/friends-trivia-at-farside-tavern-nov-10-5f972b/"
-  },
-  {
-   "id": "google:novemberopenmicnight20261110hoboken",
-   "title": "November Open Mic Night",
-   "description": "",
-   "start": "2026-11-10T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Mile Square Theatre",
-   "address": "Mile Square Theatre, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/mile.squaretheatre/posts/-were-grateful-for-everyone-who-comes-out-to-our-monthly-open-mic-events-mile-sq/1880819653515032/",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkIMRc3_Xbcwm__RXLwBGO7HYXY2IRRMO78q9JcCKl5fWAEFxsIvGjwczNeps_lu_BbIkFK-u85faYBPk",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/november-open-mic-night-nov-10-b30fff/"
   },
   {
    "id": "JC Families:108435-1794387600-1794420000@jcfamilies.com",
@@ -2796,6 +2532,26 @@
    ],
    "free": true,
    "path": "/events/lapsit-program-ages-18-24-months-nov-16-239649/"
+  },
+  {
+   "id": "eventbrite:2003487452904",
+   "title": "Jersey City Veteran Job Fair - Jersey City Career Fair",
+   "description": "Hiring in Jersey City?",
+   "start": "2026-11-16T11:00:00-05:00",
+   "end": "2026-11-16T15:00:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "Job Fair, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jersey-city-veteran-job-fair-jersey-city-career-fair-registration-2003487452904",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195775566%2F211523508959%2F1%2Foriginal.20261014-130441?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2be64c2d92f08d6ebf55193e07da4a1",
+   "price": "$528+",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": false,
+   "path": "/events/jersey-city-veteran-job-fair-jersey-city-career-fair-nov-16-2cfcc8/"
   },
   {
    "id": "eventbrite:1986851330815",
@@ -10624,7 +10380,7 @@
   },
   {
    "id": "eventbrite:2004147361709",
-   "title": "Nightmare Before Christmas",
+   "title": "Cheap Thrills: Black Celebration",
    "description": "all ages dance party with DJs Mona & Aleix\nGoth, post punk, electroclash, shoegaze, industrial and more...",
    "start": "2026-12-12T19:00:00-05:00",
    "end": "2026-12-12T22:00:00-05:00",
@@ -10632,15 +10388,15 @@
    "venue": "Monty Hall",
    "address": "43 Montgomery Street, Jersey City, NJ 07302",
    "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/nightmare-before-christmas-tickets-2004147361709",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196956801%2F301379834887%2F1%2Foriginal.20261030-203646?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8581c5fdafb620440ec3ee339fd2f06d",
+   "url": "https://www.eventbrite.com/e/cheap-thrills-black-celebration-tickets-2004147361709",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197726252%2F301379834887%2F1%2Foriginal.20261110-224826?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=38881afb45ca01bbd1e258d3156f520f",
    "price": "$13+",
    "source": "Eventbrite",
    "categories": [
     "Music"
    ],
    "free": false,
-   "path": "/events/nightmare-before-christmas-dec-12-3cdf0b/"
+   "path": "/events/cheap-thrills-black-celebration-dec-12-3cdf0b/"
   },
   {
    "id": "eventbrite:1996322826313",
@@ -14916,6 +14672,28 @@
    ],
    "free": false,
    "path": "/events/jeff-dunham-jan-9-934928/"
+  },
+  {
+   "id": "eventbrite:1406594635419",
+   "title": "Dance Party at Madd Hatter",
+   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
+   "start": "2027-01-09T19:00:00-05:00",
+   "end": "2027-01-09T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594635419",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music",
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/dance-party-at-madd-hatter-jan-9-21fd0d/"
   }
  ]
 }

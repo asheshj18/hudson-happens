@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-11T17:42:33.887861-05:00",
+ "generated": "2026-11-12T05:50:32.451144-05:00",
  "sources": {
-  "jersey_city_gov": 111,
+  "jersey_city_gov": 108,
   "bayonne_library": 342,
-  "hoboken_library": 143,
-  "stevens": 38,
-  "jc_families": 7,
-  "luma": 10,
-  "ticketmaster": 17,
+  "hoboken_library": 138,
+  "stevens": 40,
+  "jc_families": 6,
+  "luma": 11,
+  "ticketmaster": 16,
   "seatgeek": 24,
-  "eventbrite": 504,
+  "eventbrite": 510,
   "serpapi_google_events": 40
  },
  "events": [
@@ -116,106 +116,6 @@
    "path": "/events/welcome-to-computer-basics-fall-2026-oct-31-1d842d/"
   },
   {
-   "id": "eventbrite:1984580524773",
-   "title": "Taco & Tequila Tuesdays at The Exchange",
-   "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
-   "start": "2026-11-10T19:00:00-05:00",
-   "end": "2026-11-11T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/taco-tequila-tuesdays-at-the-exchange-tickets-1984580524773",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179147819%2F2894508074541%2F1%2Foriginal.20260305-205711?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=50be47c881f7dd9eb9cd7c1af4ae8279",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-10-dfed70/"
-  },
-  {
-   "id": "JC Families:108435-1794387600-1794420000@jcfamilies.com",
-   "title": "Connect the Waterfront Annual Celebration",
-   "description": "Join Fund for a Better Waterfront for their main event of the year! The always festive evening features an open bar (beer & wine), hors d\u2019oeuvres, live local entertainment and a raffle with items donated by local businesses. \nLearn more at betterwaterfront.org",
-   "start": "2026-11-11T09:00:00-05:00",
-   "end": "2026-11-11T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
-   "city": "Jersey City",
-   "url": "https://jcfamilies.com/event/connect-the-waterfront-annual-celebration/",
-   "image": null,
-   "price": null,
-   "source": "JC Families",
-   "categories": [
-    "Outdoors"
-   ],
-   "free": false,
-   "path": "/events/connect-the-waterfront-annual-celebration-nov-11-5ba81b/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15345191",
-   "title": "Red Foxes Senior Group",
-   "description": "",
-   "start": "2026-11-11T14:00:00-05:00",
-   "end": "2026-11-11T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classrooms C&D, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15345191",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/red-foxes-senior-group-nov-11-ee8829/"
-  },
-  {
-   "id": "eventbrite:1986851453181",
-   "title": "Wine Wednesday at The Exchange \u2013 Sip with Skyline Views",
-   "description": "Enjoy 15% off bottles of wine and $15 local cheese plates every Wednesday, 4\u201311 PM, with Manhattan skyline views.",
-   "start": "2026-11-11T16:00:00-05:00",
-   "end": "2026-11-11T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/wine-wednesday-at-the-exchange-sip-with-skyline-views-tickets-1986851453181",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1132150203%2F2894508074541%2F1%2Foriginal.20250923-015933?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=91ecb775a8a4b6d778354dc1a9f69adf",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-nov-11-a704c5/"
-  },
-  {
-   "id": "eventbrite:1987134038401",
-   "title": "Hudson Happy Hour",
-   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
-   "start": "2026-11-11T16:00:00-05:00",
-   "end": "2026-11-11T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134038401",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hudson-happy-hour-nov-11-d584b4/"
-  },
-  {
    "id": "eventbrite:153877344279",
    "title": "SAT & ACT Math & LA Prep classes",
    "description": "Get ready to crush SAT and ACT math & LA classes with tips and tricks that actually make sense and boost your scores!",
@@ -234,233 +134,6 @@
    ],
    "free": false,
    "path": "/events/sat-act-math-la-prep-classes-nov-11-ae86cb/"
-  },
-  {
-   "id": "hoboken-library:17723251",
-   "title": "Math Circle",
-   "description": "Organized jointly with Stevens Institute of Technology, a math circle exposes participants to interesting, challenging, and fun mathematical activities composed by faculty in the Department of Mathematical Sciences and led by STEM undergraduates at Stevens. Students in grades 4-5 are encouraged to register and can expect to play mathematical games, solve puzzles, and do hands-on activities.\u00a0There are no entry requirements other than an interest in exploring a different side of math!\u00a0\n\nThis program is supported by Grant No. 2236229 from the National Science Foundation.\u00a0For more information on m",
-   "start": "2026-11-11T17:45:00-05:00",
-   "end": "2026-11-11T18:45:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17723251",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Math_Circle_2.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/math-circle-nov-11-a78955/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15977892",
-   "title": "Chess Club (Ages 8-18)",
-   "description": "Join us at Bayonne Public Library for a Chess Club with Phil Rosado! Phil is the author of \u201cMind Matter: Welcome to Chess!\u201d This weekly class for ages 8-18 meets from 6-7 pm in the Children\u2019s Room. Attendees will learn how to play chess and meet other novices. Advanced registration is required for every session that you plan to attend. Walk-ins will be included if space permits.",
-   "start": "2026-11-11T18:00:00-05:00",
-   "end": "2026-11-11T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15977892",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Sports"
-   ],
-   "free": true,
-   "path": "/events/chess-club-ages-8-18-nov-11-43a964/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17701616",
-   "title": "ESL Class",
-   "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
-   "start": "2026-11-11T18:30:00-05:00",
-   "end": "2026-11-11T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom A, Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17701616",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/esl-class-nov-11-c6ec05/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17505588",
-   "title": "The Makery: Foil Engraving",
-   "description": "Join us at the Bayonne Public Library on Wednesday, May 20th from 6:30\u20138:30 pm in the Gallery for a free and inspiring Magical Monkey Makery workshop for ages 13 and up. Discover foil embossing and fall in love with this radiant way of drawing and sculpting with light! All materials are provided. Advanced registration is required. Walk-ins will be accommodated if space permits.",
-   "start": "2026-11-11T18:30:00-05:00",
-   "end": "2026-11-11T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17505588",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/the-makery-foil-engraving-nov-11-401707/"
-  },
-  {
-   "id": "google:magicalmonkeymakery20261111bayonne",
-   "title": "Magical Monkey Makery",
-   "description": "",
-   "start": "2026-11-11T18:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Bayonne Public Library, Bayonne, NJ",
-   "city": "Bayonne",
-   "url": "https://www.instagram.com/p/DfUvUaYjefj/",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToUy1WLXwfgK1bqV3XaeHc5HJHnG4lpra-aZZe2c6Z2ppU87AVyb3VSiMsVU4OxnP1QF2xz78KVi_LQ54",
-   "price": null,
-   "source": "instagram.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/magical-monkey-makery-nov-11-f61b73/"
-  },
-  {
-   "id": "eventbrite:2004108632870",
-   "title": "Jersey City Connects | Smash & Grout: Mosaic Coaster Night",
-   "description": "Get ready to smash some tiles and craft cool mosaic coasters with a fun crew!",
-   "start": "2026-11-11T18:45:00-05:00",
-   "end": "2026-11-11T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Departed Soles Brewing Company",
-   "address": "150 Bay Street #2a, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-connects-smash-grout-mosaic-coaster-night-tickets-2004108632870",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196909912%2F3018376597838%2F1%2Foriginal.20261030-054651?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9f4482739de38a669967e703b46929ee",
-   "price": "$69+",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-connects-smash-grout-mosaic-coaster-night-nov-11-44f20d/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15911871",
-   "title": "Evening Yoga Class",
-   "description": "Join us at the Bayonne Public Library for Evening Yoga classes with @imagineyogalucy! This is a bi-monthly Wednesday class from 7-8 pm in the Gallery. This class will meet on the following days:\n\n\tJanuary 7th and 21st\n\tFebruary 4th and 18th\n\tMarch 4th and 18th\n\tApril 8th and 22nd\n\tMay 6th\n\tJune 3rd and 17th\n\tJuly 1st and 22nd\n\tAugust 5th and 19th\n\tSeptember 9th and 23rd\n\tOctober 7th and 21st\n\tNovember 11th and 18th\n\tDecember 2nd and 16th\n\nAges 11  are invited to attend. All abilities, & skill levels welcome! Advanced registration is required for each session individually. Walk-ins will be acco",
-   "start": "2026-11-11T19:00:00-05:00",
-   "end": "2026-11-11T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15911871",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/evening-yoga-class-nov-11-b89633/"
-  },
-  {
-   "id": "eventbrite:2003680983760",
-   "title": "Board Game Night at 902 Brewing | Free things to do Jersey City",
-   "description": "Looking for a fun way to meet new people in Jersey City? Join us for a laid-back community Board Game Night at 902 Brewing Co.!",
-   "start": "2026-11-11T19:00:00-05:00",
-   "end": "2026-11-11T21:30:00-05:00",
-   "all_day": false,
-   "venue": "902 Brewing Co .",
-   "address": "101 Pacific Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/board-game-night-at-902-brewing-free-things-to-do-jersey-city-tickets-2003680983760",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196221825%2F156559819633%2F1%2Foriginal.20261020-195425?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2d30889e32711799efa3959288194e45",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/board-game-night-at-902-brewing-free-things-to-do-jerse-nov-11-6136ea/"
-  },
-  {
-   "id": "eventbrite:2003828606303",
-   "title": "General Knowledge Trivia at The Ale House!",
-   "description": "Come show what you know at General Knowledge Trivia!",
-   "start": "2026-11-11T19:30:00-05:00",
-   "end": "2026-11-11T21:00:00-05:00",
-   "all_day": false,
-   "venue": "The Ale House",
-   "address": "1034 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-the-ale-house-tickets-2003828606303",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173592145%2F2124635856523%2F1%2Foriginal.20251228-053352?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.443&fp-y=0.399&s=4c362522dbbfff93f25cef128ad04014",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/general-knowledge-trivia-at-the-ale-house-nov-11-71c4c9/"
-  },
-  {
-   "id": "eventbrite:2003828754747",
-   "title": "Book Lovers Trivia at Black Bear!",
-   "description": "Come show what you know at Book Lovers Trivia!",
-   "start": "2026-11-11T19:30:00-05:00",
-   "end": "2026-11-11T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Black Bear Hoboken Bar & Grill",
-   "address": "205 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/book-lovers-trivia-at-black-bear-tickets-2003828754747",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196450268%2F2124635856523%2F1%2Foriginal.20261023-154525?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f6c5aa490a768325190d3c231554a26c",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/book-lovers-trivia-at-black-bear-nov-11-1576b4/"
-  },
-  {
-   "id": "eventbrite:2004665780313",
-   "title": "Survivor 51 Watch Parties at The Hutton",
-   "description": "Watch Survivor 51 with friends and fans on our patio on the giant projected screen!",
-   "start": "2026-11-11T20:00:00-05:00",
-   "end": "2026-11-11T21:30:00-05:00",
-   "all_day": false,
-   "venue": "The Hutton Bar and Grill",
-   "address": "225 Hutton St., Jersey City, NJ 07307",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/survivor-51-watch-parties-at-the-hutton-tickets-2004665780313",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197698978%2F196151990297%2F1%2Foriginal.20261110-173214?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481&fp-y=0.083&s=667d65fc2acae985bb76eb8582680da6",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/survivor-51-watch-parties-at-the-hutton-nov-11-2d0955/"
   },
   {
    "id": "hoboken-library:17743612",
@@ -2756,6 +2429,26 @@
    "path": "/events/hudson-happy-hour-nov-16-d241ed/"
   },
   {
+   "id": "Stevens Institute:dq0jLuZkyMUyaoVX7Bvb",
+   "title": "Stevens WBB vs Hunter",
+   "description": "Game",
+   "start": "2026-11-16T17:00:00-05:00",
+   "end": "2026-11-16T20:30:00-05:00",
+   "all_day": false,
+   "venue": "Schaefer Canavan Arena (Entire Arena)",
+   "address": "Schaefer Canavan Arena (Entire Arena)",
+   "city": "Hoboken",
+   "url": "https://events.stevens.edu/",
+   "image": null,
+   "price": null,
+   "source": "Stevens Institute",
+   "categories": [
+    "Sports"
+   ],
+   "free": false,
+   "path": "/events/stevens-wbb-vs-hunter-nov-16-29e443/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17613233",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -3181,6 +2874,26 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-nov-17-923839/"
+  },
+  {
+   "id": "eventbrite:2002475758900",
+   "title": "Jazz Nights at The Exchange",
+   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
+   "start": "2026-11-17T18:00:00-05:00",
+   "end": "2026-11-17T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475758900",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": true,
+   "path": "/events/jazz-nights-at-the-exchange-nov-17-b5b05b/"
   },
   {
    "id": "City of Jersey City:21245785",
@@ -3896,6 +3609,26 @@
    ],
    "free": true,
    "path": "/events/bring-your-own-vinyl-nov-18-9c7d1b/"
+  },
+  {
+   "id": "luma:evt-TH0x2jg1Xrb2IFZ",
+   "title": "Happy Hour at The Alps",
+   "description": "",
+   "start": "2026-11-18T18:00:00-05:00",
+   "end": "2026-11-18T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Alps",
+   "address": "The Alps, 351 Palisade Ave, Jersey City, NJ 07307, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/9cfs249t",
+   "image": "https://images.lumacdn.com/uploads/in/fa9ff1b4-f677-488f-9d80-cd6ef9c6f0d0.jpg",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/happy-hour-at-the-alps-nov-18-9cfde9/"
   },
   {
    "id": "seatgeek:18573085",
@@ -6159,6 +5892,26 @@
    "path": "/events/stevens-men-s-basketball-vs-baruch-nov-24-61d739/"
   },
   {
+   "id": "eventbrite:2002475759903",
+   "title": "Jazz Nights at The Exchange",
+   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
+   "start": "2026-11-24T18:00:00-05:00",
+   "end": "2026-11-24T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475759903",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": true,
+   "path": "/events/jazz-nights-at-the-exchange-nov-24-f61ef0/"
+  },
+  {
    "id": "hoboken-library:17166407",
    "title": "Board of Trustees Meeting",
    "description": "The Hoboken Public Library Board of Trustees meets on the Fourth Tuesday of the month, at 6:30 pm at the Hoboken Public Library, 500 Park Avenue, Hoboken, NJ.\u00a0 Meetings are held in the Large Program Room in the Main Library\u2019s Lower Level.\u00a0 These meetings are open to the public.\n\nOption to join on Zoom: https://us02web.zoom.us/j/81434763989",
@@ -6729,6 +6482,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-nov-26-261a1d/"
+  },
+  {
+   "id": "eventbrite:2002342159300",
+   "title": "Harvest on the Hudson: A Thanksgiving Feast",
+   "description": "Thanksgiving Day dining featuring buffet appetizers and desserts, tableside entr\u00e9es and seasonal side dishes.",
+   "start": "2026-11-26T13:00:00-05:00",
+   "end": "2026-11-26T17:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/harvest-on-the-hudson-a-thanksgiving-feast-tickets-2002342159300",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1169075923%2F2894508074541%2F1%2Foriginal.20251103-151650?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0aadd1f4699abf2487ebac2d845ca283",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/harvest-on-the-hudson-a-thanksgiving-feast-nov-26-41d42b/"
   },
   {
    "id": "eventbrite:1987311078934",
@@ -7363,6 +7136,26 @@
    "path": "/events/math-circle-nov-30-3bc7f5/"
   },
   {
+   "id": "eventbrite:2002891795276",
+   "title": "Holiday Spirits at The Exchange",
+   "description": "Celebrate the season with four festive cocktails available throughout December.",
+   "start": "2026-12-01T07:00:00-05:00",
+   "end": "2026-12-31T23:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/holiday-spirits-at-the-exchange-tickets-2002891795276",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194975874%2F2894508074541%2F1%2Foriginal.20261003-160145?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8af8f5d3c25c41a7f7b68aa81fd78e28",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/holiday-spirits-at-the-exchange-dec-1-6c518a/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17701587",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -7564,6 +7357,26 @@
    ],
    "free": true,
    "path": "/events/hibernation-book-club-dec-1-a57483/"
+  },
+  {
+   "id": "eventbrite:2002475760906",
+   "title": "Jazz Nights at The Exchange",
+   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
+   "start": "2026-12-01T18:00:00-05:00",
+   "end": "2026-12-01T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475760906",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": true,
+   "path": "/events/jazz-nights-at-the-exchange-dec-1-4317fe/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-15994579",
@@ -7971,27 +7784,6 @@
    ],
    "free": true,
    "path": "/events/chess-club-ages-8-18-dec-2-756a85/"
-  },
-  {
-   "id": "ticketmaster:vv11FZ_pPUbw_x",
-   "title": "Jersey City's Inaugural Holiday Concert Presented by Mayor Solomon",
-   "description": "Join Mayor James Solomon and the City of Jersey City for an unforgettable holiday concert featuring the New Jersey Symphony at the historic Loew's Theatre! This special celebration is free for Jersey City residents, with priority access for seniors and JC students. Special thanks to our generous sponsors for helping make this inaugural holiday concert possible. We'd also like to encourage attendees to bring a new, unwrapped toy in support of the City's Toy Drive.",
-   "start": "2026-12-02T18:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "54 Journal Square Plaza",
-   "city": "Jersey City",
-   "url": "https://www.ticketmaster.com/jersey-citys-inaugural-holiday-concert-presented-jersey-city-new-jersey-12-02-2026/event/0200656976632662",
-   "image": "https://s1.ticketm.net/dam/a/f14/ca27b688-79ef-4376-8582-4bef0f0d8f14_SOURCE",
-   "price": "Paid",
-   "source": "Ticketmaster",
-   "categories": [
-    "Arts & Culture",
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-s-inaugural-holiday-concert-presented-by-ma-dec-2-e9bf73/"
   },
   {
    "id": "seatgeek:18756678",
@@ -8527,24 +8319,24 @@
    "path": "/events/family-yoga-dec-5-70701c/"
   },
   {
-   "id": "eventbrite:1988118405670",
-   "title": "Jersey City SantaCon Bar Crawl 2026",
-   "description": "Join the Jersey City SantaCon Bar Crawl 2026 with all your friends! Bar hop through the best bars in Jersey City on our Santa Pub Crawl.",
-   "start": "2026-12-05T12:00:00-05:00",
-   "end": "2026-12-05T18:00:00-05:00",
+   "id": "eventbrite:2004739761593",
+   "title": "Jersey City Ugly Sweater Bar Crawl 2026",
+   "description": "The Jersey City Ugly Sweater Bar Crawl 2026 is the biggest holiday bar crawl in Jersey City!",
+   "start": "2026-12-05T16:00:00-05:00",
+   "end": "2026-12-05T22:00:00-05:00",
    "all_day": false,
    "venue": "BOOTS & BONES",
    "address": "116 Newark Avenue, Jersey City, NJ 07302",
    "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-santacon-bar-crawl-2026-tickets-1988118405670",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182931821%2F2161917795983%2F1%2Foriginal.20260424-021126?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.777&fp-y=0.504&s=a592aa2bab3e88308be46d5440337d3c",
+   "url": "https://www.eventbrite.com/e/jersey-city-ugly-sweater-bar-crawl-2026-tickets-2004739761593",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197488638%2F2161917795983%2F1%2Foriginal.20261107-130036?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.795&fp-y=0.511&s=7167669e341e95c78d5ce990b7fd366a",
    "price": "$0+",
    "source": "Eventbrite",
    "categories": [
     "Nightlife"
    ],
    "free": false,
-   "path": "/events/jersey-city-santacon-bar-crawl-2026-dec-5-b0f1ea/"
+   "path": "/events/jersey-city-ugly-sweater-bar-crawl-2026-dec-5-902faf/"
   },
   {
    "id": "eventbrite:1406594484969",
@@ -9238,6 +9030,26 @@
    "path": "/events/planning-board-meeting-dec-8-50b8f9/"
   },
   {
+   "id": "eventbrite:2002475761909",
+   "title": "Jazz Nights at The Exchange",
+   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
+   "start": "2026-12-08T18:00:00-05:00",
+   "end": "2026-12-08T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475761909",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": true,
+   "path": "/events/jazz-nights-at-the-exchange-dec-8-4bb4cf/"
+  },
+  {
    "id": "eventbrite:2004329108318",
    "title": "Find Your POV",
    "description": "Learn to justify bold choices and move your scenes forward.",
@@ -9703,6 +9515,26 @@
    ],
    "free": true,
    "path": "/events/chess-club-ages-8-18-dec-9-8fb733/"
+  },
+  {
+   "id": "eventbrite:2004743750524",
+   "title": "Holistic Connections :   12.9.26",
+   "description": "Rooted in Wellness, Growing Together\nA Gathering for Hudson County Healers & Wellness Professionals",
+   "start": "2026-12-09T18:00:00-05:00",
+   "end": "2026-12-09T20:00:00-05:00",
+   "all_day": false,
+   "venue": "300 Communipaw Ave",
+   "address": "300 Communipaw Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/holistic-connections-12926-tickets-2004743750524",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197813913%2F153284777701%2F1%2Foriginal.20261112-012821?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.384&fp-y=0.323&s=d36049f48b95af70eb8201ac91f2376b",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/holistic-connections-12-9-26-dec-9-1dae09/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17485434",
@@ -11188,6 +11020,26 @@
    "path": "/events/hudson-happy-hour-dec-15-b76c86/"
   },
   {
+   "id": "eventbrite:2002475762912",
+   "title": "Jazz Nights at The Exchange",
+   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
+   "start": "2026-12-15T18:00:00-05:00",
+   "end": "2026-12-15T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475762912",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": true,
+   "path": "/events/jazz-nights-at-the-exchange-dec-15-6d4735/"
+  },
+  {
    "id": "City of Jersey City:21245787",
    "title": "Environmental Commission Meeting",
    "description": "The Environmental Commission meets every third Tuesday of the month at 6:30PM. Meetings are generally on Zoom, but if in person the information will be posted on the Environmental Commission page of the website.\n\njcnj.org/environment",
@@ -12273,6 +12125,26 @@
    "path": "/events/nimbus-dance-jersey-city-dec-19-0889f9/"
   },
   {
+   "id": "eventbrite:1988118405670",
+   "title": "Jersey City SantaCon Bar Crawl 2026",
+   "description": "Join the Jersey City SantaCon Bar Crawl 2026 with all your friends! Bar hop through the best bars in Jersey City on our Santa Pub Crawl.",
+   "start": "2026-12-19T12:00:00-05:00",
+   "end": "2026-12-19T18:00:00-05:00",
+   "all_day": false,
+   "venue": "BOOTS & BONES",
+   "address": "116 Newark Avenue, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jersey-city-santacon-bar-crawl-2026-tickets-1988118405670",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182931821%2F2161917795983%2F1%2Foriginal.20260424-021126?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.777&fp-y=0.504&s=a592aa2bab3e88308be46d5440337d3c",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/jersey-city-santacon-bar-crawl-2026-dec-19-b0f1ea/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17797089",
    "title": "\u00a1Buen D\u00eda! Bilingual Children's Story Time & Holiday Ornament Painting",
    "description": "Celebrate Puerto Rican stories and holiday traditions at \u00a1Buen D\u00eda! Bilingual Children's Story Time, presented by the Boricua Community Building Center in partnership with Bayonne Public Library and Nuyorican Books!\n\nJoin Puerto Rican children's author Samantha J. Garcia-Sherpa, founder of Nuyorican Books, for an engaging bilingual reading featuring \u201cI Am Boricua\u201d, \u201cABCs for Baby Boricuas\u201d, and \u201cABCs for Baby Boricuas: Pueblos\u201d. Families will discover stories celebrating Puerto Rican identity, language, and heritage.\n\nFollowing story time, children will enjoy painting wooden holiday ornaments ",
@@ -12803,6 +12675,26 @@
    "path": "/events/hudson-happy-hour-dec-22-6320d5/"
   },
   {
+   "id": "eventbrite:2002475763915",
+   "title": "Jazz Nights at The Exchange",
+   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
+   "start": "2026-12-22T18:00:00-05:00",
+   "end": "2026-12-22T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475763915",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": true,
+   "path": "/events/jazz-nights-at-the-exchange-dec-22-ee054a/"
+  },
+  {
    "id": "hoboken-library:17166408",
    "title": "Board of Trustees Meeting",
    "description": "The Hoboken Public Library Board of Trustees meets on the Fourth Tuesday of the month, at 6:30 pm at the Hoboken Public Library, 500 Park Avenue, Hoboken, NJ.\u00a0 Meetings are held in the Large Program Room in the Main Library\u2019s Lower Level.\u00a0 These meetings are open to the public.\n\nOption to join on Zoom: https://us02web.zoom.us/j/81434763989",
@@ -13145,6 +13037,26 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-dec-24-c9f444/"
+  },
+  {
+   "id": "eventbrite:2002893425151",
+   "title": "Christmas Specials at The Exchange",
+   "description": "Celebrate Christmas Eve and Christmas Day with holiday \u00e0 la carte specials, seasonal favorites and skyline views.",
+   "start": "2026-12-24T16:00:00-05:00",
+   "end": "2026-12-25T23:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/christmas-specials-at-the-exchange-tickets-2002893425151",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194978446%2F2894508074541%2F1%2Foriginal.20261003-170837?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f403b810c4c1e42227d0d347e583ff52",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/christmas-specials-at-the-exchange-dec-24-dffa54/"
   },
   {
    "id": "eventbrite:1406594555179",
@@ -13677,6 +13589,26 @@
    "path": "/events/hudson-happy-hour-dec-29-4dd3b8/"
   },
   {
+   "id": "eventbrite:2002475764918",
+   "title": "Jazz Nights at The Exchange",
+   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
+   "start": "2026-12-29T18:00:00-05:00",
+   "end": "2026-12-29T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475764918",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": true,
+   "path": "/events/jazz-nights-at-the-exchange-dec-29-fbf16e/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17491188",
    "title": "Women's Support  Group",
    "description": "The group would provide a safe and welcoming space for women to discuss current challenges they may be facing, connect with others, and learn practical coping strategies and tools to support their emotional well-being. The meetings would be free of charge, held weekly, and open to women in the community.",
@@ -13981,6 +13913,26 @@
    "path": "/events/hudson-happy-hour-dec-31-4d314b/"
   },
   {
+   "id": "eventbrite:2002342991790",
+   "title": "Glitter Glow: New Year's Eve Gala",
+   "description": "Three-course prix fixe dinner, live entertainment, champagne selections and a Glitter Glow celebration.",
+   "start": "2026-12-31T17:00:00-05:00",
+   "end": "2027-01-01T02:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/glitter-glow-new-years-eve-gala-tickets-2002342991790",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194979353%2F2894508074541%2F1%2Foriginal.20261003-173229?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e1a5d6e26a1f69508819e643aff0e0dc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/glitter-glow-new-year-s-eve-gala-dec-31-ca1f54/"
+  },
+  {
    "id": "eventbrite:2003959091588",
    "title": "Jersey City New Years Eve Bar Crawl 2027",
    "description": "Celebrate Jersey City  New Year's Eve in style with the best NYE bar crawl! Join us on December 31st 2026 for unforgettable memories!",
@@ -14141,26 +14093,6 @@
    ],
    "free": false,
    "path": "/events/2027-posh-w-hotel-vip-hoboken-new-year-s-eve-party-dec-31-5b3f2e/"
-  },
-  {
-   "id": "eventbrite:2001695157099",
-   "title": "2027 Posh W Hotel Hoboken New Year's Eve Party",
-   "description": "Join us for a swanky New Year's Eve Party in Hoboken. Posh brings you 4hrs of prepaid drinks, top Hoboken DJs & LED Countdown experience.",
-   "start": "2026-12-31T21:00:00-05:00",
-   "end": "2027-01-01T01:30:00-05:00",
-   "all_day": false,
-   "venue": "W Hotel Hoboken",
-   "address": "225 River St, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/2027-posh-w-hotel-hoboken-new-years-eve-party-tickets-2001695157099",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183897295%2F412671342061%2F1%2Foriginal.20260506-095231?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9ba617720b97662b6367bf13802137ea",
-   "price": "$102+",
-   "source": "Eventbrite",
-   "categories": [
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/2027-posh-w-hotel-hoboken-new-year-s-eve-party-dec-31-9e38ce/"
   },
   {
    "id": "eventbrite:1991466300313",

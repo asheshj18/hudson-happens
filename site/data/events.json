@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-13T11:42:17.389725-05:00",
+ "generated": "2026-11-13T17:34:36.462264-05:00",
  "sources": {
-  "jersey_city_gov": 107,
+  "jersey_city_gov": 112,
   "bayonne_library": 341,
-  "hoboken_library": 133,
+  "hoboken_library": 136,
   "stevens": 41,
   "jc_families": 4,
-  "luma": 16,
+  "luma": 15,
   "ticketmaster": 17,
   "seatgeek": 24,
-  "eventbrite": 449,
-  "serpapi_google_events": 40
+  "eventbrite": 447,
+  "serpapi_google_events": 36
  },
  "events": [
   {
@@ -156,148 +156,6 @@
    "path": "/events/basic-french-level-i-virtual-via-zoom-nov-12-628238/"
   },
   {
-   "id": "Bayonne Public Library:LibCal-17197-17877393",
-   "title": "ESL Class",
-   "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
-   "start": "2026-11-13T10:00:00-05:00",
-   "end": "2026-11-13T12:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17877393",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/esl-class-nov-13-6ea10f/"
-  },
-  {
-   "id": "eventbrite:2003682201402",
-   "title": "Coffee & Connect : Women's Business Networking 11.13",
-   "description": "Come meet other women in business, in this new , inclusive setting, hosted at 300 Communipaw Ave.",
-   "start": "2026-11-13T10:30:00-05:00",
-   "end": "2026-11-13T12:30:00-05:00",
-   "all_day": false,
-   "venue": "300 Communipaw Ave",
-   "address": "300 Communipaw Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/coffee-connect-womens-business-networking-1113-tickets-2003682201402",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196223677%2F153284777701%2F1%2Foriginal.20261020-201614?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9a745603a2f816e1db8a89c4f9593bf7",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business",
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/coffee-connect-women-s-business-networking-11-13-nov-13-d88fb5/"
-  },
-  {
-   "id": "eventbrite:2003375805965",
-   "title": "Jersey City Job Fair - Jersey City Career Fair",
-   "description": "Hiring in Jersey City?",
-   "start": "2026-11-13T11:00:00-05:00",
-   "end": "2026-11-13T15:00:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "Job Fair, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-job-fair-jersey-city-career-fair-registration-2003375805965",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195561187%2F211523508959%2F1%2Foriginal.20261011-202402?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c542d0ed45eb2d0d3ca1020ba517d13d",
-   "price": "Paid",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-job-fair-jersey-city-career-fair-nov-13-7c58d3/"
-  },
-  {
-   "id": "eventbrite:1986851329812",
-   "title": "Power Lunch for People on the Go",
-   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
-   "start": "2026-11-13T11:30:00-05:00",
-   "end": "2026-11-13T14:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851329812",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/power-lunch-for-people-on-the-go-nov-13-09e18c/"
-  },
-  {
-   "id": "hoboken-library:17809187",
-   "title": "Yoga Story Time",
-   "description": "Through one longer story and lots of yoga poses our Yoga Story Time focuses on developing early literacy skills through reading and play.\u00a0\n\nMovement in story time increases your little ones engagement, attention, and comprehension. Acting as animals and objects from our stories help our young readers begin to understand narrative structure.\n\nTo ensure everyone has a wonderful experience, please arrive early as spots are limited. Our Story Time session will kick off promptly at 11:45pm.",
-   "start": "2026-11-13T11:45:00-05:00",
-   "end": "2026-11-13T12:15:00-05:00",
-   "all_day": false,
-   "venue": "Damon Murray Community Gym",
-   "address": "Damon Murray Community Gym",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17809187",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/yoga-story-time-nov-13-44824e/"
-  },
-  {
-   "id": "hoboken-library:17625537",
-   "title": "Know Your Worker Rights!",
-   "description": "Join Stefanie Jackowitz, our Library Social Worker, to learn more about workplace rights in New Jersey including minimum wage, sick leave, overtime and more. Please register for this event.",
-   "start": "2026-11-13T12:00:00-05:00",
-   "end": "2026-11-13T13:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17625537",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/communico_work_rights_training.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/know-your-worker-rights-nov-13-964ad0/"
-  },
-  {
-   "id": "City of Jersey City:21420004",
-   "title": "Community Meeting",
-   "description": "Join Mayor Solomon and the Muslim Federation of New Jersey for a discussion and community updates.\n\nRegistration Encouraged",
-   "start": "2026-11-13T13:15:00-05:00",
-   "end": "2026-11-13T14:30:00-05:00",
-   "all_day": false,
-   "venue": "Muslim Federation  of New Jersey 530 Montgomery St. Jersey City, NJ 07302",
-   "address": "Muslim Federation  of New Jersey 530 Montgomery St. Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/community-meeting-nov-13-1948da/"
-  },
-  {
    "id": "eventbrite:1988767832122",
    "title": "Avant Radio Festival",
    "description": "WAVE FARM and WFMU  and ARTxFM are teaming up to bring you a weekend focused on the creative and experimental nature of radio.",
@@ -316,67 +174,6 @@
    ],
    "free": false,
    "path": "/events/avant-radio-festival-nov-13-b51deb/"
-  },
-  {
-   "id": "google:negativlandatmontyhall20261113jerseycity",
-   "title": "Negativland at Monty Hall",
-   "description": "",
-   "start": "2026-11-13T14:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Monty Hall",
-   "address": "Monty Hall, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.jambase.com/show/negativland-monty-hall-20261113?utm_source=google&utm_medium=gac",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRAnuouKlhhTpIxVRerpLYfTV1yRBsHzcil77YL7DYz5LPGzvbHRoaQIUWCrPh1g0EoRS_-f8bj37iB6M",
-   "price": null,
-   "source": "jambase.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/negativland-at-monty-hall-nov-13-e1be1d/"
-  },
-  {
-   "id": "hoboken-library:17684019",
-   "title": "Feel Good Friday",
-   "description": "Every Friday, we encourage children and their caregivers to share in a story at the library. Each child who checks out a book or stays and reads with us can enjoy a treat! Learn about library programs, listen to music, and spend time reading with your child.\u00a0\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
-   "start": "2026-11-13T15:30:00-05:00",
-   "end": "2026-11-13T16:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17684019",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Feel_Good_Fridays.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/feel-good-friday-nov-13-fe1896/"
-  },
-  {
-   "id": "hoboken-library:17723312",
-   "title": "Teen-Led Debate Club",
-   "description": "This vibrant club provides a welcoming environment where teens can engage in lively debate games, allowing them to explore diverse topics while having fun. Participants will learn the essentials of formal debating, including its structure, rules, and effective techniques to present compelling arguments.\n\nGuided by TAB Member Gabriel, teens will have the opportunity to practice public speaking, develop persuasive strategies, and enhance their ability to think on their feet. Whether you're a seasoned debater or new to the art of argumentation, the Teen-Led Debate Club is the perfect place to cul",
-   "start": "2026-11-13T15:45:00-05:00",
-   "end": "2026-11-13T16:45:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17723312",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/teen-led-debate-club-nov-13-b33674/"
   },
   {
    "id": "eventbrite:1986851548466",
@@ -478,46 +275,6 @@
    ],
    "free": false,
    "path": "/events/closing-reception-cat-stick-easel-moon-paintings-by-rac-nov-13-47bd54/"
-  },
-  {
-   "id": "google:boardgamesfreedinner3xchancetowinfreeentree20261113jerseycity",
-   "title": "Board Games \ud83c\udfb2 & FREE Dinner: 3x Chance to Win free Entree \ud83d\ude00 \ud83c\udf2d\ud83c\udfb2\ud83c\udf7b",
-   "description": "",
-   "start": "2026-11-13T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Zeppelin Hall Beer Garden",
-   "address": "Zeppelin Hall Beer Garden, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "http://www.secaucusnj.net/events/178798/Board-Games-FREE-Dinner-3x-Chance-to-Win-free-Entree",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLCdnIRHB9l6ed0M4fvCMCMJ2yh1TVjTTlUI3u1O9K2lQDQHR2Fa85Jyfhp8xkvsskLeXyJ2eZRlkLRcs",
-   "price": null,
-   "source": "secaucusnj.net",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/board-games-free-dinner-3x-chance-to-win-free-entree-nov-13-9ba260/"
-  },
-  {
-   "id": "eventbrite:2003010886481",
-   "title": "Knife Skills 101: Precision Blades WEBINAR",
-   "description": "Sharpen your knife skills virtually alongside an Expert Chef from your home kitchen. Mastering  precision, presentation, and speed.",
-   "start": "2026-11-13T18:30:00-05:00",
-   "end": "2026-11-13T20:00:00-05:00",
-   "all_day": false,
-   "venue": "HCCC Culinary Arts Institute",
-   "address": "161 Newkirk Street, Jersey City, NJ 07306",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/knife-skills-101-precision-blades-webinar-tickets-2003010886481",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183456134%2F2727527827971%2F1%2Foriginal.20260430-182714?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=37911653b72ecd087f9318494f53dd5a",
-   "price": "$34+",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/knife-skills-101-precision-blades-webinar-nov-13-25e97f/"
   },
   {
    "id": "eventbrite:2003030648590",
@@ -672,10 +429,10 @@
    "venue": "Madd Hatter Hoboken",
    "address": "Madd Hatter Hoboken, Hoboken, NJ",
    "city": "Hoboken",
-   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6af63eb9f9bee97a302eecf4/images/QbiczxRoPWGIvpLGhiyuY2CI8eRurca2F6d6Rw6NmT4.jpg",
+   "url": "https://www.eventbrite.com/e/2004381630413?aff=ebdiglgoogleliveevents",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHlt2RQjh1BJo-pd23j8gv_SJ678xT84ETsreVspfjkQazXtLNQUPLWAFkBqAiWxrsQrVyJAMT4ClckCI",
    "price": null,
-   "source": "Google Events",
+   "source": "Eventbrite",
    "categories": [
     "Music",
     "Nightlife"
@@ -742,6 +499,26 @@
    ],
    "free": false,
    "path": "/events/dj-julz-with-dj-aldez-dj-vera-nov-13-a79acb/"
+  },
+  {
+   "id": "google:bandofmakebelieve20261113hoboken",
+   "title": "Band of Make Believe",
+   "description": "",
+   "start": "2026-11-13T22:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "River Street Garage, LLC.",
+   "address": "River Street Garage, LLC., Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.facebook.com/bandofmakebelieve/",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-zkZQ1jo5O1P86KeJ6fFyoZBa7DZGRjzjxmJPjLHf4catA4zXKeiLxN5bFK7U-x3_C0lHOdJBnu5eVTU",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/band-of-make-believe-nov-13-2a98f0/"
   },
   {
    "id": "Stevens Institute:c7PRdYFLxUYEAGbwtZmW",
@@ -907,26 +684,6 @@
    "path": "/events/story-time-with-jack-and-bill-nov-14-e02add/"
   },
   {
-   "id": "google:leadclimbingclass20261114hoboken",
-   "title": "Lead Climbing Class",
-   "description": "",
-   "start": "2026-11-14T12:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Gravity Vault Hoboken, NJ",
-   "address": "The Gravity Vault Hoboken, NJ, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/TheGravityVaultHoboken/posts/if-you-have-never-led-before-or-its-been-a-while-since-you-have-this-class-is-fo/1806035871034906/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYvxFhlLTUVxXd5kk2xLiVJ_LpzHPfac9fShO4Zn0pTNJX77wMrv7M5WkF_sNC6iLKS3yLIpwfx8X7Euc",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Learning"
-   ],
-   "free": false,
-   "path": "/events/lead-climbing-class-nov-14-b0c04a/"
-  },
-  {
    "id": "google:cafepeanutfrigginfabulousshowcase20261114jerseycity",
    "title": "Cafe Peanut-Friggin' Fabulous Showcase",
    "description": "",
@@ -1048,26 +805,6 @@
    ],
    "free": true,
    "path": "/events/family-funday-story-time-nov-14-232f8d/"
-  },
-  {
-   "id": "luma:evt-iYCx2RhTngt1fFM",
-   "title": "diwali, like we were kids again.",
-   "description": "",
-   "start": "2026-11-14T15:00:00-05:00",
-   "end": "2026-11-14T17:00:00-05:00",
-   "all_day": false,
-   "venue": "Hoboken",
-   "address": "",
-   "city": "Hoboken",
-   "url": "https://lu.ma/0inopc6y",
-   "image": "https://images.lumacdn.com/uploads/m8/5dd94602-ba49-4f8b-962b-e6745379b370.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/diwali-like-we-were-kids-again-nov-14-3db699/"
   },
   {
    "id": "luma:evt-v0vQ31JHHbV9FvX",
@@ -1232,6 +969,26 @@
    ],
    "free": false,
    "path": "/events/brianna-peterson-with-paul-mcconnell-live-music-nov-14-02427f/"
+  },
+  {
+   "id": "google:publicaccess20261114hoboken",
+   "title": "Public Access",
+   "description": "",
+   "start": "2026-11-14T20:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "River Street Garage",
+   "address": "River Street Garage, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://events.musicofourdesire.com/el/event/wzld-public-access-party-new-york-city-united-states",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKmObjXqi52qb2ErrsRxAp3KyShM8BG-U84pkTRAPWWN38u2y-SKmYO_BgmeCC4mfss4GHUJ9ifzKzNmw",
+   "price": null,
+   "source": "events.musicofourdesire.com",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/public-access-nov-14-0b6169/"
   },
   {
    "id": "eventbrite:676802312937",
@@ -1518,6 +1275,26 @@
    "path": "/events/with-open-arms-a-concert-to-benefit-our-local-refugee-c-nov-15-08dfbe/"
   },
   {
+   "id": "City of Jersey City:21437937",
+   "title": "Community Meeting",
+   "description": "Please join us for the Sip Ave community meeting with Mayor Solomon! This is an important opportunity to engage directly with the Mayor, share feedback, and discuss issues affecting your neighborhood.",
+   "start": "2026-11-15T17:00:00-05:00",
+   "end": "2026-11-15T18:00:00-05:00",
+   "all_day": false,
+   "venue": "368 Sip Ave.",
+   "address": "368 Sip Ave.",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-meeting-nov-15-a01c18/"
+  },
+  {
    "id": "luma:evt-QWQIh0Lk3ma8nLa",
    "title": "Outside Context",
    "description": "",
@@ -1679,7 +1456,7 @@
   },
   {
    "id": "hoboken-library:17702936",
-   "title": "Social Work Drop In Hours Mondays",
+   "title": "Social Work Drop In-Hours with the City of Hoboken",
    "description": "The Social Work Department will assist you housing referrals, renewing or obtaining your state ID,  connections to community resources, unemployment insurance applications and more.",
    "start": "2026-11-16T13:00:00-05:00",
    "end": "2026-11-16T15:00:00-05:00",
@@ -1695,7 +1472,7 @@
     "Community"
    ],
    "free": true,
-   "path": "/events/social-work-drop-in-hours-mondays-nov-16-cbe07c/"
+   "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-nov-16-cbe07c/"
   },
   {
    "id": "hoboken-library:17683821",
@@ -1943,6 +1720,26 @@
    ],
    "free": true,
    "path": "/events/is-my-moody-teen-okay-presentation-nov-16-14cab5/"
+  },
+  {
+   "id": "google:bollywoodtriviajerseycity20261116jerseycity",
+   "title": "Bollywood Trivia Jersey City",
+   "description": "",
+   "start": "2026-11-16T19:15:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "JJ Sports Bar",
+   "address": "JJ Sports Bar, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/2004269417782?aff=ebdiglgoogleliveevents",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2erk1jGr0A0vWT9AmG0H21GVKIuofoKwy1r-4_irVXmGxOfMFSlZFUemt0pRwQsiqUeoRL3cKeScwEa8",
+   "price": null,
+   "source": "Eventbrite",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/bollywood-trivia-jersey-city-nov-16-ef98ac/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17701579",
@@ -2227,6 +2024,26 @@
    ],
    "free": false,
    "path": "/events/jersey-city-connects-board-game-night-nov-fundraiser-ev-nov-17-b9e403/"
+  },
+  {
+   "id": "eventbrite:2003010886481",
+   "title": "Knife Skills 101: Precision Blades WEBINAR",
+   "description": "Sharpen your knife skills virtually alongside an Expert Chef from your home kitchen. Mastering  precision, presentation, and speed.",
+   "start": "2026-11-17T18:30:00-05:00",
+   "end": "2026-11-17T20:30:00-05:00",
+   "all_day": false,
+   "venue": "HCCC Culinary Arts Institute",
+   "address": "161 Newkirk Street, Jersey City, NJ 07306",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/knife-skills-101-precision-blades-webinar-tickets-2003010886481",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183456134%2F2727527827971%2F1%2Foriginal.20260430-182714?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=37911653b72ecd087f9318494f53dd5a",
+   "price": "Paid",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": false,
+   "path": "/events/knife-skills-101-precision-blades-webinar-nov-17-25e97f/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17491182",
@@ -3816,24 +3633,25 @@
    "path": "/events/turkey-talk-the-how-to-guide-to-the-perfect-thanksgivin-nov-19-053b45/"
   },
   {
-   "id": "eventbrite:1998956748445",
-   "title": "Mahj Giving at MOJO",
-   "description": "Join us for a special Mahj Giving Guided Open Play session at MOJO on Bloomfield in Hoboken benefiting Hoboken Community Center Food Pantry!",
-   "start": "2026-11-19T18:30:00-05:00",
-   "end": "2026-11-19T20:30:00-05:00",
+   "id": "City of Jersey City:21437935",
+   "title": "Community Meeting: Hamilton Park",
+   "description": "Register Here\n\nJoin Mayor Solomon and the Hamilton Park Neighborhood Association for a community meeting focused on the issues affecting residents.\n\nPlease join the Hamilton Park Neighborhood Association for a community meeting with Mayor James Solomon.\n\nThis meeting is an opportunity for residents to speak directly with the Mayor, share feedback, ask questions, and discuss the issues and priorities affecting Jersey CIty residents.\n\nCommunity meetings are intended to bring City Hall directly into Jersey City neighborhoods and provide residents with an opportunity to have an open conversation a",
+   "start": "2026-11-19T19:00:00-05:00",
+   "end": "2026-11-19T20:00:00-05:00",
    "all_day": false,
-   "venue": "Mojo Coffee Company",
-   "address": "801 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/mahj-giving-at-mojo-registration-1998956748445",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190789645%2F2670017020761%2F1%2Foriginal.20260811-114143?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.482&fp-y=0.737&s=4f946da3092265dda26cd39b03418735",
-   "price": "$82+",
-   "source": "Eventbrite",
+   "venue": "Hamilton Park Montessori School, 1 McWilliams Pl.",
+   "address": "Hamilton Park Montessori School, 1 McWilliams Pl.",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
    "categories": [
-    "Food & Drink"
+    "Civic",
+    "Outdoors"
    ],
-   "free": false,
-   "path": "/events/mahj-giving-at-mojo-nov-19-3349ec/"
+   "free": true,
+   "path": "/events/community-meeting-hamilton-park-nov-19-aaf734/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17883977",
@@ -3959,6 +3777,26 @@
    ],
    "free": true,
    "path": "/events/jersey-city-bitcoin-socratic-seminar-series-nov-19-6dd508/"
+  },
+  {
+   "id": "google:hudsontable20261119hoboken",
+   "title": "Hudson Table",
+   "description": "",
+   "start": "2026-11-19T19:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "SLT Hoboken",
+   "address": "SLT Hoboken, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.facebook.com/events/333-15th-st-hoboken-nj/hudson-table/28589313387434128/",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0deCuhQWlVQzs-iv7W7lMRc7t_xCo6RU2Q0mKuXzeIBPdD13OJ2SDta5Za90c83aeHfnnCmNf8nfF0zs",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/hudson-table-nov-19-898060/"
   },
   {
    "id": "eventbrite:2003375414795",
@@ -4203,6 +4041,47 @@
    ],
    "free": true,
    "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-nov-20-87e6c7/"
+  },
+  {
+   "id": "City of Jersey City:21437948",
+   "title": "Community Meeting: Communipaw Library",
+   "description": "Register Here\n\nJoin Mayor Solomon and the Friends of Dr. Lena Edwards for a community meeting focused on the issues affecting residents.\n\nPlease join the Friends of Dr. Lena Edwards for a community meeting with Mayor James Solomon.\n\nThis meeting is an opportunity for residents to speak directly with the Mayor, share feedback, ask questions, and discuss the issues and priorities affecting Jersey City residents.\n\nCommunity meetings are intended to bring City Hall directly into Jersey City neighborhoods and provide residents with an opportunity to have an open conversation about the concerns, ide",
+   "start": "2026-11-20T18:00:00-05:00",
+   "end": "2026-11-20T19:00:00-05:00",
+   "all_day": false,
+   "venue": "295 Johnston Ave.",
+   "address": "295 Johnston Ave.",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-meeting-communipaw-library-nov-20-c1bc99/"
+  },
+  {
+   "id": "eventbrite:2004826610360",
+   "title": "Community Meeting with Mayor James Solomon",
+   "description": "Join Mayor Solomon and the Friends of Dr. Lena Edwards for a community meeting focused on the issues affecting residents.",
+   "start": "2026-11-20T18:00:00-05:00",
+   "end": "2026-11-20T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Communipaw Jersey City Public Library",
+   "address": "295 Johnston Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2004826610360",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197942263%2F274366617814%2F1%2Foriginal.20261113-195111?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.857&fp-y=0.429&s=a34710914315d281155a23861091c9f4",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-meeting-with-mayor-james-solomon-nov-20-3c4171/"
   },
   {
    "id": "eventbrite:2003675070072",
@@ -4572,6 +4451,26 @@
    "path": "/events/furr-friendsgiving-yappy-hour-at-902-brewing-jersey-cit-nov-21-b6e2a9/"
   },
   {
+   "id": "google:thegreatreddoorpajamasparty20261121jerseycity",
+   "title": "The Great Red Door Pajamas Party",
+   "description": "",
+   "start": "2026-11-21T18:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Grace Church Van Vorst",
+   "address": "Grace Church Van Vorst, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/2004128704906?aff=ebdiglgoogleliveevents",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-rMx1QroJG7XzIHt3ypDBcdzOV65aN7oNaHQF5giiJzJR3Taf1lnHoP-lOax4Xf2fAWLuhLquWMlKfjQ",
+   "price": null,
+   "source": "Eventbrite",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/the-great-red-door-pajamas-party-nov-21-7dcb57/"
+  },
+  {
    "id": "eventbrite:1406594424789",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -4877,7 +4776,7 @@
   },
   {
    "id": "hoboken-library:17702937",
-   "title": "Social Work Drop In Hours Mondays",
+   "title": "Social Work Drop In-Hours with the City of Hoboken",
    "description": "The Social Work Department will assist you housing referrals, renewing or obtaining your state ID,  connections to community resources, unemployment insurance applications and more.",
    "start": "2026-11-23T13:00:00-05:00",
    "end": "2026-11-23T15:00:00-05:00",
@@ -4893,7 +4792,7 @@
     "Community"
    ],
    "free": true,
-   "path": "/events/social-work-drop-in-hours-mondays-nov-23-0b9b90/"
+   "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-nov-23-0b9b90/"
   },
   {
    "id": "hoboken-library:17683822",
@@ -6247,6 +6146,26 @@
    "path": "/events/esl-class-nov-30-a529cb/"
   },
   {
+   "id": "City of Jersey City:21437791",
+   "title": "\"The Helix\" - 211 Baldwin Ave Affordable Housing Lottery",
+   "description": "For the Lottery Viewing of the \"The Helix\", located at 211 Baldwin Ave., Jersey City, NJ 07306. Please click this zoom link: https://us06web.zoom.us/j/81023879179. Lottery date and time subject to change. Please check back regularly to view updated lottery scheduling and zoom link information.",
+   "start": "2026-11-30T11:00:00-05:00",
+   "end": "2026-11-30T11:15:00-05:00",
+   "all_day": false,
+   "venue": null,
+   "address": "",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/the-helix-211-baldwin-ave-affordable-housing-lottery-nov-30-c8a0c2/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-15952325",
    "title": "Lapsit Program (Ages 18-24 Months)",
    "description": "The Lapsit program is Mondays from 11:00-11:30. It is for children ages 18-24 months. Each week features themed stories and songs. Parents/guardians must be present during the entire program. No advanced registration is required. Spots will be filled on a first come, first served basis.",
@@ -6308,7 +6227,7 @@
   },
   {
    "id": "hoboken-library:17702938",
-   "title": "Social Work Drop In Hours Mondays",
+   "title": "Social Work Drop In-Hours with the City of Hoboken",
    "description": "The Social Work Department will assist you housing referrals, renewing or obtaining your state ID,  connections to community resources, unemployment insurance applications and more.",
    "start": "2026-11-30T13:00:00-05:00",
    "end": "2026-11-30T15:00:00-05:00",
@@ -6324,7 +6243,7 @@
     "Community"
    ],
    "free": true,
-   "path": "/events/social-work-drop-in-hours-mondays-nov-30-27ee54/"
+   "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-nov-30-27ee54/"
   },
   {
    "id": "hoboken-library:17683823",
@@ -7123,6 +7042,26 @@
    "path": "/events/power-lunch-for-people-on-the-go-dec-3-b1a87a/"
   },
   {
+   "id": "hoboken-library:17911753",
+   "title": "Social Work Drop-In Hours",
+   "description": "Drop-in referrals, benefits application assistance, and social service assistance are now available on Thursdays from 12:00-2:00 PM at the Grand Street Branch.\n\nWe can help you with:\n\nReferrals to Community Resources including:\n\nHome Health Care/Older Adult Services\n\nAffordable Housing and Career Resources\n\nMental Health Support\n\nTransportation\n\nHead Start & Early Childhood Programs\n\nBenefits Applications including:\u00a0\n\nTemporary Disability Insurance\n\nPaid Family Leave Insurance\n\nUnemployment Insurance\n\nAnd more!\n\nQuestions? Email socialwork@hobokenlibrary.org",
+   "start": "2026-12-03T12:00:00-05:00",
+   "end": "2026-12-03T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17911753",
+   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Grand_Street_Drop_In_Hours_2026-_Final.png",
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/social-work-drop-in-hours-dec-3-9e1210/"
+  },
+  {
    "id": "hoboken-library:17578679",
    "title": "Tech Time",
    "description": "We are offering free technology classes at the Grand Street Branch Library. This 5-week series will focus on smartphones, including apps, photo organization, and avoiding scams. You do not need to register for all classes. You may attend any or all classes in the series.\n\nOctober 22: Smartphone Basics\nNovember 5:\u00a0Customizing Your Phone\nNovember 19:\u00a0Get to Know Your Phone Camera\nDecember 3: Phone Storage Options\nDecember 17: Phone Safety and Scams\n\nPlease bring your smartphone, your charger, and your preferred method for note-taking if desired.\n\nThere will be time for personalized Q&A during ea",
@@ -7287,26 +7226,6 @@
    ],
    "free": false,
    "path": "/events/end-of-the-century-the-story-of-the-ramones-dec-3-ab2f72/"
-  },
-  {
-   "id": "google:gregorymcloughlinthelemonadebandwithbarbarabeeman20261203hoboken",
-   "title": "GREGORY McLOUGHLIN & The LEMONADE BAND with BARBARA BEEMAN!",
-   "description": "",
-   "start": "2026-12-03T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "503 Social Club",
-   "address": "503 Social Club, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.google.com/search?q=503+Social+Club&ludocid=5239736050251432147&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1t-Y5e5VO5_mEWy_Q4jcT1W8oVRXnUY2BgCcGu52Kjzg0KssyaVHAx5Y1fmGFxG53hN7NDlUR0EaiR-I",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/gregory-mcloughlin-the-lemonade-band-with-barbara-beema-dec-3-9a12df/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17068933",
@@ -7637,8 +7556,8 @@
    "path": "/events/oceans-between-our-names-duet-version-dec-5-20ce11/"
   },
   {
-   "id": "google:jamesmaddockreturnsnewdate20261205hoboken",
-   "title": "JAMES MADDOCK Returns! New DATE!",
+   "id": "google:jamesmaddockreturns20261205hoboken",
+   "title": "JAMES MADDOCK Returns",
    "description": "",
    "start": "2026-12-05T19:30:00-05:00",
    "end": null,
@@ -7654,7 +7573,7 @@
     "Community"
    ],
    "free": false,
-   "path": "/events/james-maddock-returns-new-date-dec-5-5511a6/"
+   "path": "/events/james-maddock-returns-dec-5-e403aa/"
   },
   {
    "id": "Stevens Institute:PTgrVpWBaM49BZesBZsw",
@@ -7879,7 +7798,7 @@
   },
   {
    "id": "hoboken-library:17702939",
-   "title": "Social Work Drop In Hours Mondays",
+   "title": "Social Work Drop In-Hours with the City of Hoboken",
    "description": "The Social Work Department will assist you housing referrals, renewing or obtaining your state ID,  connections to community resources, unemployment insurance applications and more.",
    "start": "2026-12-07T13:00:00-05:00",
    "end": "2026-12-07T15:00:00-05:00",
@@ -7895,7 +7814,7 @@
     "Community"
    ],
    "free": true,
-   "path": "/events/social-work-drop-in-hours-mondays-dec-7-5bfa86/"
+   "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-dec-7-5bfa86/"
   },
   {
    "id": "hoboken-library:17745387",
@@ -8367,26 +8286,6 @@
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-dec-8-04f63f/"
   },
   {
-   "id": "google:mstdecemberopenmicnight20261208hoboken",
-   "title": "MST December Open Mic Night",
-   "description": "",
-   "start": "2026-12-08T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Mile Square Theatre",
-   "address": "Mile Square Theatre, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/events/1400-clinton-st-hoboken-nj-united-states-new-jersey-07030/mst-december-open-mic-night/2147695145786317/",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbuDXZnPodYDhgnFN_DUSGZHqsnsL1_PL5iACk0fNcmw9pn5VTaVyemrJ5eSqe6SWC1Xk2Sklq2lZDoI",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/mst-december-open-mic-night-dec-8-65bf87/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17068934",
    "title": "Bayonne Public Schools Class Visit",
    "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
@@ -8832,6 +8731,26 @@
    "path": "/events/power-lunch-for-people-on-the-go-dec-10-82ec03/"
   },
   {
+   "id": "hoboken-library:17911754",
+   "title": "Social Work Drop-In Hours",
+   "description": "Drop-in referrals, benefits application assistance, and social service assistance are now available on Thursdays from 12:00-2:00 PM at the Grand Street Branch.\n\nWe can help you with:\n\nReferrals to Community Resources including:\n\nHome Health Care/Older Adult Services\n\nAffordable Housing and Career Resources\n\nMental Health Support\n\nTransportation\n\nHead Start & Early Childhood Programs\n\nBenefits Applications including:\u00a0\n\nTemporary Disability Insurance\n\nPaid Family Leave Insurance\n\nUnemployment Insurance\n\nAnd more!\n\nQuestions? Email socialwork@hobokenlibrary.org",
+   "start": "2026-12-10T12:00:00-05:00",
+   "end": "2026-12-10T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17911754",
+   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Grand_Street_Drop_In_Hours_2026-_Final.png",
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/social-work-drop-in-hours-dec-10-ca770a/"
+  },
+  {
    "id": "eventbrite:1987311049847",
    "title": "Hoboken, New Jersey: Empower Your Finances",
    "description": "This event is designed to empower you with the knowledge, tools, and strategies needed to attain financial freedom",
@@ -9189,7 +9108,7 @@
    "address": "530 Montgomery Street, Jersey City, NJ 07302",
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2003418102475",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195793172%2F274366617814%2F1%2Foriginal.20261014-162303?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.853&fp-y=0.496&s=37ffd7b11d0c8cfb0d396d9009846d1c",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197928894%2F274366617814%2F1%2Foriginal.20261113-164126?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.84&fp-y=0.489&s=7cccf388f38869d9f633b8739c43340b",
    "price": "Free",
    "source": "Eventbrite",
    "categories": [
@@ -9790,6 +9709,26 @@
    ],
    "free": true,
    "path": "/events/live-music-irish-music-session-every-sunday-at-the-hutt-dec-13-d19917/"
+  },
+  {
+   "id": "google:halloweenparty20261213jerseycity",
+   "title": "Halloween Party",
+   "description": "",
+   "start": "2026-12-13T20:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Jersey City Ballroom",
+   "address": "Jersey City Ballroom, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://getbailar.com/events/halloween-party-jersey-city-nj-2026-12-13",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFLs1ZkTheZ9gv9ArWrezoiossPmpZfYDMS20o3wtpFLnSr4L4lE2rePeCT6AcfhoW09HhnW744nKmYek",
+   "price": null,
+   "source": "getbailar.com",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/halloween-party-dec-13-cdae40/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17701594",
@@ -10593,8 +10532,8 @@
    "start": "2026-12-16T18:30:00-05:00",
    "end": "2026-12-16T20:30:00-05:00",
    "all_day": false,
-   "venue": "503 Social Club",
-   "address": "503 3rd Street, Hoboken, NJ 07030",
+   "venue": "Symposia Community Bookstore",
+   "address": "510 Washington Street, Hoboken, NJ 07030",
    "city": "Hoboken",
    "url": "https://www.eventbrite.com/e/intro-to-improv-a-2-hour-beginner-friendly-drop-in-tickets-2004406635203",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197312660%2F2990717001563%2F1%2Foriginal.20261105-012554?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=90d354a152f97ff0232770e2abb322e7",
@@ -10708,6 +10647,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-dec-17-e62812/"
+  },
+  {
+   "id": "hoboken-library:17911755",
+   "title": "Social Work Drop-In Hours",
+   "description": "Drop-in referrals, benefits application assistance, and social service assistance are now available on Thursdays from 12:00-2:00 PM at the Grand Street Branch.\n\nWe can help you with:\n\nReferrals to Community Resources including:\n\nHome Health Care/Older Adult Services\n\nAffordable Housing and Career Resources\n\nMental Health Support\n\nTransportation\n\nHead Start & Early Childhood Programs\n\nBenefits Applications including:\u00a0\n\nTemporary Disability Insurance\n\nPaid Family Leave Insurance\n\nUnemployment Insurance\n\nAnd more!\n\nQuestions? Email socialwork@hobokenlibrary.org",
+   "start": "2026-12-17T12:00:00-05:00",
+   "end": "2026-12-17T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17911755",
+   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Grand_Street_Drop_In_Hours_2026-_Final.png",
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/social-work-drop-in-hours-dec-17-b40266/"
   },
   {
    "id": "hoboken-library:17578680",
@@ -11284,26 +11243,6 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-dec-19-812733/"
-  },
-  {
-   "id": "google:thecliffsbandriverstreetgarage20261219hoboken",
-   "title": "The Cliffs Band: River Street Garage",
-   "description": "",
-   "start": "2026-12-19T22:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "River Street Garage, LLC.",
-   "address": "River Street Garage, LLC., Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.bandsintown.com/de/e/108204193-the-cliffs-band-at-river-street-garage-llc",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNLqh8STsAJJkOBSU5lhIYHN7CyKBnWTCQ4RqT8AlF6SHXcWhFtNFpNHrAUc43JVzMcZcWGKcojHgv7OU",
-   "price": null,
-   "source": "bandsintown.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/the-cliffs-band-river-street-garage-dec-19-2fe4fa/"
   },
   {
    "id": "eventbrite:1774166051419",

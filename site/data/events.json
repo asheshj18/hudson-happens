@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-13T05:48:09.469390-05:00",
+ "generated": "2026-11-13T11:42:17.389725-05:00",
  "sources": {
   "jersey_city_gov": 107,
   "bayonne_library": 341,
-  "hoboken_library": 137,
+  "hoboken_library": 133,
   "stevens": 41,
   "jc_families": 4,
-  "luma": 15,
+  "luma": 16,
   "ticketmaster": 17,
   "seatgeek": 24,
-  "eventbrite": 450,
+  "eventbrite": 449,
   "serpapi_google_events": 40
  },
  "events": [
@@ -156,87 +156,6 @@
    "path": "/events/basic-french-level-i-virtual-via-zoom-nov-12-628238/"
   },
   {
-   "id": "hoboken-library:17898032",
-   "title": "Pen to Paper: Writing Challenge",
-   "description": "The goal is to write consistently (every day, if possible) for the next 30 days toward a monthly goal.\u00a0\n\n1. Set your goal\n2. Work toward your goal\n2. Check in weekly\n4. Complete your monthly goal\n\nWhat might that look like? Some examples:\n\nWrite X amount of words towards my novel or novella\n\nWrite X short stories (or one short story) of X amount of words\n\nWrite one short story and submit it to a contest\n\nWrite one poem every day\n\nYour goal is your goal, and this challenge is designed to help you break it down so that you can achieve it. Once you sign up, you'll receive an email with a Google F",
-   "start": "2026-11-13T00:00:00-05:00",
-   "end": "2026-11-13T23:59:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17898032",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Pen_to_Paper_Writing_Challenge_Communico_Image.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/pen-to-paper-writing-challenge-nov-13-c66f84/"
-  },
-  {
-   "id": "luma:evt-CatqckeafoMio0r",
-   "title": "Ship 'n Run: a run club for founders & builders",
-   "description": "",
-   "start": "2026-11-13T07:00:00-05:00",
-   "end": "2026-11-13T09:00:00-05:00",
-   "all_day": false,
-   "venue": "Hoboken",
-   "address": "",
-   "city": "Hoboken",
-   "url": "https://lu.ma/shipnrun1113",
-   "image": "https://images.lumacdn.com/uploads/c3/3a7c709a-f16d-4b13-802b-cb5c7e3370d3.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/ship-n-run-a-run-club-for-founders-builders-nov-13-02428d/"
-  },
-  {
-   "id": "eventbrite:2002132371820",
-   "title": "Award Breakfast",
-   "description": "Celebrate excellence, honor leadership, and connect with community leaders at Modesto Foundation\u2019s 2026 Award Breakfast.",
-   "start": "2026-11-13T08:00:00-05:00",
-   "end": "2026-11-13T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Liberty House Wedding & Event Venue",
-   "address": "76 Audrey Zapp Drive, Jersey City, NJ 07305",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/award-breakfast-tickets-2002132371820",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194191156%2F3003951366139%2F1%2Foriginal.20260923-135120?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.094&fp-y=0.512&s=5f7ad0c1b0f9d0b54fe384b4eed47320",
-   "price": "$75+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/award-breakfast-nov-13-c6a034/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17068928",
-   "title": "Bayonne Public Schools Class Visit",
-   "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
-   "start": "2026-11-13T09:30:00-05:00",
-   "end": "2026-11-13T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17068928",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/bayonne-public-schools-class-visit-nov-13-dfa1b7/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17877393",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -255,49 +174,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-13-6ea10f/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17254749",
-   "title": "Sunspire Cafe Pop-Up",
-   "description": "Ready for a Sunspire Cafe Pop-up? Join Sunspire Cafe at the Bayonne Public Library for some fall pop-ups!\n\nSunspire Cafe will be in the Lobby of the Bayonne Public Library on the following Fridays from 10 am to 3 pm:\n\n\tOctober 16th\n\tNovember 13th\n\nThere will be a wide variety of options available for purchase including espresso drinks, iced coffees, matchas, kiddoccinos and more!",
-   "start": "2026-11-13T10:00:00-05:00",
-   "end": "2026-11-13T15:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Lobby, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17254749",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/sunspire-cafe-pop-up-nov-13-562ee5/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16389690",
-   "title": "Caregiver and Me Pilates Class",
-   "description": "Join the Bayonne Public Library for a \u201cCaregiver and Me\u201d Pilates class! The class will meet twice monthly from 10:30-11:30 am in Gallery on the following Fridays:\n\n\tMarch 13\n\tApril 24\n\tMay 29\n\tJune 26\n\tJuly 17 & 31\n\tAugust 14 & 28\n\tSeptember 4 & 18\n\tOctober 16 & 30\n\tNovember 13\n\tDecember 11 \n\nWhat is \u201cCaregiver and Me\u201d Pilates class? It\u2019s a blend of gentle exercise and playful, child-friendly activities. It\u2019s specially designed for caregivers to strengthen their bodies while introducing little ones to the joy of movement. With gentle Pilates exercises modified for both adults and kids, these c",
-   "start": "2026-11-13T10:30:00-05:00",
-   "end": "2026-11-13T11:15:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16389690",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/caregiver-and-me-pilates-class-nov-13-0f0acf/"
   },
   {
    "id": "eventbrite:2003682201402",
@@ -332,7 +208,7 @@
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/jersey-city-job-fair-jersey-city-career-fair-registration-2003375805965",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195561187%2F211523508959%2F1%2Foriginal.20261011-202402?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c542d0ed45eb2d0d3ca1020ba517d13d",
-   "price": "$528+",
+   "price": "Paid",
    "source": "Eventbrite",
    "categories": [
     "Tech & Business"
@@ -420,27 +296,6 @@
    ],
    "free": true,
    "path": "/events/community-meeting-nov-13-1948da/"
-  },
-  {
-   "id": "eventbrite:2003418102475",
-   "title": "Community Meeting with Mayor James Solomon",
-   "description": "Join Mayor Solomon for a community meeting focused on the issues affecting residents at the Muslim Federation of New Jersey.",
-   "start": "2026-11-13T13:15:00-05:00",
-   "end": "2026-11-13T14:30:00-05:00",
-   "all_day": false,
-   "venue": "Muslim Federation of NJ",
-   "address": "530 Montgomery Street, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2003418102475",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195793172%2F274366617814%2F1%2Foriginal.20261014-162303?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.853&fp-y=0.496&s=37ffd7b11d0c8cfb0d396d9009846d1c",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/community-meeting-with-mayor-james-solomon-nov-13-e015eb/"
   },
   {
    "id": "eventbrite:1988767832122",
@@ -887,27 +742,6 @@
    ],
    "free": false,
    "path": "/events/dj-julz-with-dj-aldez-dj-vera-nov-13-a79acb/"
-  },
-  {
-   "id": "hoboken-library:17898033",
-   "title": "Pen to Paper: Writing Challenge",
-   "description": "The goal is to write consistently (every day, if possible) for the next 30 days toward a monthly goal.\u00a0\n\n1. Set your goal\n2. Work toward your goal\n2. Check in weekly\n4. Complete your monthly goal\n\nWhat might that look like? Some examples:\n\nWrite X amount of words towards my novel or novella\n\nWrite X short stories (or one short story) of X amount of words\n\nWrite one short story and submit it to a contest\n\nWrite one poem every day\n\nYour goal is your goal, and this challenge is designed to help you break it down so that you can achieve it. Once you sign up, you'll receive an email with a Google F",
-   "start": "2026-11-14T00:00:00-05:00",
-   "end": "2026-11-14T23:59:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17898033",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Pen_to_Paper_Writing_Challenge_Communico_Image.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/pen-to-paper-writing-challenge-nov-14-89667d/"
   },
   {
    "id": "Stevens Institute:c7PRdYFLxUYEAGbwtZmW",
@@ -1480,27 +1314,6 @@
    "path": "/events/u4ria-nov-14-556224/"
   },
   {
-   "id": "hoboken-library:17898034",
-   "title": "Pen to Paper: Writing Challenge",
-   "description": "The goal is to write consistently (every day, if possible) for the next 30 days toward a monthly goal.\u00a0\n\n1. Set your goal\n2. Work toward your goal\n2. Check in weekly\n4. Complete your monthly goal\n\nWhat might that look like? Some examples:\n\nWrite X amount of words towards my novel or novella\n\nWrite X short stories (or one short story) of X amount of words\n\nWrite one short story and submit it to a contest\n\nWrite one poem every day\n\nYour goal is your goal, and this challenge is designed to help you break it down so that you can achieve it. Once you sign up, you'll receive an email with a Google F",
-   "start": "2026-11-15T00:00:00-05:00",
-   "end": "2026-11-15T23:59:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17898034",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Pen_to_Paper_Writing_Challenge_Communico_Image.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/pen-to-paper-writing-challenge-nov-15-368540/"
-  },
-  {
    "id": "google:sundaynaturewalks20261115bayonne",
    "title": "Sunday Nature Walks",
    "description": "",
@@ -1743,27 +1556,6 @@
    ],
    "free": true,
    "path": "/events/live-music-irish-music-session-every-sunday-at-the-hutt-nov-15-83c2ad/"
-  },
-  {
-   "id": "hoboken-library:17898035",
-   "title": "Pen to Paper: Writing Challenge",
-   "description": "The goal is to write consistently (every day, if possible) for the next 30 days toward a monthly goal.\u00a0\n\n1. Set your goal\n2. Work toward your goal\n2. Check in weekly\n4. Complete your monthly goal\n\nWhat might that look like? Some examples:\n\nWrite X amount of words towards my novel or novella\n\nWrite X short stories (or one short story) of X amount of words\n\nWrite one short story and submit it to a contest\n\nWrite one poem every day\n\nYour goal is your goal, and this challenge is designed to help you break it down so that you can achieve it. Once you sign up, you'll receive an email with a Google F",
-   "start": "2026-11-16T00:00:00-05:00",
-   "end": "2026-11-16T23:59:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17898035",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Pen_to_Paper_Writing_Challenge_Communico_Image.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/pen-to-paper-writing-challenge-nov-16-998c4d/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17701578",
@@ -2069,27 +1861,6 @@
    ],
    "free": false,
    "path": "/events/art-music-and-wine-nov-16-d66d98/"
-  },
-  {
-   "id": "City of Jersey City:21355180",
-   "title": "Historic Preservation Commission",
-   "description": "",
-   "start": "2026-11-16T18:30:00-05:00",
-   "end": "2026-11-16T22:30:00-05:00",
-   "all_day": false,
-   "venue": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
-   "address": "1st floor Board Room of the Holloway Building, 4 Jackson Square  Jersey City , NJ 0730",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community",
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/historic-preservation-commission-nov-16-4aa4b3/"
   },
   {
    "id": "City of Jersey City:21059938",
@@ -2540,6 +2311,46 @@
    ],
    "free": true,
    "path": "/events/santa-paws-tree-party-hudson-county-animal-league-nov-17-b23cd9/"
+  },
+  {
+   "id": "luma:evt-AfJQQf9oWYEShgJ",
+   "title": "Notion 101 Workshop",
+   "description": "",
+   "start": "2026-11-17T19:00:00-05:00",
+   "end": "2026-11-17T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Stevens Institute of Technology",
+   "address": "Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA",
+   "city": "Hoboken",
+   "url": "https://lu.ma/xnhr21sw",
+   "image": "https://images.lumacdn.com/gallery-images/xy/13fae58d-87bd-455a-8c6d-c1ba52df7767",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Learning"
+   ],
+   "free": true,
+   "path": "/events/notion-101-workshop-nov-17-3cc40d/"
+  },
+  {
+   "id": "luma:evt-Pn8OwZkoO88Lqk0",
+   "title": "Yoga in the Community Room, Nov 17, 7pm - 8pm",
+   "description": "",
+   "start": "2026-11-17T19:00:00-05:00",
+   "end": "2026-11-17T20:00:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/f1ua4xv0",
+   "image": "https://images.lumacdn.com/uploads/6o/164e2f7c-6b10-45b7-8927-cefcb9c6e59b.jpg",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/yoga-in-the-community-room-nov-17-7pm-8pm-nov-17-e9fddf/"
   },
   {
    "id": "eventbrite:1397814634199",
@@ -9368,6 +9179,27 @@
    "path": "/events/yoga-story-time-dec-11-f677ae/"
   },
   {
+   "id": "eventbrite:2003418102475",
+   "title": "Community Meeting with Mayor James Solomon",
+   "description": "Join Mayor Solomon for a community meeting focused on the issues affecting residents at the Muslim Federation of New Jersey.",
+   "start": "2026-12-11T13:00:00-05:00",
+   "end": "2026-12-11T13:30:00-05:00",
+   "all_day": false,
+   "venue": "Muslim Federation of NJ",
+   "address": "530 Montgomery Street, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2003418102475",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195793172%2F274366617814%2F1%2Foriginal.20261014-162303?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.853&fp-y=0.496&s=37ffd7b11d0c8cfb0d396d9009846d1c",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-meeting-with-mayor-james-solomon-dec-11-e015eb/"
+  },
+  {
    "id": "hoboken-library:17723315",
    "title": "Teen-Led Debate Club",
    "description": "This vibrant club provides a welcoming environment where teens can engage in lively debate games, allowing them to explore diverse topics while having fun. Participants will learn the essentials of formal debating, including its structure, rules, and effective techniques to present compelling arguments.\n\nGuided by TAB Member Gabriel, teens will have the opportunity to practice public speaking, develop persuasive strategies, and enhance their ability to think on their feet. Whether you're a seasoned debater or new to the art of argumentation, the Teen-Led Debate Club is the perfect place to cul",
@@ -10962,7 +10794,7 @@
   {
    "id": "Bayonne Public Library:LibCal-17197-18011527",
    "title": "Bayonne Book Club: \"Good Spirits\"",
-   "description": "Join Bayonne Public Library and Mamas in Bayonne for our December 2026 Bayonne Book Club! \n\nAll are welcomed and encouraged to attend. The genre / theme of the books chosen will vary. The discussions will be moderated by Bayonne local, Angela van Genderen (@angela_the_ninja).\n\nThis month\u2019s meeting will be Thursday, December 17th at 7 pm at Thai O\u2019Brien\u2019s (478 Ave E). In celebration of the holiday season, we will be reading \u201cGood Spirits\u201d by B.K. Borison.\n\nPlease note, our book club and holiday party will only be in-person. No virtual attendance will be available.\n\nWhat\u2019s the book about? Nolan ",
+   "description": "Join Bayonne Public Library and Mamas in Bayonne for our December 2026 Bayonne Book Club and Holiday Party! \n\nAll are welcomed and encouraged to attend. The genre / theme of the books chosen will vary. The discussions will be moderated by Bayonne local, Angela van Genderen (@angela_the_ninja).\n\nThis month\u2019s meeting will be Thursday, December 17th at 7 pm at Thai O\u2019Brien\u2019s (478 Ave E). In celebration of the holiday season, we will be reading \u201cGood Spirits\u201d by B.K. Borison.\n\nPlease note, our book club and holiday party will only be in-person. No virtual attendance will be available.\n\nWhat\u2019s the ",
    "start": "2026-12-17T19:00:00-05:00",
    "end": "2026-12-17T20:30:00-05:00",
    "all_day": false,
@@ -13935,6 +13767,26 @@
    ],
    "free": false,
    "path": "/events/beyond-the-scene-improv-level-3-jan-11-119468/"
+  },
+  {
+   "id": "eventbrite:1986851371938",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-12T11:30:00-05:00",
+   "end": "2027-01-12T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851371938",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-12-5e1945/"
   }
  ]
 }

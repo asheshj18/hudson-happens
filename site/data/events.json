@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-12T17:33:57.482912-05:00",
+ "generated": "2026-11-13T05:48:09.469390-05:00",
  "sources": {
-  "jersey_city_gov": 108,
-  "bayonne_library": 344,
-  "hoboken_library": 143,
-  "stevens": 40,
+  "jersey_city_gov": 107,
+  "bayonne_library": 341,
+  "hoboken_library": 137,
+  "stevens": 41,
   "jc_families": 4,
-  "luma": 11,
+  "luma": 15,
   "ticketmaster": 17,
   "seatgeek": 24,
   "eventbrite": 450,
@@ -136,108 +136,6 @@
    "path": "/events/sat-act-math-la-prep-classes-nov-11-ae86cb/"
   },
   {
-   "id": "hoboken-library:17898031",
-   "title": "Pen to Paper: Writing Challenge",
-   "description": "The goal is to write consistently (every day, if possible) for the next 30 days toward a monthly goal.\u00a0\n\n1. Set your goal\n2. Work toward your goal\n2. Check in weekly\n4. Complete your monthly goal\n\nWhat might that look like? Some examples:\n\nWrite X amount of words towards my novel or novella\n\nWrite X short stories (or one short story) of X amount of words\n\nWrite one short story and submit it to a contest\n\nWrite one poem every day\n\nYour goal is your goal, and this challenge is designed to help you break it down so that you can achieve it. Once you sign up, you'll receive an email with a Google F",
-   "start": "2026-11-12T00:00:00-05:00",
-   "end": "2026-11-12T23:59:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17898031",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Pen_to_Paper_Writing_Challenge_Communico_Image.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/pen-to-paper-writing-challenge-nov-12-8d24a9/"
-  },
-  {
-   "id": "hoboken-library:17724923",
-   "title": "Teen Zone",
-   "description": "Join Mr. Kieran for a diverse range of activities that cater to every taste: unleash your inner artist with craft sessions, dive into immersive gaming experiences, embark on epic adventures with Dungeons & Dragons, and get the support you need with homework help.\u00a0The Teen Zone is a welcoming space where you can make new friends, express yourself, and discover new hobbies. Whether you're a seasoned gamer or just looking for a place to hang out, the Teen Zone has something for everyone.\n\nCome be a part of our community and enjoy the fun!\n\nTAB members! Let us know which programs you'd like to see",
-   "start": "2026-11-12T15:45:00-05:00",
-   "end": "2026-11-12T19:45:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17724923",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/teen-zone-nov-12-2f4eb9/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17600180",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-11-12T17:30:00-05:00",
-   "end": "2026-11-12T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17600180",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-nov-12-92fdc2/"
-  },
-  {
-   "id": "City of Jersey City:21343562",
-   "title": "City Council Meeting",
-   "description": "Stream Live via Microsoft Teams\n\nRegister to Speak\n\nView Meeting Archive",
-   "start": "2026-11-12T18:00:00-05:00",
-   "end": "2026-11-12T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Council Chambers 280 Grove St. Jersey City NJ 07302",
-   "address": "Council Chambers 280 Grove St. Jersey City NJ 07302",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community",
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/city-council-meeting-nov-12-58883f/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16381876",
-   "title": "Jigsaw Puzzle Drop-In",
-   "description": "Join us at the Bayonne Public Library for Puzzle Group Night! The monthly puzzle group nights are drop-in and held on Thursdays from 6 to 8 pm in the Lobby of the Bayonne Public Library. Puzzle group nights will meet on the following evenings:\n\n\tFebruary 12th\n\tMarch 12th\n\tApril 9th\n\tMay 7th\n\tJune 11th\n\tJuly 9th\n\tAugust 13th\n\tSeptember 10th\n\tOctober 8th\n\tNovember 12th\n\tDecember 10th\n\nPuzzles will be available to do or you can bring your own puzzle! Come join us for some laughter, fun, and an opportunity to create beautiful puzzles.",
-   "start": "2026-11-12T18:00:00-05:00",
-   "end": "2026-11-12T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Lobby, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16381876",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/jigsaw-puzzle-drop-in-nov-12-381cae/"
-  },
-  {
    "id": "eventbrite:2004040749830",
    "title": "Basic French Level I - Virtual via Zoom",
    "description": "Basic French Level I - VIRTUAL VIA ZOOM",
@@ -256,188 +154,6 @@
    ],
    "free": false,
    "path": "/events/basic-french-level-i-virtual-via-zoom-nov-12-628238/"
-  },
-  {
-   "id": "google:lscafterdarkemonight20261112jerseycity",
-   "title": "LSC After Dark: Emo Night",
-   "description": "",
-   "start": "2026-11-12T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Liberty Science Center",
-   "address": "Liberty Science Center, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://lsc.org/buy-tickets/lsc-after-dark/2026-11-12",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXVdD49jdHNr5HqWtlpltpfv_0Z0dt7KB7tK7yM563ABngIgAqw8TyLkgHW_J2xPvZjWs1Acx4xV8e7aE",
-   "price": null,
-   "source": "lsc.org",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/lsc-after-dark-emo-night-nov-12-b199f0/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16573124",
-   "title": "Diwali Celebration",
-   "description": "Discover the joy of Diwali through crafts, dance, and community fun! Join us at the Bayonne Public Library on Thursday, November 12th from 6:30-8 pm in the Gallery for a vibrant celebration of Diwal! This celebration will include activity stations for all ages, an interactive dance workshop where you can learn fun Bollywood and folk dances, and a festive photo booth with props. \n\nCome and celebrate the Festival of Lights with your family, friends, and community! This program is open to all ages and no advanced registration is required. \n\nThis program is curated by Priya Kumari, founder of Eter",
-   "start": "2026-11-12T18:30:00-05:00",
-   "end": "2026-11-12T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16573124",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/diwali-celebration-nov-12-266a52/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17701617",
-   "title": "ESL Class",
-   "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
-   "start": "2026-11-12T18:30:00-05:00",
-   "end": "2026-11-12T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom A, Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17701617",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/esl-class-nov-12-4ca036/"
-  },
-  {
-   "id": "google:anightinpuglia20261112jerseycity",
-   "title": "A Night in Puglia",
-   "description": "",
-   "start": "2026-11-12T18:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "LovEat For You",
-   "address": "LovEat For You, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.instagram.com/p/DeuLokptZMN/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyjmWEjiT6xqRFb_dXMMnXe0JPMocnP91nWC13StZmUhobMQTmqSDMBQkW1o5M9kIv_ililvgZgjeb8Aw",
-   "price": null,
-   "source": "instagram.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/a-night-in-puglia-nov-12-5bcca4/"
-  },
-  {
-   "id": "luma:evt-XVGe9tpSFUjAzTU",
-   "title": "JC Bitcoin Networking Social Meetup",
-   "description": "",
-   "start": "2026-11-12T19:00:00-05:00",
-   "end": "2026-11-12T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Zeppelin Hall Beer Garden",
-   "address": "Zeppelin Hall Beer Garden, 88 Liberty View Dr., Jersey City, NJ 07302, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/03yj4u4k",
-   "image": "https://images.lumacdn.com/uploads/cn/0ce7c86f-7a91-4d78-a4db-af02dc0cda47.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/jc-bitcoin-networking-social-meetup-nov-12-16180c/"
-  },
-  {
-   "id": "eventbrite:1406594374639",
-   "title": "Dance Party at Madd Hatter",
-   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
-   "start": "2026-11-12T19:00:00-05:00",
-   "end": "2026-11-12T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594374639",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music",
-    "Arts & Culture",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/dance-party-at-madd-hatter-nov-12-d9c28e/"
-  },
-  {
-   "id": "eventbrite:2004108949818",
-   "title": "Jersey City Connects | Speed Dating (30-39) | Dating in Jersey City",
-   "description": "Meet cool singles in their 30s for fast, fun connections and see who sparks fly with at this Jersey City speed dating night!",
-   "start": "2026-11-12T19:00:00-05:00",
-   "end": "2026-11-12T21:30:00-05:00",
-   "all_day": false,
-   "venue": "902 Brewing Co .",
-   "address": "101 Pacific Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-connects-speed-dating-30-39-dating-in-jersey-city-tickets-2004108949818",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196910455%2F3018376597838%2F1%2Foriginal.20261030-061015?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.042&fp-y=0.509&s=b68ade349512ef4793e45b044a1f4d1d",
-   "price": "$42+",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-connects-speed-dating-30-39-dating-in-jerse-nov-12-3bf3ce/"
-  },
-  {
-   "id": "eventbrite:1316854249509",
-   "title": "Jersey City Bitcoin Meetup",
-   "description": "Come to chat, network, and learn about bitcoin!",
-   "start": "2026-11-12T19:00:00-05:00",
-   "end": "2026-11-12T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Zeppelin Hall Beer Garden",
-   "address": "88 Liberty View Drive, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-bitcoin-meetup-tickets-1316854249509",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1167986493%2F158050329676%2F1%2Foriginal.20251101-172911?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=87aebcfcfa8f64791329fd29aad71ce3",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/jersey-city-bitcoin-meetup-nov-12-6be9cb/"
-  },
-  {
-   "id": "google:singathatter20261112hoboken",
-   "title": "Sing At Hatter",
-   "description": "",
-   "start": "2026-11-12T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://events.musicofourdesire.com/de/event/zhrd-sing-at-hatter-party-new-york-city-united-states",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGAKNJSB5GG0CPGV0xjZMTf5FLH-M6wrA058Oiy_nNf8VQf3h2wXsSBApMFFIPgW4PrYaiAyMOawLiUys",
-   "price": null,
-   "source": "events.musicofourdesire.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/sing-at-hatter-nov-12-a90186/"
   },
   {
    "id": "hoboken-library:17898032",
@@ -3922,6 +3638,26 @@
    "path": "/events/survivor-51-watch-parties-at-the-hutton-nov-18-3bea07/"
   },
   {
+   "id": "luma:evt-RPWT4fWSsHScQ52",
+   "title": "Hoboken & Jersey City Coffee Chat",
+   "description": "",
+   "start": "2026-11-19T09:30:00-05:00",
+   "end": "2026-11-19T10:30:00-05:00",
+   "all_day": false,
+   "venue": "Gotan Hoboken",
+   "address": "Gotan Hoboken, Corner of 8th and Jackson, 770 Jackson St, Hoboken, NJ 07030, USA",
+   "city": "Hoboken",
+   "url": "https://lu.ma/rvc95p5o",
+   "image": "https://images.lumacdn.com/uploads/9y/066a391f-6d3a-4428-af63-8243a0f92ed2.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hoboken-jersey-city-coffee-chat-nov-19-bb5811/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-16425960",
    "title": "Exploration Station",
    "description": "Join us at the Bayonne Public Library for a monthly \u201cExploration Station\u201d program in the Small Programming Room on the following Thursdays:\n\n\tFebruary 26th\n\tMarch 19th\n\tApril 23rd\n\tMay 28th\n\tJune 25th\n\tJuly 23rd\n\tAugust 20th\n\tSeptember 24th\n\tOctober 15th\n\tNovember 19th\n\tDecember 17th\n\nDiscover the magic of learning through hands-on, sensory play programs that are designed to engage toddlers and preschoolers in imaginative and educational activities. Each session is a journey through themed stations that stimulate children\u2019s senses and curiosity while promoting early literacy, cognitive develop",
@@ -3982,6 +3718,26 @@
    ],
    "free": true,
    "path": "/events/tai-chi-workshop-nov-19-d9179b/"
+  },
+  {
+   "id": "luma:evt-xmwV5k0O7KqzGlj",
+   "title": "Mamas Who Walk: Jersey City",
+   "description": "",
+   "start": "2026-11-19T10:00:00-05:00",
+   "end": "2026-11-19T12:00:00-05:00",
+   "all_day": false,
+   "venue": "lil\u2019 dove cafe",
+   "address": "lil\u2019 dove cafe, 589 Palisade Ave, Jersey City, NJ 07307, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/kbeedgb5",
+   "image": "https://images.lumacdn.com/uploads/hx/a2195d7b-9cf6-458e-8f03-894742430433.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/mamas-who-walk-jersey-city-nov-19-1f662f/"
   },
   {
    "id": "eventbrite:1986851333824",
@@ -4168,6 +3924,46 @@
    "path": "/events/book-a-librarian-nov-19-517303/"
   },
   {
+   "id": "luma:evt-RQrmDeYz7OOiFBb",
+   "title": "20th Hoboken Founders & Entrepreneurs Meetup | November 2026",
+   "description": "",
+   "start": "2026-11-19T18:00:00-05:00",
+   "end": "2026-11-19T20:00:00-05:00",
+   "all_day": false,
+   "venue": "Mission 50: Coworking, Office Space & Suites",
+   "address": "Mission 50: Coworking, Office Space & Suites, 50 Harrison St, Hoboken, NJ 07030, USA",
+   "city": "Hoboken",
+   "url": "https://lu.ma/hjo7s889",
+   "image": "https://images.lumacdn.com/gallery-images/fx/676d2304-1be9-4066-8d9c-d5185af971db",
+   "price": "Paid",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/20th-hoboken-founders-entrepreneurs-meetup-november-202-nov-19-84011e/"
+  },
+  {
+   "id": "luma:evt-ZYYyltG98BFl2S5",
+   "title": "Friendsgiving at Mile Square Cafe",
+   "description": "",
+   "start": "2026-11-19T18:00:00-05:00",
+   "end": "2026-11-19T20:00:00-05:00",
+   "all_day": false,
+   "venue": "Mile Square Cafe",
+   "address": "Mile Square Cafe, 746 Park Ave, Hoboken, NJ 07030, USA",
+   "city": "Hoboken",
+   "url": "https://lu.ma/61l0bwph",
+   "image": "https://images.lumacdn.com/uploads/pc/20b8a3d6-861c-4eab-ab95-f746b9b65e3a.png",
+   "price": "Paid",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/friendsgiving-at-mile-square-cafe-nov-19-63ec8a/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17263959",
    "title": "\"Read and Watch\" Book Club: Rez Ball",
    "description": "Join us at the Bayonne Public Library for a Read & Watch book club for young adults! \n\nThis two-part event will meet first on Thursday, November 5th from 6:30-7:30 pm to discuss Rez Ball, a YA novel by Byron Graves. If you have not already read the book, make sure to check it out ahead of time and bring your thoughts to share with other tweens and teens. \n\nWe will meet again on Thursday, November 19th from 6:30-8:30 pm and we will watch the movie adaptation of Rez Ball, available on Netflix.\n\nThis program is for tweens and teens ages 12-18 and will take place in the Art & Music Room on the 2nd",
@@ -4248,6 +4044,26 @@
    ],
    "free": true,
    "path": "/events/bayonne-book-club-the-buffalo-hunter-hunter-nov-19-88912c/"
+  },
+  {
+   "id": "luma:evt-Cj1HnUfbHHQnNbA",
+   "title": "Jersey City Bitcoin: Monthly Socratic Seminar",
+   "description": "",
+   "start": "2026-11-19T19:00:00-05:00",
+   "end": "2026-11-19T20:30:00-05:00",
+   "all_day": false,
+   "venue": "The Barrow Mansion",
+   "address": "The Barrow Mansion, 83 Wayne St, Jersey City, NJ 07302, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/m4nshoxe",
+   "image": "https://images.lumacdn.com/event-covers/2s/65c990dd-bf65-4adc-9d19-160e47d71959.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Learning"
+   ],
+   "free": true,
+   "path": "/events/jersey-city-bitcoin-monthly-socratic-seminar-nov-19-3ed252/"
   },
   {
    "id": "eventbrite:1406594404729",
@@ -7620,6 +7436,46 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-dec-3-5f1b2d/"
+  },
+  {
+   "id": "eventbrite:2004797305709",
+   "title": "Nadia Bowers: Dear Dealer (w/Matt Lawler)",
+   "description": "For readers of Beautiful Boy, this memoir explores addiction, grief, and family trauma as one woman searches for her sister's killer.",
+   "start": "2026-12-03T19:00:00-05:00",
+   "end": "2026-12-03T20:00:00-05:00",
+   "all_day": false,
+   "venue": "Little City Books",
+   "address": "100 bloomfield st, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/nadia-bowers-dear-dealer-wmatt-lawler-tickets-2004797305709",
+   "image": null,
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/nadia-bowers-dear-dealer-w-matt-lawler-dec-3-728711/"
+  },
+  {
+   "id": "eventbrite:2004222241677",
+   "title": "End of the Century: The Story of the Ramones",
+   "description": "Hosted by WFMU DJ Todd-o-Phonic Todd with Q&A to follow with  filmmakers  Michael and  Johnny Gramaglia",
+   "start": "2026-12-03T19:30:00-05:00",
+   "end": "2026-12-03T21:30:00-05:00",
+   "all_day": false,
+   "venue": "Monty Hall",
+   "address": "43 Montgomery Street, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/end-of-the-century-the-story-of-the-ramones-tickets-2004222241677",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197165115%2F301379834887%2F1%2Foriginal.20261103-122643?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.013&fp-y=0.047&s=3715d6e9b2d8488bb12760e98abcea27",
+   "price": "$19+",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/end-of-the-century-the-story-of-the-ramones-dec-3-ab2f72/"
   },
   {
    "id": "google:gregorymcloughlinthelemonadebandwithbarbarabeeman20261203hoboken",
@@ -14058,6 +13914,27 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-jan-11-433d0b/"
+  },
+  {
+   "id": "eventbrite:2003878975960",
+   "title": "Beyond the Scene: Improv Level 3",
+   "description": "Learn to connect scenes, explore group games, heighten recurring ideas, and build a complete long-form improv show with your ensemble.",
+   "start": "2027-01-11T18:30:00-05:00",
+   "end": "2027-03-01T21:30:00-05:00",
+   "all_day": false,
+   "venue": "Symposia Community Bookstore",
+   "address": "510 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/beyond-the-scene-improv-level-3-registration-2003878975960",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196544930%2F2990717001563%2F1%2Foriginal.20261025-170215?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4808b66feab6cd20438844d05002ca9d",
+   "price": "$375+",
+   "source": "Eventbrite",
+   "categories": [
+    "Comedy",
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/beyond-the-scene-improv-level-3-jan-11-119468/"
   }
  ]
 }

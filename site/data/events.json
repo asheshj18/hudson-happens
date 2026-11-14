@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-13T17:34:36.462264-05:00",
+ "generated": "2026-11-14T05:29:24.472930-05:00",
  "sources": {
   "jersey_city_gov": 112,
-  "bayonne_library": 341,
-  "hoboken_library": 136,
+  "bayonne_library": 333,
+  "hoboken_library": 132,
   "stevens": 41,
   "jc_families": 4,
-  "luma": 15,
-  "ticketmaster": 17,
-  "seatgeek": 24,
+  "luma": 16,
+  "ticketmaster": 16,
+  "seatgeek": 23,
   "eventbrite": 447,
   "serpapi_google_events": 36
  },
@@ -176,107 +176,6 @@
    "path": "/events/avant-radio-festival-nov-13-b51deb/"
   },
   {
-   "id": "eventbrite:1986851548466",
-   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
-   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
-   "start": "2026-11-13T16:00:00-05:00",
-   "end": "2026-11-13T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851548466",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-nov-13-d88e4e/"
-  },
-  {
-   "id": "eventbrite:1999736741425",
-   "title": "$5 FRIDAYS JERSEY CITY | HAPPY HOUR \u2192 TOP DJS + 2-FOR-1 BOTTLES",
-   "description": "Kick off your weekend with killer DJs and unbeatable 2-for-1 bottle deals at $5 Fridays!",
-   "start": "2026-11-13T16:00:00-05:00",
-   "end": "2026-11-13T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Ashford",
-   "address": "145 Newark Avenue, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/5-fridays-jersey-city-happy-hour-top-djs-2-for-1-bottles-tickets-1999736741425",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192645557%2F2997424828956%2F1%2Foriginal.20260904-014259?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.477&fp-y=0.856&s=3e9de0df4d799f0dbd198f1380403c6a",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/5-fridays-jersey-city-happy-hour-top-djs-2-for-1-bottle-nov-13-7a2577/"
-  },
-  {
-   "id": "eventbrite:1999737041322",
-   "title": "$5 FRIDAYS AT SIX26 | HAPPY HOUR + DRAG SHOW + TOP DJS",
-   "description": "Kick off your weekend with killer beats, drag vibes, and happy hour specials that won\u2019t break the bank.",
-   "start": "2026-11-13T16:00:00-05:00",
-   "end": "2026-11-13T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Six26 - Lounge and Rooftop",
-   "address": "128 Christopher Columbus Drive, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/5-fridays-at-six26-happy-hour-drag-show-top-djs-tickets-1999737041322",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192643391%2F2997424828956%2F1%2Foriginal.20260904-010942?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.487&fp-y=0.852&s=e9e21ae1f6d46da2ccf67f51da4f1c48",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-nov-13-40bb99/"
-  },
-  {
-   "id": "Stevens Institute:hEPhz7VH15gyZAPIYLaO",
-   "title": "Stevens Wrestling vs Ithaca",
-   "description": "Sports Game",
-   "start": "2026-11-13T17:00:00-05:00",
-   "end": "2026-11-13T21:30:00-05:00",
-   "all_day": false,
-   "venue": "Schaefer Canavan Arena (Entire Arena)",
-   "address": "Schaefer Canavan Arena (Entire Arena)",
-   "city": "Hoboken",
-   "url": "https://events.stevens.edu/",
-   "image": null,
-   "price": null,
-   "source": "Stevens Institute",
-   "categories": [
-    "Sports"
-   ],
-   "free": false,
-   "path": "/events/stevens-wrestling-vs-ithaca-nov-13-d6210b/"
-  },
-  {
-   "id": "eventbrite:1998801590363",
-   "title": "Closing Reception - Cat, Stick, Easel, Moon: Paintings by Rachel L Bedder",
-   "description": "Cat got your tongue? Join us on Friday the 13th for a Closing Reception of Cat, Stick, Easel, Moon!",
-   "start": "2026-11-13T18:00:00-05:00",
-   "end": "2026-11-13T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Smush Gallery, Summit Avenue, Jersey City, NJ, USA",
-   "address": "340 Summit Avenue, Jersey City, NJ 07306",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/closing-reception-cat-stick-easel-moon-paintings-by-rachel-l-bedder-tickets-1998801590363",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191791064%2F469573433883%2F1%2Foriginal.20260824-194408?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.51&fp-y=0.518&s=383fb8c04e62d39a976ea49e33e08b10",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/closing-reception-cat-stick-easel-moon-paintings-by-rac-nov-13-47bd54/"
-  },
-  {
    "id": "eventbrite:2003030648590",
    "title": "Thanksgiving Table Collection: 3- Class Webinar Series",
    "description": "This is a specialty bundle that groups our upcoming 3 November webinars preparing you fully for the holiday season from kitchen to table.",
@@ -296,229 +195,6 @@
    ],
    "free": false,
    "path": "/events/thanksgiving-table-collection-3-class-webinar-series-nov-13-5876ac/"
-  },
-  {
-   "id": "eventbrite:1406594384669",
-   "title": "Dance Party at Madd Hatter",
-   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
-   "start": "2026-11-13T19:00:00-05:00",
-   "end": "2026-11-13T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594384669",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music",
-    "Arts & Culture",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/dance-party-at-madd-hatter-nov-13-9ab926/"
-  },
-  {
-   "id": "eventbrite:1995789748864",
-   "title": "Amy Rigby: Girl to Country",
-   "description": "Singer-songwriter Amy Rigby brings songs and stories from her latest memoir Girl To Country to Little City Books.",
-   "start": "2026-11-13T19:00:00-05:00",
-   "end": "2026-11-13T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/amy-rigby-girl-to-country-tickets-1995789748864",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189825188%2F294282509964%2F1%2Foriginal.20260728-205057?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.505&fp-y=0.296&s=1b303e4afe6debb3b762d119cf7469d3",
-   "price": "$25+",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/amy-rigby-girl-to-country-nov-13-0225fb/"
-  },
-  {
-   "id": "eventbrite:2000037171018",
-   "title": "Find Your Voice: Vocal Workshop with Brian Wiseman",
-   "description": "Build your voice with a group warm-up, vocal anatomy insights, and personalized one-on-one coaching in this interactive vocal workshop.",
-   "start": "2026-11-13T19:00:00-05:00",
-   "end": "2026-11-13T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Fluid Arts Studio",
-   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/find-your-voice-vocal-workshop-with-brian-wiseman-tickets-2000037171018",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192898221%2F3009697406825%2F1%2Foriginal.20260907-170207?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.479&s=f8f29a586e52de09a7d20d1b4f57bd4f",
-   "price": "$32+",
-   "source": "Eventbrite",
-   "categories": [
-    "Learning"
-   ],
-   "free": false,
-   "path": "/events/find-your-voice-vocal-workshop-with-brian-wiseman-nov-13-ff5d83/"
-  },
-  {
-   "id": "google:sipsingshoutbingo20261113bayonne",
-   "title": "Sip, Sing, & Shout BINGO",
-   "description": "",
-   "start": "2026-11-13T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Room 990 Bar & Lounge",
-   "address": "Room 990 Bar & Lounge, Bayonne, NJ",
-   "city": "Bayonne",
-   "url": "https://www.eventbrite.com/e/2003641057339?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIowqnCkUjjqW1layuFT_CQAeHGbnrGURGzG8fHwqsmPAcdDi_bc7SMP-6Cv7Qk8j8tMLfxuerblxkx-Y",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/sip-sing-shout-bingo-nov-13-cfb337/"
-  },
-  {
-   "id": "ticketmaster:vv1AeZkftGkdqDKq0",
-   "title": "Trey Anastasio Band",
-   "description": "Door time: 6:30PM Show time: 7:30PM All set times and opening acts are subject to change without notice.",
-   "start": "2026-11-13T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "54 Journal Square Plaza",
-   "city": "Jersey City",
-   "url": "https://www.ticketmaster.com/trey-anastasio-band-jersey-city-new-jersey-11-13-2026/event/02006529DDED3764",
-   "image": "https://s1.ticketm.net/dam/a/fd8/c220692b-1865-4690-bb3d-24fc1a059fd8_SOURCE",
-   "price": "Paid",
-   "source": "Ticketmaster",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/trey-anastasio-band-nov-13-f6b164/"
-  },
-  {
-   "id": "seatgeek:18593200",
-   "title": "Trey Anastasio",
-   "description": "",
-   "start": "2026-11-13T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "54 Journal Square Plaza",
-   "city": "Jersey City",
-   "url": "https://seatgeek.com/trey-anastasio-tickets/jersey-city-new-jersey-loew-s-jersey-theatre-2026-11-13-7-30-pm/concert/18593200",
-   "image": null,
-   "price": "Paid",
-   "source": "SeatGeek",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/trey-anastasio-nov-13-09a262/"
-  },
-  {
-   "id": "google:glowstickpartydjfrankiefriends20261113hoboken",
-   "title": "GLOW STICK PARTY: DJ FRANKIE & FRIENDS",
-   "description": "",
-   "start": "2026-11-13T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/2004381630413?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHlt2RQjh1BJo-pd23j8gv_SJ678xT84ETsreVspfjkQazXtLNQUPLWAFkBqAiWxrsQrVyJAMT4ClckCI",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Music",
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/glow-stick-party-dj-frankie-friends-nov-13-dd477d/"
-  },
-  {
-   "id": "google:livemusicatbutteros20261113bayonne",
-   "title": "Live Music at Butteros!",
-   "description": "",
-   "start": "2026-11-13T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Buttero",
-   "address": "Buttero, Bayonne, NJ",
-   "city": "Bayonne",
-   "url": "https://www.facebook.com/events/buttero/live-music-at-butteros/1857063019182661/",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT096nEystco0-ty9WGhHmJ9F2o_pxjJFa_Z4_cfZDn9ANXkPQmwk5UxOBrvN4FmkDP-CX_02Ygii_TY6Q",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/live-music-at-butteros-nov-13-f3103e/"
-  },
-  {
-   "id": "eventbrite:676802302907",
-   "title": "Muscle Men Male Strippers Revue & Male Strip Club Shows Hoboken, NJ",
-   "description": "Muscle Men Male Revue the hottest male stripper revue in Hoboken. Come visit this ultimate Hoboken male strip club show!",
-   "start": "2026-11-13T21:00:00-05:00",
-   "end": "2026-11-13T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Muscle Men Male Strippers Hoboken NJ",
-   "address": "150-198 7th St, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/muscle-men-male-strippers-revue-male-strip-club-shows-hoboken-nj-tickets-676802302907",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F126587963%2F269303848782%2F1%2Foriginal.20190808-020455?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=261%2C0%2C1730%2C865&s=7825c824ad1bf882ee5ad9d6241bb501",
-   "price": "$12+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-13-ba3c84/"
-  },
-  {
-   "id": "google:djjulzwithdjaldezdjvera20261113jerseycity",
-   "title": "DJ Julz with DJ ALDEZ, DJ Vera",
-   "description": "",
-   "start": "2026-11-13T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Ashford",
-   "address": "The Ashford, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://open.spotify.com/concert/1x8pq2h4ARiHEERfzQBf1h",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrh1XK3SC9OM6KAMlAswM9s2KiZw1VUCwivF--BM0bZItZcNsbExCRy2RH3IUcRMxofE_1KPDDauqw_fc",
-   "price": null,
-   "source": "open.spotify.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/dj-julz-with-dj-aldez-dj-vera-nov-13-a79acb/"
-  },
-  {
-   "id": "google:bandofmakebelieve20261113hoboken",
-   "title": "Band of Make Believe",
-   "description": "",
-   "start": "2026-11-13T22:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "River Street Garage, LLC.",
-   "address": "River Street Garage, LLC., Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/bandofmakebelieve/",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-zkZQ1jo5O1P86KeJ6fFyoZBa7DZGRjzjxmJPjLHf4catA4zXKeiLxN5bFK7U-x3_C0lHOdJBnu5eVTU",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/band-of-make-believe-nov-13-2a98f0/"
   },
   {
    "id": "Stevens Institute:c7PRdYFLxUYEAGbwtZmW",
@@ -3562,7 +3238,7 @@
    "address": "Mission 50: Coworking, Office Space & Suites, 50 Harrison St, Hoboken, NJ 07030, USA",
    "city": "Hoboken",
    "url": "https://lu.ma/hjo7s889",
-   "image": "https://images.lumacdn.com/gallery-images/fx/676d2304-1be9-4066-8d9c-d5185af971db",
+   "image": "https://images.lumacdn.com/uploads/ze/9e958e4e-a012-4c02-a451-36d797cfe54f.jpg",
    "price": "Paid",
    "source": "Luma",
    "categories": [
@@ -4061,6 +3737,26 @@
    ],
    "free": true,
    "path": "/events/community-meeting-communipaw-library-nov-20-c1bc99/"
+  },
+  {
+   "id": "luma:evt-iqUgHo6mKjWW0PM",
+   "title": "CRAFTED TOGETHER",
+   "description": "",
+   "start": "2026-11-20T18:00:00-05:00",
+   "end": "2026-11-20T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/hbk5htlu",
+   "image": "https://images.lumacdn.com/uploads/6g/149cac2f-01b3-401e-ba59-2116985d6461.png",
+   "price": "Paid",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/crafted-together-nov-20-d61881/"
   },
   {
    "id": "eventbrite:2004826610360",
@@ -5799,6 +5495,27 @@
    "path": "/events/dance-party-at-madd-hatter-nov-26-12c1df/"
   },
   {
+   "id": "eventbrite:2004831876110",
+   "title": "Cre8sArt Hoboken: Kids ( Ages 4-9) Harvest & Gratitude Art Kids Camp",
+   "description": "Students will create a fall-inspired clay and painting celebrating the colors, beauty, and abundance of the harvest season.",
+   "start": "2026-11-27T08:30:00-05:00",
+   "end": "2026-11-27T12:00:00-05:00",
+   "all_day": false,
+   "venue": "Cre8sArt School Hoboken",
+   "address": "644 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/cre8sart-hoboken-kids-ages-4-9-harvest-gratitude-art-kids-camp-registration-2004831876110",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197951409%2F164633544847%2F1%2Foriginal.20261113-221425?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.62&fp-y=0.312&s=a5dc04bc1d9ec739b6a21b39802006af",
+   "price": "$110+",
+   "source": "Eventbrite",
+   "categories": [
+    "Kids & Family",
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/cre8sart-hoboken-kids-ages-4-9-harvest-gratitude-art-ki-nov-27-39a792/"
+  },
+  {
    "id": "eventbrite:1986851339842",
    "title": "Power Lunch for People on the Go",
    "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
@@ -7491,6 +7208,26 @@
    ],
    "free": false,
    "path": "/events/jersey-city-ugly-sweater-bar-crawl-2026-dec-5-902faf/"
+  },
+  {
+   "id": "eventbrite:2004832417730",
+   "title": "Official Hoboken Ugly Sweater Bar Crawl 2026",
+   "description": "Get ready to rock your ugliest holiday sweater and crawl the best best bars on December 5th at 4:00 PM!",
+   "start": "2026-12-05T16:00:00-05:00",
+   "end": "2026-12-05T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter",
+   "address": "221 Washington St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/official-hoboken-ugly-sweater-bar-crawl-2026-tickets-2004832417730",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197956328%2F131949733542%2F1%2Foriginal.20261114-000758?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.512&fp-y=0.208&s=377d73810de049db0908ad840816ab07",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/official-hoboken-ugly-sweater-bar-crawl-2026-dec-5-ad9da6/"
   },
   {
    "id": "eventbrite:1406594484969",
@@ -9423,26 +9160,6 @@
    ],
    "free": false,
    "path": "/events/bayonne-elks-special-friends-christmas-party-dec-12-7b98bc/"
-  },
-  {
-   "id": "eventbrite:2004618195987",
-   "title": "JCL Holiday Jam",
-   "description": "Watch some improv. Join in & jam. Or just hang!",
-   "start": "2026-12-12T17:00:00-05:00",
-   "end": "2026-12-12T18:30:00-05:00",
-   "all_day": false,
-   "venue": "503 Social Club",
-   "address": "503 3rd Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/jcl-holiday-jam-tickets-2004618195987",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197636115%2F2990717001563%2F1%2Foriginal.20261109-223751?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.52&fp-y=0.537&s=56e99b0a556b9de1a55916ff949bdf4a",
-   "price": "$15+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/jcl-holiday-jam-dec-12-000446/"
   },
   {
    "id": "ticketmaster:vv1AOvPfYGA18mil",
@@ -13726,6 +13443,46 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-jan-12-5e1945/"
+  },
+  {
+   "id": "eventbrite:1397814714439",
+   "title": "Taco Tuesdays at Madd Hatter",
+   "description": "Unlimited Tacos every Tuesday at the madd hatter",
+   "start": "2027-01-12T19:00:00-05:00",
+   "end": "2027-01-12T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/taco-tuesdays-at-madd-hatter-tickets-1397814714439",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1046383773%2F1927671691523%2F1%2Foriginal.20250605-061908?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481082800663&fp-y=0.555270522388&s=5600ffa6cc73c5e57593a6505864a6a3",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": false,
+   "path": "/events/taco-tuesdays-at-madd-hatter-jan-12-af96f7/"
+  },
+  {
+   "id": "eventbrite:1984580533800",
+   "title": "Taco & Tequila Tuesdays at The Exchange",
+   "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
+   "start": "2027-01-12T19:00:00-05:00",
+   "end": "2027-01-13T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/taco-tequila-tuesdays-at-the-exchange-tickets-1984580533800",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179147819%2F2894508074541%2F1%2Foriginal.20260305-205711?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=50be47c881f7dd9eb9cd7c1af4ae8279",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/taco-tequila-tuesdays-at-the-exchange-jan-12-8a2101/"
   }
  ]
 }

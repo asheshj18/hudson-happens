@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T05:29:24.472930-05:00",
+ "generated": "2026-11-14T11:28:08.563173-05:00",
  "sources": {
   "jersey_city_gov": 112,
   "bayonne_library": 333,
@@ -9,7 +9,7 @@
   "luma": 16,
   "ticketmaster": 16,
   "seatgeek": 23,
-  "eventbrite": 447,
+  "eventbrite": 448,
   "serpapi_google_events": 36
  },
  "events": [
@@ -237,47 +237,6 @@
    "path": "/events/masjid-al-wali-youth-liberty-science-center-trip-nov-14-6febf0/"
   },
   {
-   "id": "eventbrite:1984140851699",
-   "title": "Storytime with Laura - Saturday",
-   "description": "Storytime with Laura Saturdays at 9am at Little City Books! $10",
-   "start": "2026-11-14T09:00:00-05:00",
-   "end": "2026-11-14T10:00:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/storytime-with-laura-saturday-tickets-1984140851699",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179694701%2F294282509964%2F1%2Foriginal.20260312-152844?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=68b976d406464fb8184a1a561dc2933b",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": false,
-   "path": "/events/storytime-with-laura-saturday-nov-14-d74908/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15672017",
-   "title": "Family Yoga",
-   "description": "Join us at the Bayonne Public Library for Family Yoga with @imagineyogalucy! This is a monthly Saturday class from 10-11 am in the Gallery. This class will meet on the following days:\n\n\tJanuary 10th\n\tFebruary 21st\n\tMarch 14th\n\tApril 18th\n\tMay 2nd\n\tJune 6th\n\tSeptember 19th\n\tOctober 17th\n\tNovember 14th\n\tDecember 5th\n\nFamily Yoga will incorporate whole body movement yoga with a special storytime! All ages, skill levels, and ability levels are welcome. Advanced registration is required. Since this event is for families, please register ALL people who will be attending, not just the children. \n\nYou",
-   "start": "2026-11-14T10:00:00-05:00",
-   "end": "2026-11-14T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15672017",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/family-yoga-nov-14-b50b7a/"
-  },
-  {
    "id": "Stevens Institute:E6eNMQ8C72BOYnBpEciI",
    "title": "Stevens Swimming vs Montclair",
    "description": "Please deliver 50 chairs to the rear entrance to the pool? The entrance that is located near the elevator and next to the stairwell on the 1st floor on Friday 11/13 and pick them up again on Monday 11/16\n\naccount number CC1000135",
@@ -317,6 +276,27 @@
    ],
    "free": true,
    "path": "/events/pmai-vibe-coding-workshop-nov-14-580ab1/"
+  },
+  {
+   "id": "google:familyyoga20261114bayonne",
+   "title": "Family Yoga",
+   "description": "",
+   "start": "2026-11-14T10:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Bayonne Public Library, Bayonne, NJ",
+   "city": "Bayonne",
+   "url": "https://www.instagram.com/p/DefFpqWEd8d/",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6crU_hVQzCzkkfoU4IS7dRsT9LAcbORL3q9uNGYssdbiZVyER_BB9PEJxxinsf42ja-6c1fT-DrJok4",
+   "price": null,
+   "source": "instagram.com",
+   "categories": [
+    "Kids & Family",
+    "Fitness & Wellness"
+   ],
+   "free": false,
+   "path": "/events/family-yoga-nov-14-52a076/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17512768",
@@ -4187,6 +4167,26 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-nov-21-1efbd8/"
+  },
+  {
+   "id": "eventbrite:2004838543051",
+   "title": "Interactive Live Looping with Adam Ahuja",
+   "description": "Experience the magic of live looping with Adam Ahuja at Fluid Arts Studio! Watch as rhythms, melodies, and sounds are layered in real time.",
+   "start": "2026-11-21T19:00:00-05:00",
+   "end": "2026-11-21T20:30:00-05:00",
+   "all_day": false,
+   "venue": "Fluid Arts Studio",
+   "address": "99 Mallory Ave, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/interactive-live-looping-with-adam-ahuja-tickets-2004838543051",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197973656%2F3009697406825%2F1%2Foriginal.20261114-114316?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.252&fp-y=0.438&s=3ca7fe4f65ed1dce7e6b9580294f9532",
+   "price": "$18+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/interactive-live-looping-with-adam-ahuja-nov-21-eb983e/"
   },
   {
    "id": "eventbrite:2002244795081",
@@ -13483,6 +13483,26 @@
    ],
    "free": true,
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-jan-12-8a2101/"
+  },
+  {
+   "id": "Bayonne Public Library:LibCal-17197-17068939",
+   "title": "Bayonne Public Schools Class Visit",
+   "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
+   "start": "2027-01-13T09:30:00-05:00",
+   "end": "2027-01-13T11:00:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17068939",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Learning"
+   ],
+   "free": true,
+   "path": "/events/bayonne-public-schools-class-visit-jan-13-91e5b9/"
   }
  ]
 }

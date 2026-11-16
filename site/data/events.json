@@ -1,16 +1,16 @@
 {
- "generated": "2026-11-16T12:02:00.845247-05:00",
+ "generated": "2026-11-16T17:37:57.901345-05:00",
  "sources": {
   "jersey_city_gov": 111,
   "bayonne_library": 318,
   "hoboken_library": 132,
   "stevens": 43,
   "jc_families": 4,
-  "luma": 16,
+  "luma": 14,
   "ticketmaster": 16,
   "seatgeek": 23,
-  "eventbrite": 492,
-  "serpapi_google_events": 34
+  "eventbrite": 490,
+  "serpapi_google_events": 25
  },
  "events": [
   {
@@ -198,148 +198,6 @@
    "path": "/events/pen-to-paper-writing-challenge-nov-16-998c4d/"
   },
   {
-   "id": "eventbrite:2003487452904",
-   "title": "Jersey City Veteran Job Fair - Jersey City Career Fair",
-   "description": "Hiring in Jersey City?",
-   "start": "2026-11-16T11:00:00-05:00",
-   "end": "2026-11-16T15:00:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "Job Fair, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-veteran-job-fair-jersey-city-career-fair-registration-2003487452904",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195775566%2F211523508959%2F1%2Foriginal.20261014-130441?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d2be64c2d92f08d6ebf55193e07da4a1",
-   "price": "Paid",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-veteran-job-fair-jersey-city-career-fair-nov-16-2cfcc8/"
-  },
-  {
-   "id": "eventbrite:1986851330815",
-   "title": "Power Lunch for People on the Go",
-   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
-   "start": "2026-11-16T11:30:00-05:00",
-   "end": "2026-11-16T14:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851330815",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/power-lunch-for-people-on-the-go-nov-16-93bd5f/"
-  },
-  {
-   "id": "hoboken-library:17716165",
-   "title": "Baby Story Time",
-   "description": "This story time is geared toward babies and their caregivers and includes board books,\u00a0finger play rhymes, and\u00a0lapsit songs!\n\nThis program is meant for babies ages 0-2 and their caregivers. Strollers are not permitted in the building!\n\nTo ensure everyone has a wonderful experience, please arrive early as spots are limited. Our Baby Story Time session will kick off promptly at 11:45pm.",
-   "start": "2026-11-16T11:45:00-05:00",
-   "end": "2026-11-16T12:15:00-05:00",
-   "all_day": false,
-   "venue": "Damon Murray Community Gym",
-   "address": "Damon Murray Community Gym at 605 Jackson St, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17716165",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/baby-story-time-nov-16-e4cb66/"
-  },
-  {
-   "id": "hoboken-library:17702936",
-   "title": "Social Work Drop In-Hours with the City of Hoboken",
-   "description": "The Social Work Department will assist you housing referrals, renewing or obtaining your state ID,  connections to community resources, unemployment insurance applications and more.",
-   "start": "2026-11-16T13:00:00-05:00",
-   "end": "2026-11-16T15:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17702936",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Social_Work_Drop_In_Hours_Grand_Street_Communico.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-nov-16-cbe07c/"
-  },
-  {
-   "id": "google:explorethefarmersmarket20261116jerseycity",
-   "title": "Explore the Farmers' Market",
-   "description": "",
-   "start": "2026-11-16T15:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Historic Downtown Jersey City Farmers' Market",
-   "address": "Historic Downtown Jersey City Farmers' Market, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://favr.town/events/explore-the-farmers-market-historic-downtown-jersey-city-farmers-market-2026-11-16-15-00",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdU6aSpjNPi0e1C1NoTkVUsUFBTYn_ex6ib2X_KarPr7L_0DdA3mCTmnCJ69l4sA8fR-c5Qn2Cx-sEZRI",
-   "price": null,
-   "source": "favr.town",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/explore-the-farmers-market-nov-16-6bca04/"
-  },
-  {
-   "id": "hoboken-library:17683821",
-   "title": "Maker Monday",
-   "description": "Meet us for a weekly kid's craft program! Perfect for young artists and their caregivers who are eager to learn and create in a friendly, supportive environment.\n\nOur rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nAll materials will be provided, and no prior experience is necessary. We look forward to crafting with you!\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
-   "start": "2026-11-16T15:30:00-05:00",
-   "end": "2026-11-16T16:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17683821",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Maker_Mondays_Kids.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/maker-monday-nov-16-02fb20/"
-  },
-  {
-   "id": "hoboken-library:17725305",
-   "title": "Tween-Led Chess Club",
-   "description": "Come and join our chess club at the Grand Street Branch Library!\n\nGuided by Oli, tweens and teens will have the opportunity to play chess together in a supportive environment. Beginner and intermediate players are welcome.\n\nChess Club is for tweens and teens ages 10-15.\n\nChess boards are provided but feel free to bring your own.\n\nThis walk-in program takes place every other Monday in the Study Room of the Grand Street Branch Library.",
-   "start": "2026-11-16T15:30:00-05:00",
-   "end": "2026-11-16T17:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17725305",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Colorful_Illustrative_Chess_Game_Night_Invitation.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Sports"
-   ],
-   "free": true,
-   "path": "/events/tween-led-chess-club-nov-16-82eff7/"
-  },
-  {
    "id": "eventbrite:1987134040407",
    "title": "Hudson Happy Hour",
    "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
@@ -378,26 +236,6 @@
    ],
    "free": false,
    "path": "/events/stevens-wbb-vs-hunter-nov-16-29e443/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17613233",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-11-16T17:30:00-05:00",
-   "end": "2026-11-16T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17613233",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-nov-16-af59bd/"
   },
   {
    "id": "hoboken-library:17723252",
@@ -1011,26 +849,6 @@
    ],
    "free": true,
    "path": "/events/santa-paws-tree-party-hudson-county-animal-league-nov-17-b23cd9/"
-  },
-  {
-   "id": "luma:evt-AfJQQf9oWYEShgJ",
-   "title": "Notion 101 Workshop",
-   "description": "",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-17T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Stevens Institute of Technology",
-   "address": "Stevens Institute of Technology, 1 Castle Point Terrace, Hoboken, NJ 07030, USA",
-   "city": "Hoboken",
-   "url": "https://lu.ma/xnhr21sw",
-   "image": "https://images.lumacdn.com/gallery-images/xy/13fae58d-87bd-455a-8c6d-c1ba52df7767",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/notion-101-workshop-nov-17-3cc40d/"
   },
   {
    "id": "luma:evt-Pn8OwZkoO88Lqk0",
@@ -2729,10 +2547,10 @@
    "end": "2026-11-19T20:00:00-05:00",
    "all_day": false,
    "venue": "Hamilton Park Montessori School, a NJ Non-Profit",
-   "address": "1 McWilliams Place, Jersey City, NJ 07302",
+   "address": "175 Eighth Street, Jersey City, NJ 07302",
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2004775146430",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197852133%2F274366617814%2F1%2Foriginal.20261112-154423?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.887&fp-y=0.548&s=9435583169c91a401ef9715c78cc3546",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198095577%2F274366617814%2F1%2Foriginal.20261116-184020?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.878&fp-y=0.47&s=6fea0572f40139d0f50be8e76fa12242",
    "price": "Free",
    "source": "Eventbrite",
    "categories": [
@@ -2762,26 +2580,6 @@
    ],
    "free": true,
    "path": "/events/jersey-city-bitcoin-socratic-seminar-series-nov-19-6dd508/"
-  },
-  {
-   "id": "google:hudsontable20261119hoboken",
-   "title": "Hudson Table",
-   "description": "",
-   "start": "2026-11-19T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "SLT Hoboken",
-   "address": "SLT Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/events/333-15th-st-hoboken-nj/hudson-table/28589313387434128/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0deCuhQWlVQzs-iv7W7lMRc7t_xCo6RU2Q0mKuXzeIBPdD13OJ2SDta5Za90c83aeHfnnCmNf8nfF0zs",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/hudson-table-nov-19-898060/"
   },
   {
    "id": "eventbrite:2003375414795",
@@ -3089,8 +2887,8 @@
    "path": "/events/community-meeting-with-mayor-james-solomon-nov-20-3c4171/"
   },
   {
-   "id": "google:betababesclimbing20261120hoboken",
-   "title": "Beta Babes Climbing",
+   "id": "google:betababeswomensmeetup20261120hoboken",
+   "title": "Beta Babes: Women's Meetup",
    "description": "",
    "start": "2026-11-20T18:00:00-05:00",
    "end": null,
@@ -3106,7 +2904,7 @@
     "Community"
    ],
    "free": false,
-   "path": "/events/beta-babes-climbing-nov-20-1c0744/"
+   "path": "/events/beta-babes-women-s-meetup-nov-20-3087f9/"
   },
   {
    "id": "eventbrite:2003675070072",
@@ -3210,26 +3008,6 @@
    ],
    "free": false,
    "path": "/events/scorsese-and-the-stones-nov-20-bc8a08/"
-  },
-  {
-   "id": "google:blackaffaireditionfrankiefriends20261120hoboken",
-   "title": "BLACK AFFAIR EDITION: FRANKIE & FRIENDS",
-   "description": "",
-   "start": "2026-11-20T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/2004382187078?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuo7Rep2P7RxBSnniDC1s-5NZqh0YRzAIM2td8SJUZXAcsFbs_d1PJItHliy3KcQ59PmPCuLZIyhp8-Os",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/black-affair-edition-frankie-friends-nov-20-5309de/"
   },
   {
    "id": "google:secondnatureatthewellgrill20261120bayonne",
@@ -3800,26 +3578,6 @@
    "path": "/events/breakfast-with-the-bros-jersey-city-nov-22-f2813c/"
   },
   {
-   "id": "google:fallintofunattlehoboken20261122hoboken",
-   "title": "Fall Into Fun at TLE Hoboken! \ud83c\udf83\ud83c\udf41",
-   "description": "",
-   "start": "2026-11-22T10:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Learning Experience - Hoboken",
-   "address": "The Learning Experience - Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/events/900-monroe-st-ste-b-hoboken-nj-07030/fall-into-fun-at-tle-hoboken/1609418894266971/",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9iZuoOZyf18Rjw1fCHSOMDrCz150OqfzQ67CQTPBCqDW3Nwvh2uyCLGr6bzXMRtI4TtLg1HdnojYRjo",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/fall-into-fun-at-tle-hoboken-nov-22-603c6d/"
-  },
-  {
    "id": "hoboken-library:17433856",
    "title": "Pok\u00e9mon Card Battle Hour",
    "description": "This exciting event is just right for experienced Pok\u00e9mon card fans who love fast-paced, strategic battles. You'll get to show off your skills and tactics in thrilling matches against fellow enthusiasts. It's a friendly competition where you can share tips and learn cool new tricks.\n\nWhether you're a seasoned player or a passionate collector, you're in for an hour of awesome battles and Pok\u00e9mon fun! Get your best cards ready and see if you can outsmart your opponents!\n\nThis is a drop-in program and meetup for Pok\u00e9mon enthusiasts ages 8 and up.",
@@ -3838,26 +3596,6 @@
    ],
    "free": true,
    "path": "/events/pokemon-card-battle-hour-nov-22-5f1465/"
-  },
-  {
-   "id": "google:cassanovawasawoman10thanniversarycelebration20261122hoboken",
-   "title": "Cassanova Was A Woman - 10th Anniversary Celebration",
-   "description": "",
-   "start": "2026-11-22T14:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Mile Square Theatre",
-   "address": "Mile Square Theatre, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/events/mile-square-theatre/cassanova-was-a-woman-10th-anniversary-celebration/28768280206173526/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsQ8-M_gkQxJGFZuyYZGlUru6UcF2kDYSuI5T_lLiwxg6FpUXAXXgwVFi4KTkyjmnY0LXUo5zArMzB9iY",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/cassanova-was-a-woman-10th-anniversary-celebration-nov-22-33b530/"
   },
   {
    "id": "luma:evt-6DiRv9cSvaxSR1D",
@@ -4060,6 +3798,26 @@
    "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-nov-23-0b9b90/"
   },
   {
+   "id": "Bayonne Public Library:LibCal-17197-17613234",
+   "title": "Book a Librarian",
+   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
+   "start": "2026-11-23T14:30:00-05:00",
+   "end": "2026-11-23T15:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17613234",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/book-a-librarian-nov-23-946792/"
+  },
+  {
    "id": "hoboken-library:17683822",
    "title": "Maker Monday",
    "description": "Meet us for a weekly kid's craft program! Perfect for young artists and their caregivers who are eager to learn and create in a friendly, supportive environment.\n\nOur rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nAll materials will be provided, and no prior experience is necessary. We look forward to crafting with you!\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
@@ -4120,26 +3878,6 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-nov-23-520cd2/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17613234",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-11-23T17:30:00-05:00",
-   "end": "2026-11-23T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17613234",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-nov-23-946792/"
   },
   {
    "id": "hoboken-library:17723254",
@@ -5224,26 +4962,6 @@
    "path": "/events/dance-party-at-madd-hatter-nov-26-12c1df/"
   },
   {
-   "id": "google:singathatter20261126hoboken",
-   "title": "Sing At Hatter",
-   "description": "",
-   "start": "2026-11-26T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6afa321100a7fb428c93ac5c/images/lab2llyFaO6zaTVbQVM6C4s3ldoVEXGTcJ2PYaUgFrc.png",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/sing-at-hatter-nov-26-5996ef/"
-  },
-  {
    "id": "eventbrite:2004831876110",
    "title": "Cre8sArt Hoboken: Kids ( Ages 4-9) Harvest & Gratitude Art Kids Camp",
    "description": "Students will create a fall-inspired clay and painting celebrating the colors, beauty, and abundance of the harvest season.",
@@ -5752,6 +5470,26 @@
    "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-nov-30-27ee54/"
   },
   {
+   "id": "Bayonne Public Library:LibCal-17197-17613235",
+   "title": "Book a Librarian",
+   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
+   "start": "2026-11-30T14:30:00-05:00",
+   "end": "2026-11-30T15:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17613235",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/book-a-librarian-nov-30-ed68bd/"
+  },
+  {
    "id": "hoboken-library:17683823",
    "title": "Maker Monday",
    "description": "Meet us for a weekly kid's craft program! Perfect for young artists and their caregivers who are eager to learn and create in a friendly, supportive environment.\n\nOur rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nAll materials will be provided, and no prior experience is necessary. We look forward to crafting with you!\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
@@ -5812,26 +5550,6 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-nov-30-867b1d/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17613235",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-11-30T17:30:00-05:00",
-   "end": "2026-11-30T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17613235",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-nov-30-ed68bd/"
   },
   {
    "id": "hoboken-library:17723255",
@@ -6854,26 +6572,6 @@
    "path": "/events/end-of-the-century-the-story-of-the-ramones-dec-3-ab2f72/"
   },
   {
-   "id": "google:gregorymcloughlinthelemonadebandwithbarbarabeeman20261203hoboken",
-   "title": "GREGORY McLOUGHLIN & The LEMONADE BAND with BARBARA BEEMAN!",
-   "description": "",
-   "start": "2026-12-03T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "503 Social Club",
-   "address": "503 Social Club, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.google.com/search?q=503+Social+Club&ludocid=5239736050251432147&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6afa321100a7fb428c93ac5c/images/_cse_8-wdwgM4BU2Q0pdfx5QyXXZlIGbbheycHipNAQ.jpg",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/gregory-mcloughlin-the-lemonade-band-with-barbara-beema-dec-3-9a12df/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17068933",
    "title": "Bayonne Public Schools Class Visit",
    "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
@@ -7222,26 +6920,6 @@
    "path": "/events/oceans-between-our-names-duet-version-dec-5-20ce11/"
   },
   {
-   "id": "google:jamesmaddockreturnsnewdate20261205hoboken",
-   "title": "JAMES MADDOCK Returns! New DATE!",
-   "description": "",
-   "start": "2026-12-05T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "503 Social Club",
-   "address": "503 Social Club, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/events/503-social-club-503-3rd-street-hoboken-nj-07030-us/james-maddock-returns-rescheduled-to-sat-dec-5-2026/30287000470890027/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2EgaSoVxplNO8X1MvagnFeW2pRtz3gHj65pvs93TE7vj4nyUTMv7osp_arOcpYSeO6HIMWZt_pA1x218",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/james-maddock-returns-new-date-dec-5-5511a6/"
-  },
-  {
    "id": "Stevens Institute:PTgrVpWBaM49BZesBZsw",
    "title": "Concert Band Performance",
    "description": "Performance by the Stevens Concert Band",
@@ -7483,6 +7161,26 @@
    "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-dec-7-5bfa86/"
   },
   {
+   "id": "Bayonne Public Library:LibCal-17197-17613236",
+   "title": "Book a Librarian",
+   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
+   "start": "2026-12-07T14:30:00-05:00",
+   "end": "2026-12-07T15:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17613236",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/book-a-librarian-dec-7-28112e/"
+  },
+  {
    "id": "hoboken-library:17745387",
    "title": "Maker Monday",
    "description": "Meet us for a weekly kid's craft program! Perfect for young artists and their caregivers who are eager to learn and create in a friendly, supportive environment.\n\nOur rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nAll materials will be provided, and no prior experience is necessary. We look forward to crafting with you!\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
@@ -7522,26 +7220,6 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-dec-7-7682c1/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17613236",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-12-07T17:30:00-05:00",
-   "end": "2026-12-07T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17613236",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-dec-7-28112e/"
   },
   {
    "id": "hoboken-library:17723257",
@@ -8010,26 +7688,6 @@
    ],
    "free": true,
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-dec-8-04f63f/"
-  },
-  {
-   "id": "google:mstdecemberopenmicnight20261208hoboken",
-   "title": "MST December Open Mic Night",
-   "description": "",
-   "start": "2026-12-08T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Mile Square Theatre",
-   "address": "Mile Square Theatre, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.google.com/search?q=Mile+Square+Theatre&ludocid=17044172806982307277&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg-jqnfv0QLROcheFQvgLVy96NN_pdoeUcBg8-TRh0mERCFudZPLVsdbXg6ib7y-lGiWmVCwFa6Atb1zk",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/mst-december-open-mic-night-dec-8-65bf87/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17068934",
@@ -9637,6 +9295,26 @@
    "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-dec-14-d7e191/"
   },
   {
+   "id": "Bayonne Public Library:LibCal-17197-17613237",
+   "title": "Book a Librarian",
+   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
+   "start": "2026-12-14T14:30:00-05:00",
+   "end": "2026-12-14T15:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17613237",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/book-a-librarian-dec-14-7c511a/"
+  },
+  {
    "id": "hoboken-library:17745388",
    "title": "Maker Monday",
    "description": "Meet us for a weekly kid's craft program! Perfect for young artists and their caregivers who are eager to learn and create in a friendly, supportive environment.\n\nOur rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nAll materials will be provided, and no prior experience is necessary. We look forward to crafting with you!\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
@@ -9676,26 +9354,6 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-dec-14-c626cc/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17613237",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-12-14T17:30:00-05:00",
-   "end": "2026-12-14T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17613237",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-dec-14-7c511a/"
   },
   {
    "id": "eventbrite:2004590343680",
@@ -11129,6 +10787,26 @@
    "path": "/events/hoboken-official-ugly-sweater-bar-crawl-by-bar-crawl-li-dec-19-d1ac23/"
   },
   {
+   "id": "google:hobokenuglysweaterbarcrawlsaturdaydecember1920261219hoboken",
+   "title": "Hoboken Ugly Sweater Bar Crawl \u2014 Saturday, December 19",
+   "description": "",
+   "start": "2026-12-19T14:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Mike's Wild Moose Saloon",
+   "address": "Mike's Wild Moose Saloon, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.barcrawllive.com/crawls/hoboken-ugly-sweater-bar-crawl",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcraFK1rGV2ptd3hFDRXdzbophmCBa1USusRh6K35zwmM276H75LO6TQ49zv_HIxRf9RMlk2_wGCC6NJo",
+   "price": null,
+   "source": "barcrawllive.com",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/hoboken-ugly-sweater-bar-crawl-saturday-december-19-dec-19-8e57a6/"
+  },
+  {
    "id": "eventbrite:1406594545149",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -11149,26 +10827,6 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-dec-19-812733/"
-  },
-  {
-   "id": "google:thecliffsbandriverstreetgarage20261219hoboken",
-   "title": "The Cliffs Band: River Street Garage",
-   "description": "",
-   "start": "2026-12-19T22:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "River Street Garage, LLC.",
-   "address": "River Street Garage, LLC., Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.bandsintown.com/de/e/108204193-the-cliffs-band-at-river-street-garage-llc",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNLqh8STsAJJkOBSU5lhIYHN7CyKBnWTCQ4RqT8AlF6SHXcWhFtNFpNHrAUc43JVzMcZcWGKcojHgv7OU",
-   "price": null,
-   "source": "bandsintown.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/the-cliffs-band-river-street-garage-dec-19-2fe4fa/"
   },
   {
    "id": "eventbrite:1774166051419",
@@ -11291,6 +10949,26 @@
    "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-dec-21-26f48f/"
   },
   {
+   "id": "Bayonne Public Library:LibCal-17197-17613238",
+   "title": "Book a Librarian",
+   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
+   "start": "2026-12-21T14:30:00-05:00",
+   "end": "2026-12-21T15:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17613238",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/book-a-librarian-dec-21-259935/"
+  },
+  {
    "id": "hoboken-library:17745389",
    "title": "Maker Monday",
    "description": "Meet us for a weekly kid's craft program! Perfect for young artists and their caregivers who are eager to learn and create in a friendly, supportive environment.\n\nOur rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nAll materials will be provided, and no prior experience is necessary. We look forward to crafting with you!\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
@@ -11330,26 +11008,6 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-dec-21-ee3f65/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17613238",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-12-21T17:30:00-05:00",
-   "end": "2026-12-21T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17613238",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-dec-21-259935/"
   },
   {
    "id": "City of Jersey City:21059940",
@@ -12310,6 +11968,26 @@
    "path": "/events/social-work-drop-in-hours-with-the-city-of-hoboken-dec-28-303d81/"
   },
   {
+   "id": "Bayonne Public Library:LibCal-17197-17613239",
+   "title": "Book a Librarian",
+   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
+   "start": "2026-12-28T14:30:00-05:00",
+   "end": "2026-12-28T15:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17613239",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/book-a-librarian-dec-28-894eee/"
+  },
+  {
    "id": "hoboken-library:17745390",
    "title": "Maker Monday",
    "description": "Meet us for a weekly kid's craft program! Perfect for young artists and their caregivers who are eager to learn and create in a friendly, supportive environment.\n\nOur rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nAll materials will be provided, and no prior experience is necessary. We look forward to crafting with you!\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
@@ -12349,26 +12027,6 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-dec-28-171f52/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17613239",
-   "title": "Book a Librarian",
-   "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
-   "start": "2026-12-28T17:30:00-05:00",
-   "end": "2026-12-28T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17613239",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/book-a-librarian-dec-28-894eee/"
   },
   {
    "id": "eventbrite:2001887702006",
@@ -14415,6 +14073,47 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-jan-15-e01663/"
+  },
+  {
+   "id": "eventbrite:1986851557493",
+   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
+   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
+   "start": "2027-01-15T16:00:00-05:00",
+   "end": "2027-01-15T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851557493",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-jan-15-9a08ec/"
+  },
+  {
+   "id": "eventbrite:1999737050349",
+   "title": "$5 FRIDAYS AT SIX26 | HAPPY HOUR + DRAG SHOW + TOP DJS",
+   "description": "Kick off your weekend with killer beats, drag vibes, and happy hour specials that won\u2019t break the bank.",
+   "start": "2027-01-15T16:00:00-05:00",
+   "end": "2027-01-15T20:00:00-05:00",
+   "all_day": false,
+   "venue": "Six26 - Lounge and Rooftop",
+   "address": "128 Christopher Columbus Drive, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/5-fridays-at-six26-happy-hour-drag-show-top-djs-tickets-1999737050349",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192643391%2F2997424828956%2F1%2Foriginal.20260904-010942?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.487&fp-y=0.852&s=e9e21ae1f6d46da2ccf67f51da4f1c48",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-jan-15-e5b594/"
   }
  ]
 }

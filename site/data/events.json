@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T11:52:05.558140-05:00",
+ "generated": "2026-11-17T17:43:46.678617-05:00",
  "sources": {
   "jersey_city_gov": 112,
   "bayonne_library": 317,
@@ -7,10 +7,10 @@
   "stevens": 42,
   "jc_families": 4,
   "luma": 15,
-  "ticketmaster": 16,
-  "seatgeek": 23,
-  "eventbrite": 491,
-  "serpapi_google_events": 25
+  "ticketmaster": 17,
+  "seatgeek": 24,
+  "eventbrite": 490,
+  "serpapi_google_events": 26
  },
  "events": [
   {
@@ -175,148 +175,6 @@
    ],
    "free": false,
    "path": "/events/thanksgiving-table-collection-3-class-webinar-series-nov-13-5876ac/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17701579",
-   "title": "ESL Class",
-   "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
-   "start": "2026-11-17T10:00:00-05:00",
-   "end": "2026-11-17T12:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom A, Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17701579",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/esl-class-nov-17-34d4c2/"
-  },
-  {
-   "id": "eventbrite:1986851331818",
-   "title": "Power Lunch for People on the Go",
-   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
-   "start": "2026-11-17T11:30:00-05:00",
-   "end": "2026-11-17T14:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851331818",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/power-lunch-for-people-on-the-go-nov-17-d29a79/"
-  },
-  {
-   "id": "hoboken-library:17763010",
-   "title": "Passport Book Club",
-   "description": "Join us in the Passport Book Club., Tuesday, October 20 at 12 noon.\n\nIn September 1960, John Steinbeck embarked on a journey across America. He felt that he might have lost touch with the country, with its speech, the smell of its grass and trees, its color and quality of light, the pulse of its people. To reassure himself, he set out on a voyage of rediscovery of the American identity, accompanied by a distinguished French poodle named Charley; and riding in a three-quarter-ton pickup truck named Rocinante.\n\u00a0\nHis course took him through almost forty states: northward from Long Island to Maine",
-   "start": "2026-11-17T12:00:00-05:00",
-   "end": "2026-11-17T13:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17763010",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/travels.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/passport-book-club-nov-17-1f80c3/"
-  },
-  {
-   "id": "hoboken-library:17686728",
-   "title": "Tai Chi Workshop",
-   "description": "Every Tuesday, meet us in the gymnasium on the 2nd floor of the Multi-Service Center, at 124 Grand Street for a free Tai Chi Workshop led by instructor Peter.\n\nOpen to beginners and all levels.\n\nPlease email laura.knittel@hobokenlibrary.org for more information.",
-   "start": "2026-11-17T12:30:00-05:00",
-   "end": "2026-11-17T13:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17686728",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Tai_chi_practitioner_in_a_calm_balanced_pose_flowing_movement_serene_atmosphere_clean_composition_realistic_lighting.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/tai-chi-workshop-nov-17-6bb8a1/"
-  },
-  {
-   "id": "hoboken-library:17703115",
-   "title": "Social Worker Drop-In Hours at Fox Hill Gardens",
-   "description": "We can help you with:\n\nReferrals to community resources such as Mental Health Support, Transportation, Meals-on-Wheels, Medical Care and more!\n\nBenefits Assistance\n\nJob Applications",
-   "start": "2026-11-17T13:30:00-05:00",
-   "end": "2026-11-17T15:30:00-05:00",
-   "all_day": false,
-   "venue": "Fox Hill Gardens",
-   "address": "311 13th Street, Hoboken, New Jersey 07030",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17703115",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Fox_Hill_Gardens_Communico_Square.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/social-worker-drop-in-hours-at-fox-hill-gardens-nov-17-b8874f/"
-  },
-  {
-   "id": "hoboken-library:17687511",
-   "title": "American Mahjong Club",
-   "description": "Come join in the fun and play a game of American Mahjong!\n\nPlayers of all skill levels are welcome. For adults ages 18 and up.\n\nGrand Street Branch is located at 124 Grand Street on the second floor.",
-   "start": "2026-11-17T14:00:00-05:00",
-   "end": "2026-11-17T16:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17687511",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/American_Mahjong.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Sports"
-   ],
-   "free": true,
-   "path": "/events/american-mahjong-club-nov-17-6402b2/"
-  },
-  {
-   "id": "hoboken-library:17599993",
-   "title": "Picture Book Bingo",
-   "description": "Instead of traditional numbers and letters, the bingo cards feature beloved children's picture books, each handpicked from HPL's favorite collection.\n\nIt\u2019s a delightful way to celebrate the joy of reading, encouraging both children and their caregivers to discover new books and revisit beloved classics.",
-   "start": "2026-11-17T15:30:00-05:00",
-   "end": "2026-11-17T16:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17599993",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/picture-book-bingo-nov-17-dfc6f1/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-16203009",
@@ -2620,26 +2478,6 @@
    "path": "/events/community-meeting-with-mayor-james-solomon-nov-20-3c4171/"
   },
   {
-   "id": "google:betababeswomensmeetup20261120hoboken",
-   "title": "Beta Babes: Women's Meetup",
-   "description": "",
-   "start": "2026-11-20T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Gravity Vault Hoboken, NJ",
-   "address": "The Gravity Vault Hoboken, NJ, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/TheGravityVaultHoboken/posts/mark-your-calendars-for-friday-november-20th-from-6-8-pm-and-get-ready-to-climb-/1807212547583905/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfwMum7khoUyjFIB5cWWllja8CnKk3eONte7ldszX1Jrb2AWgk4qsQ5inf7Khznh9Mvbsvpi05qTSHUj0",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/beta-babes-women-s-meetup-nov-20-3087f9/"
-  },
-  {
    "id": "eventbrite:2003675070072",
    "title": "Specialty Slice Night: Pizza Workshop",
    "description": "Learn how to make artisanal pizza from scratch. learning how to make the perfect crust and pair different toppings all in our hearth ovens.",
@@ -2946,6 +2784,26 @@
    "path": "/events/2026-outdoor-season-finale-nov-21-1ac879/"
   },
   {
+   "id": "google:leadclimbingclass20261121hoboken",
+   "title": "Lead Climbing Class",
+   "description": "",
+   "start": "2026-11-21T12:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "The Gravity Vault Hoboken, NJ",
+   "address": "The Gravity Vault Hoboken, NJ, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.facebook.com/TheGravityVaultHoboken/posts/if-you-have-never-led-before-or-its-been-a-while-since-you-have-this-class-is-fo/1806035871034906/",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYvxFhlLTUVxXd5kk2xLiVJ_LpzHPfac9fShO4Zn0pTNJX77wMrv7M5WkF_sNC6iLKS3yLIpwfx8X7Euc",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Learning"
+   ],
+   "free": false,
+   "path": "/events/lead-climbing-class-nov-21-af15f6/"
+  },
+  {
    "id": "hoboken-library:17743054",
    "title": "Bilingual Birdies",
    "description": "Explore music and language with Bilingual Birdies! Each class is taught by a live musician who teaches new vocabulary through songs, movement, dance, and puppetry. Families get to experience a joyful bilingual adventure in English and Spanish. Join us as we make learning a new language fun and easy!\n\nThis program is for ages 18 months - 5 and their caregivers. First-come, first served.\n\nPlease arrive on time as we may not be able to accommodate latecomers.",
@@ -2964,6 +2822,27 @@
    ],
    "free": true,
    "path": "/events/bilingual-birdies-nov-21-63f1a2/"
+  },
+  {
+   "id": "google:jcshottestfriendsgivingbrunchpartylivedjs3mimosas20261121jerseycity",
+   "title": "JC'S HOTTEST FRIENDSGIVING BRUNCH PARTY | LIVE DJS & $3 MIMOSAS",
+   "description": "",
+   "start": "2026-11-21T13:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "The Ashford",
+   "address": "The Ashford, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.facebook.com/events/the-ashford-145-newark-avenue-jersey-city-nj-07302-us/jcs-hottest-friendsgiving-brunch-party-live-djs-3-mimosas/2292294971356476/",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2PlY4O83EEMtDGyF_9vH87fP_A98GbHT0yPT6V2fW3nNixUkxaRoJ7PBWjOm6WYgqqXA3vlHD1LuBgcs",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Food & Drink",
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/jc-s-hottest-friendsgiving-brunch-party-live-djs-3-mimo-nov-21-5866d0/"
   },
   {
    "id": "hoboken-library:17772174",
@@ -3105,6 +2984,26 @@
    ],
    "free": false,
    "path": "/events/jersey-city-wine-fest-nov-21-c54f35/"
+  },
+  {
+   "id": "google:thegreatreddoorpajamasparty20261121jerseycity",
+   "title": "The Great Red Door Pajamas Party",
+   "description": "",
+   "start": "2026-11-21T18:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Grace Church Van Vorst",
+   "address": "Grace Church Van Vorst, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/2004128704906?aff=ebdiglgoogleliveevents",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-rMx1QroJG7XzIHt3ypDBcdzOV65aN7oNaHQF5giiJzJR3Taf1lnHoP-lOax4Xf2fAWLuhLquWMlKfjQ",
+   "price": null,
+   "source": "Eventbrite",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/the-great-red-door-pajamas-party-nov-21-7dcb57/"
   },
   {
    "id": "eventbrite:1406594424789",
@@ -3309,6 +3208,26 @@
    ],
    "free": false,
    "path": "/events/breakfast-with-the-bros-jersey-city-nov-22-f2813c/"
+  },
+  {
+   "id": "google:fallintofunattlehoboken20261122hoboken",
+   "title": "Fall Into Fun at TLE Hoboken! \ud83c\udf83\ud83c\udf41",
+   "description": "",
+   "start": "2026-11-22T10:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "The Learning Experience - Hoboken",
+   "address": "The Learning Experience - Hoboken, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.facebook.com/events/900-monroe-st-ste-b-hoboken-nj-07030/fall-into-fun-at-tle-hoboken/1609418894266971/",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9iZuoOZyf18Rjw1fCHSOMDrCz150OqfzQ67CQTPBCqDW3Nwvh2uyCLGr6bzXMRtI4TtLg1HdnojYRjo",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/fall-into-fun-at-tle-hoboken-nov-22-603c6d/"
   },
   {
    "id": "hoboken-library:17433856",
@@ -4941,26 +4860,6 @@
    "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-28-5987fa/"
   },
   {
-   "id": "google:williemcbrides20261128hoboken",
-   "title": "Willie McBride's",
-   "description": "",
-   "start": "2026-11-28T22:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Willie McBride\u2019s",
-   "address": "Willie McBride\u2019s, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.bandsintown.com/e/108299594?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFSe1C70y7wNU0RDd1Ow7R17zM8IKBYzgF8J3JK4qu6Jftu1xxkUnCawcVigkhZhK401peS8YwoOIYyI0",
-   "price": null,
-   "source": "bandsintown.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/willie-mcbride-s-nov-28-3c1fc0/"
-  },
-  {
    "id": "eventbrite:1774166021329",
    "title": "Breakfast with the Bros | Jersey City",
    "description": "Need a circle of good men in your life? Meet some new bros over  breakfast or coffee!",
@@ -6305,6 +6204,26 @@
    "path": "/events/end-of-the-century-the-story-of-the-ramones-dec-3-ab2f72/"
   },
   {
+   "id": "google:jcfridaysdecember4202620261204jerseycity",
+   "title": "JC Fridays | December 4, 2026",
+   "description": "",
+   "start": "2026-12-04T00:00:00-05:00",
+   "end": null,
+   "all_day": true,
+   "venue": "Art House Productions",
+   "address": "Art House Productions, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.google.com/search?q=Art+House+Productions&ludocid=8933411894231146215&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwZfVinQOltrCYdI2yF-glp9P7TdyGP-Tzk6WTrfhbjlB-R5jBHOfiF98qqY5bSo43IXLr59tToKZ0B1Q",
+   "price": null,
+   "source": "Google Events",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/jc-fridays-december-4-2026-dec-4-630a07/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17068933",
    "title": "Bayonne Public Schools Class Visit",
    "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
@@ -7282,7 +7201,7 @@
   },
   {
    "id": "eventbrite:2004329108318",
-   "title": "Find Your POV",
+   "title": "Finding Your POV",
    "description": "Learn to justify bold choices and move your scenes forward.",
    "start": "2026-12-08T18:30:00-05:00",
    "end": "2026-12-08T21:30:00-05:00",
@@ -7290,7 +7209,7 @@
    "venue": "503 Social Club",
    "address": "503 3rd Street, Hoboken, NJ 07030",
    "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/find-your-pov-tickets-2004329108318",
+   "url": "https://www.eventbrite.com/e/finding-your-pov-tickets-2004329108318",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197310432%2F2990717001563%2F1%2Foriginal.20261105-004141?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.451&s=1ea6f3933e7abdb0ee18324a83627987",
    "price": "$35+",
    "source": "Eventbrite",
@@ -7298,7 +7217,7 @@
     "Arts & Culture"
    ],
    "free": false,
-   "path": "/events/find-your-pov-dec-8-7e9756/"
+   "path": "/events/finding-your-pov-dec-8-7e9756/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17491185",
@@ -13952,6 +13871,46 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-jan-15-6e02e6/"
+  },
+  {
+   "id": "ticketmaster:Z7r9jZ1AAA6-K",
+   "title": "Saint Peters Peacocks Mens Basketball vs. Siena Saints Mens Basketball",
+   "description": "",
+   "start": "2027-01-16T14:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Yanitelli Center",
+   "address": "2641 Kennedy Blvd",
+   "city": "Jersey City",
+   "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA6-K",
+   "image": "https://s1.ticketm.net/dam/c/f51/ee785ed6-f806-4195-98f4-69f67e09df51_106201_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "price": "Paid",
+   "source": "Ticketmaster",
+   "categories": [
+    "Sports"
+   ],
+   "free": false,
+   "path": "/events/saint-peters-peacocks-mens-basketball-vs-siena-saints-m-jan-16-408857/"
+  },
+  {
+   "id": "seatgeek:18532543",
+   "title": "Siena Saints at Saint Peter's Peacocks Mens Basketball",
+   "description": "",
+   "start": "2027-01-16T14:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Yanitelli Center",
+   "address": "870 Montgomery Street",
+   "city": "Jersey City",
+   "url": "https://seatgeek.com/saint-peter-s-peacocks-mens-basketball-tickets/ncaa-basketball/2027-01-16-2-pm/18532543",
+   "image": null,
+   "price": "Paid",
+   "source": "SeatGeek",
+   "categories": [
+    "Sports"
+   ],
+   "free": false,
+   "path": "/events/siena-saints-at-saint-peter-s-peacocks-mens-basketball-jan-16-a97476/"
   }
  ]
 }

@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-16T17:37:57.901345-05:00",
+ "generated": "2026-11-17T05:51:37.280539-05:00",
  "sources": {
-  "jersey_city_gov": 111,
-  "bayonne_library": 318,
-  "hoboken_library": 132,
-  "stevens": 43,
+  "jersey_city_gov": 112,
+  "bayonne_library": 316,
+  "hoboken_library": 126,
+  "stevens": 42,
   "jc_families": 4,
   "luma": 14,
   "ticketmaster": 16,
   "seatgeek": 23,
-  "eventbrite": 490,
+  "eventbrite": 491,
   "serpapi_google_events": 25
  },
  "events": [
@@ -175,252 +175,6 @@
    ],
    "free": false,
    "path": "/events/thanksgiving-table-collection-3-class-webinar-series-nov-13-5876ac/"
-  },
-  {
-   "id": "hoboken-library:17898035",
-   "title": "Pen to Paper: Writing Challenge",
-   "description": "The goal is to write consistently (every day, if possible) for the next 30 days toward a monthly goal.\u00a0\n\n1. Set your goal\n2. Work toward your goal\n2. Check in weekly\n4. Complete your monthly goal\n\nWhat might that look like? Some examples:\n\nWrite X amount of words towards my novel or novella\n\nWrite X short stories (or one short story) of X amount of words\n\nWrite one short story and submit it to a contest\n\nWrite one poem every day\n\nYour goal is your goal, and this challenge is designed to help you break it down so that you can achieve it. Once you sign up, you'll receive an email with a Google F",
-   "start": "2026-11-16T00:00:00-05:00",
-   "end": "2026-11-16T23:59:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17898035",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Pen_to_Paper_Writing_Challenge_Communico_Image.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/pen-to-paper-writing-challenge-nov-16-998c4d/"
-  },
-  {
-   "id": "eventbrite:1987134040407",
-   "title": "Hudson Happy Hour",
-   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
-   "start": "2026-11-16T16:00:00-05:00",
-   "end": "2026-11-16T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134040407",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hudson-happy-hour-nov-16-d241ed/"
-  },
-  {
-   "id": "Stevens Institute:dq0jLuZkyMUyaoVX7Bvb",
-   "title": "Stevens WBB vs Hunter",
-   "description": "Game",
-   "start": "2026-11-16T17:00:00-05:00",
-   "end": "2026-11-16T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Schaefer Canavan Arena (Entire Arena)",
-   "address": "Schaefer Canavan Arena (Entire Arena)",
-   "city": "Hoboken",
-   "url": "https://events.stevens.edu/",
-   "image": null,
-   "price": null,
-   "source": "Stevens Institute",
-   "categories": [
-    "Sports"
-   ],
-   "free": false,
-   "path": "/events/stevens-wbb-vs-hunter-nov-16-29e443/"
-  },
-  {
-   "id": "hoboken-library:17723252",
-   "title": "Math Circle",
-   "description": "Organized jointly with Stevens Institute of Technology, a math circle exposes participants to interesting, challenging, and fun mathematical activities composed by faculty in the Department of Mathematical Sciences and led by STEM undergraduates at Stevens. Students in grades 4-5 are encouraged to register and can expect to play mathematical games, solve puzzles, and do hands-on activities.\u00a0There are no entry requirements other than an interest in exploring a different side of math!\u00a0\n\nThis program is supported by Grant No. 2236229 from the National Science Foundation.\u00a0For more information on m",
-   "start": "2026-11-16T17:45:00-05:00",
-   "end": "2026-11-16T18:45:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17723252",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Math_Circle_2.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/math-circle-nov-16-6295ab/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17622860",
-   "title": "Read to a Dog",
-   "description": "Join us at the Bayonne Public Library for our \u201cRead to a Dog\u201d program! \n\nMeet Lucy the Golden Retriever! Each child will have a few minutes to read to Lucy and practice their reading skills. Please either bring the book you would like to read or arrive a few minutes early so that you have time to choose one at the library.\n\nThis reading program takes place on select Mondays at 6 pm in the Small Programming Room on the following dates:\n\n\tSeptember 28th\n\tNovember 16th\n\nAdvanced registration is required. Walk-ins will be included if space permits.\n\n*** Please make sure you are comfortable being a",
-   "start": "2026-11-16T18:00:00-05:00",
-   "end": "2026-11-16T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17622860",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/read-to-a-dog-nov-16-b3018e/"
-  },
-  {
-   "id": "hoboken-library:17772329",
-   "title": "Financial Literacy Roadshow",
-   "description": "Law student advocates from Seton Hall University School of Law's Investor Advocacy Program host a free, practical introduction to informed investing and financial decision-making.\n\nThis approachable, jargon-free session is designed for people of all ages, backgrounds, and experience levels. Whether you're just getting started or looking to better protect what you've already built, you'll walk away with useful tools and key investor protection tips you can put to work right away.\n\nAbout the Investor Advocacy Program: Founded in 2011, the Investor Advocacy Program is one of only nine law school-",
-   "start": "2026-11-16T18:00:00-05:00",
-   "end": "2026-11-16T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17772329",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/SetonHall_FinancialLiteracyRoadshow.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/financial-literacy-roadshow-nov-16-469067/"
-  },
-  {
-   "id": "google:artmusicandwine20261116jerseycity",
-   "title": "Art, Music, and Wine",
-   "description": "",
-   "start": "2026-11-16T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "MORA Museum of International Art",
-   "address": "MORA Museum of International Art, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.moramuseum.org/events/art-music-and-wine",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQigxdJ6AV12Wh4QIcVHkmolgKvJOSv4j2D0RU-biWlxwl50wShErKdhmQ8pBluMMtlr65B1DAZ6eHqs_M",
-   "price": null,
-   "source": "moramuseum.org",
-   "categories": [
-    "Music",
-    "Arts & Culture",
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/art-music-and-wine-nov-16-d66d98/"
-  },
-  {
-   "id": "City of Jersey City:21059938",
-   "title": "Shade Tree Committee",
-   "description": "Third Monday of each month, 6:30PM (except for holidays) and are open to the public.\u00a0\n\nJune and December Meetings will be held in-person\nCouncil Caucus Room, Ground floor, City Hall, 280 Grove Street\n\nJanuary-May and July-November meetings will be held virtually on Teams\u00a0\n\nhttps://jcnj.org/vstc",
-   "start": "2026-11-16T18:30:00-05:00",
-   "end": "2026-11-16T20:00:00-05:00",
-   "all_day": false,
-   "venue": "City Hall/ Virtually",
-   "address": "City Hall/ Virtually",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic",
-    "Outdoors"
-   ],
-   "free": true,
-   "path": "/events/shade-tree-committee-nov-16-92d6bd/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17590217",
-   "title": "Tween & Teen Art Club: Fall Canvas Painting with Rose",
-   "description": "Join us at the Bayonne Public Library on Monday, November from 6:30- 7:30pm to paint your own pre-drawn Fall canvas. All Art Club programs are for tweens and teens aged 9-18 and will take place in the Art & Music Room on the 2nd floor of the library. The supplies will be provided, just bring yourself and your creativity. Advanced registration is required for each session individually. Walk-ins will be accommodated if space permits. #Bayonne #BayonneNJ #ArtClub",
-   "start": "2026-11-16T18:30:00-05:00",
-   "end": "2026-11-16T19:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17590217",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/tween-teen-art-club-fall-canvas-painting-with-rose-nov-16-0c13f9/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17673984",
-   "title": "Family Game Night",
-   "description": "Join us at the Bayonne Public Library for a monthly Family Game Night! This event will run on Mondays from 6:30-8 pm in the Children\u2019s Room on the following dates:\n\n\tOctober 19th\n\tNovember 16th\n\tDecember 7th\n\tJanuary 25th\n\tFebruary 22nd\n\tMarch 8th\n\nIt will be a night full of fun, laughter, and tons of family-friendly games! We\u2019ll have games for a wide variety of ages to enjoy together including Magnatiles, Cards Against Humanity Family Edition, Dominoes, Flip 7, Jenga, Tapple, Count Your Chickens!, Hurry Up Chicken Butt, Noodle Knockout, Outfoxed!, Sushi Go, Moose Master, Creature Crash, Find ",
-   "start": "2026-11-16T18:30:00-05:00",
-   "end": "2026-11-16T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17673984",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/family-game-night-nov-16-d3ef8c/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17627337",
-   "title": "\"Is My Moody Teen Okay?\" Presentation",
-   "description": "Join us at the Bayonne Public Library on Monday, November 16th at 7 pm in the Gallery for a special presentation \u201cIs My Moody Teen Okay?\u201d by NJ4S Hudson County Partners in Prevention. This organization works to deliver comprehensive mental health support to K-12 students and families in Hudson County.\n\nThis presentation will explore teen brain development, hormones, mood changes, and emotional well-being, helping parents better understand and support their teens through adolescence.\n\nBoth parents and teens are welcome and encouraged to attend. No advanced registration is needed. We hope to see",
-   "start": "2026-11-16T19:00:00-05:00",
-   "end": "2026-11-16T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17627337",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/is-my-moody-teen-okay-presentation-nov-16-14cab5/"
-  },
-  {
-   "id": "google:bollywoodtriviajerseycity20261116jerseycity",
-   "title": "Bollywood Trivia Jersey City",
-   "description": "",
-   "start": "2026-11-16T19:15:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "JJ Sports Bar",
-   "address": "JJ Sports Bar, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/2004269417782?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2erk1jGr0A0vWT9AmG0H21GVKIuofoKwy1r-4_irVXmGxOfMFSlZFUemt0pRwQsiqUeoRL3cKeScwEa8",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/bollywood-trivia-jersey-city-nov-16-ef98ac/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17701579",
@@ -10113,6 +9867,26 @@
    "path": "/events/evening-yoga-class-dec-16-84ffb4/"
   },
   {
+   "id": "eventbrite:2004916830210",
+   "title": "Live Animals Onstage! Presents THE ZOO: a Mini Gala",
+   "description": "Join us for an evening of theater and fundraising for the Brooklyn-based, DIY theater company, Live Animals Onstage!",
+   "start": "2026-12-16T19:30:00-05:00",
+   "end": "2026-12-16T23:00:00-05:00",
+   "all_day": false,
+   "venue": "Little City Books",
+   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/live-animals-onstage-presents-the-zoo-a-mini-gala-tickets-2004916830210",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198117516%2F294282509964%2F1%2Foriginal.20261116-225821?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=96855051fc12e28e7dd49ebf15c7d867",
+   "price": "$66+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/live-animals-onstage-presents-the-zoo-a-mini-gala-dec-16-ee6c93/"
+  },
+  {
    "id": "eventbrite:2004665785328",
    "title": "Survivor 51 Watch Parties at The Hutton",
    "description": "Watch Survivor 51 with friends and fans on our patio on the giant projected screen!",
@@ -10417,6 +10191,27 @@
    ],
    "free": true,
    "path": "/events/esl-class-dec-18-05964f/"
+  },
+  {
+   "id": "eventbrite:2004931109921",
+   "title": "Coffee & Connect : Women's Business Networking 12.18",
+   "description": "Come meet other women in business, in this new , inclusive setting, hosted at 300 Communipaw Ave.",
+   "start": "2026-12-18T10:30:00-05:00",
+   "end": "2026-12-18T12:30:00-05:00",
+   "all_day": false,
+   "venue": "300 Communipaw Ave",
+   "address": "300 Communipaw Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/coffee-connect-womens-business-networking-1218-tickets-2004931109921",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198128941%2F153284777701%2F1%2Foriginal.20261117-022318?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508&fp-y=0.331&s=9748de7c146cbdbf7f27674421b054f7",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business",
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/coffee-connect-women-s-business-networking-12-18-dec-18-290a23/"
   },
   {
    "id": "eventbrite:2003382019550",
@@ -14075,6 +13870,26 @@
    "path": "/events/power-lunch-for-people-on-the-go-jan-15-e01663/"
   },
   {
+   "id": "hoboken-library:17723317",
+   "title": "Teen-Led Debate Club",
+   "description": "This vibrant club provides a welcoming environment where teens can engage in lively debate games, allowing them to explore diverse topics while having fun. Participants will learn the essentials of formal debating, including its structure, rules, and effective techniques to present compelling arguments.\n\nGuided by TAB Member Gabriel, teens will have the opportunity to practice public speaking, develop persuasive strategies, and enhance their ability to think on their feet. Whether you're a seasoned debater or new to the art of argumentation, the Teen-Led Debate Club is the perfect place to cul",
+   "start": "2027-01-15T15:45:00-05:00",
+   "end": "2027-01-15T16:45:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17723317",
+   "image": null,
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": true,
+   "path": "/events/teen-led-debate-club-jan-15-2c36df/"
+  },
+  {
    "id": "eventbrite:1986851557493",
    "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
    "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
@@ -14114,6 +13929,28 @@
    ],
    "free": true,
    "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-jan-15-e5b594/"
+  },
+  {
+   "id": "eventbrite:1406594655479",
+   "title": "Dance Party at Madd Hatter",
+   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
+   "start": "2027-01-15T19:00:00-05:00",
+   "end": "2027-01-15T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594655479",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music",
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/dance-party-at-madd-hatter-jan-15-6e02e6/"
   }
  ]
 }

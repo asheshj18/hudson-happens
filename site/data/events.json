@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-17T05:51:37.280539-05:00",
+ "generated": "2026-11-17T11:52:05.558140-05:00",
  "sources": {
   "jersey_city_gov": 112,
-  "bayonne_library": 316,
+  "bayonne_library": 317,
   "hoboken_library": 126,
   "stevens": 42,
   "jc_families": 4,
-  "luma": 14,
+  "luma": 15,
   "ticketmaster": 16,
   "seatgeek": 23,
   "eventbrite": 491,
@@ -195,47 +195,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-17-34d4c2/"
-  },
-  {
-   "id": "hoboken-library:17683858",
-   "title": "Rise & Read",
-   "description": "Rise & Read engages toddlers and their caregivers in a story time followed by a craft! Our weekly Story Times are a great place to meet other families and join our story time community.\u00a0\n\nThis story time will feature picture books, nursery rhymes, finger plays, and music.\u00a0Through reading, talking, and singing, Story Time helps your little one develop early literacy skills.\u00a0Our rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nThis program is geared for children 18 months to 3 years old.\n\nQuestions? Please ",
-   "start": "2026-11-17T10:30:00-05:00",
-   "end": "2026-11-17T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17683858",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Rise_n_Read_Tuesdays.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/rise-read-nov-17-44b8da/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15955053",
-   "title": "Parent/Toddler Time (Ages 2-3 Years Old)",
-   "description": "The Parent/Toddler program is on Tuesdays from 11 to 11:30 am. It is for children ages 2-3 years. Each week features themed stories and songs. Parents/guardians must be present during the entire program. No advanced registration is required. Spots will be filled on a first come, first served basis.",
-   "start": "2026-11-17T11:00:00-05:00",
-   "end": "2026-11-17T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15955053",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/parent-toddler-time-ages-2-3-years-old-nov-17-f4d487/"
   },
   {
    "id": "eventbrite:1986851331818",
@@ -2357,6 +2316,26 @@
    "path": "/events/free-stand-up-comedy-at-pet-shop-thursday-nov-19th-at-8-nov-19-3df73a/"
   },
   {
+   "id": "luma:evt-Py3dblbR9xdADos",
+   "title": "Ship 'n Run: a run club for founders & builders",
+   "description": "",
+   "start": "2026-11-20T07:00:00-05:00",
+   "end": "2026-11-20T09:00:00-05:00",
+   "all_day": false,
+   "venue": "Hoboken",
+   "address": "",
+   "city": "Hoboken",
+   "url": "https://lu.ma/shipnrun1120",
+   "image": "https://images.lumacdn.com/uploads/c3/3a7c709a-f16d-4b13-802b-cb5c7e3370d3.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/ship-n-run-a-run-club-for-founders-builders-nov-20-f2a27b/"
+  },
+  {
    "id": "JC Families:108453-1795161600-1826733600@jcfamilies.com",
    "title": "Autism 2026",
    "description": "Autism Conference 2026 \u2013 The World Congress on Autism and Neurodevelopmental Disorders will take place on November 19\u201320, 2026, in London, UK, with virtual participation available. The conference brings together researchers, clinicians, psychologists, therapists, educators, healthcare professionals, and autism specialists to explore the latest developments in autism research, diagnosis, early intervention, neurobiology, behavioral approaches, inclusive education, sensory processing, co-occurring conditions, and lifelong support.\nUnder the theme \u201cAdvancing Research, Care, and Inclusion,\u201d Autism",
@@ -4116,7 +4095,7 @@
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/jersey-city-connects-couples-mixer-meet-other-couples-in-jersey-city-tickets-2004109305883",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196911271%2F3018376597838%2F1%2Foriginal.20261030-065301?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c6835a46c1997b9c5dc08a7c79e59415",
-   "price": "$30+",
+   "price": "$42+",
    "source": "Eventbrite",
    "categories": [
     "Community"
@@ -6001,13 +5980,13 @@
    "id": "seatgeek:18756678",
    "title": "New Jersey Symphony Orchestra - Jersey City",
    "description": "",
-   "start": "2026-12-02T18:30:00-05:00",
+   "start": "2026-12-02T18:00:00-05:00",
    "end": null,
    "all_day": false,
    "venue": "Loew's Jersey Theatre",
    "address": "54 Journal Square Plaza",
    "city": "Jersey City",
-   "url": "https://seatgeek.com/new-jersey-symphony-orchestra-tickets/orchestral/2026-12-02-6-30-pm/18756678",
+   "url": "https://seatgeek.com/new-jersey-symphony-orchestra-tickets/orchestral/2026-12-02-6-pm/18756678",
    "image": null,
    "price": "Paid",
    "source": "SeatGeek",
@@ -8643,6 +8622,28 @@
    "path": "/events/stevens-men-s-basketball-vs-misericordia-dec-12-297051/"
   },
   {
+   "id": "Bayonne Public Library:LibCal-17197-17859085",
+   "title": "Russian Language Fall Fair",
+   "description": "Join us at the Bayonne Public Library on Saturday, December 12th at 2:30 pm in the Gallery for a Russian Fall Fair! Kids will recite songs and poems in Russian and celebrate the season. \n\nNo advanced registration is required. For more information, please contact Anna Kalogridis at avoytenko86@gmail.com",
+   "start": "2026-12-12T14:30:00-05:00",
+   "end": "2026-12-12T16:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17859085",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Kids & Family",
+    "Arts & Culture",
+    "Learning"
+   ],
+   "free": true,
+   "path": "/events/russian-language-fall-fair-dec-12-651657/"
+  },
+  {
    "id": "google:bayonneelksspecialfriendschristmasparty20261212bayonne",
    "title": "BAYONNE ELKS SPECIAL FRIENDS CHRISTMAS PARTY!",
    "description": "",
@@ -10543,7 +10544,7 @@
   {
    "id": "Bayonne Public Library:LibCal-17197-17797089",
    "title": "\u00a1Buen D\u00eda! Bilingual Children's Story Time & Holiday Ornament Painting",
-   "description": "Celebrate Puerto Rican stories and holiday traditions at \u00a1Buen D\u00eda! Bilingual Children's Story Time, presented by the Boricua Community Building Center in partnership with Bayonne Public Library and Nuyorican Books!\n\nJoin Puerto Rican children's author Samantha J. Garcia-Sherpa, founder of Nuyorican Books, for an engaging bilingual reading featuring \u201cI Am Boricua\u201d, \u201cABCs for Baby Boricuas\u201d, and \u201cABCs for Baby Boricuas: Pueblos\u201d. Families will discover stories celebrating Puerto Rican identity, language, and heritage.\n\nFollowing story time, children will enjoy painting wooden holiday ornaments ",
+   "description": "Celebrate Puerto Rican stories and holiday traditions at \u00a1Buen D\u00eda! Bilingual Children's Story Time, presented by the Boricua Community Building Center in partnership with Bayonne Public Library and Nuyorican Books!\n\nJoin Puerto Rican children's author Samantha J. Garcia-Sherpa, founder of Nuyorican Books, for an engaging bilingual reading featuring \u201cI Am Boricua\u201d, \u201cABCs for Baby Boricuas\u201d, and \u201cABCs for Baby Boricuas: Pueblos\u201d. Families will discover stories celebrating Puerto Rican identity, language, and heritage.\n\nFollowing story time, children will enjoy painting free wooden holiday ornam",
    "start": "2026-12-19T12:30:00-05:00",
    "end": "2026-12-19T14:00:00-05:00",
    "all_day": false,

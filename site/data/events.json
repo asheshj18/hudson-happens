@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T05:50:30.033227-05:00",
+ "generated": "2026-11-18T11:52:54.427762-05:00",
  "sources": {
   "jersey_city_gov": 111,
   "bayonne_library": 314,
@@ -9,7 +9,7 @@
   "luma": 14,
   "ticketmaster": 17,
   "seatgeek": 24,
-  "eventbrite": 485,
+  "eventbrite": 486,
   "serpapi_google_events": 26
  },
  "events": [
@@ -197,66 +197,6 @@
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-17-73610c/"
   },
   {
-   "id": "City of Jersey City:21429873",
-   "title": "JCCS Court Outreach @ Grace Community Services",
-   "description": "JCCS Court Outreach Team expands access to court services by offering community events in partnership with local organizations. Individuals may receive assistance finding information about outstanding court cases and fines. Referrals to support services are available on request, including access to peer support.",
-   "start": "2026-11-18T07:00:00-05:00",
-   "end": "2026-11-18T09:00:00-05:00",
-   "all_day": false,
-   "venue": "39 Erie St., Jersey City, NJ 07302",
-   "address": "39 Erie St., Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/jccs-court-outreach-grace-community-services-nov-18-3dac98/"
-  },
-  {
-   "id": "City of Jersey City:21429878",
-   "title": "JCCS Court Outreach @ St. Lucy's Shelter",
-   "description": "JCCS Court Outreach Team expands access to court services by offering community events in partnership with local organizations. Individuals may receive assistance finding information about outstanding court cases and fines. Referrals to support services are available on request, including access to peer support.",
-   "start": "2026-11-18T09:00:00-05:00",
-   "end": "2026-11-18T11:00:00-05:00",
-   "all_day": false,
-   "venue": "St. Lucy's Shelter, 612 Grove St., Jersey City, NJ 07310",
-   "address": "St. Lucy's Shelter, 612 Grove St., Jersey City, NJ 07310",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/jccs-court-outreach-st-lucy-s-shelter-nov-18-b3750c/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17068929",
-   "title": "Bayonne Public Schools Class Visit",
-   "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
-   "start": "2026-11-18T09:30:00-05:00",
-   "end": "2026-11-18T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17068929",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/bayonne-public-schools-class-visit-nov-18-9683a7/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17701580",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -275,26 +215,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-18-12af2f/"
-  },
-  {
-   "id": "hoboken-library:17683867",
-   "title": "Toddler Story Time",
-   "description": "Through reading, talking, singing, and dancing, Toddler Story Time helps your little one develop their early literacy skills with a focus on phonological awareness, vocabulary expansion, and print awareness.\n\nAttending story times regularly helps prep your toddler for the transition to preschool as they develop the necessary listening and social skills they\u2019ll need in the classroom.\n\nThis program is geared for children 18 months to 3 years old.\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
-   "start": "2026-11-18T10:30:00-05:00",
-   "end": "2026-11-18T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17683867",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Toddler_Story_Time.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/toddler-story-time-nov-18-857304/"
   },
   {
    "id": "hoboken-library:17726661",
@@ -1209,6 +1129,26 @@
    ],
    "free": true,
    "path": "/events/general-knowledge-trivia-at-black-bear-hoboken-shelter-nov-18-41bf02/"
+  },
+  {
+   "id": "eventbrite:2005031283543",
+   "title": "Open Level Hip Hop Choreography with Frida Molina",
+   "description": "Find your groove with Frida\u2019s high-energy hip hop choreography! Build confidence, explore street styles, and express your individuality.",
+   "start": "2026-11-18T19:30:00-05:00",
+   "end": "2026-11-18T20:30:00-05:00",
+   "all_day": false,
+   "venue": "Fluid Arts Studio",
+   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/open-level-hip-hop-choreography-with-frida-molina-tickets-2005031283543",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198241685%2F3009697406825%2F1%2Foriginal.20261118-141509?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.028&fp-y=0.603&s=1a54d45d6f29360725aa3e3a77cf86e8",
+   "price": "$22+",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/open-level-hip-hop-choreography-with-frida-molina-nov-18-f5f862/"
   },
   {
    "id": "ticketmaster:vvG1FZ_2hZJb2j",
@@ -2417,7 +2357,7 @@
   {
    "id": "hoboken-library:17809203",
    "title": "NJPAC\u2019s Books on the Move",
-   "description": "Skit-Scat Raggedy Cat: Ella Fitzgerald is a swinging biography about the vocalist\u2019s resilience and hard-earned fame.\n\nWritten by Roxane Orgill and illustrated by Sean Qualls, Fitzgerald\u2019s story of grit and talent will inspire young artists and longtime jazz fans.",
+   "description": "Skit-Scat Raggedy Cat: Ella Fitzgerald is a swinging biography about the vocalist\u2019s resilience and hard-earned fame.\n\nWritten by Roxane Orgill and illustrated by Sean Qualls, Fitzgerald\u2019s story of grit and talent will inspire young artists and longtime jazz fans.\n\nLearn more here.",
    "start": "2026-11-21T10:30:00-05:00",
    "end": "2026-11-21T11:00:00-05:00",
    "all_day": false,

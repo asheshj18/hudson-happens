@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-17T17:43:46.678617-05:00",
+ "generated": "2026-11-18T05:50:30.033227-05:00",
  "sources": {
-  "jersey_city_gov": 112,
-  "bayonne_library": 317,
-  "hoboken_library": 126,
-  "stevens": 42,
+  "jersey_city_gov": 111,
+  "bayonne_library": 314,
+  "hoboken_library": 120,
+  "stevens": 43,
   "jc_families": 4,
-  "luma": 15,
+  "luma": 14,
   "ticketmaster": 17,
   "seatgeek": 24,
-  "eventbrite": 490,
+  "eventbrite": 485,
   "serpapi_google_events": 26
  },
  "events": [
@@ -177,291 +177,6 @@
    "path": "/events/thanksgiving-table-collection-3-class-webinar-series-nov-13-5876ac/"
   },
   {
-   "id": "Bayonne Public Library:LibCal-17197-16203009",
-   "title": "Tween Dungeons & Dragons",
-   "description": "Watched Stranger Things and want to try some Dungeons & Dragons? Looking for a good after school activity? Used to play but can\u2019t find enough friends for a campaign? Want to make some fun new friends?\n\nThen join us at the Bayonne Public Library for Dungeons & Dragons! What\u2019s that? Dungeons & Dragons (D&D) is a fantasy tabletop role-playing game where the players form an adventuring party who explore fantasy worlds together as they embark on epic quests and level up in experience. \n\nThis every-other-Tuesday gaming session is run by a professional Dungeon Master on the following dates:\n\n\t\n\tJanua",
-   "start": "2026-11-17T16:00:00-05:00",
-   "end": "2026-11-17T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16203009",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/tween-dungeons-dragons-nov-17-ecb0d6/"
-  },
-  {
-   "id": "eventbrite:1987134041410",
-   "title": "Hudson Happy Hour",
-   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
-   "start": "2026-11-17T16:00:00-05:00",
-   "end": "2026-11-17T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134041410",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hudson-happy-hour-nov-17-923839/"
-  },
-  {
-   "id": "eventbrite:2002475758900",
-   "title": "Jazz Nights at The Exchange",
-   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
-   "start": "2026-11-17T18:00:00-05:00",
-   "end": "2026-11-17T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475758900",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": true,
-   "path": "/events/jazz-nights-at-the-exchange-nov-17-b5b05b/"
-  },
-  {
-   "id": "City of Jersey City:21245785",
-   "title": "Environmental Commission Meeting",
-   "description": "The Environmental Commission meets every third Tuesday of the month at 6:30PM. Meetings are generally on Zoom, but if in person the information will be posted on the Environmental Commission page of the website.\n\njcnj.org/environment",
-   "start": "2026-11-17T18:30:00-05:00",
-   "end": "2026-11-17T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Zoom",
-   "address": "Zoom",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community",
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/environmental-commission-meeting-nov-17-c73737/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15994578",
-   "title": "Adult Dungeons & Dragons",
-   "description": "Watched Stranger Things and want to try some Dungeons & Dragons? Looking for a good after school activity? Used to play but can\u2019t find enough friends for a campaign? Want to make some fun new friends?\n\nThen join us at the Bayonne Public Library for Dungeons & Dragons! What\u2019s that? Dungeons & Dragons (D&D) is a fantasy tabletop role-playing game where the players form an adventuring party who explore fantasy worlds together as they embark on epic quests and level up in experience. \n\nThis every-other-Tuesday gaming session is run by a professional Dungeon Master on the following dates:\n\n\tJanuary",
-   "start": "2026-11-17T18:30:00-05:00",
-   "end": "2026-11-17T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15994578",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/adult-dungeons-dragons-nov-17-d938f2/"
-  },
-  {
-   "id": "eventbrite:2003625742532",
-   "title": "New Jersey Real Estate Networking Event | 2026 Investing Strategies",
-   "description": "Join NJ real estate investors for the 2026 market outlook, deal strategies, and networking with craft beer. Spots are limited.",
-   "start": "2026-11-17T18:30:00-05:00",
-   "end": "2026-11-17T21:30:00-05:00",
-   "all_day": false,
-   "venue": "902 Brewing Co .",
-   "address": "101 Pacific Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/new-jersey-real-estate-networking-event-2026-investing-strategies-tickets-2003625742532",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191529845%2F156559819633%2F1%2Foriginal.20260820-173204?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5558d9c811026817d6b983c86f5459cf",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": true,
-   "path": "/events/new-jersey-real-estate-networking-event-2026-investing-nov-17-b12862/"
-  },
-  {
-   "id": "eventbrite:2004109089235",
-   "title": "Jersey City Connects | Board Game Night (Nov) Fundraiser Event",
-   "description": "Get ready to roll the dice and make new friends at this chill board game night in Jersey City!",
-   "start": "2026-11-17T18:30:00-05:00",
-   "end": "2026-11-17T21:30:00-05:00",
-   "all_day": false,
-   "venue": "The Hutton Restaurant and Bar",
-   "address": "225 Hutton Street, Jersey City, NJ 07307",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-connects-board-game-night-nov-fundraiser-event-tickets-2004109089235",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196910692%2F3018376597838%2F1%2Foriginal.20261030-062107?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.117&fp-y=0.481&s=a49143376eb365800c29810e4b08c122",
-   "price": "$19+",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-connects-board-game-night-nov-fundraiser-ev-nov-17-b9e403/"
-  },
-  {
-   "id": "eventbrite:2003010886481",
-   "title": "Knife Skills 101: Precision Blades WEBINAR",
-   "description": "Sharpen your knife skills virtually alongside an Expert Chef from your home kitchen. Mastering  precision, presentation, and speed.",
-   "start": "2026-11-17T18:30:00-05:00",
-   "end": "2026-11-17T20:30:00-05:00",
-   "all_day": false,
-   "venue": "HCCC Culinary Arts Institute",
-   "address": "161 Newkirk Street, Jersey City, NJ 07306",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/knife-skills-101-precision-blades-webinar-tickets-2003010886481",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183456134%2F2727527827971%2F1%2Foriginal.20260430-182714?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=37911653b72ecd087f9318494f53dd5a",
-   "price": "Paid",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/knife-skills-101-precision-blades-webinar-nov-17-25e97f/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17491182",
-   "title": "Women's Support  Group",
-   "description": "The group would provide a safe and welcoming space for women to discuss current challenges they may be facing, connect with others, and learn practical coping strategies and tools to support their emotional well-being. The meetings would be free of charge, held weekly, and open to women in the community.",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-17T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17491182",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/women-s-support-group-nov-17-a7a17a/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16178892",
-   "title": "Yarn Group & Knitting Class",
-   "description": "Join Susan Averello at the Bayonne Public Library for a yarn group & knitting class! She has been knitting for over 30 years and she can also crochet. She has worked at Michaels as a knitting teacher and with Crafty Fox Studios until the studio closed. \n\nThe group will meet on Tuesdays from 7-8:30 pm in the Art & Music Room on the 2nd floor of the Bayonne Public Library.\n\nKnitters and crocheters of all experience levels are welcome, including those who would like to learn. No registration is required. \n\nIf you are an experienced knitter or crocheter, please bring with you whatever project you'",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-17T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16178892",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/yarn-group-knitting-class-nov-17-a4a40b/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16329691",
-   "title": "Bayonne Historical Society Program: The History of St. Andrews and Mount Carmel",
-   "description": "Join the Bayonne Historical Society at the Bayonne Public Library on Tuesday, November 17th at 7 pm in the Gallery for a special presentation about the history of two churches in Bayonne: St. Andrew\u2019s and Mount Carmel! \n\nThis presentation will be given by Bayonne Historical Society members, Nancy Kopacz and Richard Romelcyzk. No advanced registration is required to attend.\n\nWe hope to see you there!",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-17T20:45:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16329691",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/bayonne-historical-society-program-the-history-of-st-an-nov-17-11796f/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17516772",
-   "title": "Santa Paws Tree Party - Hudson County Animal League",
-   "description": "Honor your pet (living or in loving memory) by helping us decorate the 23rd annual \u201cSanta Paws Tree\u201d sponsored by the Hudson County Animal League! \n\nOur tree honors all pets - paws, claws, feathers, fur, fins, and scales. A picture or name ornament will be created of your pet for a donation of $10 or more. All donations are tax deductible. Payments are accepted in cash or in checks made payable to The Hudson County Animal League. Please put \u201cThe Santa Paws Tree\u201d in the memo line! A percentage of the proceeds will be donated to Furvana Cat Rescue.\n\nThe tree will be on display at Bayonne Public ",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-17T20:45:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Lobby, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17516772",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Outdoors",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/santa-paws-tree-party-hudson-county-animal-league-nov-17-b23cd9/"
-  },
-  {
-   "id": "luma:evt-Pn8OwZkoO88Lqk0",
-   "title": "Yoga in the Community Room, Nov 17, 7pm - 8pm",
-   "description": "",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-17T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "",
-   "city": "Jersey City",
-   "url": "https://lu.ma/f1ua4xv0",
-   "image": "https://images.lumacdn.com/uploads/6o/164e2f7c-6b10-45b7-8927-cefcb9c6e59b.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/yoga-in-the-community-room-nov-17-7pm-8pm-nov-17-e9fddf/"
-  },
-  {
-   "id": "eventbrite:1397814634199",
-   "title": "Taco Tuesdays at Madd Hatter",
-   "description": "Unlimited Tacos every Tuesday at the madd hatter",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-17T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/taco-tuesdays-at-madd-hatter-tickets-1397814634199",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1046383773%2F1927671691523%2F1%2Foriginal.20250605-061908?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481082800663&fp-y=0.555270522388&s=5600ffa6cc73c5e57593a6505864a6a3",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/taco-tuesdays-at-madd-hatter-nov-17-c3a20f/"
-  },
-  {
    "id": "eventbrite:1984580525776",
    "title": "Taco & Tequila Tuesdays at The Exchange",
    "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
@@ -480,50 +195,6 @@
    ],
    "free": true,
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-17-73610c/"
-  },
-  {
-   "id": "eventbrite:2003841400571",
-   "title": "90s/00s Music Trivia at the Farside Tavern!",
-   "description": "Come show what you know at 90s/00s Music Trivia Trivia!",
-   "start": "2026-11-17T19:30:00-05:00",
-   "end": "2026-11-17T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Farside Tavern",
-   "address": "531 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/90s00s-music-trivia-at-the-farside-tavern-tickets-2003841400571",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189318571%2F2124635856523%2F1%2Foriginal.20260721-161827?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=779921faabf3740f2c090dea08f91f2f",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Music",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/90s-00s-music-trivia-at-the-farside-tavern-nov-17-fbb003/"
-  },
-  {
-   "id": "eventbrite:2004896850450",
-   "title": "Hip Hop Fitness",
-   "description": "Turn up the energy with Hip Hop Fitness! Dance, sweat, and groove to upbeat music in this fun, high-energy workout for all levels!",
-   "start": "2026-11-17T19:30:00-05:00",
-   "end": "2026-11-17T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Fluid Arts Studio",
-   "address": "99 Mallory Ave, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hip-hop-fitness-tickets-2004896850450",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198080359%2F3009697406825%2F1%2Foriginal.20261116-154023?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.027&fp-y=0.513&s=a0f2525a8c289b4f139bf2cca7039b55",
-   "price": "$15+",
-   "source": "Eventbrite",
-   "categories": [
-    "Fitness & Wellness",
-    "Music",
-    "Sports"
-   ],
-   "free": false,
-   "path": "/events/hip-hop-fitness-nov-17-f9bd21/"
   },
   {
    "id": "City of Jersey City:21429873",
@@ -2843,6 +2514,26 @@
    ],
    "free": false,
    "path": "/events/jc-s-hottest-friendsgiving-brunch-party-live-djs-3-mimo-nov-21-5866d0/"
+  },
+  {
+   "id": "eventbrite:2004980577881",
+   "title": "Pulse & Groove: Drum Circle",
+   "description": "Join us for Pulse & Groove: Drum Circle, where beats unite, vibes flow, and everyone jams together live!",
+   "start": "2026-11-21T13:30:00-05:00",
+   "end": "2026-11-21T15:00:00-05:00",
+   "all_day": false,
+   "venue": "Fluid Arts Studio",
+   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/pulse-groove-drum-circle-tickets-2004980577881",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198204897%2F3009697406825%2F1%2Foriginal.20261117-234700?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a00184d403e2a33f2fe46609f1d48263",
+   "price": "$13+",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/pulse-groove-drum-circle-nov-21-7a1a84/"
   },
   {
    "id": "hoboken-library:17772174",
@@ -7210,7 +6901,7 @@
    "address": "503 3rd Street, Hoboken, NJ 07030",
    "city": "Hoboken",
    "url": "https://www.eventbrite.com/e/finding-your-pov-tickets-2004329108318",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197310432%2F2990717001563%2F1%2Foriginal.20261105-004141?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.451&s=1ea6f3933e7abdb0ee18324a83627987",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198197687%2F2990717001563%2F1%2Foriginal.20261117-214954?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.891&fp-y=0.522&s=8e9af73fcf54c2f40210a80644ed5bf9",
    "price": "$35+",
    "source": "Eventbrite",
    "categories": [
@@ -10522,6 +10213,26 @@
    "path": "/events/hoboken-ugly-sweater-bar-crawl-saturday-december-19-dec-19-8e57a6/"
   },
   {
+   "id": "eventbrite:2004981117495",
+   "title": "The Sugarplums: Holiday A Cappella",
+   "description": "The Sugarplums bring festive cheer with joyful holiday a cappella harmonies, live and in person!",
+   "start": "2026-12-19T16:00:00-05:00",
+   "end": "2026-12-19T17:00:00-05:00",
+   "all_day": false,
+   "venue": "Fluid Arts Studio",
+   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/the-sugarplums-holiday-a-cappella-tickets-2004981117495",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198205797%2F3009697406825%2F1%2Foriginal.20261118-000605?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=80b6840c5ae2cd77599e1e9e16fce383",
+   "price": "$47+",
+   "source": "Eventbrite",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/the-sugarplums-holiday-a-cappella-dec-19-e7f040/"
+  },
+  {
    "id": "eventbrite:1406594545149",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -12249,6 +11960,26 @@
    "path": "/events/glitter-glow-new-year-s-eve-gala-dec-31-ca1f54/"
   },
   {
+   "id": "eventbrite:2003959632205",
+   "title": "Hoboken New Years Eve Bar Crawl 2027",
+   "description": "Celebrate Hoboken New Year's Eve in style with the best NYE bar crawl! Join us on December 31st 2026 for unforgettable memories!",
+   "start": "2026-12-31T17:00:00-05:00",
+   "end": "2026-12-31T21:00:00-05:00",
+   "all_day": false,
+   "venue": "The Shannon",
+   "address": "106 1st St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/hoboken-new-years-eve-bar-crawl-2027-tickets-2003959632205",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196667373%2F2161917795983%2F1%2Foriginal.20261027-093927?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=29182a36286eac7d777a89038478434e",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/hoboken-new-years-eve-bar-crawl-2027-dec-31-7708cd/"
+  },
+  {
    "id": "eventbrite:2003959091588",
    "title": "Jersey City New Years Eve Bar Crawl 2027",
    "description": "Celebrate Jersey City  New Year's Eve in style with the best NYE bar crawl! Join us on December 31st 2026 for unforgettable memories!",
@@ -12267,26 +11998,6 @@
    ],
    "free": false,
    "path": "/events/jersey-city-new-years-eve-bar-crawl-2027-dec-31-e412e6/"
-  },
-  {
-   "id": "eventbrite:2003959632205",
-   "title": "Hoboken New Years Eve Bar Crawl 2027",
-   "description": "Celebrate Hoboken New Year's Eve in style with the best NYE bar crawl! Join us on December 31st 2026 for unforgettable memories!",
-   "start": "2026-12-31T18:00:00-05:00",
-   "end": "2027-01-01T02:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/hoboken-new-years-eve-bar-crawl-2027-tickets-2003959632205",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196667373%2F2161917795983%2F1%2Foriginal.20261027-093927?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=29182a36286eac7d777a89038478434e",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/hoboken-new-years-eve-bar-crawl-2027-dec-31-7708cd/"
   },
   {
    "id": "eventbrite:1406594585269",
@@ -13911,6 +13622,28 @@
    ],
    "free": false,
    "path": "/events/siena-saints-at-saint-peter-s-peacocks-mens-basketball-jan-16-a97476/"
+  },
+  {
+   "id": "eventbrite:1406594665509",
+   "title": "Dance Party at Madd Hatter",
+   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
+   "start": "2027-01-16T19:00:00-05:00",
+   "end": "2027-01-16T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594665509",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music",
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/dance-party-at-madd-hatter-jan-16-34b173/"
   }
  ]
 }

@@ -1,18 +1,38 @@
 {
- "generated": "2026-11-18T17:43:34.393471-05:00",
+ "generated": "2026-11-19T05:48:21.927307-05:00",
  "sources": {
-  "jersey_city_gov": 111,
+  "jersey_city_gov": 110,
   "bayonne_library": 337,
-  "hoboken_library": 121,
+  "hoboken_library": 109,
   "stevens": 43,
-  "jc_families": 0,
-  "luma": 14,
-  "ticketmaster": 17,
-  "seatgeek": 24,
-  "eventbrite": 487,
+  "jc_families": 4,
+  "luma": 15,
+  "ticketmaster": 16,
+  "seatgeek": 22,
+  "eventbrite": 462,
   "serpapi_google_events": 51
  },
  "events": [
+  {
+   "id": "JC Families:105809-1768561200-1798628400@jcfamilies.com",
+   "title": "Liberty Science Center\u2019s New Touch Tank and Climate Time Machine Virtual Reality Experience",
+   "description": "Liberty Science Center introduces two new interactive experiences\u2014the Izzo Family Touch Tank and the Climate Time Machine VR viewfinder\u2014as part of the reimagining of its longtime Our Hudson Home gallery. The Touch Tank features a 29-foot-long, 1,000-gallon, two-level riverscape habitat showcasing seven native Hudson River species, with hands-on encounters guided by trained STEM educators exploring how climate change impacts local marine life. The Climate Time Machine invites visitors to peer through a VR viewfinder overlooking the Hudson River and travel through time from the Ice Age to today ",
+   "start": "2026-01-16T11:00:00-05:00",
+   "end": "2026-12-30T11:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/liberty-science-centers-new-touch-tank-and-climate-time-machine-virtual-reality-experience-2/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": false,
+   "path": "/events/liberty-science-centers-new-touch-tank-and-climate-time-jan-16-6421f3/"
+  },
   {
    "id": "eventbrite:1992021494915",
    "title": "Certificates in Construction Management Fall 2026",
@@ -155,876 +175,6 @@
    ],
    "free": false,
    "path": "/events/thanksgiving-table-collection-3-class-webinar-series-nov-13-5876ac/"
-  },
-  {
-   "id": "eventbrite:1984580525776",
-   "title": "Taco & Tequila Tuesdays at The Exchange",
-   "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
-   "start": "2026-11-17T19:00:00-05:00",
-   "end": "2026-11-18T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/taco-tequila-tuesdays-at-the-exchange-tickets-1984580525776",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179147819%2F2894508074541%2F1%2Foriginal.20260305-205711?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=50be47c881f7dd9eb9cd7c1af4ae8279",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-17-73610c/"
-  },
-  {
-   "id": "Stevens Institute:b6lBCvvAYrLPPQGHoQRi",
-   "title": "Stevens Women's Basketball vs TCNJ",
-   "description": "Sports Game",
-   "start": "2026-11-18T15:00:00-05:00",
-   "end": "2026-11-18T19:30:00-05:00",
-   "all_day": false,
-   "venue": "Schaefer Canavan Arena (Entire Arena)",
-   "address": "Schaefer Canavan Arena (Entire Arena)",
-   "city": "Hoboken",
-   "url": "https://events.stevens.edu/",
-   "image": null,
-   "price": null,
-   "source": "Stevens Institute",
-   "categories": [
-    "Sports"
-   ],
-   "free": false,
-   "path": "/events/stevens-women-s-basketball-vs-tcnj-nov-18-573172/"
-  },
-  {
-   "id": "eventbrite:1986851454184",
-   "title": "Wine Wednesday at The Exchange \u2013 Sip with Skyline Views",
-   "description": "Enjoy 15% off bottles of wine and $15 local cheese plates every Wednesday, 4\u201311 PM, with Manhattan skyline views.",
-   "start": "2026-11-18T16:00:00-05:00",
-   "end": "2026-11-18T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/wine-wednesday-at-the-exchange-sip-with-skyline-views-tickets-1986851454184",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1132150203%2F2894508074541%2F1%2Foriginal.20250923-015933?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=91ecb775a8a4b6d778354dc1a9f69adf",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-nov-18-ef4793/"
-  },
-  {
-   "id": "eventbrite:1987134042413",
-   "title": "Hudson Happy Hour",
-   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
-   "start": "2026-11-18T16:00:00-05:00",
-   "end": "2026-11-18T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134042413",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hudson-happy-hour-nov-18-88fdf4/"
-  },
-  {
-   "id": "hoboken-library:17706462",
-   "title": "Scary Movie Night - Clown in a Cornfield",
-   "description": "Join us for a screening of Clown in a Cornfield (2025)! Light refreshments will be served.\n\nLooking for a fresh start, Quinn (Katie Douglas) and her father move to the quiet town of Kettle Springs. They soon learn the fractured community has fallen on hard times after losing a treasured factory to a fire. As the locals bicker amongst themselves and tensions boil over, a sinister, grinning clown emerges from the cornfields to cleanse the town of its burdens, one bloody victim at a time.\n\nInterested in reading the book, you can reserve it in the BCCLS catalog here.\n\nPlease email\u00a0sean.willey@hobo",
-   "start": "2026-11-18T16:30:00-05:00",
-   "end": "2026-11-18T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17706462",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/November_2026_Scary_Movie_Night_Communico_1_.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/scary-movie-night-clown-in-a-cornfield-nov-18-a4f708/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16001090",
-   "title": "Multiple Sclerosis Monthly Support Meeting",
-   "description": "Join the Bayonne Public Library and the Multiple Sclerosis Foundation for a monthly Multiple Sclerosis (MS) meeting. This meeting is a welcoming and supportive space for individuals living with MS, their families, and caregivers. \n\nEach session provides an opportunity to share experiences, learn practical tips for managing symptoms, and hear from guest speakers on topics related to health, wellness, & living well with MS. The group fosters connection, encouragement, and a sense of community, reminding members that they are not alone on their journey.\n\nThe group will meet on the following Wedne",
-   "start": "2026-11-18T17:00:00-05:00",
-   "end": "2026-11-18T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classrooms C&D, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16001090",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/multiple-sclerosis-monthly-support-meeting-nov-18-6c804e/"
-  },
-  {
-   "id": "hoboken-library:17723253",
-   "title": "Math Circle",
-   "description": "Organized jointly with Stevens Institute of Technology, a math circle exposes participants to interesting, challenging, and fun mathematical activities composed by faculty in the Department of Mathematical Sciences and led by STEM undergraduates at Stevens. Students in grades 4-5 are encouraged to register and can expect to play mathematical games, solve puzzles, and do hands-on activities.\u00a0There are no entry requirements other than an interest in exploring a different side of math!\u00a0\n\nThis program is supported by Grant No. 2236229 from the National Science Foundation.\u00a0For more information on m",
-   "start": "2026-11-18T17:45:00-05:00",
-   "end": "2026-11-18T18:45:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17723253",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Math_Circle_2.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/math-circle-nov-18-2003fd/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15977893",
-   "title": "Chess Club (Ages 8-18)",
-   "description": "Join us at Bayonne Public Library for a Chess Club with Phil Rosado! Phil is the author of \u201cMind Matter: Welcome to Chess!\u201d This weekly class for ages 8-18 meets from 6-7 pm in the Children\u2019s Room. Attendees will learn how to play chess and meet other novices. Advanced registration is required for every session that you plan to attend. Walk-ins will be included if space permits.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15977893",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Sports"
-   ],
-   "free": true,
-   "path": "/events/chess-club-ages-8-18-nov-18-cd0321/"
-  },
-  {
-   "id": "hoboken-library:17599486",
-   "title": "Horror/Thriller Book Club - The Chalk Man",
-   "description": "For our November book club meeting, we will be discussing The Chalk Man by C.J. Tudor (debut, 2018).\u00a0\n\nCopies can be ordered through the BCCLS catalog here and are also on reserve on the second floor of the Main branch. Audiobook and ebook is available on Libby.\u00a0\u00a0\n\nIn 1986, Eddie and his friends spend their days in search of adventure. The drawn chalk men stick figures are their secret code. But one morning the friends find a chalk man leading them to the woods. They follow the message, only to find the dead body of a teenage girl.\n\nIn 2016, Eddie is nursing a drinking problem and trying to fo",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17599486",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/November_2026_HT_Discussion_Communico_Image.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/horror-thriller-book-club-the-chalk-man-nov-18-f5ae03/"
-  },
-  {
-   "id": "hoboken-library:17810081",
-   "title": "Bring Your Own Vinyl",
-   "description": "Hosted by Eshrack\n\nDust off your record collection and bring your favorite pressing to Haraz Coffee House in Hoboken! Bring Your Own Vinyl is an evening for music lovers, collectors, and the curious to connect over the records that matter most to them.\n\nJoin host Eshrack for an intro seminar on vinyl care and collecting, followed by open listening, refreshments, and plenty of time to meet fellow music fans in Hoboken. Whether you're a seasoned collector with a crate full of rarities or someone who just picked up their first record, this event is for you.\n\nAttendance is free.\u00a0\n\nLocation: Haraz ",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Offsite",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17810081",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/BYOV_11.18.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/bring-your-own-vinyl-nov-18-9c7d1b/"
-  },
-  {
-   "id": "luma:evt-TH0x2jg1Xrb2IFZ",
-   "title": "Happy Hour at The Alps",
-   "description": "",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Alps",
-   "address": "The Alps, 351 Palisade Ave, Jersey City, NJ 07307, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/9cfs249t",
-   "image": "https://images.lumacdn.com/uploads/in/fa9ff1b4-f677-488f-9d80-cd6ef9c6f0d0.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/happy-hour-at-the-alps-nov-18-9cfde9/"
-  },
-  {
-   "id": "seatgeek:18573085",
-   "title": "Lafayette Leopards at Saint Peter's Peacocks Womens Basketball",
-   "description": "",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Yanitelli Center",
-   "address": "870 Montgomery Street",
-   "city": "Jersey City",
-   "url": "https://seatgeek.com/saint-peter-s-peacocks-womens-basketball-tickets/ncaa-womens-basketball/2026-11-18-6-pm/18573085",
-   "image": null,
-   "price": "Paid",
-   "source": "SeatGeek",
-   "categories": [
-    "Sports"
-   ],
-   "free": false,
-   "path": "/events/lafayette-leopards-at-saint-peter-s-peacocks-womens-bas-nov-18-33bd77/"
-  },
-  {
-   "id": "eventbrite:1993054929947",
-   "title": "Law and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Law and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/law-and-business-networking-elevating-your-potential-hoboken-tickets-1993054929947",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918930213%2F2244249934723%2F1%2Foriginal.20241217-152516?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.497159090909&fp-y=0.489238410596&s=377afc3ba91303572051b24b28fc76fb",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/law-and-business-networking-elevating-your-potential-ho-nov-18-51149f/"
-  },
-  {
-   "id": "eventbrite:1993054935965",
-   "title": "Non-Profits and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Non-Profits and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/non-profits-and-business-networking-elevating-your-potential-hoboken-tickets-1993054935965",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918935863%2F2244249934723%2F1%2Foriginal.20241217-153240?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.514204545455&fp-y=0.479304635762&s=8107311b1cfc578b4ea58b1229e5e797",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/non-profits-and-business-networking-elevating-your-pote-nov-18-5ad40c/"
-  },
-  {
-   "id": "eventbrite:1993054937971",
-   "title": "Fashion and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Fashion and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/fashion-and-business-networking-elevating-your-potential-hoboken-tickets-1993054937971",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918936543%2F2244249934723%2F1%2Foriginal.20241217-153333?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.512310606061&fp-y=0.479304635762&s=6a46cf3a2c750b23cb1a5d9b613fa26a",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/fashion-and-business-networking-elevating-your-potentia-nov-18-71a911/"
-  },
-  {
-   "id": "eventbrite:1993054943989",
-   "title": "Media and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Media and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/media-and-business-networking-elevating-your-potential-hoboken-tickets-1993054943989",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918938943%2F2244249934723%2F1%2Foriginal.20241217-153619?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508522727273&fp-y=0.492549668874&s=2c2a8152469915c38946cdff204f3958",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/media-and-business-networking-elevating-your-potential-nov-18-bc1b9c/"
-  },
-  {
-   "id": "eventbrite:1993054950007",
-   "title": "Multi-Vertical Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Multi-Vertical Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/multi-vertical-business-networking-elevating-your-potential-hoboken-tickets-1993054950007",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028003%2F1764357700343%2F1%2Foriginal.20241217-172454?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.500022194602&fp-y=0.52346345515&s=eefe87b48178ec50f40de119b5aaa84b",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/multi-vertical-business-networking-elevating-your-poten-nov-18-9a998e/"
-  },
-  {
-   "id": "eventbrite:1993054959034",
-   "title": "Politics and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Politics and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/politics-and-business-networking-elevating-your-potential-hoboken-tickets-1993054959034",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918938533%2F2244249934723%2F1%2Foriginal.20241217-153546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508522727273&fp-y=0.469370860927&s=a0403f971fcd360316cc7ab1fdcfd0b8",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/politics-and-business-networking-elevating-your-potenti-nov-18-d9b5bd/"
-  },
-  {
-   "id": "eventbrite:1993054964049",
-   "title": "Hospitality and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Hospitality and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/hospitality-and-business-networking-elevating-your-potential-hoboken-tickets-1993054964049",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028023%2F1764357700343%2F1%2Foriginal.20241217-172458?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.498128255208&fp-y=0.526785714286&s=170b2f9d1d160ce02193efd713eb7713",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/hospitality-and-business-networking-elevating-your-pote-nov-18-e4cd48/"
-  },
-  {
-   "id": "eventbrite:1993054976085",
-   "title": "Engineering and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Engineering and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/engineering-and-business-networking-elevating-your-potential-hoboken-tickets-1993054976085",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918941433%2F2244249934723%2F1%2Foriginal.20241217-153949?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495265151515&fp-y=0.469370860927&s=45ea98cfc97421afe71472e42b260af2",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/engineering-and-business-networking-elevating-your-pote-nov-18-d43035/"
-  },
-  {
-   "id": "eventbrite:1993054982103",
-   "title": "Real Estate and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Real Estate and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/real-estate-and-business-networking-elevating-your-potential-hoboken-tickets-1993054982103",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918941873%2F2244249934723%2F1%2Foriginal.20241217-154027?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.514204545455&fp-y=0.459437086093&s=25aaa76312ed8047f57a04f64f6b1c12",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/real-estate-and-business-networking-elevating-your-pote-nov-18-743e4f/"
-  },
-  {
-   "id": "eventbrite:1993055056325",
-   "title": "Healthcare and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-hoboken-tickets-1993055056325",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918942143%2F2244249934723%2F1%2Foriginal.20241217-154055?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495265151515&fp-y=0.48261589404&s=426ac1f2a97df6a1b7e5f74a7dd93535",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/healthcare-and-business-networking-elevating-your-poten-nov-18-67f874/"
-  },
-  {
-   "id": "eventbrite:1993055059334",
-   "title": "Music and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Music and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/music-and-business-networking-elevating-your-potential-hoboken-tickets-1993055059334",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918942473%2F2244249934723%2F1%2Foriginal.20241217-154123?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.506628787879&fp-y=0.469370860927&s=90fb7382371fd613d1278fd7cd7af382",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business",
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/music-and-business-networking-elevating-your-potential-nov-18-eee3ac/"
-  },
-  {
-   "id": "eventbrite:1993055067358",
-   "title": "General Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'General Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/general-business-networking-elevating-your-potential-hoboken-tickets-1993055067358",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918942953%2F2244249934723%2F1%2Foriginal.20241217-154202?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7a14a6597785c2dcc273868a8eea3891",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/general-business-networking-elevating-your-potential-ho-nov-18-b1514e/"
-  },
-  {
-   "id": "eventbrite:1993055074379",
-   "title": "Blockchain and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-hoboken-tickets-1993055074379",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F919028093%2F1764357700343%2F1%2Foriginal.20241217-172502?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501916133996&fp-y=0.526785714286&s=5157ae9268a5aebf71ba04686e3d20a2",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/blockchain-and-business-networking-elevating-your-poten-nov-18-ec31a9/"
-  },
-  {
-   "id": "eventbrite:1993055082403",
-   "title": "Acting, Production & Business Networking|Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Acting, Production and Business Networking', an event for tenured and newcomers at Shepherd! 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/acting-production-business-networkingelevating-your-potential-hoboken-tickets-1993055082403",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F927419813%2F1764357700343%2F1%2Foriginal.20250104-065526?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f05214ffb50bdae2149ca2cf00de83e6",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/acting-production-business-networking-elevating-your-po-nov-18-b2db7b/"
-  },
-  {
-   "id": "eventbrite:1993055087418",
-   "title": "Finance and Business Networking | Elevate Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Finance and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/finance-and-business-networking-elevate-your-potential-hoboken-tickets-1993055087418",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918937683%2F2244249934723%2F1%2Foriginal.20241217-153449?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.512310606061&fp-y=0.489238410596&s=49f96f245d336f0fd41af1615b20e807",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/finance-and-business-networking-elevate-your-potential-nov-18-b8001a/"
-  },
-  {
-   "id": "eventbrite:1993055181700",
-   "title": "Tech and Business Networking | Elevating Your Potential - Hoboken",
-   "description": "Strive welcomes you to 'Tech and Business Networking', an event for tenured and newcomers at Shepherd! Event is 21+. Limited Tickets.",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Shepherd & the Knucklehead of Hoboken",
-   "address": "1313 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-hoboken-tickets-1993055181700",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918937183%2F2244249934723%2F1%2Foriginal.20241217-153409?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508522727273&fp-y=0.452814569536&s=52666b37b85af109de022117f016340d",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Tech & Business"
-   ],
-   "free": false,
-   "path": "/events/tech-and-business-networking-elevating-your-potential-h-nov-18-5096ca/"
-  },
-  {
-   "id": "eventbrite:2002178118650",
-   "title": "Tequila & Margarita Experience at Living Room Bar",
-   "description": "Learn the history of tequila and craft your 2 fall flavored margaritas. New flavors include an Apple Cider Margarita & Smoked Pear Margarita",
-   "start": "2026-11-18T18:00:00-05:00",
-   "end": "2026-11-18T19:00:00-05:00",
-   "all_day": false,
-   "venue": "W Hoboken",
-   "address": "225 River Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/tequila-margarita-experience-at-living-room-bar-tickets-2002178118650",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194239801%2F146733578081%2F1%2Foriginal.20260923-225310?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.514&fp-y=0.863&s=551bdc7ef46ffd41830ce422d751d595",
-   "price": "$76+",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/tequila-margarita-experience-at-living-room-bar-nov-18-c351f5/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17485420",
-   "title": "Anime Nights!",
-   "description": "Are you obsessed with anime, manga, and all things Japan? Come hang out with us at the Bayonne Public Library with other fans who get it! Whether you\u2019re into action-packed shonen, heart-melting rom-coms, or Studio Ghibli magic, there\u2019s a place for you here! \n\nNo registration required, but patrons MUST be ages 9-18.\n\nSave the dates and join us for a night of otaku fun! Join us in the Art & Music Room on the second floor twice a month on Thursdays from 6:30pm - 8:30pm! Snacks ARE included! \n\n\tSept. 9th\n\tOct. 7th\n\tNov. 18th\n\tDec. 9th\n\nBring your friends, your fandoms, and your enthusiasm and let\u2019",
-   "start": "2026-11-18T18:30:00-05:00",
-   "end": "2026-11-18T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17485420",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/anime-nights-nov-18-a80d1b/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17701618",
-   "title": "ESL Class",
-   "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
-   "start": "2026-11-18T18:30:00-05:00",
-   "end": "2026-11-18T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom A, Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17701618",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/esl-class-nov-18-4990c7/"
-  },
-  {
-   "id": "google:unruly20261118jerseycity",
-   "title": "UNRULY",
-   "description": "",
-   "start": "2026-11-18T18:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Hair Room Jersey City",
-   "address": "The Hair Room Jersey City, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": null,
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbfgUspWZ0jhOlh8O9pqumLPxxJ49NPSQy-L3Axq7L5QqjnjIFbbTs1ivxA5JeqOG1DkAB6q-0jlcGiqc",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/unruly-nov-18-2fb2c1/"
-  },
-  {
-   "id": "google:holidaycocktailclass20261118hoboken",
-   "title": "HOLIDAY COCKTAIL CLASS",
-   "description": "",
-   "start": "2026-11-18T18:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Little Bar",
-   "address": "Little Bar, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/2003880135428?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwOIyWib2IX1mFNG2-X05tc_wWVNPFwfPCvR9Dla3iCVFdKKGCOe14QFU9cKtHHpngTFW-qrV6IZbm9fA",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink",
-    "Learning"
-   ],
-   "free": false,
-   "path": "/events/holiday-cocktail-class-nov-18-e90d86/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15911872",
-   "title": "Evening Yoga Class",
-   "description": "Join us at the Bayonne Public Library for Evening Yoga classes with @imagineyogalucy! This is a bi-monthly Wednesday class from 7-8 pm in the Gallery. This class will meet on the following days:\n\n\tJanuary 7th and 21st\n\tFebruary 4th and 18th\n\tMarch 4th and 18th\n\tApril 8th and 22nd\n\tMay 6th\n\tJune 3rd and 17th\n\tJuly 1st and 22nd\n\tAugust 5th and 19th\n\tSeptember 9th and 23rd\n\tOctober 7th and 21st\n\tNovember 11th and 18th\n\tDecember 2nd and 16th\n\nAges 11  are invited to attend. All abilities, & skill levels welcome! Advanced registration is required for each session individually. Walk-ins will be acco",
-   "start": "2026-11-18T19:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15911872",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/evening-yoga-class-nov-18-e20e36/"
-  },
-  {
-   "id": "eventbrite:2001079504666",
-   "title": "Jan Carson: Few and Far Between",
-   "description": "From a \u201cdeeply talented\u201d (The New York Times Book Review), award-winning writer comes an alternate history of Northern Ireland\u2019s recent past",
-   "start": "2026-11-18T19:00:00-05:00",
-   "end": "2026-11-18T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/jan-carson-few-and-far-between-tickets-2001079504666",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195191598%2F294282509964%2F1%2Foriginal.20261006-161032?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=62ceeb259e695a4be698e4e730ea4813",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/jan-carson-few-and-far-between-nov-18-7d854d/"
-  },
-  {
-   "id": "luma:evt-15gQSguLMCsDIT2",
-   "title": "Who Is Your Child Really Playing With?",
-   "description": "",
-   "start": "2026-11-18T19:30:00-05:00",
-   "end": "2026-11-18T21:30:00-05:00",
-   "all_day": false,
-   "venue": "Hoboken",
-   "address": "",
-   "city": "Hoboken",
-   "url": "https://lu.ma/3dytcw3c",
-   "image": "https://images.lumacdn.com/event-covers/2d/858d42a2-78c5-483e-ba83-2c5bd1164c6d.jpg",
-   "price": "Paid",
-   "source": "Luma",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/who-is-your-child-really-playing-with-nov-18-462853/"
-  },
-  {
-   "id": "eventbrite:2003841443700",
-   "title": "General Knowledge Trivia- POINTS 4 PUPS NIGHT!",
-   "description": "Come show what you know at General Knowledge Trivia!",
-   "start": "2026-11-18T19:30:00-05:00",
-   "end": "2026-11-18T21:00:00-05:00",
-   "all_day": false,
-   "venue": "The Ale House",
-   "address": "1034 Willow Avenue, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-points-4-pups-night-tickets-2003841443700",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183189319%2F2124635856523%2F1%2Foriginal.20260428-033259?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e5b0dccbf0265bab646d599b3ef50976",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/general-knowledge-trivia-points-4-pups-night-nov-18-4642e2/"
-  },
-  {
-   "id": "eventbrite:2003841768672",
-   "title": "General Knowledge Trivia at Black Bear! +  Hoboken Shelter Raffle",
-   "description": "Come show what you know at General Knowledge Trivia!\n+ Hoboken Shelter Raffle",
-   "start": "2026-11-18T19:30:00-05:00",
-   "end": "2026-11-18T21:30:00-05:00",
-   "all_day": false,
-   "venue": "Black Bear Hoboken Bar & Grill",
-   "address": "205 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-black-bear-hoboken-shelter-raffle-tickets-2003841768672",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474106%2F2124635856523%2F1%2Foriginal.20261023-212330?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aeca319fc0b8d731ca87310fa9f7d833",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/general-knowledge-trivia-at-black-bear-hoboken-shelter-nov-18-41bf02/"
-  },
-  {
-   "id": "eventbrite:2005031283543",
-   "title": "Open Level Hip Hop Choreography with Frida Molina",
-   "description": "Find your groove with Frida\u2019s high-energy hip hop choreography! Build confidence, explore street styles, and express your individuality.",
-   "start": "2026-11-18T19:30:00-05:00",
-   "end": "2026-11-18T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Fluid Arts Studio",
-   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/open-level-hip-hop-choreography-with-frida-molina-tickets-2005031283543",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198241685%2F3009697406825%2F1%2Foriginal.20261118-141509?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.028&fp-y=0.603&s=1a54d45d6f29360725aa3e3a77cf86e8",
-   "price": "$22+",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/open-level-hip-hop-choreography-with-frida-molina-nov-18-f5f862/"
-  },
-  {
-   "id": "ticketmaster:vvG1FZ_2hZJb2j",
-   "title": "Jodeci - 35th Anniversary Tour of Forever My Lady",
-   "description": "Doors: 7:00PM Show: 8:00PM All set times and opening acts are subject to change without notice This event is 16+ unless accompanied by a parent or guardian",
-   "start": "2026-11-18T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "54 Journal Square Plaza",
-   "city": "Jersey City",
-   "url": "https://www.ticketmaster.com/jodeci-35th-anniversary-tour-of-forever-jersey-city-new-jersey-11-18-2026/event/020064F6C09983DC",
-   "image": "https://s1.ticketm.net/dam/a/dfd/faf0a819-b9b6-4a33-9418-abcc01c47dfd_SOURCE",
-   "price": "Paid",
-   "source": "Ticketmaster",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/jodeci-35th-anniversary-tour-of-forever-my-lady-nov-18-9fb49b/"
-  },
-  {
-   "id": "seatgeek:18407254",
-   "title": "Jodeci",
-   "description": "",
-   "start": "2026-11-18T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "54 Journal Square Plaza",
-   "city": "Jersey City",
-   "url": "https://seatgeek.com/jodeci-tickets/jersey-city-new-jersey-loew-s-jersey-theatre-2026-11-18-8-pm/concert/18407254",
-   "image": null,
-   "price": "Paid",
-   "source": "SeatGeek",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/jodeci-nov-18-5fdc2e/"
-  },
-  {
-   "id": "eventbrite:2004665781316",
-   "title": "Survivor 51 Watch Parties at The Hutton",
-   "description": "Watch Survivor 51 with friends and fans on our patio on the giant projected screen!",
-   "start": "2026-11-18T20:00:00-05:00",
-   "end": "2026-11-18T21:30:00-05:00",
-   "all_day": false,
-   "venue": "The Hutton Bar and Grill",
-   "address": "225 Hutton St., Jersey City, NJ 07307",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/survivor-51-watch-parties-at-the-hutton-tickets-2004665781316",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197698978%2F196151990297%2F1%2Foriginal.20261110-173214?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481&fp-y=0.083&s=667d65fc2acae985bb76eb8582680da6",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/survivor-51-watch-parties-at-the-hutton-nov-18-3bea07/"
-  },
-  {
-   "id": "google:unpluggedjerseycity20261118jerseycity",
-   "title": "UNPLUGGED: Jersey City",
-   "description": "",
-   "start": "2026-11-18T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Art House Productions",
-   "address": "Art House Productions, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://venunite.com/events/unplugged-jersey-city-4",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJQJ3xspt6OHzJylrEi-cK1bbcrNN4yCvIPYzf4alzwAw5tMHRes3QfiOa8bz1mGYozgsitSdHBFQBJJM",
-   "price": null,
-   "source": "venunite.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/unplugged-jersey-city-nov-18-8d3566/"
   },
   {
    "id": "luma:evt-RPWT4fWSsHScQ52",
@@ -1660,6 +810,26 @@
    ],
    "free": true,
    "path": "/events/ship-n-run-a-run-club-for-founders-builders-nov-20-f2a27b/"
+  },
+  {
+   "id": "JC Families:108453-1795161600-1826733600@jcfamilies.com",
+   "title": "Autism 2026",
+   "description": "Autism Conference 2026 \u2013 The World Congress on Autism and Neurodevelopmental Disorders will take place on November 19\u201320, 2026, in London, UK, with virtual participation available. The conference brings together researchers, clinicians, psychologists, therapists, educators, healthcare professionals, and autism specialists to explore the latest developments in autism research, diagnosis, early intervention, neurobiology, behavioral approaches, inclusive education, sensory processing, co-occurring conditions, and lifelong support.\nUnder the theme \u201cAdvancing Research, Care, and Inclusion,\u201d Autism",
+   "start": "2026-11-20T08:00:00-05:00",
+   "end": "2027-11-20T18:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/autism-2026/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/autism-2026-nov-20-7a94b8/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17068931",
@@ -4159,6 +3329,26 @@
    "path": "/events/chess-club-ages-8-18-nov-25-b03948/"
   },
   {
+   "id": "luma:evt-OmmNPGWj5KBp3P2",
+   "title": "Yoga in the Community Room, Nov 25, 6pm - 7pm",
+   "description": "",
+   "start": "2026-11-25T18:00:00-05:00",
+   "end": "2026-11-25T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/wpfen58e",
+   "image": "https://images.lumacdn.com/uploads/6o/164e2f7c-6b10-45b7-8927-cefcb9c6e59b.jpg",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/yoga-in-the-community-room-nov-25-6pm-7pm-nov-25-da6888/"
+  },
+  {
    "id": "eventbrite:1983726908584",
    "title": "Hoboken Official Thanksgiving Eve Bar Crawl 2026",
    "description": "Join us for the best Hoboken Thanksgiving Eve Bar Crawl yet! Bar hop through the best bars in Hoboken for our annual pub crawl.",
@@ -5768,6 +4958,26 @@
    "path": "/events/survivor-51-watch-parties-at-the-hutton-dec-2-dd56c8/"
   },
   {
+   "id": "luma:evt-9Uu9G0oXITXTMGJ",
+   "title": "TechWalk | Jersey City, 12/3",
+   "description": "",
+   "start": "2026-12-03T09:00:00-05:00",
+   "end": "2026-12-03T10:00:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/48jn8y8o",
+   "image": "https://images.lumacdn.com/uploads/8w/bbc53410-56f9-4dd6-a3e3-e01eda7b19d8.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/techwalk-jersey-city-12-3-dec-3-15d7ac/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17068932",
    "title": "Bayonne Public Schools Class Visit",
    "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
@@ -5949,6 +5159,26 @@
    ],
    "free": true,
    "path": "/events/zoning-board-meeting-dec-3-3d3453/"
+  },
+  {
+   "id": "luma:evt-EHdG7kYmSJRZ6uS",
+   "title": "Mob Wife Mahj: Our Holiday Party",
+   "description": "",
+   "start": "2026-12-03T18:00:00-05:00",
+   "end": "2026-12-03T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Vantage Collection",
+   "address": "Vantage Collection, 33 Park View Ave, Jersey City, NJ 07302, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/1st6488o",
+   "image": "https://images.lumacdn.com/uploads/m1/c30f8ed0-268b-48d7-b90e-df5fc3b03b00.png",
+   "price": "Paid",
+   "source": "Luma",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/mob-wife-mahj-our-holiday-party-dec-3-297af7/"
   },
   {
    "id": "eventbrite:2004156921302",
@@ -10038,7 +9268,7 @@
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/jersey-city-job-fair-jersey-city-career-fair-registration-2003382019550",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195561187%2F211523508959%2F1%2Foriginal.20261011-202402?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c542d0ed45eb2d0d3ca1020ba517d13d",
-   "price": "$421+",
+   "price": "$528+",
    "source": "Eventbrite",
    "categories": [
     "Tech & Business"
@@ -11454,6 +10684,26 @@
    ],
    "free": true,
    "path": "/events/tally-ho-customer-appreciation-party-dec-26-fd0f79/"
+  },
+  {
+   "id": "JC Families:108668-1798365600-1798995600@jcfamilies.com",
+   "title": "The Power of Poison Exhibition at Liberty Science Center",
+   "description": "Whether as a defense against predators, a magical source of immortality, a lethal weapon, or a lifesaving medical treatment, the story of poison is full of surprising turns. \nThis premium exhibition organized by the American Museum of Natural History explores the many facets of poison\u2014its roles in nature, history, myth, health, and forensic science\u2014and shows the immense power of transformation that can be contained in a tiny drop. \nLifelike models and interactive exhibits illustrate how poisons show up in the natural world. The exhibition also features unique live presentations by the Science ",
+   "start": "2026-12-27T10:00:00-05:00",
+   "end": "2027-01-03T17:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/the-power-of-poison-exhibition-at-liberty-science-center/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/the-power-of-poison-exhibition-at-liberty-science-cente-dec-27-10fd19/"
   },
   {
    "id": "eventbrite:1774166061449",

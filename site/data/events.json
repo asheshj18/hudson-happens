@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-19T05:48:21.927307-05:00",
+ "generated": "2026-11-19T11:54:33.276016-05:00",
  "sources": {
   "jersey_city_gov": 110,
   "bayonne_library": 337,
   "hoboken_library": 109,
   "stevens": 43,
   "jc_families": 4,
-  "luma": 15,
+  "luma": 14,
   "ticketmaster": 16,
   "seatgeek": 22,
   "eventbrite": 462,
@@ -177,46 +177,6 @@
    "path": "/events/thanksgiving-table-collection-3-class-webinar-series-nov-13-5876ac/"
   },
   {
-   "id": "luma:evt-RPWT4fWSsHScQ52",
-   "title": "Hoboken & Jersey City Coffee Chat",
-   "description": "",
-   "start": "2026-11-19T09:30:00-05:00",
-   "end": "2026-11-19T10:30:00-05:00",
-   "all_day": false,
-   "venue": "Gotan Hoboken",
-   "address": "Gotan Hoboken, Corner of 8th and Jackson, 770 Jackson St, Hoboken, NJ 07030, USA",
-   "city": "Hoboken",
-   "url": "https://lu.ma/rvc95p5o",
-   "image": "https://images.lumacdn.com/uploads/9y/066a391f-6d3a-4428-af63-8243a0f92ed2.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hoboken-jersey-city-coffee-chat-nov-19-bb5811/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16425960",
-   "title": "Exploration Station",
-   "description": "Join us at the Bayonne Public Library for a monthly \u201cExploration Station\u201d program in the Small Programming Room on the following Thursdays:\n\n\tFebruary 26th\n\tMarch 19th\n\tApril 23rd\n\tMay 28th\n\tJune 25th\n\tJuly 23rd\n\tAugust 20th\n\tSeptember 24th\n\tOctober 15th\n\tNovember 19th\n\tDecember 17th\n\nDiscover the magic of learning through hands-on, sensory play programs that are designed to engage toddlers and preschoolers in imaginative and educational activities. Each session is a journey through themed stations that stimulate children\u2019s senses and curiosity while promoting early literacy, cognitive develop",
-   "start": "2026-11-19T10:00:00-05:00",
-   "end": "2026-11-19T10:50:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16425960",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/exploration-station-nov-19-92dde7/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17701581",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -235,28 +195,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-19-f57479/"
-  },
-  {
-   "id": "hoboken-library:17687323",
-   "title": "Tai Chi Workshop",
-   "description": "Every Thursday, meet us in the gymnasium on the 2nd floor of the Multi-Service Center at 124 Grand Street for a free Tai Chi Workshop led by instructor Peter.\n\nOpen to beginners and all levels.\n\nPlease email laura.knittel@hobokenlibrary.org for more information.",
-   "start": "2026-11-19T10:00:00-05:00",
-   "end": "2026-11-19T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17687323",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Tai_chi_practitioner_in_a_calm_balanced_pose_flowing_movement_serene_atmosphere_clean_composition_realistic_lighting.jpg",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community",
-    "Fitness & Wellness",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/tai-chi-workshop-nov-19-d9179b/"
   },
   {
    "id": "luma:evt-xmwV5k0O7KqzGlj",
@@ -9545,7 +9483,7 @@
   },
   {
    "id": "seatgeek:18612880",
-   "title": "Nimbus Dance - Jersey City",
+   "title": "Nimbus Dance Works - Jersey City",
    "description": "",
    "start": "2026-12-19T11:00:00-05:00",
    "end": null,
@@ -9561,7 +9499,7 @@
     "Arts & Culture"
    ],
    "free": false,
-   "path": "/events/nimbus-dance-jersey-city-dec-19-0889f9/"
+   "path": "/events/nimbus-dance-works-jersey-city-dec-19-0889f9/"
   },
   {
    "id": "eventbrite:1988118405670",
@@ -13136,6 +13074,26 @@
    ],
    "free": true,
    "path": "/events/sunday-supper-at-the-exchange-jan-17-64b365/"
+  },
+  {
+   "id": "eventbrite:1986851375950",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-18T11:30:00-05:00",
+   "end": "2027-01-18T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851375950",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-18-2d1628/"
   }
  ]
 }

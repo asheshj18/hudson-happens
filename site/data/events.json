@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-20T05:50:30.792946-05:00",
+ "generated": "2026-11-20T11:48:38.103346-05:00",
  "sources": {
   "jersey_city_gov": 109,
   "bayonne_library": 332,
-  "hoboken_library": 103,
+  "hoboken_library": 105,
   "stevens": 43,
   "jc_families": 4,
-  "luma": 10,
+  "luma": 9,
   "ticketmaster": 16,
   "seatgeek": 23,
-  "eventbrite": 460,
+  "eventbrite": 461,
   "serpapi_google_events": 70
  },
  "events": [
@@ -177,26 +177,6 @@
    "path": "/events/thanksgiving-table-collection-3-class-webinar-series-nov-13-5876ac/"
   },
   {
-   "id": "luma:evt-Py3dblbR9xdADos",
-   "title": "Ship 'n Run: a run club for founders & builders",
-   "description": "",
-   "start": "2026-11-20T07:00:00-05:00",
-   "end": "2026-11-20T09:00:00-05:00",
-   "all_day": false,
-   "venue": "Hoboken",
-   "address": "",
-   "city": "Hoboken",
-   "url": "https://lu.ma/shipnrun1120",
-   "image": "https://images.lumacdn.com/uploads/c3/3a7c709a-f16d-4b13-802b-cb5c7e3370d3.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/ship-n-run-a-run-club-for-founders-builders-nov-20-f2a27b/"
-  },
-  {
    "id": "JC Families:108453-1795161600-1826733600@jcfamilies.com",
    "title": "Autism 2026",
    "description": "Autism Conference 2026 \u2013 The World Congress on Autism and Neurodevelopmental Disorders will take place on November 19\u201320, 2026, in London, UK, with virtual participation available. The conference brings together researchers, clinicians, psychologists, therapists, educators, healthcare professionals, and autism specialists to explore the latest developments in autism research, diagnosis, early intervention, neurobiology, behavioral approaches, inclusive education, sensory processing, co-occurring conditions, and lifelong support.\nUnder the theme \u201cAdvancing Research, Care, and Inclusion,\u201d Autism",
@@ -215,26 +195,6 @@
    ],
    "free": false,
    "path": "/events/autism-2026-nov-20-7a94b8/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17068931",
-   "title": "Bayonne Public Schools Class Visit",
-   "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
-   "start": "2026-11-20T09:30:00-05:00",
-   "end": "2026-11-20T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17068931",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/bayonne-public-schools-class-visit-nov-20-7de31b/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17877394",
@@ -1490,6 +1450,28 @@
    ],
    "free": true,
    "path": "/events/thanksgiving-celebration-at-crossroad-nov-22-cb2465/"
+  },
+  {
+   "id": "eventbrite:2005035704767",
+   "title": "Jersey City Connects | Coffee and Walk (Nov) | Friends Mixer",
+   "description": "Kick back with some good coffee and new friends on a chill morning walk to start your day right.",
+   "start": "2026-11-22T10:00:00-05:00",
+   "end": "2026-11-22T12:00:00-05:00",
+   "all_day": false,
+   "venue": "Roast'd Coffee - Jersey City",
+   "address": "10 River Drive South, Jersey City, NJ 07310",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jersey-city-connects-coffee-and-walk-nov-friends-mixer-tickets-2005035704767",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198248863%2F3018376597838%2F1%2Foriginal.20261118-154518?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7d39dc73b01cad1e07827143f9e0314d",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Food & Drink",
+    "Fitness & Wellness"
+   ],
+   "free": false,
+   "path": "/events/jersey-city-connects-coffee-and-walk-nov-friends-mixer-nov-22-ef522f/"
   },
   {
    "id": "eventbrite:2003029969559",
@@ -5988,6 +5970,26 @@
    "path": "/events/planning-board-meeting-dec-8-50b8f9/"
   },
   {
+   "id": "hoboken-library:17976799",
+   "title": "Scary Movie Night - Krampus",
+   "description": "Join us for a screening of Krampus (2015)! Light refreshments will be served.\n\nWhile the holiday season represents the most magical time of year, ancient European folklore warns of Krampus, a horned beast who punishes naughty children at Christmas. When dysfunctional family squabbling causes Max to lose his festive spirit, it unleashes the wrath of the fearsome demon. As Krampus lays siege to the home, Max's mother (Toni Collette) and father (Adam Scott), sister, and brother band together to stop the evil force and save their Christmas.\n\nStay tuned to future Scary Movie nights by under the Hob",
+   "start": "2026-12-08T17:30:00-05:00",
+   "end": "2026-12-08T19:15:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17976799",
+   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Scary_Movie_Night_Krampus_December26.png",
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": true,
+   "path": "/events/scary-movie-night-krampus-dec-8-ab8d6d/"
+  },
+  {
    "id": "eventbrite:2002475761909",
    "title": "Jazz Nights at The Exchange",
    "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
@@ -8225,6 +8227,27 @@
    "path": "/events/hudson-happy-hour-dec-15-b76c86/"
   },
   {
+   "id": "hoboken-library:17953635",
+   "title": "Horror/Thriller Book Club - When the Wolf Comes Home",
+   "description": "Nat Cassidy is a national bestselling and Bram Stoker Award-nominated author whose works include Mary, Nestlings, and Rest Stop. Esquire described him as one \"of the best horror writers of this generation\" and among the writers \"shaping horror's next golden age.\" His award-winning plays have been produced across the country, including Off-Broadway and the Kennedy Center.\u00a0\n\n\"One night, Jess, a struggling actress, finds a five-year-old runaway hiding in the bushes outside her apartment. After a violent, bloody encounter with the boy's father, she and the boy find themselves running for their liv",
+   "start": "2026-12-15T18:00:00-05:00",
+   "end": "2026-12-15T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17953635",
+   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/HT_Book_Club_Wolf_December_2026_Communico_Image_1_.png",
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Community",
+    "Arts & Culture"
+   ],
+   "free": true,
+   "path": "/events/horror-thriller-book-club-when-the-wolf-comes-home-dec-15-862307/"
+  },
+  {
    "id": "eventbrite:2002475762912",
    "title": "Jazz Nights at The Exchange",
    "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
@@ -10247,15 +10270,15 @@
   },
   {
    "id": "eventbrite:2004679677881",
-   "title": "Tally Ho Guest Bartender: Frankie Z",
-   "description": "He usually plays the music. Tonight he pours the drinks.",
+   "title": "Tally Ho Guest Bartenders: Frankie Z & Niko",
+   "description": "Two DJs. One bar. Zero playlists.",
    "start": "2026-12-23T19:00:00-05:00",
    "end": "2026-12-23T23:30:00-05:00",
    "all_day": false,
    "venue": "Tally-Ho",
    "address": "215 Washington Street, Hoboken, NJ 07030",
    "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/tally-ho-guest-bartender-frankie-z-tickets-2004679677881",
+   "url": "https://www.eventbrite.com/e/tally-ho-guest-bartenders-frankie-z-niko-tickets-2004679677881",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197716833%2F234542736450%2F1%2Foriginal.20261110-205130?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e3876f12e418d8e20c811b4e832b16f0",
    "price": "Free",
    "source": "Eventbrite",
@@ -10263,7 +10286,7 @@
     "Food & Drink"
    ],
    "free": true,
-   "path": "/events/tally-ho-guest-bartender-frankie-z-dec-23-eb2a3f/"
+   "path": "/events/tally-ho-guest-bartenders-frankie-z-niko-dec-23-eb2a3f/"
   },
   {
    "id": "eventbrite:1986851358899",
@@ -13147,6 +13170,46 @@
    ],
    "free": true,
    "path": "/events/shade-tree-committee-jan-18-52926e/"
+  },
+  {
+   "id": "Bayonne Public Library:LibCal-17197-17620003",
+   "title": "BBOED Principals' Meeting",
+   "description": "This is a private meeting of the Bayonne Board of Education Principals.",
+   "start": "2027-01-19T09:15:00-05:00",
+   "end": "2027-01-19T11:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17620003",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/bboed-principals-meeting-jan-19-5cac8e/"
+  },
+  {
+   "id": "eventbrite:1986851376953",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-19T11:30:00-05:00",
+   "end": "2027-01-19T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851376953",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-19-b82446/"
   }
  ]
 }

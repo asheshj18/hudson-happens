@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T05:38:15.926830-05:00",
+ "generated": "2026-11-21T11:34:02.889695-05:00",
  "sources": {
   "jersey_city_gov": 107,
   "bayonne_library": 324,
@@ -9,7 +9,7 @@
   "luma": 9,
   "ticketmaster": 16,
   "seatgeek": 23,
-  "eventbrite": 455,
+  "eventbrite": 457,
   "serpapi_google_events": 96
  },
  "events": [
@@ -197,67 +197,6 @@
    "path": "/events/autism-2026-nov-20-7a94b8/"
   },
   {
-   "id": "eventbrite:1984140852702",
-   "title": "Storytime with Laura - Saturday",
-   "description": "Storytime with Laura Saturdays at 9am at Little City Books! $10",
-   "start": "2026-11-21T09:00:00-05:00",
-   "end": "2026-11-21T10:00:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/storytime-with-laura-saturday-tickets-1984140852702",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179694701%2F294282509964%2F1%2Foriginal.20260312-152844?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=68b976d406464fb8184a1a561dc2933b",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": false,
-   "path": "/events/storytime-with-laura-saturday-nov-21-4c528d/"
-  },
-  {
-   "id": "google:storytimewithlaura20261121hoboken",
-   "title": "Storytime with Laura",
-   "description": "",
-   "start": "2026-11-21T09:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "Little City Books, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/1984140852702?aff=ebdiglgoogleliveevents",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvE3cBiS-plwBJfz-AbWCCR3QKSf_aKy3RZJfZNQ8wUDhPrUVwfcF4NMFEd1bRIsThqv0gvUlEpdCxAAY",
-   "price": null,
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": false,
-   "path": "/events/storytime-with-laura-nov-21-34d2c0/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17327869",
-   "title": "Music with Miss Julia (For 6 Months through 5 Years Old)",
-   "description": "Join us for Music with Miss Julia! This monthly early childhood education music class will be held on Wednesdays at 10 am in the Children\u2019s Room of the Bayonne Public Library.\n\nThe classes will meet on:\n\n\tOctober 10th\n\tNovember 21st\n\tDecember 9th\n\nThis class is for ages 6 months through 5 years old. Sessions will include drums, tambourines, shakers, ukuleles, bubbles, parachute play, dancing, singing, scarves, and instrument exploration. \n\nAdvanced registration is required for all sessions individually. Walk-ins will be accommodated if space permits. Since this event is for children, please on",
-   "start": "2026-11-21T10:00:00-05:00",
-   "end": "2026-11-21T10:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classrooms C&D, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17327869",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Music"
-   ],
-   "free": true,
-   "path": "/events/music-with-miss-julia-for-6-months-through-5-years-old-nov-21-9f5805/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17786779",
    "title": "\"Cats and Coffee\" Adoption Event",
    "description": "Join us on Saturday, November 21st at the Bayonne Public Library in the Gallery for a very special \u201cCats and Coffee Adoption Event\u201d! \n\nFrom 12 pm to 4 pm, stop by to meet some wonderful cats hoping to find their forever families. We will have kittens, adults, and senior cats. Whether you\u2019re looking for a playful baby, a calm companion, or your new best friend, there\u2019s a cat waiting for you!\n\nFrom 10 am to 3 pm, Sunspire Cafe will be popping up in the Lobby offering some fun cat-themed drinks for sale.\n\nYour support - whether through adoption, donation, or simply spreading the word - helps Furv",
@@ -297,67 +236,6 @@
    ],
    "free": false,
    "path": "/events/volunteer-shoreline-cleanup-nov-21-596988/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16000089",
-   "title": "Little Spanish Scholars Bilingual Story Time",
-   "description": "Little Spanish Scholars presents a fun and interactive bilingual Spanish Story Time with music & movement. This class is for ages 1 to 5 and will be on Saturdays at 10:30 am in the Children\u2019s Room of the Bayonne Public Library. The class will be on the following dates:\n\n\tJanuary 17th\n\tFebruary 28th\n\tMarch 7th\n\tApril 25th\n\tMay 16th\n\tJune 13th\n\tSeptember 26th\n\tOctober 24th\n\tNovember 21st\n\tDecember 12th\n\nIt is perfect for children and their caregivers who want to immerse themselves in the Spanish language through storytelling, song, and dance. Registration is required every session individually. ",
-   "start": "2026-11-21T10:30:00-05:00",
-   "end": "2026-11-21T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16000089",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/little-spanish-scholars-bilingual-story-time-nov-21-f149e6/"
-  },
-  {
-   "id": "hoboken-library:17434120",
-   "title": "Toddler Story Time",
-   "description": "Toddler Story Time features longer picture books and more movement than Baby Story Time.\u00a0\n\nAttending story times regularly helps prep your toddler for the transition to preschool as they develop the necessary listening and social skills they\u2019ll need in the classroom.\u00a0\n\nThrough reading, talking, singing, and dancing, Toddler Story Time helps your little one develop their early literacy skills with a focus on phonological awareness, vocabulary expansion, and print awareness.\u00a0\n\nStrollers are not permitted in the building!\n\nTo ensure everyone has a wonderful experience, please arrive early as spot",
-   "start": "2026-11-21T10:30:00-05:00",
-   "end": "2026-11-21T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Main Library",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17434120",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/new-toddler.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/toddler-story-time-nov-21-47383f/"
-  },
-  {
-   "id": "hoboken-library:17809203",
-   "title": "NJPAC\u2019s Books on the Move",
-   "description": "Skit-Scat Raggedy Cat: Ella Fitzgerald is a swinging biography about the vocalist\u2019s resilience and hard-earned fame.\n\nWritten by Roxane Orgill and illustrated by Sean Qualls, Fitzgerald\u2019s story of grit and talent will inspire young artists and longtime jazz fans.\n\nLearn more here.",
-   "start": "2026-11-21T10:30:00-05:00",
-   "end": "2026-11-21T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17809203",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/CE_BOTM_SkitScat_8.5x11_Nov21_1_2_-1.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/njpacs-books-on-the-move-nov-21-3d83e1/"
   },
   {
    "id": "luma:evt-l0rKFWW7E5MH0t0",
@@ -3692,6 +3570,26 @@
    "path": "/events/adult-dungeons-dragons-dec-1-c61ced/"
   },
   {
+   "id": "eventbrite:2004156830029",
+   "title": "Jersey City Connects | Book Swap (Dec) | Free Books",
+   "description": "Swap your favorite reads and grab some free books while mingling with fellow Jersey City book lovers!",
+   "start": "2026-12-01T18:30:00-05:00",
+   "end": "2026-12-01T20:30:00-05:00",
+   "all_day": false,
+   "venue": "Departed Soles",
+   "address": "150 Bay Street, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jersey-city-connects-book-swap-dec-free-books-tickets-2004156830029",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196971373%2F3018376597838%2F1%2Foriginal.20261031-022946?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1e68d6fbbebf17fb6b7d2965faf180e9",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/jersey-city-connects-book-swap-dec-free-books-dec-1-7eaba5/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-15913032",
    "title": "Library Board of Trustees Meeting",
    "description": "BAYONNE PUBLIC LIBRARY BOARD OF TRUSTEES\n\nSchedule of Meeting Dates for 2026\n\n \n\nTuesday, January 6, 2026 at 7:00 p.m.\n\nTuesday, February 3, 2026 at 7:00 p.m.\n\nTuesday, March 3, 2026 at 7:00 p.m.\n\nTuesday, April 14, 2026 at 7:00 p.m.\n\nTuesday, May 5, 2026 at 7:00 p.m.\n\nTuesday, June 2, 2026 at 7:00 p.m.\n\nTuesday, September 1, 2026 at 7:00 p.m.\n\nTuesday, October 6, 2026 at 7:00 p.m.\n\nTuesday, November 10, 2026 at 7:00 p.m.\n\nTuesday, December 1, 2026 at 7:00 p.m.\n\n \n\nAll meetings will take place in the Board Room of the Bayonne Public Library, located at 697 Ave C, Bayonne, NJ 07002. \n\n \n\nAll me",
@@ -4689,6 +4587,27 @@
    ],
    "free": true,
    "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-dec-4-ceb8d9/"
+  },
+  {
+   "id": "eventbrite:2005202828639",
+   "title": "Open Level Hip Hop Choreography with Frida Molina",
+   "description": "Find your groove with Frida\u2019s high-energy hip hop choreography! Build confidence, explore street styles, and express your individuality.",
+   "start": "2026-12-04T18:30:00-05:00",
+   "end": "2026-12-04T19:30:00-05:00",
+   "all_day": false,
+   "venue": "Fluid Arts Studio",
+   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/open-level-hip-hop-choreography-with-frida-molina-tickets-2005202828639",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198241685%2F3009697406825%2F1%2Foriginal.20261118-141509?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.028&fp-y=0.603&s=1a54d45d6f29360725aa3e3a77cf86e8",
+   "price": "$19+",
+   "source": "Eventbrite",
+   "categories": [
+    "Music",
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/open-level-hip-hop-choreography-with-frida-molina-dec-4-00297e/"
   },
   {
    "id": "eventbrite:1406594474939",
@@ -11497,23 +11416,23 @@
   },
   {
    "id": "eventbrite:1996323803235",
-   "title": "New Year's Eve at Tally Ho",
-   "description": "Last party of the year. Make it count.",
+   "title": "New Year's Eve Masquerade at Tally Ho",
+   "description": "Unmask the night. Welcome the new year.",
    "start": "2026-12-31T21:00:00-05:00",
    "end": "2026-12-31T23:30:00-05:00",
    "all_day": false,
    "venue": "Tally-Ho",
    "address": "215 Washington Street, Hoboken, NJ 07030",
    "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/new-years-eve-at-tally-ho-tickets-1996323803235",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197702853%2F234542736450%2F1%2Foriginal.20261110-181841?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.089&fp-y=0.528&s=63ea5198e0c44f8e8599e3c1431b1cf1",
+   "url": "https://www.eventbrite.com/e/new-years-eve-masquerade-at-tally-ho-tickets-1996323803235",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198447950%2F234542736450%2F1%2Foriginal.20261121-150156?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.015&fp-y=0.487&s=0fc08c16d46f40fd5be65b8587adfda2",
    "price": "$42+",
    "source": "Eventbrite",
    "categories": [
-    "Nightlife"
+    "Community"
    ],
    "free": false,
-   "path": "/events/new-year-s-eve-at-tally-ho-dec-31-f378e5/"
+   "path": "/events/new-year-s-eve-masquerade-at-tally-ho-dec-31-f378e5/"
   },
   {
    "id": "eventbrite:1995094469264",
@@ -13462,6 +13381,26 @@
    ],
    "free": true,
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-jan-19-a36a32/"
+  },
+  {
+   "id": "eventbrite:1986851377956",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-20T11:30:00-05:00",
+   "end": "2027-01-20T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851377956",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-20-ec1372/"
   }
  ]
 }

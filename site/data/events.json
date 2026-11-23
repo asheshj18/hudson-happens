@@ -1,18 +1,38 @@
 {
- "generated": "2026-11-23T05:54:28.274398-05:00",
+ "generated": "2026-11-23T11:48:15.224274-05:00",
  "sources": {
   "jersey_city_gov": 107,
-  "bayonne_library": 308,
+  "bayonne_library": 310,
   "hoboken_library": 117,
   "stevens": 45,
-  "jc_families": "error: HTTP Error 429: Too Many Requests",
-  "luma": 7,
+  "jc_families": 4,
+  "luma": 5,
   "ticketmaster": 15,
   "seatgeek": 22,
-  "eventbrite": 446,
+  "eventbrite": 447,
   "serpapi_google_events": 86
  },
  "events": [
+  {
+   "id": "JC Families:105809-1768561200-1798628400@jcfamilies.com",
+   "title": "Liberty Science Center\u2019s New Touch Tank and Climate Time Machine Virtual Reality Experience",
+   "description": "Liberty Science Center introduces two new interactive experiences\u2014the Izzo Family Touch Tank and the Climate Time Machine VR viewfinder\u2014as part of the reimagining of its longtime Our Hudson Home gallery. The Touch Tank features a 29-foot-long, 1,000-gallon, two-level riverscape habitat showcasing seven native Hudson River species, with hands-on encounters guided by trained STEM educators exploring how climate change impacts local marine life. The Climate Time Machine invites visitors to peer through a VR viewfinder overlooking the Hudson River and travel through time from the Ice Age to today ",
+   "start": "2026-01-16T11:00:00-05:00",
+   "end": "2026-12-30T11:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/liberty-science-centers-new-touch-tank-and-climate-time-machine-virtual-reality-experience-2/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": false,
+   "path": "/events/liberty-science-centers-new-touch-tank-and-climate-time-jan-16-6421f3/"
+  },
   {
    "id": "eventbrite:1992021494915",
    "title": "Certificates in Construction Management Fall 2026",
@@ -136,6 +156,26 @@
    "path": "/events/basic-french-level-i-virtual-via-zoom-nov-12-628238/"
   },
   {
+   "id": "JC Families:108453-1795161600-1826733600@jcfamilies.com",
+   "title": "Autism 2026",
+   "description": "Autism Conference 2026 \u2013 The World Congress on Autism and Neurodevelopmental Disorders will take place on November 19\u201320, 2026, in London, UK, with virtual participation available. The conference brings together researchers, clinicians, psychologists, therapists, educators, healthcare professionals, and autism specialists to explore the latest developments in autism research, diagnosis, early intervention, neurobiology, behavioral approaches, inclusive education, sensory processing, co-occurring conditions, and lifelong support.\nUnder the theme \u201cAdvancing Research, Care, and Inclusion,\u201d Autism",
+   "start": "2026-11-20T08:00:00-05:00",
+   "end": "2027-11-20T18:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/autism-2026/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/autism-2026-nov-20-7a94b8/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17701582",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -154,46 +194,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-23-4c8af9/"
-  },
-  {
-   "id": "City of Jersey City:21429884",
-   "title": "\"Modera Lofts\" - 350 Warren Affordable Housing Lottery",
-   "description": "For the Lottery Viewing of the \"Modera Lofts\", located at 350 Warren St., Jersey City, NJ 07302. Please click this zoom link:\u00a0 https://us06web.zoom.us/j/85810715319.\u00a0Lottery date and time subject to change. Please check back regularly to view updated lottery scheduling and zoom link information.",
-   "start": "2026-11-23T11:00:00-05:00",
-   "end": "2026-11-23T11:15:00-05:00",
-   "all_day": false,
-   "venue": null,
-   "address": "",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/modera-lofts-350-warren-affordable-housing-lottery-nov-23-b5162f/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15952324",
-   "title": "Lapsit Program (Ages 18-24 Months)",
-   "description": "The Lapsit program is Mondays from 11:00-11:30. It is for children ages 18-24 months. Each week features themed stories and songs. Parents/guardians must be present during the entire program. No advanced registration is required. Spots will be filled on a first come, first served basis.",
-   "start": "2026-11-23T11:00:00-05:00",
-   "end": "2026-11-23T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15952324",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/lapsit-program-ages-18-24-months-nov-23-ca8e47/"
   },
   {
    "id": "eventbrite:1986851335830",
@@ -5826,46 +5826,6 @@
    "path": "/events/jigsaw-puzzle-drop-in-dec-10-9b574c/"
   },
   {
-   "id": "luma:evt-pj6kkV3FziXpDHy",
-   "title": "CBS Northern NJ Alumni: Jersey City Happy Hour",
-   "description": "",
-   "start": "2026-12-10T18:00:00-05:00",
-   "end": "2026-12-10T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Archer",
-   "address": "The Archer, 176 Newark Ave, Jersey City, NJ 07302, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/mcfk0cjv",
-   "image": "https://images.lumacdn.com/uploads/dr/a1c1a212-4707-4252-9dc7-381718e1405a.png",
-   "price": "Paid",
-   "source": "Luma",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/cbs-northern-nj-alumni-jersey-city-happy-hour-dec-10-30b88e/"
-  },
-  {
-   "id": "luma:evt-oqwEmvI9xFM5n3T",
-   "title": "Winter Happy Hour",
-   "description": "",
-   "start": "2026-12-10T18:00:00-05:00",
-   "end": "2026-12-10T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Barsky Gallery: Art Showroom and Advisory",
-   "address": "Barsky Gallery: Art Showroom and Advisory, 50 Harrison St Ground Floor, Hoboken, NJ 07030, USA",
-   "city": "Hoboken",
-   "url": "https://lu.ma/c64ph70z",
-   "image": "https://images.lumacdn.com/uploads/1l/16279f2a-fd7a-4483-9382-f2448a4499e0.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/winter-happy-hour-dec-10-7eea71/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17794781",
    "title": "Paperback Sketchbook Making",
    "description": "Join us at the Bayonne Public Library on Thursday, December 10th at 6:30 pm in the Art & Music Room for a Make-Your-Own Sketchbook class! This DIY sketchbook craft, led by Mads Sanden, will upcycle old materials into something new, cool, and unique! This activity is designed for kids ages 9 through 18. Advanced registration is required. Walk-ins will be accommodated if space permits.",
@@ -8015,6 +7975,26 @@
    "path": "/events/evening-yoga-class-dec-16-84ffb4/"
   },
   {
+   "id": "eventbrite:2005039643548",
+   "title": "Jersey City Connects | Winter Paint & Sip: Cozy Gnome Art Night",
+   "description": "Get cozy, sip some brews, and paint your own adorable gnome at this chill winter art night!",
+   "start": "2026-12-16T19:00:00-05:00",
+   "end": "2026-12-16T21:30:00-05:00",
+   "all_day": false,
+   "venue": "902 Brewing Co .",
+   "address": "101 Pacific Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jersey-city-connects-winter-paint-sip-cozy-gnome-art-night-tickets-2005039643548",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198254619%2F3018376597838%2F1%2Foriginal.20261118-165732?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7dc11abf7442528e3450f765bcbe50f7",
+   "price": "$47+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/jersey-city-connects-winter-paint-sip-cozy-gnome-art-ni-dec-16-a15865/"
+  },
+  {
    "id": "eventbrite:2004916830210",
    "title": "Live Animals Onstage! Presents THE ZOO: a Mini Gala",
    "description": "Join us for an evening of theater and fundraising for the Brooklyn-based, DIY theater company, Live Animals Onstage!",
@@ -10018,6 +9998,26 @@
    "path": "/events/tally-ho-customer-appreciation-party-dec-26-fd0f79/"
   },
   {
+   "id": "JC Families:108668-1798365600-1798995600@jcfamilies.com",
+   "title": "The Power of Poison Exhibition at Liberty Science Center",
+   "description": "Whether as a defense against predators, a magical source of immortality, a lethal weapon, or a lifesaving medical treatment, the story of poison is full of surprising turns. \nThis premium exhibition organized by the American Museum of Natural History explores the many facets of poison\u2014its roles in nature, history, myth, health, and forensic science\u2014and shows the immense power of transformation that can be contained in a tiny drop. \nLifelike models and interactive exhibits illustrate how poisons show up in the natural world. The exhibition also features unique live presentations by the Science ",
+   "start": "2026-12-27T10:00:00-05:00",
+   "end": "2027-01-03T17:00:00-05:00",
+   "all_day": false,
+   "venue": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "address": "Waterfront Montesoori, 150 Warren St., Suite 108, Jersey City, NJ, United States",
+   "city": "Jersey City",
+   "url": "https://jcfamilies.com/event/the-power-of-poison-exhibition-at-liberty-science-center/",
+   "image": null,
+   "price": null,
+   "source": "JC Families",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/the-power-of-poison-exhibition-at-liberty-science-cente-dec-27-10fd19/"
+  },
+  {
    "id": "eventbrite:1774166061449",
    "title": "Breakfast with the Bros | Jersey City",
    "description": "Need a circle of good men in your life? Meet some new bros over  breakfast or coffee!",
@@ -11595,6 +11595,27 @@
    "path": "/events/canisius-golden-griffins-at-saint-peter-s-peacocks-wome-jan-7-06a0e6/"
   },
   {
+   "id": "Bayonne Public Library:LibCal-17197-17590250",
+   "title": "Tween &Teen Art Club: New Year Vision Boards with Izzy",
+   "description": "Join us on Thursday, January 7th from 6:30-7:30pm for a New Year Vision Boards event. Unleash your creativity through the art of collage and set goals for the new year. All Art Club programs are for tweens and teens aged 9-18 and will take place in the Art & Music Room on the 2nd floor of the library. The supplies will be provided, just bring yourself and your creativity. Advanced registration is required for each session individually. Walk-ins will be accommodated if space permits. #Bayonne #BayonneNJ #ArtClub",
+   "start": "2027-01-07T18:30:00-05:00",
+   "end": "2027-01-07T19:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17590250",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Kids & Family",
+    "Arts & Culture"
+   ],
+   "free": true,
+   "path": "/events/tween-teen-art-club-new-year-vision-boards-with-izzy-jan-7-ee33a1/"
+  },
+  {
    "id": "eventbrite:1406594615359",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -13136,6 +13157,26 @@
    ],
    "free": true,
    "path": "/events/jersey-city-bitcoin-socratic-seminar-series-jan-21-1164d9/"
+  },
+  {
+   "id": "eventbrite:1986851379962",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-22T11:30:00-05:00",
+   "end": "2027-01-22T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851379962",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-22-01011b/"
   }
  ]
 }

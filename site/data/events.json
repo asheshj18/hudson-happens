@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-22T17:35:06.327800-05:00",
+ "generated": "2026-11-23T05:54:28.274398-05:00",
  "sources": {
   "jersey_city_gov": 107,
-  "bayonne_library": 314,
+  "bayonne_library": 308,
   "hoboken_library": 117,
-  "stevens": 44,
+  "stevens": 45,
   "jc_families": "error: HTTP Error 429: Too Many Requests",
-  "luma": 6,
+  "luma": 7,
   "ticketmaster": 15,
   "seatgeek": 22,
-  "eventbrite": 450,
+  "eventbrite": 446,
   "serpapi_google_events": 86
  },
  "events": [
@@ -134,126 +134,6 @@
    ],
    "free": false,
    "path": "/events/basic-french-level-i-virtual-via-zoom-nov-12-628238/"
-  },
-  {
-   "id": "eventbrite:1774166011299",
-   "title": "Breakfast with the Bros | Jersey City",
-   "description": "Need a circle of good men in your life? Meet some new bros over  breakfast or coffee!",
-   "start": "2026-11-22T10:00:00-05:00",
-   "end": "2026-11-23T00:00:00-05:00",
-   "all_day": false,
-   "venue": "Cafe of the Day",
-   "address": "Jersey City, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/breakfast-with-the-bros-jersey-city-tickets-1774166011299",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1144984503%2F2665070848231%2F1%2Foriginal.20251005-144948?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c94c02f2e5d09354cbd0bf31e546b8ea",
-   "price": "$23+",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/breakfast-with-the-bros-jersey-city-nov-22-f2813c/"
-  },
-  {
-   "id": "luma:evt-6DiRv9cSvaxSR1D",
-   "title": "The Good Choice: In Between!",
-   "description": "",
-   "start": "2026-11-22T15:00:00-05:00",
-   "end": "2026-11-22T18:00:00-05:00",
-   "all_day": false,
-   "venue": "270 Johnston Ave",
-   "address": "270 Johnston Ave, Jersey City, NJ 07304, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/f4q086k9",
-   "image": "https://images.lumacdn.com/uploads/an/2c58e837-d9ff-4b3e-8814-4734db2e4802.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/the-good-choice-in-between-nov-22-0282ea/"
-  },
-  {
-   "id": "eventbrite:1984582757451",
-   "title": "Sunday Supper at The Exchange",
-   "description": "Unwind Sundays at The Exchange with a $45 Pasta Prix Fixe\u2014your choice of salad, pasta entr\u00e9e, and dessert from 4\u201311 PM.",
-   "start": "2026-11-22T16:00:00-05:00",
-   "end": "2026-11-22T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/sunday-supper-at-the-exchange-tickets-1984582757451",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179152613%2F2894508074541%2F1%2Foriginal.20260305-214350?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d169dc00386743c7970596216cc3422b",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/sunday-supper-at-the-exchange-nov-22-940f75/"
-  },
-  {
-   "id": "eventbrite:2002432331006",
-   "title": "Freedy Johnston",
-   "description": "Join us at WFMU\u2019s Monty Hall for a special live performance and radio broadcast on Sunday, November 22nd, 5\u20136pm",
-   "start": "2026-11-22T17:00:00-05:00",
-   "end": "2026-11-22T18:00:00-05:00",
-   "all_day": false,
-   "venue": "Monty Hall",
-   "address": "43 Montgomery Street, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/freedy-johnston-tickets-2002432331006",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196123739%2F301379834887%2F1%2Foriginal.20261019-191607?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=abac7e1a6aa9c7ca0645959d2ea34eac",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": true,
-   "path": "/events/freedy-johnston-nov-22-e15fe9/"
-  },
-  {
-   "id": "eventbrite:1999108334844",
-   "title": "Live Music: Irish Music Session Every Sunday at The Hutton",
-   "description": "Come join us at The Hutton for a lively Irish session every Sunday!",
-   "start": "2026-11-22T17:00:00-05:00",
-   "end": "2026-11-22T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Hutton Bar and Grill",
-   "address": "225 Hutton St., Jersey City, NJ 07307",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/live-music-irish-music-session-every-sunday-at-the-hutton-tickets-1999108334844",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1039750163%2F196151990297%2F1%2Foriginal.20250527-152612?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.895833333333&fp-y=0.475247524752&s=d4846f37b74a72b5237fcf3a8e5a7891",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": true,
-   "path": "/events/live-music-irish-music-session-every-sunday-at-the-hutt-nov-22-03f4f5/"
-  },
-  {
-   "id": "google:sundaynightfever20261122jerseycity",
-   "title": "Sunday Night Fever",
-   "description": "",
-   "start": "2026-11-22T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Six26 - Lounge and Rooftop",
-   "address": "Six26 - Lounge and Rooftop, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://trickdash.com/events/jersey-city/sunday-night-fever-at-six-26-237f70ca/",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx7_8Ehkq4xp0TuYig8JG0dshiPbm8Z13oDlbACn3D73FY_DNbKHU-hg7BR3nWsARRCRdrtYRYFiLacFQ",
-   "price": null,
-   "source": "trickdash.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/sunday-night-fever-nov-22-32da3a/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17701582",
@@ -5944,6 +5824,46 @@
    ],
    "free": true,
    "path": "/events/jigsaw-puzzle-drop-in-dec-10-9b574c/"
+  },
+  {
+   "id": "luma:evt-pj6kkV3FziXpDHy",
+   "title": "CBS Northern NJ Alumni: Jersey City Happy Hour",
+   "description": "",
+   "start": "2026-12-10T18:00:00-05:00",
+   "end": "2026-12-10T20:00:00-05:00",
+   "all_day": false,
+   "venue": "The Archer",
+   "address": "The Archer, 176 Newark Ave, Jersey City, NJ 07302, USA",
+   "city": "Jersey City",
+   "url": "https://lu.ma/mcfk0cjv",
+   "image": "https://images.lumacdn.com/uploads/dr/a1c1a212-4707-4252-9dc7-381718e1405a.png",
+   "price": "Paid",
+   "source": "Luma",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": false,
+   "path": "/events/cbs-northern-nj-alumni-jersey-city-happy-hour-dec-10-30b88e/"
+  },
+  {
+   "id": "luma:evt-oqwEmvI9xFM5n3T",
+   "title": "Winter Happy Hour",
+   "description": "",
+   "start": "2026-12-10T18:00:00-05:00",
+   "end": "2026-12-10T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Barsky Gallery: Art Showroom and Advisory",
+   "address": "Barsky Gallery: Art Showroom and Advisory, 50 Harrison St Ground Floor, Hoboken, NJ 07030, USA",
+   "city": "Hoboken",
+   "url": "https://lu.ma/c64ph70z",
+   "image": "https://images.lumacdn.com/uploads/1l/16279f2a-fd7a-4483-9382-f2448a4499e0.png",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/winter-happy-hour-dec-10-7eea71/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17794781",
@@ -13095,6 +13015,26 @@
    "path": "/events/power-lunch-for-people-on-the-go-jan-21-88186a/"
   },
   {
+   "id": "hoboken-library:17724930",
+   "title": "Teen Zone",
+   "description": "Join Mr. Kieran for a diverse range of activities that cater to every taste: unleash your inner artist with craft sessions, dive into immersive gaming experiences, embark on epic adventures with Dungeons & Dragons, and get the support you need with homework help.\u00a0The Teen Zone is a welcoming space where you can make new friends, express yourself, and discover new hobbies. Whether you're a seasoned gamer or just looking for a place to hang out, the Teen Zone has something for everyone.\n\nCome be a part of our community and enjoy the fun!\n\nTAB members! Let us know which programs you'd like to see",
+   "start": "2027-01-21T15:45:00-05:00",
+   "end": "2027-01-21T19:45:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17724930",
+   "image": null,
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": true,
+   "path": "/events/teen-zone-jan-21-bda4f3/"
+  },
+  {
    "id": "eventbrite:1987134079524",
    "title": "Hudson Happy Hour",
    "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
@@ -13133,6 +13073,69 @@
    ],
    "free": false,
    "path": "/events/stevens-men-s-volleyball-vs-kean-jan-21-f0ec58/"
+  },
+  {
+   "id": "Bayonne Public Library:LibCal-17197-17869048",
+   "title": "How to Use ChatGPT: A Hands-On Introduction",
+   "description": "Curious about ChatGPT? In this beginner-friendly class, you\u2019ll practice asking questions, refining your requests, and using ChatGPT for everyday tasks such as drafting messages, planning activities, and exploring new topics. We\u2019ll also discuss protecting your privacy and checking answers for accuracy. No previous experience with ChatGPT is needed.\n\nRegistration is required.",
+   "start": "2027-01-21T18:00:00-05:00",
+   "end": "2027-01-21T19:30:00-05:00",
+   "all_day": false,
+   "venue": "Bayonne Public Library",
+   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
+   "city": "Bayonne",
+   "url": "https://bayonnelibrary.libcal.com/event/17869048",
+   "image": null,
+   "price": "Free",
+   "source": "Bayonne Public Library",
+   "categories": [
+    "Tech & Business"
+   ],
+   "free": true,
+   "path": "/events/how-to-use-chatgpt-a-hands-on-introduction-jan-21-f3fe19/"
+  },
+  {
+   "id": "eventbrite:1406594675539",
+   "title": "Dance Party at Madd Hatter",
+   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
+   "start": "2027-01-21T19:00:00-05:00",
+   "end": "2027-01-21T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594675539",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music",
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/dance-party-at-madd-hatter-jan-21-a987b3/"
+  },
+  {
+   "id": "eventbrite:1977992389483",
+   "title": "Jersey City Bitcoin: Socratic Seminar Series",
+   "description": "Educational seminars to teach and empower our local community",
+   "start": "2027-01-21T19:00:00-05:00",
+   "end": "2027-01-21T20:30:00-05:00",
+   "all_day": false,
+   "venue": "The Barrow Mansion",
+   "address": "83 Wayne Street, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jersey-city-bitcoin-socratic-seminar-series-tickets-1977992389483",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173014590%2F158050329676%2F1%2Foriginal.20251215-213550?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9787f4550047c0330268752f5fd20420",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Tech & Business",
+    "Learning"
+   ],
+   "free": true,
+   "path": "/events/jersey-city-bitcoin-socratic-seminar-series-jan-21-1164d9/"
   }
  ]
 }

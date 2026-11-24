@@ -206,6 +206,7 @@ def page(*, path, title, description, body, jsonld=None, image=None, noindex=Fal
 {footer()}
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="/static.js" defer></script>
+<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{{"token": "d279ee4d2ef44b568353db2e600fd994"}}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
 """

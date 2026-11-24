@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-24T05:46:23.630164-05:00",
+ "generated": "2026-11-24T11:55:43.441676-05:00",
  "sources": {
   "jersey_city_gov": 107,
   "bayonne_library": 308,
-  "hoboken_library": 119,
+  "hoboken_library": 120,
   "stevens": 45,
   "jc_families": 4,
-  "luma": 8,
+  "luma": 6,
   "ticketmaster": 15,
   "seatgeek": 22,
-  "eventbrite": 445,
+  "eventbrite": 457,
   "serpapi_google_events": 59
  },
  "events": [
@@ -176,46 +176,6 @@
    "path": "/events/autism-2026-nov-20-7a94b8/"
   },
   {
-   "id": "Bayonne Public Library:LibCal-17197-17620001",
-   "title": "BBOED Principals' Meeting",
-   "description": "This is a private meeting of the Bayonne Board of Education Principals.",
-   "start": "2026-11-24T09:15:00-05:00",
-   "end": "2026-11-24T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Small Programming Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17620001",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/bboed-principals-meeting-nov-24-c033b3/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17936655",
-   "title": "Peanuts Friendsgiving",
-   "description": "Join us at the Bayonne Public Library on Tuesday, November 24th from 10-11 am in the Gallery for a Peanuts Friendsgiving! This event is intended for ages 5 and under and their caregivers. Just like the classic Peanuts Thanksgiving movie, participants can celebrate the holiday by eating pretzel sticks, popcorn, and jelly beans. There will also be Thanksgiving crafts and games. No advanced registration is required. We hope to see you there!",
-   "start": "2026-11-24T10:00:00-05:00",
-   "end": "2026-11-24T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Gallery, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17936655",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/peanuts-friendsgiving-nov-24-5b8290/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17701583",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -236,27 +196,6 @@
    "path": "/events/esl-class-nov-24-c33421/"
   },
   {
-   "id": "hoboken-library:17683859",
-   "title": "Rise & Read",
-   "description": "Rise & Read engages toddlers and their caregivers in a story time followed by a craft! Our weekly Story Times are a great place to meet other families and join our story time community.\u00a0\n\nThis story time will feature picture books, nursery rhymes, finger plays, and music.\u00a0Through reading, talking, and singing, Story Time helps your little one develop early literacy skills.\u00a0Our rotating craft sessions are designed to engage young minds and fine-tune their artistic skills through a variety of themes and materials.\n\nThis program is geared for children 18 months to 3 years old.\n\nQuestions? Please ",
-   "start": "2026-11-24T10:30:00-05:00",
-   "end": "2026-11-24T11:30:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17683859",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Rise_n_Read_Tuesdays.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": true,
-   "path": "/events/rise-read-nov-24-ca7b92/"
-  },
-  {
    "id": "eventbrite:2003432752293",
    "title": "Jersey City Healthcare Job Fair - Jersey City Career Fair",
    "description": "Hiring in Jersey City?",
@@ -268,7 +207,7 @@
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/jersey-city-healthcare-job-fair-jersey-city-career-fair-registration-2003432752293",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195782168%2F211523508959%2F1%2Foriginal.20261014-142705?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5d3d4e78d206565da03141b50c89c066",
-   "price": "$528+",
+   "price": "Paid",
    "source": "Eventbrite",
    "categories": [
     "Tech & Business"
@@ -2558,6 +2497,27 @@
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-dec-1-60468b/"
   },
   {
+   "id": "eventbrite:2005400165880",
+   "title": "General Knowledge Trivia at Farside Tavern!",
+   "description": "Come show what you know at General Knowledge Trivia!",
+   "start": "2026-12-01T19:30:00-05:00",
+   "end": "2026-12-01T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Farside Tavern",
+   "address": "531 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-farside-tavern-tickets-2005400165880",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1062336773%2F2124635856523%2F1%2Foriginal.20250628-003304?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=f8bc837f51a6ee9fb7addd8cf089477b",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/general-knowledge-trivia-at-farside-tavern-dec-1-2eb611/"
+  },
+  {
    "id": "Stevens Institute:qDsNgy9IaQs60D930uFt",
    "title": "Lip Sync",
    "description": "Phi Sigma Sigma's Annual Lip Sync Competition",
@@ -2944,6 +2904,48 @@
    ],
    "free": true,
    "path": "/events/evening-yoga-class-dec-2-c0f3cc/"
+  },
+  {
+   "id": "eventbrite:2005400288246",
+   "title": "General Knowledge Trivia at The Ale House!",
+   "description": "Come show what you know at General Knowledge Trivia!",
+   "start": "2026-12-02T19:30:00-05:00",
+   "end": "2026-12-02T21:00:00-05:00",
+   "all_day": false,
+   "venue": "The Ale House",
+   "address": "1034 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-the-ale-house-tickets-2005400288246",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173592145%2F2124635856523%2F1%2Foriginal.20251228-053352?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.443&fp-y=0.399&s=4c362522dbbfff93f25cef128ad04014",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/general-knowledge-trivia-at-the-ale-house-dec-2-230e2d/"
+  },
+  {
+   "id": "eventbrite:2005400675404",
+   "title": "Disney Pop Culture Trivia at Black Bear!",
+   "description": "Come show what you know at Disney Pop Culture Trivia!",
+   "start": "2026-12-02T19:30:00-05:00",
+   "end": "2026-12-02T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Black Bear Hoboken Bar & Grill",
+   "address": "205 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/disney-pop-culture-trivia-at-black-bear-tickets-2005400675404",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198614159%2F2124635856523%2F1%2Foriginal.20261124-152451?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=79f9e2e076ef61e9498effff3a6eb292",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/disney-pop-culture-trivia-at-black-bear-dec-2-fe3454/"
   },
   {
    "id": "google:jeopardybarleague20261202jerseycity",
@@ -4635,6 +4637,27 @@
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-dec-8-04f63f/"
   },
   {
+   "id": "eventbrite:2005401104688",
+   "title": "Marvel Cinematic Universe Trivia",
+   "description": "Come show what you know at Marvel Cinematic Universe Trivia!",
+   "start": "2026-12-08T19:30:00-05:00",
+   "end": "2026-12-08T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Black Bear Hoboken Bar & Grill",
+   "address": "205 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/marvel-cinematic-universe-trivia-tickets-2005401104688",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1058305953%2F2124635856523%2F1%2Foriginal.20250623-011034?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa9f9352dd832252a1b21874327b5b5e",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/marvel-cinematic-universe-trivia-dec-8-faeaca/"
+  },
+  {
    "id": "google:mstdecemberopenmicnight20261208hoboken",
    "title": "MST December Open Mic Night",
    "description": "",
@@ -5162,6 +5185,48 @@
    "path": "/events/smith-myers-with-ice-nine-kills-dec-9-59c315/"
   },
   {
+   "id": "eventbrite:2005401293252",
+   "title": "General Knowledge Trivia at The Ale House!",
+   "description": "Come show what you know at General Knowledge Trivia!",
+   "start": "2026-12-09T19:30:00-05:00",
+   "end": "2026-12-09T21:00:00-05:00",
+   "all_day": false,
+   "venue": "The Ale House",
+   "address": "1034 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-the-ale-house-tickets-2005401293252",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173592145%2F2124635856523%2F1%2Foriginal.20251228-053352?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.443&fp-y=0.399&s=4c362522dbbfff93f25cef128ad04014",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/general-knowledge-trivia-at-the-ale-house-dec-9-ccb775/"
+  },
+  {
+   "id": "eventbrite:2005403307276",
+   "title": "Spongebob Trivia at Black Bear!",
+   "description": "Come show what you know at SpongebobTrivia!",
+   "start": "2026-12-09T19:30:00-05:00",
+   "end": "2026-12-09T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Black Bear Hoboken Bar & Grill",
+   "address": "205 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/spongebob-trivia-at-black-bear-tickets-2005403307276",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198617067%2F2124635856523%2F1%2Foriginal.20261124-160132?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a72847b75d297dd3d8b3cf26247af412",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/spongebob-trivia-at-black-bear-dec-9-b7b3fb/"
+  },
+  {
    "id": "google:trivianight20261209hoboken",
    "title": "Trivia Night",
    "description": "",
@@ -5423,6 +5488,26 @@
    "path": "/events/hudson-happy-hour-dec-10-e2a40b/"
   },
   {
+   "id": "hoboken-library:18004201",
+   "title": "Mad Science: Fire & Ice",
+   "description": "This spectacular show thrills audiences with impressive science experiments. The event includes foggy dry ice storms and mind-boggling vanishing paper. Students are amazed by a sizzling spoon, shivering quarter, and special bubbly showers!\n\nKids and tweens of all ages are welcome to join us!\n\nMeet us in the Multi-Service Center - Senior Room at 124 Grand St.",
+   "start": "2026-12-10T16:30:00-05:00",
+   "end": "2026-12-10T17:15:00-05:00",
+   "all_day": false,
+   "venue": "Grand Street Branch",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/18004201",
+   "image": null,
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Kids & Family"
+   ],
+   "free": true,
+   "path": "/events/mad-science-fire-ice-dec-10-0d3a5b/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17600203",
    "title": "Book a Librarian",
    "description": "Do you need help with an online application? Do you want to set up an email account but don\u2019t\n\nknow how? Do you need assistance with tracing your family tree?\n\nWhy not try the Bayonne Public Library\u2019s \u201cBook A Librarian\u201d service! Appointments are available\n\non Monday afternoons between 2:30 and 3:30 pm and on Thursday evenings between 5:30 and\n\n7:30 pm.\n\nBayonne patrons may schedule a 45-minute appointment for individualized assistance on a\n\nvariety of topics.\n\nWe can help with:\n\n\u25cf Online applications\n\n\u25cf Research including local history & genealogy\n\n\u25cf Using Library resources such as databases, ",
@@ -5501,46 +5586,6 @@
    ],
    "free": true,
    "path": "/events/jigsaw-puzzle-drop-in-dec-10-9b574c/"
-  },
-  {
-   "id": "luma:evt-pj6kkV3FziXpDHy",
-   "title": "CBS Northern NJ Alumni: Jersey City Happy Hour",
-   "description": "",
-   "start": "2026-12-10T18:00:00-05:00",
-   "end": "2026-12-10T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Archer",
-   "address": "The Archer, 176 Newark Ave, Jersey City, NJ 07302, USA",
-   "city": "Jersey City",
-   "url": "https://lu.ma/mcfk0cjv",
-   "image": "https://images.lumacdn.com/uploads/dr/a1c1a212-4707-4252-9dc7-381718e1405a.png",
-   "price": "Paid",
-   "source": "Luma",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/cbs-northern-nj-alumni-jersey-city-happy-hour-dec-10-30b88e/"
-  },
-  {
-   "id": "luma:evt-oqwEmvI9xFM5n3T",
-   "title": "Winter Happy Hour",
-   "description": "",
-   "start": "2026-12-10T18:00:00-05:00",
-   "end": "2026-12-10T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Barsky Gallery: Art Showroom and Advisory",
-   "address": "Barsky Gallery: Art Showroom and Advisory, 50 Harrison St Ground Floor, Hoboken, NJ 07030, USA",
-   "city": "Hoboken",
-   "url": "https://lu.ma/c64ph70z",
-   "image": "https://images.lumacdn.com/uploads/1l/16279f2a-fd7a-4483-9382-f2448a4499e0.png",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/winter-happy-hour-dec-10-7eea71/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17794781",
@@ -7305,6 +7350,28 @@
    "path": "/events/karaoke-night-dec-15-09d321/"
   },
   {
+   "id": "eventbrite:2005402212000",
+   "title": "Holiday Movie Trivia at Farside Tavern",
+   "description": "Come show what you know at Holiday Movie Trivia!",
+   "start": "2026-12-15T19:30:00-05:00",
+   "end": "2026-12-15T21:30:00-05:00",
+   "all_day": false,
+   "venue": "Farside Tavern",
+   "address": "531 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/holiday-movie-trivia-at-farside-tavern-tickets-2005402212000",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F900893613%2F2124635856523%2F1%2Foriginal.20241118-001702?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=def95b9939d7a0129733662f13621cd4",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/holiday-movie-trivia-at-farside-tavern-dec-15-c48bbd/"
+  },
+  {
    "id": "hoboken-library:17995298",
    "title": "Pop-Up Library",
    "description": "Librarians from the Hoboken Public Library are so excited to bring a Pop-Up Library to Connors Elementary School! During the Pop-Up Library Visit you can:\n\nPick out 1 new book to borrow\n\nReturn any library items you have at home or at school\n\nQuestions? Email Ms. Val at valerie.coughlin@hobokenlibrary.org.",
@@ -7776,6 +7843,48 @@
    "path": "/events/jersey-city-connects-winter-paint-sip-cozy-gnome-art-ni-dec-16-a15865/"
   },
   {
+   "id": "eventbrite:2005402556029",
+   "title": "General Knowledge Trivia- POINTS 4 PUPS NIGHT!",
+   "description": "Come show what you know at General Knowledge Trivia!",
+   "start": "2026-12-16T19:30:00-05:00",
+   "end": "2026-12-16T21:00:00-05:00",
+   "all_day": false,
+   "venue": "The Ale House",
+   "address": "1034 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-points-4-pups-night-tickets-2005402556029",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183189319%2F2124635856523%2F1%2Foriginal.20260428-033259?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e5b0dccbf0265bab646d599b3ef50976",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/general-knowledge-trivia-points-4-pups-night-dec-16-929dc6/"
+  },
+  {
+   "id": "eventbrite:2005402842887",
+   "title": "General Knowledge Trivia at Black Bear!",
+   "description": "Come show what you know at General Knowledge Trivia!",
+   "start": "2026-12-16T19:30:00-05:00",
+   "end": "2026-12-16T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Black Bear Hoboken Bar & Grill",
+   "address": "205 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-black-bear-tickets-2005402842887",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1080038183%2F2124635856523%2F1%2Foriginal.20250723-212702?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=5e30567978a543c8ae14f5ac33641a23",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/general-knowledge-trivia-at-black-bear-dec-16-605b56/"
+  },
+  {
    "id": "eventbrite:2004916830210",
    "title": "Live Animals Onstage! Presents THE ZOO: a Mini Gala",
    "description": "Join us for an evening of theater and fundraising for the Brooklyn-based, DIY theater company, Live Animals Onstage!",
@@ -8059,6 +8168,27 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-dec-17-c0cdc2/"
+  },
+  {
+   "id": "eventbrite:2005040300513",
+   "title": "Jersey City Connects | Dinner Club: 20s | Social Dinner",
+   "description": "Meet new friends in your 20s over great food and chill vibes at a social dinner you won\u2019t want to miss.",
+   "start": "2026-12-17T19:00:00-05:00",
+   "end": "2026-12-17T21:30:00-05:00",
+   "all_day": false,
+   "venue": "ITA Italian Kitchen",
+   "address": "682 Bergen Avenue, Jersey City, NJ 07304",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/jersey-city-connects-dinner-club-20s-social-dinner-tickets-2005040300513",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198255336%2F3018376597838%2F1%2Foriginal.20261118-170546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e43bc250597f764911fb82834b428070",
+   "price": "$13+",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Food & Drink"
+   ],
+   "free": false,
+   "path": "/events/jersey-city-connects-dinner-club-20s-social-dinner-dec-17-fb8be0/"
   },
   {
    "id": "eventbrite:1977992388480",
@@ -9427,6 +9557,48 @@
    ],
    "free": false,
    "path": "/events/tally-ho-guest-bartender-frankie-z-dec-23-c692b5/"
+  },
+  {
+   "id": "eventbrite:2005403120718",
+   "title": "General Knowledge Trivia at The Ale House!",
+   "description": "Come show what you know at General Knowledge Trivia!",
+   "start": "2026-12-23T19:30:00-05:00",
+   "end": "2026-12-23T21:00:00-05:00",
+   "all_day": false,
+   "venue": "The Ale House",
+   "address": "1034 Willow Avenue, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-at-the-ale-house-tickets-2005403120718",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173592145%2F2124635856523%2F1%2Foriginal.20251228-053352?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.443&fp-y=0.399&s=4c362522dbbfff93f25cef128ad04014",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/general-knowledge-trivia-at-the-ale-house-dec-23-c6f05c/"
+  },
+  {
+   "id": "eventbrite:2005403502861",
+   "title": "General Knowledge Trivia- End of Year Holiday Party",
+   "description": "Come show what you know at General Knowledge Trivia!",
+   "start": "2026-12-23T19:30:00-05:00",
+   "end": "2026-12-23T21:00:00-05:00",
+   "all_day": false,
+   "venue": "Black Bear Hoboken Bar & Grill",
+   "address": "205 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/general-knowledge-trivia-end-of-year-holiday-party-tickets-2005403502861",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171057781%2F2124635856523%2F1%2Foriginal.20251115-232325?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d8be0f76df401afa929adc49b800bcc9",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/general-knowledge-trivia-end-of-year-holiday-party-dec-23-c6798e/"
   },
   {
    "id": "eventbrite:1986851358899",
@@ -12961,6 +13133,46 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-jan-22-2fdf7c/"
+  },
+  {
+   "id": "Stevens Institute:ZPTsAF7wv6JzYK0Un8TC",
+   "title": "Stevens Swimming vs Ursinus",
+   "description": "Sports Game",
+   "start": "2027-01-23T11:00:00-05:00",
+   "end": "2027-01-23T17:00:00-05:00",
+   "all_day": false,
+   "venue": "Schaefer Swimming Pool",
+   "address": "Schaefer Swimming Pool",
+   "city": "Hoboken",
+   "url": "https://events.stevens.edu/",
+   "image": null,
+   "price": null,
+   "source": "Stevens Institute",
+   "categories": [
+    "Sports"
+   ],
+   "free": false,
+   "path": "/events/stevens-swimming-vs-ursinus-jan-23-ec0602/"
+  },
+  {
+   "id": "Stevens Institute:kzxfyFu7ymNZMnvOg5CF",
+   "title": "Stevens Women's Basketball vs Marywood",
+   "description": "Sports Game",
+   "start": "2027-01-23T11:30:00-05:00",
+   "end": "2027-01-23T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Schaefer Canavan Arena (Entire Arena)",
+   "address": "Schaefer Canavan Arena (Entire Arena)",
+   "city": "Hoboken",
+   "url": "https://events.stevens.edu/",
+   "image": null,
+   "price": null,
+   "source": "Stevens Institute",
+   "categories": [
+    "Sports"
+   ],
+   "free": false,
+   "path": "/events/stevens-women-s-basketball-vs-marywood-jan-23-a42a8c/"
   }
  ]
 }

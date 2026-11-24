@@ -286,9 +286,10 @@
     }
     if (list.length > state.shown) body += `<button type="button" class="btn show-more" data-act="more">Show more (${list.length - state.shown} left)</button>`;
 
+    const nActive = (q.city ? 1 : 0) + (q.cat ? 1 : 0) + (q.free && preset !== "free" ? 1 : 0);
     return `<div class="wrap layout">
       <details class="sidebar" ${window.innerWidth > 800 ? "open" : ""}>
-        <summary>Filters</summary>
+        <summary><svg class="f-ico" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M7 12h10M10 17h4"/></svg><span class="f-lbl">Filter events</span>${nActive ? `<span class="f-count" aria-label="${nActive} active">${nActive}</span>` : ""}<svg class="f-chev" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></summary>
         <h2 class="side-h">City</h2>
         <ul class="side-list">${cityItems.map(([slug, name, cls, n]) => `<li><a href="${link({ city: slug })}" aria-current="${(q.city || "") === slug}"><span class="dot ${cls}"></span>${esc(name)}<span class="n">${n}</span></a></li>`).join("")}</ul>
         <h2 class="side-h">Events</h2>

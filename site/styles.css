@@ -26,8 +26,9 @@
   --radius: 6px;
   --shadow: 0 1px 2px rgba(14, 42, 67, .08), 0 4px 14px rgba(14, 42, 67, .07);
   --shadow-hover: 0 2px 4px rgba(14, 42, 67, .12), 0 10px 26px rgba(14, 42, 67, .14);
-  --display: Fraunces, Georgia, "Times New Roman", serif;
+  --display: Newsreader, Georgia, "Times New Roman", serif;
   --wave: none;
+  --logo-faint: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cg opacity='.14'%3E%3Crect x='3' y='5.5' width='26' height='23.5' rx='4.1' fill='%230e2a43'/%3E%3Cpath d='M3 11.8V9.6A4.1 4.1 0 0 1 7.1 5.5H24.9A4.1 4.1 0 0 1 29 9.6V11.8Z' fill='%23174a73'/%3E%3Cpath d='M10 2.8v5.2M22 2.8v5.2' stroke='%230e2a43' stroke-width='2.5' stroke-linecap='round' fill='none'/%3E%3Ccircle cx='7.4' cy='15.2' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='11.7' cy='15.2' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='16.0' cy='15.2' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='20.3' cy='15.2' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='24.6' cy='15.2' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='7.4' cy='18.1' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='11.7' cy='18.1' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='16.0' cy='18.1' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='20.3' cy='18.1' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='24.6' cy='18.1' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='7.4' cy='21.0' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='11.7' cy='21.0' r='1.38' fill='%23e2dfd4'/%3E%3Cpath fill='%23e2dfd4' transform='translate(12.50 17.50) scale(0.2917)' d='M12 2C12.6 8 16 11.4 22 12 16 12.6 12.6 16 12 22 11.4 16 8 12.6 2 12 8 11.4 11.4 8 12 2Z'/%3E%3Ccircle cx='20.3' cy='21.0' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='24.6' cy='21.0' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='7.4' cy='23.9' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='11.7' cy='23.9' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='16.0' cy='23.9' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='20.3' cy='23.9' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='24.6' cy='23.9' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='7.4' cy='26.8' r='1.38' fill='%23e2dfd4'/%3E%3Ccircle cx='11.7' cy='26.8' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='16.0' cy='26.8' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='20.3' cy='26.8' r='1.38' fill='%23e2dfd4' opacity='.2'/%3E%3Ccircle cx='24.6' cy='26.8' r='1.38' fill='%23e2dfd4'/%3E%3C/g%3E%3C/svg%3E");   /* placeholder for events without an image */
   /* logo colours: override per town */
   --logo-fg: #f3efe4;
   --logo-hi: #8fbfe6;
@@ -108,11 +109,13 @@ main { outline: none; }
 
 /* home */
 .hero { padding: 64px 0 34px; }
-.hero h1 { font-size: clamp(46px, 8vw, 96px); max-width: 14ch; }
+.hero h1 { font-size: clamp(40px, 6vw, 76px); max-width: none; white-space: nowrap; }
+@media (max-width: 700px) { .hero h1 { white-space: normal; text-wrap: balance; font-size: clamp(36px, 10.5vw, 46px); } }
 .hero-search { margin-top: 30px; max-width: 580px; display: flex; align-items: center; gap: 10px; background: var(--panel); border: 1px solid var(--line-strong); border-radius: 6px; padding: 0 18px; color: var(--muted); box-shadow: var(--shadow); }
 .hero-search input { background: none; border: 0; outline: none; color: var(--ink); font: inherit; font-size: 16px; padding: 15px 0; width: 100%; }
 .hero-search:focus-within { border-color: var(--ink); }
 .hero .chips { margin-top: 18px; }
+.hero .tagline { margin: 20px 0 0; font-family: var(--display); font-style: italic; font-weight: 500; font-size: clamp(20px, 2.6vw, 28px); color: var(--accent-text); letter-spacing: -.005em; }
 .cities { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin: 14px 0 8px; }
 .city-card { text-decoration: none; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 22px; display: flex; flex-direction: column; gap: 4px; position: relative; overflow: hidden; box-shadow: var(--shadow); border-top: 5px solid var(--dim); transition: box-shadow .15s, transform .15s; }
 .city-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
@@ -173,6 +176,7 @@ main { outline: none; }
 .row-main:hover .row-title { color: var(--accent); }
 .thumb { flex: none; width: 52px; height: 52px; border-radius: 4px; background: var(--panel-2); overflow: hidden; border: 1px solid var(--line); }
 .thumb img { width: 100%; height: 100%; object-fit: cover; }
+.thumb:empty { background: var(--logo-faint) center / 78% no-repeat, var(--panel-2); }
 .row-text { min-width: 0; display: flex; flex-direction: column; }
 .row-title { font-weight: 700; font-size: 15.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .row-sub { color: var(--muted); font-size: 13.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -213,7 +217,7 @@ main { outline: none; }
 .card-link { display: flex; flex-direction: column; text-decoration: none; height: 100%; }
 .card .media { aspect-ratio: 16/9; background: var(--panel-2); position: relative; overflow: hidden; }
 .card .media img { width: 100%; height: 100%; object-fit: cover; position: relative; z-index: 1; }
-.card .media .ph { position: absolute; inset: 0; display: grid; place-items: center; font-family: var(--display); font-style: italic; font-size: 30px; color: var(--line-strong); background: var(--wave) repeat-x center 75%, var(--panel-2); }
+.card .media .ph { position: absolute; inset: 0; font-size: 0; color: transparent; background: var(--logo-faint) center / auto 58% no-repeat, var(--panel-2); }
 .card .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 4px; }
 .card .cat { font-size: 11px; font-weight: 700; letter-spacing: .07em; color: var(--accent); text-transform: uppercase; padding-right: 76px; min-height: 16px; }
 .card .ttl { font-weight: 700; font-size: 16px; line-height: 1.3; }
@@ -273,6 +277,7 @@ main { outline: none; }
 .footer li { margin: 6px 0; }
 .footer a { color: var(--on-bar-muted); text-decoration: none; font-size: 14px; }
 .footer a:hover { color: var(--accent-light); }
+.footer p.foot-tag { font-family: var(--display); font-style: italic; font-weight: 500; font-size: 17px; color: var(--on-bar); margin: 0 0 12px; }
 .footer .foot-contact { line-height: 1.7; }
 .footer .foot-contact a { color: var(--on-bar); text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
 .footer p { color: var(--on-bar-muted); font-size: 13.5px; margin: 0 0 10px; }

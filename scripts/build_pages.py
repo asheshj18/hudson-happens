@@ -165,7 +165,7 @@ def footer():
   <div><h4>Towns</h4><ul>{towns}</ul></div>
   <div><h4>This weekend</h4><ul>{weekend}<li><a href="/this-weekend/">Everywhere this weekend</a></li></ul></div>
   <div><h4>Free &amp; family</h4><ul>{free}<li><a href="/kids/">With the kids</a></li><li><a href="/live-music/">Live music</a></li></ul></div>
-  <div><h4>Hudson Happens</h4><p>Events across Jersey City, Hoboken and Bayonne in one calendar, updated three times a day.</p>
+  <div><h4>Hudson Happens</h4><p class="foot-tag">Never miss what's happening.</p><p>Events across Jersey City, Hoboken and Bayonne in one calendar, updated three times a day.</p>
   <p>Details come from each organizer. Check the original listing before you go.</p><p><a href="/venues/">All venues</a> · <a href="/">Home</a></p>
   <p class="foot-contact">Questions or a missing event? <a href="mailto:info@hudsonhappens.com">info@hudsonhappens.com</a><br>Advertise with us: <a href="mailto:query@hudsonhappens.com">query@hudsonhappens.com</a></p></div>
 </div></footer>"""
@@ -195,7 +195,7 @@ def page(*, path, title, description, body, jsonld=None, image=None, noindex=Fal
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,700;1,6..72,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/styles.css">
 {ld}</head>
 <body>

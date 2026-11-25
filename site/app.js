@@ -9,6 +9,7 @@
   const CITY_BY_NAME = Object.fromEntries(CITIES.map((c) => [c.name, c]));
   const CITY_BY_SLUG = Object.fromEntries(CITIES.map((c) => [c.slug, c]));
   const PAGE = 40;
+  const TAGLINE = "Never miss what's happening."; // brand line; same for every town
   const app = document.getElementById("app");
 
   let events = [];
@@ -171,8 +172,7 @@
     return `<div class="wrap">
       <section class="hero">
         <p class="kicker">${added.toLocaleString()} things on the calendar · Jersey City · Hoboken · Bayonne</p>
-        <h1 class="display">What's happening on <span class="hl">our side of the river.</span></h1>
-        <div class="wave" aria-hidden="true"></div>
+        <h1 class="display">Never miss what's <span class="hl">happening.</span></h1>
         <form class="hero-search" role="search" data-search>
           ${ICON_SEARCH}<label class="sr-only" for="hero-q">Search events, venues, neighborhoods</label>
           <input id="hero-q" name="q" type="search" placeholder="Try “farmers market”, “jazz” or “Grove St”…" autocomplete="off">
@@ -572,6 +572,7 @@
         <li><a href="#/weekend">This weekend</a></li><li><a href="#/free" style="color:var(--free)">Free events</a></li>
         <li><a href="#/saved">Saved</a></li><li><a href="#/pick">Help me pick</a></li><li><a href="#/spontaneous">Surprise me</a></li></ul></div>
       <div><h4>Hudson Happens</h4>
+        <p class="foot-tag">${esc(TAGLINE)}</p>
         <p>Events across Jersey City, Hoboken and Bayonne in one calendar.</p>
         ${generated ? `<p>Updated ${esc(new Date(generated.generated).toLocaleString("en-US", { timeZone: TZ, dateStyle: "medium", timeStyle: "short" }))}</p>` : ""}
         ${srcs.length ? `<p>Sources: ${esc(srcs.join(", "))}</p>` : ""}

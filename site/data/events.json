@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-24T17:46:26.357794-05:00",
+ "generated": "2026-11-24T23:50:58.261503-05:00",
  "sources": {
   "jersey_city_gov": 107,
   "bayonne_library": 308,
-  "hoboken_library": 120,
+  "hoboken_library": 116,
   "stevens": 45,
   "jc_families": 4,
   "luma": 6,
-  "ticketmaster": 15,
-  "seatgeek": 23,
-  "eventbrite": 455,
+  "ticketmaster": 16,
+  "seatgeek": 24,
+  "eventbrite": 454,
   "serpapi_google_events": 90
  },
  "events": [
@@ -176,169 +176,6 @@
    "path": "/events/autism-2026-nov-20-7a94b8/"
   },
   {
-   "id": "eventbrite:1987134045422",
-   "title": "Hudson Happy Hour",
-   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
-   "start": "2026-11-24T16:00:00-05:00",
-   "end": "2026-11-24T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134045422",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hudson-happy-hour-nov-24-af9a03/"
-  },
-  {
-   "id": "Stevens Institute:IFJ7GTKCMxBRqrUHS3Af",
-   "title": "Stevens Men's Basketball vs Baruch",
-   "description": "Sports Game",
-   "start": "2026-11-24T17:00:00-05:00",
-   "end": "2026-11-24T21:30:00-05:00",
-   "all_day": false,
-   "venue": "Schaefer Canavan Arena (Entire Arena)",
-   "address": "Schaefer Canavan Arena (Entire Arena)",
-   "city": "Hoboken",
-   "url": "https://events.stevens.edu/",
-   "image": null,
-   "price": null,
-   "source": "Stevens Institute",
-   "categories": [
-    "Sports"
-   ],
-   "free": false,
-   "path": "/events/stevens-men-s-basketball-vs-baruch-nov-24-61d739/"
-  },
-  {
-   "id": "eventbrite:2002475759903",
-   "title": "Jazz Nights at The Exchange",
-   "description": "Enjoy live jazz, cocktails, and skyline views at The Exchange. Bar access only. Dining reservations booked separately.",
-   "start": "2026-11-24T18:00:00-05:00",
-   "end": "2026-11-24T21:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jazz-nights-at-the-exchange-tickets-2002475759903",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194571081%2F2894508074541%2F1%2Foriginal.20260928-213629?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f551421040ad86f554104cd74af8eca9",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": true,
-   "path": "/events/jazz-nights-at-the-exchange-nov-24-f61ef0/"
-  },
-  {
-   "id": "hoboken-library:17166407",
-   "title": "Board of Trustees Meeting",
-   "description": "The Hoboken Public Library Board of Trustees meets on the Fourth Tuesday of the month, at 6:30 pm at the Hoboken Public Library, 500 Park Avenue, Hoboken, NJ.\u00a0 Meetings are held in the Large Program Room in the Main Library\u2019s Lower Level.\u00a0 These meetings are open to the public.\n\nOption to join on Zoom: https://us02web.zoom.us/j/81434763989",
-   "start": "2026-11-24T18:30:00-05:00",
-   "end": "2026-11-24T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Main Library",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17166407",
-   "image": null,
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/board-of-trustees-meeting-nov-24-26c28b/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16329541",
-   "title": "Bayonne Historical Society Executive Board Meeting",
-   "description": "There will be a regular meeting of the Bayonne Historical Society Executive Board.",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": "2026-11-24T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classroom B, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16329541",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Civic",
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/bayonne-historical-society-executive-board-meeting-nov-24-47ccf4/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-17491183",
-   "title": "Women's Support  Group",
-   "description": "The group would provide a safe and welcoming space for women to discuss current challenges they may be facing, connect with others, and learn practical coping strategies and tools to support their emotional well-being. The meetings would be free of charge, held weekly, and open to women in the community.",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": "2026-11-24T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Classrooms C&D, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/17491183",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/women-s-support-group-nov-24-231c20/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-16178893",
-   "title": "Yarn Group & Knitting Class",
-   "description": "Join Susan Averello at the Bayonne Public Library for a yarn group & knitting class! She has been knitting for over 30 years and she can also crochet. She has worked at Michaels as a knitting teacher and with Crafty Fox Studios until the studio closed. \n\nThe group will meet on Tuesdays from 7-8:30 pm in the Art & Music Room on the 2nd floor of the Bayonne Public Library.\n\nAll experience levels are welcome, including those who would like to learn. No registration is required. \n\nIf you are an experienced knitter or crocheter, please bring with you whatever project you're currently working on. Fr",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": "2026-11-24T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Art & Music, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/16178893",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture",
-    "Learning"
-   ],
-   "free": true,
-   "path": "/events/yarn-group-knitting-class-nov-24-22e754/"
-  },
-  {
-   "id": "eventbrite:1397814644229",
-   "title": "Taco Tuesdays at Madd Hatter",
-   "description": "Unlimited Tacos every Tuesday at the madd hatter",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": "2026-11-24T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/taco-tuesdays-at-madd-hatter-tickets-1397814644229",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1046383773%2F1927671691523%2F1%2Foriginal.20250605-061908?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481082800663&fp-y=0.555270522388&s=5600ffa6cc73c5e57593a6505864a6a3",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/taco-tuesdays-at-madd-hatter-nov-24-54a428/"
-  },
-  {
    "id": "eventbrite:1984580526779",
    "title": "Taco & Tequila Tuesdays at The Exchange",
    "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
@@ -357,126 +194,6 @@
    ],
    "free": true,
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-24-242c47/"
-  },
-  {
-   "id": "eventbrite:2004109305883",
-   "title": "Jersey City Connects | Couples Mixer | Meet Other Couples in Jersey City",
-   "description": "Switch up your date night with great food, fun conversations, and other local couples in Jersey City!",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": "2026-11-24T21:30:00-05:00",
-   "all_day": false,
-   "venue": "Luna",
-   "address": "279 Grove Street, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-connects-couples-mixer-meet-other-couples-in-jersey-city-tickets-2004109305883",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196911271%2F3018376597838%2F1%2Foriginal.20261030-065301?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c6835a46c1997b9c5dc08a7c79e59415",
-   "price": "$42+",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-connects-couples-mixer-meet-other-couples-i-nov-24-833fef/"
-  },
-  {
-   "id": "google:karaokeatmaddhatter20261124hoboken",
-   "title": "Karaoke at Madd Hatter",
-   "description": "",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/events/madd-hatter-hoboken-221-washington-street-hoboken-nj-07030-us/karaoke-at-madd-hatter/1788516362380243/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX0SRtLH-7u6utVksW4yt_n-xfIEts7U7Yo_wG7GJ36wRzRv2Xhas3acqEC2OmVeE3wKqB_5Rn1kL1Egs",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/karaoke-at-madd-hatter-nov-24-4ec52f/"
-  },
-  {
-   "id": "google:tacotuesdays20261124hoboken",
-   "title": "Taco Tuesdays",
-   "description": "",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b060c70c85051bccd7454ad/images/217A4cEoCiw0l1VJB_G6-2C3sNZOzReVZ0r1UyBk-SA.jpg",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/taco-tuesdays-nov-24-afa2b7/"
-  },
-  {
-   "id": "google:dungeonsanddragonstuesday20261124hoboken",
-   "title": "Dungeons and Dragons Tuesday",
-   "description": "",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Play! Hoboken",
-   "address": "Play! Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.facebook.com/events/1012-grand-street-fl3-hoboken-nj-united-states-new-jersey-07030/dungeons-and-dragons-tuesday-beginner-friendly/2009901183223073/",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRycl82reNDwC2TMPGxUJ7gq7vwFpdKFy21ZZt25n-JRXSIyP3TbpNfvXShBrz4PyvWfRbyXe1y8D40I8",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/dungeons-and-dragons-tuesday-nov-24-325ce3/"
-  },
-  {
-   "id": "google:2000spopculturetrivia20261124jerseycity",
-   "title": "2000's Pop Culture Trivia",
-   "description": "",
-   "start": "2026-11-24T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Bergen Hall",
-   "address": "Bergen Hall, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.facebook.com/events/bergen-hall-58-maple-street-jersey-city-nj-07304-us/2000s-pop-culture-trivia/1133379482813413/",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ejR7_MOLHOsvO8dM3fuQqVwDYTlNiPfQjao8ps01ilxP5rRWwzbe9WVh7DUC1aEHd7QEmnFjIBWqeew",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/2000-s-pop-culture-trivia-nov-24-42d5ca/"
-  },
-  {
-   "id": "google:fullbandperformance20261124jerseycity",
-   "title": "Full Band Performance",
-   "description": "",
-   "start": "2026-11-24T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Blue Anchor",
-   "address": "Blue Anchor, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.facebook.com/photo.php?fbid=1765485258917120&set=gm.2559746751189030&type=3",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVCsgQzOLGn9hHAR8bzD8acx2Kn0qMrLA6k-yfiGt3kok_4RqhY1tur5EYifiy5EdoyR8yL1OGsEJPxM",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/full-band-performance-nov-24-18ccaa/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17701584",
@@ -823,27 +540,6 @@
    ],
    "free": true,
    "path": "/events/city-council-meeting-nov-25-335298/"
-  },
-  {
-   "id": "Bayonne Public Library:LibCal-17197-15977894",
-   "title": "Chess Club (Ages 8-18)",
-   "description": "Join us at Bayonne Public Library for a Chess Club with Phil Rosado! Phil is the author of \u201cMind Matter: Welcome to Chess!\u201d This weekly class for ages 8-18 meets from 6-7 pm in the Children\u2019s Room. Attendees will learn how to play chess and meet other novices. Advanced registration is required for every session that you plan to attend. Walk-ins will be included if space permits.",
-   "start": "2026-11-25T18:00:00-05:00",
-   "end": "2026-11-25T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Children's Room, Bayonne Public Library, 697 Avenue C",
-   "city": "Bayonne",
-   "url": "https://bayonnelibrary.libcal.com/event/15977894",
-   "image": null,
-   "price": "Free",
-   "source": "Bayonne Public Library",
-   "categories": [
-    "Kids & Family",
-    "Sports"
-   ],
-   "free": true,
-   "path": "/events/chess-club-ages-8-18-nov-25-b03948/"
   },
   {
    "id": "luma:evt-OmmNPGWj5KBp3P2",
@@ -2453,6 +2149,27 @@
    "path": "/events/jersey-city-connects-book-swap-dec-free-books-dec-1-7eaba5/"
   },
   {
+   "id": "eventbrite:2005427565834",
+   "title": "Community Meeting with Mayor James Solomon",
+   "description": "Join Mayor Solomon and the Washington Park Association\u00a0for a community meeting focused on the issues affecting residents .",
+   "start": "2026-12-01T18:30:00-05:00",
+   "end": "2026-12-01T19:30:00-05:00",
+   "all_day": false,
+   "venue": "St. John's Lutheran Church",
+   "address": "155 North Street, Jersey City, NJ 07307",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2005427565834",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198646871%2F274366617814%2F1%2Foriginal.20261124-225310?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.876&fp-y=0.526&s=9dd5413e2a39b26a7e73d2f1d6d86a20",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-meeting-with-mayor-james-solomon-dec-1-d99dd8/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-15913032",
    "title": "Library Board of Trustees Meeting",
    "description": "BAYONNE PUBLIC LIBRARY BOARD OF TRUSTEES\n\nSchedule of Meeting Dates for 2026\n\n \n\nTuesday, January 6, 2026 at 7:00 p.m.\n\nTuesday, February 3, 2026 at 7:00 p.m.\n\nTuesday, March 3, 2026 at 7:00 p.m.\n\nTuesday, April 14, 2026 at 7:00 p.m.\n\nTuesday, May 5, 2026 at 7:00 p.m.\n\nTuesday, June 2, 2026 at 7:00 p.m.\n\nTuesday, September 1, 2026 at 7:00 p.m.\n\nTuesday, October 6, 2026 at 7:00 p.m.\n\nTuesday, November 10, 2026 at 7:00 p.m.\n\nTuesday, December 1, 2026 at 7:00 p.m.\n\n \n\nAll meetings will take place in the Board Room of the Bayonne Public Library, located at 697 Ave C, Bayonne, NJ 07002. \n\n \n\nAll me",
@@ -3246,6 +2963,27 @@
    ],
    "free": false,
    "path": "/events/mob-wife-mahj-our-holiday-party-dec-3-297af7/"
+  },
+  {
+   "id": "eventbrite:2005427480579",
+   "title": "Community Meeting with Mayor James Solomon",
+   "description": "Join Mayor Solomon and the Historic Paulus Hook Association for a community meeting focused on the issues affecting residents .",
+   "start": "2026-12-03T18:00:00-05:00",
+   "end": "2026-12-03T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Saints Peter and Paul Orthodox Cathedral",
+   "address": "109 Grand Street, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/community-meeting-with-mayor-james-solomon-tickets-2005427480579",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198646596%2F274366617814%2F1%2Foriginal.20261124-224933?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.843&fp-y=0.496&s=66be581ee31ff325b88ba6375e6f6278",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Community",
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-meeting-with-mayor-james-solomon-dec-3-0456f1/"
   },
   {
    "id": "eventbrite:2004156921302",
@@ -13691,6 +13429,69 @@
    ],
    "free": false,
    "path": "/events/rider-broncs-at-saint-peter-s-peacocks-womens-basketbal-jan-23-dfe8ed/"
+  },
+  {
+   "id": "eventbrite:1406594695599",
+   "title": "Dance Party at Madd Hatter",
+   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
+   "start": "2027-01-23T19:00:00-05:00",
+   "end": "2027-01-23T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594695599",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Music",
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": true,
+   "path": "/events/dance-party-at-madd-hatter-jan-23-69d326/"
+  },
+  {
+   "id": "ticketmaster:vv1FFZ_fjb77ZdCAA",
+   "title": "Gary\u00a0Owen: No Hard Feelings Tour",
+   "description": "Door time: 7:00PM Show time: 8:00PM All set times and opening acts are subject to change without notice. AGE RESTRICTION: 12+ Recommended",
+   "start": "2027-01-23T20:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Loew's Jersey Theatre",
+   "address": "54 Journal Square Plaza",
+   "city": "Jersey City",
+   "url": "https://www.ticketmaster.com/gary-owen-no-hard-feelings-tour-jersey-city-new-jersey-01-23-2027/event/0200654718104D44",
+   "image": "https://s1.ticketm.net/dam/a/abf/6eb4a789-e1f0-4d3c-aa1e-fca35eff7abf_SOURCE",
+   "price": "Paid",
+   "source": "Ticketmaster",
+   "categories": [
+    "Arts & Culture",
+    "Comedy"
+   ],
+   "free": false,
+   "path": "/events/gary-owen-no-hard-feelings-tour-jan-23-9be2c9/"
+  },
+  {
+   "id": "seatgeek:18704405",
+   "title": "Gary Owen",
+   "description": "",
+   "start": "2027-01-23T20:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Loew's Jersey Theatre",
+   "address": "54 Journal Square Plaza",
+   "city": "Jersey City",
+   "url": "https://seatgeek.com/gary-owen-tickets/comedy/2027-01-23-8-pm/18704405",
+   "image": null,
+   "price": "Paid",
+   "source": "SeatGeek",
+   "categories": [
+    "Comedy"
+   ],
+   "free": false,
+   "path": "/events/gary-owen-jan-23-944430/"
   }
  ]
 }

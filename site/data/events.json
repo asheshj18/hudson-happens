@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-25T05:48:40.212391-05:00",
+ "generated": "2026-11-25T11:56:12.912248-05:00",
  "sources": {
   "jersey_city_gov": 106,
   "bayonne_library": 304,
   "hoboken_library": 116,
   "stevens": 45,
   "jc_families": 4,
-  "luma": 6,
+  "luma": 7,
   "ticketmaster": 16,
   "seatgeek": 24,
   "eventbrite": 454,
@@ -214,26 +214,6 @@
    ],
    "free": true,
    "path": "/events/esl-class-nov-25-02b86d/"
-  },
-  {
-   "id": "hoboken-library:17683868",
-   "title": "Toddler Story Time",
-   "description": "Through reading, talking, singing, and dancing, Toddler Story Time helps your little one develop their early literacy skills with a focus on phonological awareness, vocabulary expansion, and print awareness.\n\nAttending story times regularly helps prep your toddler for the transition to preschool as they develop the necessary listening and social skills they\u2019ll need in the classroom.\n\nThis program is geared for children 18 months to 3 years old.\n\nQuestions? Please email grandstreet@hobokenlibrary.org.",
-   "start": "2026-11-25T10:30:00-05:00",
-   "end": "2026-11-25T11:00:00-05:00",
-   "all_day": false,
-   "venue": "Grand Street Branch",
-   "address": "500 Park Ave, Hoboken",
-   "city": "Hoboken",
-   "url": "https://hobokenlibrary.libnet.info/event/17683868",
-   "image": "https://hobokenlibrary.libnet.info/images/events/hobokenlibrary/Toddler_Story_Time.png",
-   "price": "Free",
-   "source": "Hoboken Public Library",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": true,
-   "path": "/events/toddler-story-time-nov-25-4b257b/"
   },
   {
    "id": "hoboken-library:17726738",
@@ -3802,6 +3782,26 @@
    "path": "/events/city-caucus-meeting-dec-7-d37c0a/"
   },
   {
+   "id": "luma:evt-kiPrpmuRI6TQ00A",
+   "title": "\ud83e\udd0eBayonne Chapter Coffee + Connect\u2615\ufe0f",
+   "description": "",
+   "start": "2026-12-07T09:30:00-05:00",
+   "end": "2026-12-07T10:30:00-05:00",
+   "all_day": false,
+   "venue": "tati's cafe",
+   "address": "tati's cafe, 589 Broadway, Bayonne, NJ 07002, USA",
+   "city": "Bayonne",
+   "url": "https://lu.ma/t759fb68",
+   "image": "https://images.lumacdn.com/uploads/b8/7c53a03a-0468-4931-86c3-ca1819ca988a.jpg",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/bayonne-chapter-coffee-connect-dec-7-5461a6/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17701590",
    "title": "ESL Class",
    "description": "Would you like to learn English? Would you like to improve? Learn English to improve your understanding and use of English. You will learn grammar in use, vocabulary, and speaking.\n\nJoin Bayonne Adult ESL at the Bayonne Public Library in Classroom B in the basement for ESL classes! Classes will run October 12th through December 18th. Morning classes will be held from 10 am to 12 pm on Mondays through Thursdays. Evening classes will be held from 6:30 pm to 8:30 pm on Wednesdays and Thursdays.\n\nRegister at www.bayonneadultesl.org \n\n***In-person registration and placement testing will be held at ",
@@ -4559,8 +4559,8 @@
    "start": "2026-12-08T19:30:00-05:00",
    "end": "2026-12-08T21:00:00-05:00",
    "all_day": false,
-   "venue": "Black Bear Hoboken Bar & Grill",
-   "address": "205 Washington Street, Hoboken, NJ 07030",
+   "venue": "Farside Tavern",
+   "address": "531 Washington Street, Hoboken, NJ 07030",
    "city": "Hoboken",
    "url": "https://www.eventbrite.com/e/marvel-cinematic-universe-trivia-tickets-2005401104688",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1058305953%2F2124635856523%2F1%2Foriginal.20250623-011034?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa9f9352dd832252a1b21874327b5b5e",

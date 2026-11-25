@@ -562,7 +562,6 @@
 
   function footer() {
     const cats = [...new Set(events.flatMap((e) => e.categories))].sort();
-    const srcs = generated ? Object.entries(generated.sources).filter(([, n]) => typeof n === "number" && n > 0).map(([s]) => s.replace(/_/g, " ")) : [];
     return `
       <div><h4>Categories</h4><ul>${cats.map((c) => `<li><a href="#/events?cat=${encodeURIComponent(c)}">${esc(c)}</a></li>`).join("")}</ul></div>
       <div><h4>Towns</h4><ul>${CITIES.map((c) => `<li><a href="/${c.slug}/">Things to do in ${esc(c.name)}</a></li>`).join("")}
@@ -573,11 +572,9 @@
         <li><a href="#/saved">Saved</a></li><li><a href="#/pick">Help me pick</a></li><li><a href="#/spontaneous">Surprise me</a></li></ul></div>
       <div><h4>Hudson Happens</h4>
         <p class="foot-tag">${esc(TAGLINE)}</p>
-        <p>Events across Jersey City, Hoboken and Bayonne in one calendar.</p>
         ${generated ? `<p>Updated ${esc(new Date(generated.generated).toLocaleString("en-US", { timeZone: TZ, dateStyle: "medium", timeStyle: "short" }))}</p>` : ""}
-        ${srcs.length ? `<p>Sources: ${esc(srcs.join(", "))}</p>` : ""}
         <p>Details come from each organizer. Check the original listing before you go.</p>
-        <p class="foot-contact">Questions or a missing event? <a href="mailto:info@hudsonhappens.com">info@hudsonhappens.com</a><br>Advertise with us: <a href="mailto:query@hudsonhappens.com">query@hudsonhappens.com</a></p></div>`;
+        <p class="foot-contact">Questions or a missing event? <a href="mailto:info@hudsonhappens.com">info@hudsonhappens.com</a><br><br>Advertise with us: <a href="mailto:query@hudsonhappens.com">query@hudsonhappens.com</a></p></div>`;
   }
 
   // ---------------------------------------------------------------- routing

@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-25T17:46:08.109086-05:00",
+ "generated": "2026-11-26T05:48:58.259814-05:00",
  "sources": {
-  "jersey_city_gov": 106,
+  "jersey_city_gov": 108,
   "bayonne_library": 304,
-  "hoboken_library": 121,
-  "stevens": 45,
+  "hoboken_library": 115,
+  "stevens": 46,
   "jc_families": 4,
-  "luma": 7,
+  "luma": 6,
   "ticketmaster": 16,
   "seatgeek": 23,
-  "eventbrite": 455,
+  "eventbrite": 448,
   "serpapi_google_events": 78
  },
  "events": [
@@ -174,270 +174,6 @@
    ],
    "free": false,
    "path": "/events/autism-2026-nov-20-7a94b8/"
-  },
-  {
-   "id": "eventbrite:1984580526779",
-   "title": "Taco & Tequila Tuesdays at The Exchange",
-   "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
-   "start": "2026-11-24T19:00:00-05:00",
-   "end": "2026-11-25T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/taco-tequila-tuesdays-at-the-exchange-tickets-1984580526779",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179147819%2F2894508074541%2F1%2Foriginal.20260305-205711?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=50be47c881f7dd9eb9cd7c1af4ae8279",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/taco-tequila-tuesdays-at-the-exchange-nov-24-242c47/"
-  },
-  {
-   "id": "eventbrite:1986851455187",
-   "title": "Wine Wednesday at The Exchange \u2013 Sip with Skyline Views",
-   "description": "Enjoy 15% off bottles of wine and $15 local cheese plates every Wednesday, 4\u201311 PM, with Manhattan skyline views.",
-   "start": "2026-11-25T16:00:00-05:00",
-   "end": "2026-11-25T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/wine-wednesday-at-the-exchange-sip-with-skyline-views-tickets-1986851455187",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1132150203%2F2894508074541%2F1%2Foriginal.20250923-015933?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=91ecb775a8a4b6d778354dc1a9f69adf",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/wine-wednesday-at-the-exchange-sip-with-skyline-views-nov-25-c714c7/"
-  },
-  {
-   "id": "eventbrite:1987134046425",
-   "title": "Hudson Happy Hour",
-   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
-   "start": "2026-11-25T16:00:00-05:00",
-   "end": "2026-11-25T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134046425",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/hudson-happy-hour-nov-25-f2dee3/"
-  },
-  {
-   "id": "City of Jersey City:21343564",
-   "title": "City Council Meeting",
-   "description": "Stream Live via Microsoft Teams\n\nRegister to Speak\n\nView Meeting Archive",
-   "start": "2026-11-25T18:00:00-05:00",
-   "end": "2026-11-25T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Council Chambers 280 Grove St. Jersey City NJ 07302",
-   "address": "Council Chambers 280 Grove St. Jersey City NJ 07302",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Community",
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/city-council-meeting-nov-25-335298/"
-  },
-  {
-   "id": "luma:evt-OmmNPGWj5KBp3P2",
-   "title": "Yoga in the Community Room, Nov 25, 6pm - 7pm",
-   "description": "",
-   "start": "2026-11-25T18:30:00-05:00",
-   "end": "2026-11-25T19:30:00-05:00",
-   "all_day": false,
-   "venue": "Jersey City",
-   "address": "",
-   "city": "Jersey City",
-   "url": "https://lu.ma/wpfen58e",
-   "image": "https://images.lumacdn.com/uploads/6o/164e2f7c-6b10-45b7-8927-cefcb9c6e59b.jpg",
-   "price": "Free",
-   "source": "Luma",
-   "categories": [
-    "Fitness & Wellness"
-   ],
-   "free": true,
-   "path": "/events/yoga-in-the-community-room-nov-25-6pm-7pm-nov-25-da6888/"
-  },
-  {
-   "id": "eventbrite:2005048393720",
-   "title": "Thanksgiving Eve Stand-Up Comedy at Pet Shop - Wednesday, November 25th",
-   "description": "Jersey City's fun, chaotic, free night of stand-up comedy!",
-   "start": "2026-11-25T19:00:00-05:00",
-   "end": "2026-11-25T21:30:00-05:00",
-   "all_day": false,
-   "venue": "Pet Shop",
-   "address": "193 Newark Avenue, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/thanksgiving-eve-stand-up-comedy-at-pet-shop-wednesday-november-25th-tickets-2005048393720",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198266898%2F26477195001%2F1%2Foriginal.20261118-192944?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b8835aa4ad4d03c5cff068c5e93c4fa7",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink",
-    "Comedy"
-   ],
-   "free": true,
-   "path": "/events/thanksgiving-eve-stand-up-comedy-at-pet-shop-wednesday-nov-25-70a022/"
-  },
-  {
-   "id": "google:thanksgivingeve20261125hoboken",
-   "title": "Thanksgiving Eve",
-   "description": "",
-   "start": "2026-11-25T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b0764e1dff9a39edb5c3f56/images/YRJ0vVmsmzy-xTk5_GShL1Z3x6p4Xvge2sBXB8KOQ2s.jpg",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/thanksgiving-eve-nov-25-59cf93/"
-  },
-  {
-   "id": "eventbrite:1983726908584",
-   "title": "Hoboken Official Thanksgiving Eve Bar Crawl 2026",
-   "description": "Join us for the best Hoboken Thanksgiving Eve Bar Crawl yet! Bar hop through the best bars in Hoboken for our annual pub crawl.",
-   "start": "2026-11-25T20:00:00-05:00",
-   "end": "2026-11-26T02:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/hoboken-official-thanksgiving-eve-bar-crawl-2026-tickets-1983726908584",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178149243%2F1957809580253%2F1%2Foriginal.20260222-193519?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C853&s=01a11494d7e972e21db9c29b83310252",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink",
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/hoboken-official-thanksgiving-eve-bar-crawl-2026-nov-25-d74496/"
-  },
-  {
-   "id": "eventbrite:1983726919617",
-   "title": "Jersey City Official Thanksgiving Eve Bar Crawl 2026",
-   "description": "Join us for the best Jersey City Thanksgiving Eve Bar Crawl yet! Bar hop through the best bars in Jersey City for our annual pub crawl.",
-   "start": "2026-11-25T20:00:00-05:00",
-   "end": "2026-11-26T02:00:00-05:00",
-   "all_day": false,
-   "venue": "BOOTS & BONES",
-   "address": "116 Newark Avenue, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/jersey-city-official-thanksgiving-eve-bar-crawl-2026-tickets-1983726919617",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178149243%2F1957809580253%2F1%2Foriginal.20260222-193519?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C853&s=01a11494d7e972e21db9c29b83310252",
-   "price": "$0+",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink",
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-official-thanksgiving-eve-bar-crawl-2026-nov-25-03bf5c/"
-  },
-  {
-   "id": "eventbrite:2004665782319",
-   "title": "Survivor 51 Watch Parties at The Hutton",
-   "description": "Watch Survivor 51 with friends and fans on our patio on the giant projected screen!",
-   "start": "2026-11-25T20:00:00-05:00",
-   "end": "2026-11-25T21:30:00-05:00",
-   "all_day": false,
-   "venue": "The Hutton Bar and Grill",
-   "address": "225 Hutton St., Jersey City, NJ 07307",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/survivor-51-watch-parties-at-the-hutton-tickets-2004665782319",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197698978%2F196151990297%2F1%2Foriginal.20261110-173214?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481&fp-y=0.083&s=667d65fc2acae985bb76eb8582680da6",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Community"
-   ],
-   "free": true,
-   "path": "/events/survivor-51-watch-parties-at-the-hutton-nov-25-42bada/"
-  },
-  {
-   "id": "google:thanksgivingevebarcrawl20261125hoboken",
-   "title": "Thanksgiving Eve Bar Crawl",
-   "description": "",
-   "start": "2026-11-25T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Texas Arizona",
-   "address": "Texas Arizona, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://pubcrawls.com/tribe_events/hoboken-thanksgiving-eve-bar-crawl/",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnvW-9NBo3xt-zL4HD68mcPlqlho-PBBKcpMry20N0Nxjcu7WCFVTGoUzaCVyKQ_CeIX3wy34oJILQ8Ao",
-   "price": null,
-   "source": "pubcrawls.com",
-   "categories": [
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/thanksgiving-eve-bar-crawl-nov-25-f9e309/"
-  },
-  {
-   "id": "google:dramos20261125jerseycity",
-   "title": "DRAMOS",
-   "description": "",
-   "start": "2026-11-25T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Six26 - Lounge and Rooftop",
-   "address": "Six26 - Lounge and Rooftop, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.google.com/search?q=Six26+-+Lounge+and+Rooftop&ludocid=4615915155582084759&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b0764ce6ee47ab859fe1176/images/QIqfJ7wmn5GrDu8thjze8bLA9Ve2XELcCCaZl9Ow77A.jpg",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/dramos-nov-25-90615a/"
-  },
-  {
-   "id": "google:thanksgivingeveitaliannightwithmarco20261126hoboken",
-   "title": "Thanksgiving Eve: Italian Night with Marco",
-   "description": "",
-   "start": "2026-11-26T02:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Birch Hoboken",
-   "address": "Birch Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.tablelist.com/venues/reign-hoboken/events/f63d9c09cc0f102c",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8UbeYkODH8VrOjd7GetR5w7boQh65oXh-a-dEzFhRMUinu7FXVwwDoTkIxUYszhJr6iBLFQJ1JygeVZ4",
-   "price": null,
-   "source": "tablelist.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/thanksgiving-eve-italian-night-with-marco-nov-26-a6ecbb/"
   },
   {
    "id": "eventbrite:1986851338839",
@@ -1804,6 +1540,26 @@
    "path": "/events/jazz-nights-at-the-exchange-dec-1-4317fe/"
   },
   {
+   "id": "City of Jersey City:21448001",
+   "title": "Community Mtg: Washington Park Association",
+   "description": "Register Here\n\nJoin Mayor Solomon and the Washington Park Association for a community meeting focused on the issues affecting residents.\n\nThis meeting is an opportunity for residents to speak directly with the Mayor, share feedback, ask questions, and discuss the issues and priorities affecting Jersey City residents.\n\nCommunity meetings are intended to bring City Hall directly into Jersey City neighborhoods and provide residents with an opportunity to have an open conversation about the concerns, ideas, and opportunities that matter to them.\n\nResidents of the neighborhood and surrounding commu",
+   "start": "2026-12-01T18:30:00-05:00",
+   "end": "2026-12-01T19:30:00-05:00",
+   "all_day": false,
+   "venue": "St. John's Church, 155 North St",
+   "address": "St. John's Church, 155 North St",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Outdoors"
+   ],
+   "free": true,
+   "path": "/events/community-mtg-washington-park-association-dec-1-af74d7/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-15994579",
    "title": "Adult Dungeons & Dragons",
    "description": "Watched Stranger Things and want to try some Dungeons & Dragons? Looking for a good after school activity? Used to play but can\u2019t find enough friends for a campaign? Want to make some fun new friends?\n\nThen join us at the Bayonne Public Library for Dungeons & Dragons! What\u2019s that? Dungeons & Dragons (D&D) is a fantasy tabletop role-playing game where the players form an adventuring party who explore fantasy worlds together as they embark on epic quests and level up in experience. \n\nThis every-other-Tuesday gaming session is run by a professional Dungeon Master on the following dates:\n\n\tJanuary",
@@ -2762,6 +2518,26 @@
    ],
    "free": true,
    "path": "/events/zoning-board-meeting-dec-3-3d3453/"
+  },
+  {
+   "id": "City of Jersey City:21448004",
+   "title": "Community Mtg: Historic Paulus Hook Association",
+   "description": "Register Here\n\nJoin Mayor Solomon and the Historic Paulus Hook Association for a community meeting focused on the issues affecting residents.\n\nThis meeting is an opportunity for residents to speak directly with the Mayor, share feedback, ask questions, and discuss the issues and priorities affecting Jersey City residents.\n\nCommunity meetings are intended to bring City Hall directly into Jersey City neighborhoods and provide residents with an opportunity to have an open conversation about the concerns, ideas, and opportunities that matter to them.\n\nResidents of the neighborhood and surrounding ",
+   "start": "2026-12-03T18:00:00-05:00",
+   "end": "2026-12-03T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Saints Peter and Paul Orthodox Cathedral: 109 Grand St.",
+   "address": "Saints Peter and Paul Orthodox Cathedral: 109 Grand St.",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-mtg-historic-paulus-hook-association-dec-3-8bf176/"
   },
   {
    "id": "luma:evt-EHdG7kYmSJRZ6uS",

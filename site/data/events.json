@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-26T05:48:58.259814-05:00",
+ "generated": "2026-11-26T11:55:55.415819-05:00",
  "sources": {
   "jersey_city_gov": 108,
   "bayonne_library": 304,
   "hoboken_library": 115,
   "stevens": 46,
   "jc_families": 4,
-  "luma": 6,
+  "luma": 7,
   "ticketmaster": 16,
   "seatgeek": 23,
   "eventbrite": 448,
@@ -2600,6 +2600,26 @@
    ],
    "free": false,
    "path": "/events/jersey-city-connects-singles-party-ugly-sweater-edition-dec-3-5d7934/"
+  },
+  {
+   "id": "luma:evt-1aHBCyitkO3RoPQ",
+   "title": "Yoga in the Community Room, Dec 3, 7 - 8pm",
+   "description": "",
+   "start": "2026-12-03T19:00:00-05:00",
+   "end": "2026-12-03T20:00:00-05:00",
+   "all_day": false,
+   "venue": "Jersey City",
+   "address": "",
+   "city": "Jersey City",
+   "url": "https://lu.ma/ewiqljge",
+   "image": "https://images.lumacdn.com/uploads/6o/164e2f7c-6b10-45b7-8927-cefcb9c6e59b.jpg",
+   "price": "Free",
+   "source": "Luma",
+   "categories": [
+    "Fitness & Wellness"
+   ],
+   "free": true,
+   "path": "/events/yoga-in-the-community-room-dec-3-7-8pm-dec-3-38d25f/"
   },
   {
    "id": "eventbrite:1406594464909",
@@ -8217,7 +8237,7 @@
   },
   {
    "id": "seatgeek:18612880",
-   "title": "Nimbus Dance Works - Jersey City",
+   "title": "Jersey Nutcracker - Jersey City",
    "description": "",
    "start": "2026-12-19T11:00:00-05:00",
    "end": null,
@@ -8225,15 +8245,15 @@
    "venue": "Loew's Jersey Theatre",
    "address": "54 Journal Square Plaza",
    "city": "Jersey City",
-   "url": "https://seatgeek.com/nimbus-dance-tickets/dance/2026-12-19-11-am/18612880",
+   "url": "https://seatgeek.com/jersey-nutcracker-tickets/dance/2026-12-19-11-am/18612880",
    "image": null,
    "price": "Paid",
    "source": "SeatGeek",
    "categories": [
-    "Arts & Culture"
+    "Community"
    ],
    "free": false,
-   "path": "/events/nimbus-dance-works-jersey-city-dec-19-0889f9/"
+   "path": "/events/jersey-nutcracker-jersey-city-dec-19-0889f9/"
   },
   {
    "id": "eventbrite:1988118405670",
@@ -13013,6 +13033,26 @@
    ],
    "free": true,
    "path": "/events/sunday-supper-at-the-exchange-jan-24-b71998/"
+  },
+  {
+   "id": "eventbrite:1986851380965",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-25T11:30:00-05:00",
+   "end": "2027-01-25T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851380965",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-25-87cc5f/"
   }
  ]
 }

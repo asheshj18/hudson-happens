@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T11:56:28.958121-05:00",
+ "generated": "2026-11-27T17:48:17.536762-05:00",
  "sources": {
   "jersey_city_gov": 107,
   "bayonne_library": 302,
@@ -9,8 +9,8 @@
   "luma": 7,
   "ticketmaster": 16,
   "seatgeek": 23,
-  "eventbrite": 443,
-  "serpapi_google_events": 84
+  "eventbrite": 440,
+  "serpapi_google_events": 64
  },
  "events": [
   {
@@ -176,68 +176,6 @@
    "path": "/events/autism-2026-nov-20-7a94b8/"
   },
   {
-   "id": "eventbrite:2004831876110",
-   "title": "Cre8sArt Hoboken: Kids ( Ages 4-9) Harvest & Gratitude Art Kids Camp",
-   "description": "Students will create a fall-inspired clay and painting celebrating the colors, beauty, and abundance of the harvest season.",
-   "start": "2026-11-27T08:30:00-05:00",
-   "end": "2026-11-27T12:00:00-05:00",
-   "all_day": false,
-   "venue": "Cre8sArt School Hoboken",
-   "address": "644 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/cre8sart-hoboken-kids-ages-4-9-harvest-gratitude-art-kids-camp-registration-2004831876110",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197951409%2F164633544847%2F1%2Foriginal.20261113-221425?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.62&fp-y=0.312&s=a5dc04bc1d9ec739b6a21b39802006af",
-   "price": "$110+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/cre8sart-hoboken-kids-ages-4-9-harvest-gratitude-art-ki-nov-27-39a792/"
-  },
-  {
-   "id": "google:fridaystorytimeatthemuseum20261127hoboken",
-   "title": "Friday Storytime at the Museum",
-   "description": "",
-   "start": "2026-11-27T10:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Hoboken Historical Museum",
-   "address": "Hoboken Historical Museum, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://hobokenmuseum.org/education/family-programs/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkME4qitLat60jXu41JyMxlVE5lILAqyuWBtBurxuVSoZxXP1ww-Eb6HBxBalDKckighFODxyIhI0cnSk",
-   "price": null,
-   "source": "hobokenmuseum.org",
-   "categories": [
-    "Kids & Family",
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/friday-storytime-at-the-museum-nov-27-95f7da/"
-  },
-  {
-   "id": "eventbrite:1986851339842",
-   "title": "Power Lunch for People on the Go",
-   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
-   "start": "2026-11-27T11:30:00-05:00",
-   "end": "2026-11-27T14:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851339842",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/power-lunch-for-people-on-the-go-nov-27-18068a/"
-  },
-  {
    "id": "eventbrite:1986851550472",
    "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
    "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
@@ -297,27 +235,6 @@
    ],
    "free": true,
    "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-nov-27-890e97/"
-  },
-  {
-   "id": "google:fridaysatsix26happyhourdragshowtopdjs20261127jerseycity",
-   "title": "Fridays at Six26 Happy Hour Drag Show Top DJs",
-   "description": "",
-   "start": "2026-11-27T16:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Six26 - Lounge and Rooftop",
-   "address": "Six26 - Lounge and Rooftop, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.facebook.com/events/six26-lounge-and-rooftop-128-christopher-columbus-drive-jersey-city-nj-07302-us/5-fridays-at-six26-happy-hour-drag-show-top-djs/1148820944466364/",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLPIUrZ2_WmhObS_BH6pR0WOaddEHm9M5uDC0RhOWaWkeNCS9pAGywUqwB0ZO_DjosYXfS7OaJ6_ehyqY",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Food & Drink",
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/fridays-at-six26-happy-hour-drag-show-top-djs-nov-27-7cc37d/"
   },
   {
    "id": "eventbrite:2005312918922",
@@ -415,33 +332,13 @@
    "city": "Jersey City",
    "url": "https://www.eventbrite.com/e/salsa-shines-partnerwork-connect-move-dance-tickets-2004867377295",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198075836%2F3009697406825%2F1%2Foriginal.20261116-144344?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.036&fp-y=0.591&s=9d9cce539d99da85fc07840591b53194",
-   "price": "$19+",
+   "price": "$13+",
    "source": "Eventbrite",
    "categories": [
     "Arts & Culture"
    ],
    "free": false,
    "path": "/events/salsa-shines-partnerwork-connect-move-dance-nov-27-d7c167/"
-  },
-  {
-   "id": "google:davideastonband20261127jerseycity",
-   "title": "David Easton Band",
-   "description": "",
-   "start": "2026-11-27T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Liberty House Wedding & Event Venue",
-   "address": "Liberty House Wedding & Event Venue, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.bandsintown.com/e/109095402?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0b4GWeOevMcBNRZT9xxtPE2RcU0wBDaLeLF4jkOU6y7UurcBPdVJpyb-JdGPPCxYNRMtQo62x0jMYQ9I",
-   "price": null,
-   "source": "bandsintown.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/david-easton-band-nov-27-1ae671/"
   },
   {
    "id": "google:live3coursechefcompetition20261127hoboken",
@@ -465,26 +362,6 @@
    "path": "/events/live-3-course-chef-competition-nov-27-38a418/"
   },
   {
-   "id": "google:livestandupcomedyeveryweekend20261127jerseycity",
-   "title": "Live Stand-Up Comedy Every Weekend",
-   "description": "",
-   "start": "2026-11-27T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Dorrian's Jersey City Restaurant (Comedy Club, Sports Bar, Event Space)",
-   "address": "Dorrian's Jersey City Restaurant (Comedy Club, Sports Bar, Event Space), Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://dorrians-jc.com/private-events",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk4sb6lWbA-Df7G3v2eO6fl_MaonxzTes1Uln_o_rcp_qUPvhyXIHhBVCXbST-lKjk2POS00MO59qC5B4",
-   "price": null,
-   "source": "dorrians-jc.com",
-   "categories": [
-    "Comedy"
-   ],
-   "free": false,
-   "path": "/events/live-stand-up-comedy-every-weekend-nov-27-644167/"
-  },
-  {
    "id": "eventbrite:676802343027",
    "title": "Muscle Men Male Strippers Revue & Male Strip Club Shows Hoboken, NJ",
    "description": "Muscle Men Male Revue the hottest male stripper revue in Hoboken. Come visit this ultimate Hoboken male strip club show!",
@@ -503,46 +380,6 @@
    ],
    "free": false,
    "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-27-6e70af/"
-  },
-  {
-   "id": "google:reggaetonrodeo20261127jerseycity",
-   "title": "Reggaeton Rodeo",
-   "description": "",
-   "start": "2026-11-27T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Ashford",
-   "address": "The Ashford, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.instagram.com/p/DgEgdPDIoUX/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlzWRtdjBLJrvSY_dvayNfZN6EEzG9oxJwSDSAn2pAsozwV17m4eq54GQlap0UHta72yfn3V6B4z8NpLY",
-   "price": null,
-   "source": "instagram.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/reggaeton-rodeo-nov-27-3115ed/"
-  },
-  {
-   "id": "google:showtime20261127jerseycity",
-   "title": "Showtime",
-   "description": "",
-   "start": "2026-11-27T21:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Six26 - Lounge and Rooftop",
-   "address": "Six26 - Lounge and Rooftop, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://trickdash.com/events/jersey-city/showtime-at-six26-887136e3/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTL-K2YwuAttWPVZGkAvPUMh1Gc74Ya0alDNZyKiVkeX3drA4kF8O8qKhtlgTJoR_rb8r0Y8C25DHU3pJE",
-   "price": null,
-   "source": "trickdash.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/showtime-nov-27-1bc2d9/"
   },
   {
    "id": "eventbrite:1984140853705",
@@ -565,26 +402,6 @@
    "path": "/events/storytime-with-laura-saturday-nov-28-f1f265/"
   },
   {
-   "id": "google:mommyme20261128hoboken",
-   "title": "Mommy & Me",
-   "description": "",
-   "start": "2026-11-28T09:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Little Glow Society",
-   "address": "The Little Glow Society, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.instagram.com/p/Df5NCwFB6St/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVArxpalmpH8t2LLI3aGoM-E04F426bi8ljag5pHAEavCvIe_2fkIhznwh-lpiAmqwQG0KAhnAElucIl0",
-   "price": null,
-   "source": "instagram.com",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/mommy-me-nov-28-7febe2/"
-  },
-  {
    "id": "eventbrite:2005318051273",
    "title": "Henna Workshop with Arayna",
    "description": "Explore the art of henna with Arayna at Fluid Arts Studio!",
@@ -603,26 +420,6 @@
    ],
    "free": false,
    "path": "/events/henna-workshop-with-arayna-nov-28-4cd25b/"
-  },
-  {
-   "id": "google:laughtourcomedyclub20261128jerseycity",
-   "title": "Laugh Tour Comedy Club",
-   "description": "",
-   "start": "2026-11-28T18:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Dorrian's Jersey City Restaurant (Comedy Club, Sports Bar, Event Space)",
-   "address": "Dorrian's Jersey City Restaurant (Comedy Club, Sports Bar, Event Space), Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.google.com/search?q=Dorrian%27s+Jersey+City+Restaurant+%28Comedy+Club%2C+Sports+Bar%2C+Event+Space%29&ludocid=11859262231709147293&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b08b676934695fd32b5cb99/images/PKP1RzcIX7yH99VISt5Cukv86nSu9XZE8cklr0j4P1w.jpg",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Comedy"
-   ],
-   "free": false,
-   "path": "/events/laugh-tour-comedy-club-nov-28-d99285/"
   },
   {
    "id": "eventbrite:1406594454879",
@@ -709,8 +506,8 @@
    "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-28-5987fa/"
   },
   {
-   "id": "google:alchemydaypartyrecords1yearanniversary20261128jerseycity",
-   "title": "ALCHEMY Day Party Records 1-Year Anniversary",
+   "id": "google:daypartyrecordsalchemy20261128jerseycity",
+   "title": "Day Party Records: ALCHEMY",
    "description": "",
    "start": "2026-11-28T21:00:00-05:00",
    "end": null,
@@ -726,7 +523,7 @@
     "Nightlife"
    ],
    "free": false,
-   "path": "/events/alchemy-day-party-records-1-year-anniversary-nov-28-0fbf4d/"
+   "path": "/events/day-party-records-alchemy-nov-28-66ec78/"
   },
   {
    "id": "google:williemcbrides20261128hoboken",
@@ -779,7 +576,7 @@
    "address": "Hudson Table Hoboken, Hoboken, NJ",
    "city": "Hoboken",
    "url": "https://www.google.com/search?q=Hudson+Table+Hoboken&ludocid=8041523912177225738&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b08b6abee3fbab99d62ff16/images/E1NJAod23C1rFrl_5nMEmSht_xLe5i6doJ0Dvpd-iB8.png",
+   "image": "https://serpapi.com/searches/6b0a088ee976d0a5f3841db3/images/452ZljdFZ0X4CJUMV0yPUWgPCBZCpJHuLdvgelf_Q7s.png",
    "price": null,
    "source": "Google Events",
    "categories": [
@@ -871,6 +668,26 @@
    "path": "/events/sunday-supper-at-the-exchange-nov-29-0871d1/"
   },
   {
+   "id": "google:boozenbrushnexttonakedsipnpainthobokennjexoticmalemodelpaintingevent20261129hobo",
+   "title": "Booze N' Brush Next to Naked Sip n' Paint Hoboken, NJ - Exotic Male Model Painting Event",
+   "description": "",
+   "start": "2026-11-29T16:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Hoboken Tech Solutions",
+   "address": "Hoboken Tech Solutions, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.facebook.com/events/hoboken-hoboken-nj-07030-us/booze-n-brush-next-to-naked-sip-n-paint-hoboken-nj-exotic-male-model-painting-ev/1515029527119654/",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaB0FuMs36LXpIcNu7puwYkINvepkobj7F5CwH7oRKb47SQROgAjDtjC8JeFbgEO04ogN_cb3gCv2Eu34",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/booze-n-brush-next-to-naked-sip-n-paint-hoboken-nj-exot-nov-29-02c776/"
+  },
+  {
    "id": "eventbrite:1999108335847",
    "title": "Live Music: Irish Music Session Every Sunday at The Hutton",
    "description": "Come join us at The Hutton for a lively Irish session every Sunday!",
@@ -900,35 +717,15 @@
    "venue": "Liberty Science Center",
    "address": "Liberty Science Center, Jersey City, NJ",
    "city": "Jersey City",
-   "url": "https://x.com/LibertySciCtr/status/2125322374228644299",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0iYlAWSjaOGEE4LtYyjWXb4TauEpBdxQy3CrfsiLTFWhVpMoexyELyEt6trYSdvt6tMC-1bFPkvBFCDQ",
+   "url": "https://www.facebook.com/LibertyScienceCenter/posts/want-to-%EF%B8%8Fchill-out%EF%B8%8F-at-lsc-in-your-comfiest-holiday-jammies-come-hang-out-with-u/1608473837985300/",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtHSl7xT4LymAqek-osDX1gsSjlpOuFggMuyDIyW7Oi5rThwGiyfNXgx5cgmy3aVgXzp2JmM0yTyu8RMI",
    "price": null,
-   "source": "x.com",
+   "source": "Facebook",
    "categories": [
     "Nightlife"
    ],
    "free": false,
    "path": "/events/holiday-pajama-party-nov-29-3b4dce/"
-  },
-  {
-   "id": "google:jazzjamsessionwithdrummerwinardharper20261129jerseycity",
-   "title": "Jazz Jam session with drummer Winard Harper",
-   "description": "",
-   "start": "2026-11-29T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Moore's Place",
-   "address": "Moore's Place, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.facebook.com/events/moores-lounge-189-monticello-ave-jersey-city-nj-07304-us/jazz-jam-session-with-drummer-winard-harper-every-sun-eve-no-cover/1078870038540100/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-VK_7ObeL2QKZ96P_EKcIGArtokBx1YuuJloyGK4PZjqap-F5KhR621d5oFFiGYNBQBfP1cFCrS6zd78",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/jazz-jam-session-with-drummer-winard-harper-nov-29-fed09d/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17701586",
@@ -1152,26 +949,6 @@
    ],
    "free": true,
    "path": "/events/math-circle-nov-30-3bc7f5/"
-  },
-  {
-   "id": "google:noelsagermantrioplusjamsession20261130jerseycity",
-   "title": "NOEL SAGERMAN TRIO PLUS JAM SESSION",
-   "description": "",
-   "start": "2026-11-30T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Brightside Tavern",
-   "address": "The Brightside Tavern, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://jazzgeneration.org/events/85db5s6hfj8pja2-5jlmh-jdly7-6cpls-3l346-yy3en-tj9fj-n9r83-wyw8b-5gath-2x6gk-rnsmc-l3gfa-bs22e-etrra-mxk44-rhged-t3ggf",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ7UPTqXYGd3kEr6fCRgkCFI73pSOptp3VO1Ps_gqB4EcubU8U4WcijML_zkYkkxNI2YTbKypny0iJzcI",
-   "price": null,
-   "source": "jazzgeneration.org",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/noel-sagerman-trio-plus-jam-session-nov-30-bd896b/"
   },
   {
    "id": "eventbrite:2002891795276",
@@ -1546,13 +1323,13 @@
    "start": "2026-12-01T18:30:00-05:00",
    "end": null,
    "all_day": false,
-   "venue": "150 Bay Street",
-   "address": "150 Bay Street, Jersey City, NJ",
+   "venue": "Departed Soles Brewing Company",
+   "address": "Departed Soles Brewing Company, Jersey City, NJ",
    "city": "Jersey City",
-   "url": "https://www.facebook.com/events/150-bay-streetjersey-city07302us/jersey-city-connects-book-swap-dec-free-books/1695137058640414/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBaPGRughLhJ1ED4G6yEeWO_3NaYShNU2a4PZ3psu1tlGx_oh9aHaDZQ_-piP4j7gV818EERR4bp_BFXU",
+   "url": "https://www.eventbrite.com/e/2004156830029?aff=ebdiglgoogleliveevents",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxqXUbxosKutAM9YWmB5OCTVIGEm2Odq233LaToubwaBK06ZWDv8xUxNFSG-2l3hiZvo0ov8YopEZN7s",
    "price": null,
-   "source": "Facebook",
+   "source": "Eventbrite",
    "categories": [
     "Community"
    ],
@@ -2131,26 +1908,6 @@
    "path": "/events/new-jersey-symphony-orchestra-jersey-city-dec-2-ea02bd/"
   },
   {
-   "id": "google:jerseycitysinauguralholidayconcert20261202jerseycity",
-   "title": "Jersey City's Inaugural Holiday Concert",
-   "description": "",
-   "start": "2026-12-02T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "Loew's Jersey Theatre, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.ticketmaster.com/jersey-citys-inaugural-holiday-concert-presented-jersey-city-new-jersey-12-02-2026/event/0200656976632662?utm_medium=affiliate&utm_source=5128861-Google%20Events",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSF0hvlJ7qNc2i0JY7xUAfQ10YDrzZQBjrTCqC4tRcOomfgdo3qKm4z75N57w2xFiiobsGGHUYAHZNsJ2w",
-   "price": null,
-   "source": "Ticketmaster",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/jersey-city-s-inaugural-holiday-concert-dec-2-dc1c24/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-15911873",
    "title": "Evening Yoga Class",
    "description": "Join us at the Bayonne Public Library for Evening Yoga classes with @imagineyogalucy! This is a bi-monthly Wednesday class from 7-8 pm in the Gallery. This class will meet on the following days:\n\n\tJanuary 7th and 21st\n\tFebruary 4th and 18th\n\tMarch 4th and 18th\n\tApril 8th and 22nd\n\tMay 6th\n\tJune 3rd and 17th\n\tJuly 1st and 22nd\n\tAugust 5th and 19th\n\tSeptember 9th and 23rd\n\tOctober 7th and 21st\n\tNovember 11th and 18th\n\tDecember 2nd and 16th\n\nAges 11  are invited to attend. All abilities, & skill levels welcome! Advanced registration is required for each session individually. Walk-ins will be acco",
@@ -2285,7 +2042,7 @@
    "address": "Porta, Jersey City, NJ",
    "city": "Jersey City",
    "url": "https://www.google.com/search?q=Porta&ludocid=10851133669464012178&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b08b66810ceedc5a71d66a9/images/bI14wp-xLGAZFm6IHepvnpfq-xH7RIs0FxAHDaCTc_s.jpg",
+   "image": "https://serpapi.com/searches/6b0a08675ae061caac179fb8/images/ZP6Fp0fkJGNUY21sgjFtbMZOLhOHt2aOK9x5A1UFluA.jpg",
    "price": null,
    "source": "Google Events",
    "categories": [
@@ -2623,6 +2380,26 @@
    "path": "/events/nadia-bowers-dear-dealer-w-matt-lawler-dec-3-728711/"
   },
   {
+   "id": "google:bollywoodtrivia20261203jerseycity",
+   "title": "Bollywood Trivia",
+   "description": "",
+   "start": "2026-12-03T19:15:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Tapville Social - Jersey City",
+   "address": "Tapville Social - Jersey City, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.facebook.com/events/tapville-social-jersey-city-30-mall-drive-west-jersey-city-nj-07310-us/bollywood-trivia-jersey-city-2026/2053426342258195/",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrNZgpcpNXzCLGuOECUaY54qLYhI27WWq65IId6bJbJfdbcd5ztBmhiLg5L4zGvEfOfawEw2eHv41pnjA",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/bollywood-trivia-dec-3-b4ee2f/"
+  },
+  {
    "id": "eventbrite:2004222241677",
    "title": "End of the Century: The Story of the Ramones",
    "description": "Hosted by WFMU DJ Todd-o-Phonic Todd with Q&A to follow with  filmmakers  Michael and  Johnny Gramaglia",
@@ -2682,6 +2459,26 @@
    ],
    "free": true,
    "path": "/events/free-stand-up-comedy-at-pet-shop-thursday-dec-3rd-at-8-dec-3-f1d0fd/"
+  },
+  {
+   "id": "google:singathatter20261203hoboken",
+   "title": "Sing At Hatter",
+   "description": "",
+   "start": "2026-12-03T21:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "Madd Hatter Hoboken, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE7k45RzGC1pQMzaX8JPGC-QI7l8dio-DSXB84PApdB69TXCBV7CODRoon-jE18GQl6L5AWwsEsg1b6_M",
+   "price": null,
+   "source": "Google Events",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/sing-at-hatter-dec-3-67adcd/"
   },
   {
    "id": "eventbrite:1986851344857",
@@ -2827,6 +2624,27 @@
    "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-dec-4-ceb8d9/"
   },
   {
+   "id": "google:fridaysatsix26happyhourdragshowtopdjs20261204jerseycity",
+   "title": "Fridays at Six26 Happy Hour Drag Show Top DJs",
+   "description": "",
+   "start": "2026-12-04T16:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Six26 - Lounge and Rooftop",
+   "address": "Six26 - Lounge and Rooftop, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.facebook.com/events/six26-lounge-and-rooftop-128-christopher-columbus-drive-jersey-city-nj-07302-us/5-fridays-at-six26-happy-hour-drag-show-top-djs/1148821067799685/",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLPIUrZ2_WmhObS_BH6pR0WOaddEHm9M5uDC0RhOWaWkeNCS9pAGywUqwB0ZO_DjosYXfS7OaJ6_ehyqY",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Food & Drink",
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/fridays-at-six26-happy-hour-drag-show-top-djs-dec-4-39abd3/"
+  },
+  {
    "id": "google:jazzholidayrock20261204jerseycity",
    "title": "Jazz & Holiday Rock",
    "description": "",
@@ -2931,26 +2749,6 @@
    "path": "/events/dinner-with-entrepreneurs-hoboken-dec-4-2c3bdb/"
   },
   {
-   "id": "google:emilybraden20261204jerseycity",
-   "title": "Emily Braden",
-   "description": "",
-   "start": "2026-12-04T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "The Statuary",
-   "address": "The Statuary, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.bandsintown.com/e/108976943?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3ZIZyiVg0WjXP1tRI7JSKK9OiH0brfCp-68KZk_w5MOrVwofv9zNWto8Z9c0Gksd6zazn_p0pRKHuVE",
-   "price": null,
-   "source": "bandsintown.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/emily-braden-dec-4-9d050f/"
-  },
-  {
    "id": "google:3amtokyo20261204hoboken",
    "title": "3AM Tokyo",
    "description": "",
@@ -2989,26 +2787,6 @@
    ],
    "free": false,
    "path": "/events/oceans-between-our-names-duet-version-dec-4-1bd452/"
-  },
-  {
-   "id": "google:livemusicfridays20261204jerseycity",
-   "title": "Live Music Fridays",
-   "description": "",
-   "start": "2026-12-04T19:30:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Vicoletto Pizza & Cucina",
-   "address": "Vicoletto Pizza & Cucina, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.instagram.com/p/DeerJOOm4Ut/",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU_w_SZN1o8ZHX2g_q_1QURuxlqGFLtNrr_3UwbG57r8igBbVMlxjdI04Fn3IL8fRP6hx0h9aWJ55tqkg",
-   "price": null,
-   "source": "instagram.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/live-music-fridays-dec-4-c81f65/"
   },
   {
    "id": "google:bingofriday20261204hoboken",
@@ -3196,6 +2974,26 @@
    "path": "/events/concert-band-performance-dec-5-20e7fa/"
   },
   {
+   "id": "google:freewalkerswinterhudsonriverloop20261206jerseycity",
+   "title": "FreeWalkers Winter Hudson River Loop",
+   "description": "",
+   "start": "2026-12-06T08:15:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Exchange Place",
+   "address": "Exchange Place, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://allevents.in/jersey-city/2026-freewalkers-winter-hudson-river-loop/100002003197540769",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsLMbX23HXWv0RD0m8vL4Gxb7LRucvQS-N8Lu_jA8-mTrVvP9ZZTAu8tOSAgnn0Q859od5xP9bIWt6GNI",
+   "price": null,
+   "source": "AllEvents",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/freewalkers-winter-hudson-river-loop-dec-6-e0099b/"
+  },
+  {
    "id": "eventbrite:1774166031359",
    "title": "Breakfast with the Bros | Jersey City",
    "description": "Need a circle of good men in your life? Meet some new bros over  breakfast or coffee!",
@@ -3355,26 +3153,6 @@
    ],
    "free": false,
    "path": "/events/live-music-irish-music-session-every-sunday-dec-6-91aef9/"
-  },
-  {
-   "id": "google:jazzjamsessionwithdrummerwinardharper20261206jerseycity",
-   "title": "Jazz Jam session with drummer Winard Harper",
-   "description": "",
-   "start": "2026-12-06T20:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Moore's Place",
-   "address": "Moore's Place, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.facebook.com/events/moores-lounge-189-monticello-ave-jersey-city-nj-07304-us/jazz-jam-session-with-drummer-winard-harper-every-sun-eve-no-cover/1078870041873433/",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-VK_7ObeL2QKZ96P_EKcIGArtokBx1YuuJloyGK4PZjqap-F5KhR621d5oFFiGYNBQBfP1cFCrS6zd78",
-   "price": null,
-   "source": "Facebook",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/jazz-jam-session-with-drummer-winard-harper-dec-6-bda775/"
   },
   {
    "id": "City of Jersey City:21343522",
@@ -3639,8 +3417,8 @@
    "path": "/events/family-game-night-dec-7-ff2de3/"
   },
   {
-   "id": "google:mahjongatuncleroccos20261207hoboken",
-   "title": "Mahjong at Uncle Rocco's",
+   "id": "google:mahjong20261207hoboken",
+   "title": "Mahjong",
    "description": "",
    "start": "2026-12-07T18:30:00-05:00",
    "end": null,
@@ -3656,7 +3434,7 @@
     "Sports"
    ],
    "free": false,
-   "path": "/events/mahjong-at-uncle-rocco-s-dec-7-881759/"
+   "path": "/events/mahjong-dec-7-2ea5e6/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17627349",
@@ -4149,26 +3927,6 @@
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-dec-8-04f63f/"
   },
   {
-   "id": "google:derekhough20261208jerseycity",
-   "title": "Derek Hough",
-   "description": "",
-   "start": "2026-12-08T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "Loew's Jersey Theatre, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.google.com/search?q=Loew%27s+Jersey+Theatre&ludocid=7373352752042774486&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6c84LYZxmyodgsEO0H1yTafKzk_irGnd68himoQROUlJwPji2_qGIkWZmeK6r03b8m-A0zIHFhkuwuUU",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/derek-hough-dec-8-ee96b7/"
-  },
-  {
    "id": "eventbrite:2005401104688",
    "title": "Marvel Cinematic Universe Trivia",
    "description": "Come show what you know at Marvel Cinematic Universe Trivia!",
@@ -4188,6 +3946,26 @@
    ],
    "free": true,
    "path": "/events/marvel-cinematic-universe-trivia-dec-8-faeaca/"
+  },
+  {
+   "id": "google:rocktheholidaysopenmic20261208hoboken",
+   "title": "Rock the Holidays - Open Mic",
+   "description": "",
+   "start": "2026-12-08T19:30:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Symposia Community Bookstore",
+   "address": "Symposia Community Bookstore, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.facebook.com/events/symposia-bookstore/rock-the-holidays-open-mic/1874103724043170/",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeS8j31WIb7ARSBHJG4he4RQ-jg3CsPaZnv7XKdsiXBG90F2C-pdoB-mIKR5kgV4nZFBQahJq6BkR4-QI",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/rock-the-holidays-open-mic-dec-8-6d698c/"
   },
   {
    "id": "google:mstdecemberopenmicnight20261208hoboken",
@@ -4717,46 +4495,6 @@
    "path": "/events/ice-nine-kills-with-smith-myers-dec-9-59c315/"
   },
   {
-   "id": "google:blacklabelsocietywithzakkwyldethe20261209jerseycity",
-   "title": "Black Label Society with Zakk Wylde, The...",
-   "description": "",
-   "start": "2026-12-09T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "Loew's Jersey Theatre, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.google.com/search?q=Loew%27s+Jersey+Theatre&ludocid=7373352752042774486&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b08b676934695fd32b5cb99/images/hB-ef6lXkGu4he17exWYiHP7HNzU0fcVCxFsJv8oN80.jpg",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/black-label-society-with-zakk-wylde-the-dec-9-d4b652/"
-  },
-  {
-   "id": "google:blackstonecherry20261209jerseycity",
-   "title": "Black Stone Cherry",
-   "description": "",
-   "start": "2026-12-09T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "Loew's Jersey Theatre, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.google.com/search?q=Loew%27s+Jersey+Theatre&ludocid=7373352752042774486&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnt33fIiHoRwp-SEcOTjZHsyVZF_iPatCWJ8NPhBdPZvhgo1WW5PBibh2aKtOUOtuk-MCYGotKkx2dPzM",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/black-stone-cherry-dec-9-9efa5c/"
-  },
-  {
    "id": "eventbrite:2005401293252",
    "title": "General Knowledge Trivia at The Ale House!",
    "description": "Come show what you know at General Knowledge Trivia!",
@@ -5266,26 +5004,6 @@
    "path": "/events/jersey-city-bitcoin-meetup-dec-10-808b79/"
   },
   {
-   "id": "google:christomlin20261210jerseycity",
-   "title": "Chris Tomlin",
-   "description": "",
-   "start": "2026-12-10T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Loew's Jersey Theatre",
-   "address": "Loew's Jersey Theatre, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.google.com/search?q=Loew%27s+Jersey+Theatre&ludocid=7373352752042774486&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_Nw7tUIza9TAsezG6BG-oLV8pZEKPw6aoo1lNYsNJ9JMGAkhDFbbsfCkCx6Zs2RZjPUJsZ2Bu5H2OvrI",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Community"
-   ],
-   "free": false,
-   "path": "/events/chris-tomlin-dec-10-6b7ef0/"
-  },
-  {
    "id": "Bayonne Public Library:LibCal-17197-17068936",
    "title": "Bayonne Public Schools Class Visit",
    "description": "There will be a class visit from one of the Bayonne Public Schools. This visit is only open to the students of the given school and grade level. Please contact your child's school for more details.",
@@ -5512,27 +5230,6 @@
    "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-dec-11-4d0971/"
   },
   {
-   "id": "google:fridaysatsix26happyhourdragshowtopdjs20261211jerseycity",
-   "title": "Fridays at Six26 Happy Hour Drag Show Top DJs",
-   "description": "",
-   "start": "2026-12-11T16:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Six26 - Lounge and Rooftop",
-   "address": "Six26 - Lounge and Rooftop, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.google.com/search?q=Six26+-+Lounge+and+Rooftop&ludocid=4615915155582084759&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJ7GAw9mpZIxJ_YHuCT7jTfnuYxl89AOaUB4LMPvPXiR1O8DIaDk65smXOLpE3K4nZQsmDcwAICPR2VU",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Food & Drink",
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/fridays-at-six26-happy-hour-drag-show-top-djs-dec-11-d532a7/"
-  },
-  {
    "id": "eventbrite:1406594505029",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -5575,26 +5272,6 @@
    "path": "/events/benefit-for-the-water-project-foodies-new-friends-dec-11-824d58/"
   },
   {
-   "id": "google:liveacousticmusic20261211jerseycity",
-   "title": "Live Acoustic Music",
-   "description": "",
-   "start": "2026-12-11T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Pinwheel Garden Dumpling and Noodle Bar",
-   "address": "Pinwheel Garden Dumpling and Noodle Bar, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.pinwheelgardenjc.com/",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxtrfju2n8hEOyx0acGIqAGds_Ha80cYhldVNr391wnehI5ZYTFBVBtVu74x3cfMAH8TyqXeA_xfmEMjo",
-   "price": null,
-   "source": "pinwheelgardenjc.com",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/live-acoustic-music-dec-11-3e47b4/"
-  },
-  {
    "id": "google:danceparty20261211hoboken",
    "title": "Dance Party",
    "description": "",
@@ -5604,10 +5281,10 @@
    "venue": "Madd Hatter Hoboken",
    "address": "Madd Hatter Hoboken, Hoboken, NJ",
    "city": "Hoboken",
-   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b08b6abee3fbab99d62ff16/images/VFcodW2YQVh9dCK_lUMYZIR4F8EJNB6ZZcZI5GSpTMY.jpg",
+   "url": "https://www.facebook.com/events/madd-hatter-hoboken-221-washington-street-hoboken-nj-07030-us/dance-party-at-madd-hatter/981689814525703/",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTksHhtByJ5T6Lo4I3dStP6muW0eMmOtpPfNdsCMnERPXcX9kKVsuYSGzS4oyWiA7vmLqhwlpgf1b-U7bc",
    "price": null,
-   "source": "Google Events",
+   "source": "Facebook",
    "categories": [
     "Arts & Culture",
     "Nightlife"
@@ -5850,7 +5527,7 @@
    "address": "Hoboken Historical Museum, Hoboken, NJ",
    "city": "Hoboken",
    "url": "https://www.google.com/search?q=Hoboken+Historical+Museum&ludocid=8891198615277564082&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b08b6abee3fbab99d62ff16/images/67oma9X-gX2bYdQMT-2o88zNa0QLtDL9koCg9Vbie90.jpg",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSysd47KOlsVSIV4B7Qk0gqK-eFnExwwaS_2tZ9eNZEmLOMBbKuVUJHkaIDLLo0Rest3RRJUbnC7RuOOPs",
    "price": null,
    "source": "Google Events",
    "categories": [
@@ -5982,26 +5659,6 @@
    ],
    "free": true,
    "path": "/events/russian-language-fall-fair-dec-12-651657/"
-  },
-  {
-   "id": "google:zeppelinhallchristmaspartytheadlers20261212jerseycity",
-   "title": "Zeppelin Hall Christmas Party \u2014 The Adlers",
-   "description": "",
-   "start": "2026-12-12T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Zeppelin Hall Beer Garden",
-   "address": "Zeppelin Hall Beer Garden, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://germanevents.nyc/events/zeppelin-hall-christmas-party-the-adlers-2026-12-12-1800",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2LR-gmahlHKSTZT1rpYeY5K6BvPerLC0mj5BcEz3oH_5nxfOxoEsPqJAqeExh8sSMNp0gvc-4m1m9vdg",
-   "price": null,
-   "source": "germanevents.nyc",
-   "categories": [
-    "Nightlife"
-   ],
-   "free": false,
-   "path": "/events/zeppelin-hall-christmas-party-the-adlers-dec-12-75cc1a/"
   },
   {
    "id": "ticketmaster:vv1AOvPfYGA18mil",
@@ -6158,7 +5815,7 @@
    "address": "The Vic Tavern, Bayonne, NJ",
    "city": "Bayonne",
    "url": "https://www.google.com/search?q=The+Vic+Tavern&ludocid=6918995342981412836&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b08b6bfeb6ec5e76af14c17/images/8R2EW71Ug5ueVSSudNOB00EMWkbWvuaMTFyiS_641lk.jpg",
+   "image": "https://serpapi.com/searches/6b0a089c0bbc380e1c1fd957/images/ii43fiJOsXbEpoE4RCBXjn5IyoaRCkAfY79cDa6vKmU.jpg",
    "price": null,
    "source": "Google Events",
    "categories": [
@@ -6331,26 +5988,6 @@
    "path": "/events/live-music-irish-music-session-every-sunday-at-the-hutt-dec-13-d19917/"
   },
   {
-   "id": "google:iarepulsedjworldtour20261213jerseycity",
-   "title": "IA | RE:PULSE - DJ World Tour",
-   "description": "",
-   "start": "2026-12-13T17:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "White Eagle Hall",
-   "address": "White Eagle Hall, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "https://www.google.com/search?q=White+Eagle+Hall&ludocid=15257753504557424788&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSY_O8naNmPCs2nrz6yGj5j0sU4gtpMlc7uj0-vlYmtmZYzAg3tcJ-71xlcFKpvVgKMWW60BJQp9YDupac",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/ia-re-pulse-dj-world-tour-dec-13-152e6f/"
-  },
-  {
    "id": "eventbrite:1831587981959",
    "title": "Dinner with Entrepreneurs | Hoboken",
    "description": "Join us for a cozy dinner with entrepreneurs to network, share experiences, and make new connections! Meet your next collaborator here.",
@@ -6370,6 +6007,26 @@
    ],
    "free": false,
    "path": "/events/dinner-with-entrepreneurs-hoboken-dec-13-8106fb/"
+  },
+  {
+   "id": "google:jazzjamsessionwithdrummerwinardharper20261213jerseycity",
+   "title": "Jazz Jam session with drummer Winard Harper",
+   "description": "",
+   "start": "2026-12-13T20:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Moore's Place",
+   "address": "Moore's Place, Jersey City, NJ",
+   "city": "Jersey City",
+   "url": "https://www.facebook.com/events/moores-lounge-189-monticello-ave-jersey-city-nj-07304-us/jazz-jam-session-with-drummer-winard-harper-every-sun-eve-no-cover/1078870058540098/",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-VK_7ObeL2QKZ96P_EKcIGArtokBx1YuuJloyGK4PZjqap-F5KhR621d5oFFiGYNBQBfP1cFCrS6zd78",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/jazz-jam-session-with-drummer-winard-harper-dec-13-1db451/"
   },
   {
    "id": "google:halloweenparty20261213jerseycity",
@@ -7454,6 +7111,27 @@
    "path": "/events/holiday-cocktail-making-class-at-living-room-bar-dec-16-eb640e/"
   },
   {
+   "id": "google:holidaycocktailmakingclass20261216hoboken",
+   "title": "Holiday Cocktail Making Class",
+   "description": "",
+   "start": "2026-12-16T18:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "W Hoboken",
+   "address": "W Hoboken, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.google.com/search?q=W+Hoboken&ludocid=1856923978742932670&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAfSEUdywUp_jIfGJ5gAfhc2CNLPBMUQY8DC7ktggCO9P30Ghtj4lnEO5pvcJ62xPfttPotPAmYdbd-M4",
+   "price": null,
+   "source": "Google Events",
+   "categories": [
+    "Food & Drink",
+    "Learning"
+   ],
+   "free": false,
+   "path": "/events/holiday-cocktail-making-class-dec-16-9088a6/"
+  },
+  {
    "id": "eventbrite:2003346930598",
    "title": "American Mahjong 101 - for Beginners at MOJO Coffee Company in Hoboken",
    "description": "Learn the fundamentals of American Mahjong in this fun, beginner-friendly 2-hour workshop. No experience necessary!",
@@ -7576,6 +7254,26 @@
    ],
    "free": false,
    "path": "/events/jersey-city-connects-winter-paint-sip-cozy-gnome-art-ni-dec-16-a15865/"
+  },
+  {
+   "id": "google:karaokeatmaddhatter20261216hoboken",
+   "title": "Karaoke at Madd Hatter",
+   "description": "",
+   "start": "2026-12-16T19:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "Madd Hatter Hoboken, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsg-Sc3NdkLSGRJPM2360XG7rDbRZaByQrFwtO5MqeH2WbRU2pn-JI_ApbENY2gHyFhF7TPqbZhI99YHo",
+   "price": null,
+   "source": "Google Events",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/karaoke-at-madd-hatter-dec-16-6cc2ba/"
   },
   {
    "id": "eventbrite:2005402556029",
@@ -8029,6 +7727,27 @@
    "path": "/events/esl-class-dec-18-05964f/"
   },
   {
+   "id": "google:fridaystorytimeatthemuseum20261218hoboken",
+   "title": "Friday Storytime at the Museum",
+   "description": "",
+   "start": "2026-12-18T10:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Hoboken Historical Museum",
+   "address": "Hoboken Historical Museum, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://hobokenmuseum.org/education/family-programs/",
+   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkME4qitLat60jXu41JyMxlVE5lILAqyuWBtBurxuVSoZxXP1ww-Eb6HBxBalDKckighFODxyIhI0cnSk",
+   "price": null,
+   "source": "hobokenmuseum.org",
+   "categories": [
+    "Kids & Family",
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/friday-storytime-at-the-museum-dec-18-7cdd78/"
+  },
+  {
    "id": "eventbrite:2004931109921",
    "title": "Coffee & Connect : Women's Business Networking 12.18",
    "description": "Come meet other women in business, in this new , inclusive setting, hosted at 300 Communipaw Ave.",
@@ -8461,6 +8180,27 @@
    "path": "/events/hoboken-official-ugly-sweater-bar-crawl-by-bar-crawl-li-dec-19-d1ac23/"
   },
   {
+   "id": "eventbrite:2005402565056",
+   "title": "Cre8sArt Canvas Stocking Painting Party | Hoboken",
+   "description": "Celebrate the holidays at Cre8sArt! Paint your own Christmas stocking, enjoy festive face painting, and create holiday memories for all ages",
+   "start": "2026-12-19T15:00:00-05:00",
+   "end": "2026-12-19T17:00:00-05:00",
+   "all_day": false,
+   "venue": "Cre8sArt School Hoboken",
+   "address": "644 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/cre8sart-canvas-stocking-painting-party-hoboken-tickets-2005402565056",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196886927%2F164633544847%2F1%2Foriginal.20261029-204210?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b17168746c5832535bb4f7d82dd9d815",
+   "price": "$53+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture",
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/cre8sart-canvas-stocking-painting-party-hoboken-dec-19-214f44/"
+  },
+  {
    "id": "eventbrite:2004981117495",
    "title": "The Sugarplums: Holiday A Cappella",
    "description": "The Sugarplums bring festive cheer with joyful holiday a cappella harmonies, live and in person!",
@@ -8481,8 +8221,8 @@
    "path": "/events/the-sugarplums-holiday-a-cappella-dec-19-e7f040/"
   },
   {
-   "id": "google:jcbornbredbenefitconcert20261219jerseycity",
-   "title": "JC Born & Bred Benefit Concert",
+   "id": "google:jcbornbredbenefitconcertraisingfundstohelppreventdisplacement20261219jerseycity",
+   "title": "JC BORN & BRED BENEFIT CONCERT - Raising Funds to Help Prevent Displacement",
    "description": "",
    "start": "2026-12-19T18:00:00-05:00",
    "end": null,
@@ -8498,7 +8238,7 @@
     "Music"
    ],
    "free": false,
-   "path": "/events/jc-born-bred-benefit-concert-dec-19-e1e690/"
+   "path": "/events/jc-born-bred-benefit-concert-raising-funds-to-help-prev-dec-19-effd96/"
   },
   {
    "id": "eventbrite:1406594545149",
@@ -9325,10 +9065,10 @@
    "venue": "Tally-Ho",
    "address": "Tally-Ho, Hoboken, NJ",
    "city": "Hoboken",
-   "url": "https://www.facebook.com/events/tally-ho-215-washington-street-hoboken-nj-07030-us/tally-ho-guest-bartender-frankie-z/1139876918403587/",
-   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRURmWZemYZevUy2JTWaCBxjjiGipsFFmpBCgUN1-H6ZbJIRvgfvUas94RTjtB2s4rAvw3gsR3C-UA-eXg",
+   "url": "https://www.google.com/search?q=Tally-Ho&ludocid=11918602538225162728&gl=us&hl=en&ibp=gwp;0,7",
+   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgkZ2Pbq5VSHWqRbYlRgTxMy2tZVN2xU6tGITQ0_yktMdxFmP2kFeR5krgzMLZzPFGmre6wZo_0SnDOjg",
    "price": null,
-   "source": "Facebook",
+   "source": "Google Events",
    "categories": [
     "Community"
    ],
@@ -10417,26 +10157,6 @@
    "path": "/events/stevens-women-s-basketball-vs-st-joseph-s-brooklyn-dec-30-56c215/"
   },
   {
-   "id": "google:karaokeatmaddhatter20261230hoboken",
-   "title": "Karaoke at Madd Hatter",
-   "description": "",
-   "start": "2026-12-30T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "Madd Hatter Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.google.com/search?q=Madd+Hatter+Hoboken&ludocid=11061895597016784240&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsg-Sc3NdkLSGRJPM2360XG7rDbRZaByQrFwtO5MqeH2WbRU2pn-JI_ApbENY2gHyFhF7TPqbZhI99YHo",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/karaoke-at-madd-hatter-dec-30-3ee097/"
-  },
-  {
    "id": "eventbrite:1986851363914",
    "title": "Power Lunch for People on the Go",
    "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
@@ -10698,6 +10418,46 @@
    ],
    "free": false,
    "path": "/events/the-shannon-hoboken-new-years-eve-party-2027-dec-31-6462e9/"
+  },
+  {
+   "id": "google:newyearsevemasquerade20261231hoboken",
+   "title": "New Year's Eve Masquerade",
+   "description": "",
+   "start": "2026-12-31T21:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "Tally-Ho",
+   "address": "Tally-Ho, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/1996323803235?aff=ebdiglgoogleliveevents",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYXu-oUBKCcf4-DYIajM5xomDMbAAtOJyRsstAgwYKYzxmra3v39QaBPVds--TQFS7iJtCL3jKOGsHPqg",
+   "price": null,
+   "source": "Eventbrite",
+   "categories": [
+    "Community"
+   ],
+   "free": false,
+   "path": "/events/new-year-s-eve-masquerade-dec-31-163fbe/"
+  },
+  {
+   "id": "google:thewhotelhobokennyeparty20261231hoboken",
+   "title": "The W Hotel Hoboken NYE Party",
+   "description": "",
+   "start": "2026-12-31T21:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "W Hoboken",
+   "address": "W Hoboken, Hoboken, NJ",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/2001695157099?aff=ebdiglgoogleliveevents",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjqvVxvFoRTRHcABN0Nc33Sij3VWoBc8OTMUU8sbvLgCtY9mnuSaLLTMMHEpXbaaw0Aujkv0wiC70B2ig",
+   "price": null,
+   "source": "Eventbrite",
+   "categories": [
+    "Nightlife"
+   ],
+   "free": false,
+   "path": "/events/the-w-hotel-hoboken-nye-party-dec-31-4f8f68/"
   },
   {
    "id": "eventbrite:1986851364917",
@@ -10984,26 +10744,6 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-jan-5-fb1bf6/"
-  },
-  {
-   "id": "google:explorethefarmersmarket20270105hoboken",
-   "title": "Explore the Farmers' Market",
-   "description": "",
-   "start": "2027-01-05T14:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Hoboken Farmers' Market",
-   "address": "Hoboken Farmers' Market, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://favr.town/events/explore-the-farmers-market-hoboken-farmers-market-2027-01-05-14-00",
-   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdU6aSpjNPi0e1C1NoTkVUsUFBTYn_ex6ib2X_KarPr7L_0DdA3mCTmnCJ69l4sA8fR-c5Qn2Cx-sEZRI",
-   "price": null,
-   "source": "favr.town",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": false,
-   "path": "/events/explore-the-farmers-market-jan-5-58b262/"
   },
   {
    "id": "eventbrite:1987134069494",
@@ -12263,6 +12003,26 @@
    "path": "/events/dance-party-at-madd-hatter-jan-15-6e02e6/"
   },
   {
+   "id": "google:acousticfriday20270115bayonne",
+   "title": "Acoustic Friday",
+   "description": "",
+   "start": "2027-01-15T20:00:00-05:00",
+   "end": null,
+   "all_day": false,
+   "venue": "The Well & Grill",
+   "address": "The Well & Grill, Bayonne, NJ",
+   "city": "Bayonne",
+   "url": "https://www.facebook.com/events/the-well-grill/acoustic-friday-at-the-well-grill/1454341966229576/",
+   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPF1wcFCM1CVz_2ugdd5fUfEkHBhsb-DqPKXYcwQmqz0L4wujaRypDfLNriopqp34Mw2DfWzlVeGO1NNI",
+   "price": null,
+   "source": "Facebook",
+   "categories": [
+    "Music"
+   ],
+   "free": false,
+   "path": "/events/acoustic-friday-jan-15-cbf251/"
+  },
+  {
    "id": "ticketmaster:Z7r9jZ1AAA6-K",
    "title": "Saint Peters Peacocks Mens Basketball vs. Siena Saints Mens Basketball",
    "description": "",
@@ -12424,27 +12184,6 @@
    ],
    "free": true,
    "path": "/events/shade-tree-committee-jan-18-52926e/"
-  },
-  {
-   "id": "google:tarotreadingclass20270118bayonne",
-   "title": "Tarot Reading Class",
-   "description": "",
-   "start": "2027-01-18T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Bayonne Public Library",
-   "address": "Bayonne Public Library, Bayonne, NJ",
-   "city": "Bayonne",
-   "url": "https://www.google.com/search?q=Bayonne+Public+Library&ludocid=6328847952100748602&gl=us&hl=en&ibp=gwp;0,7",
-   "image": "https://serpapi.com/searches/6b08b6bfeb6ec5e76af14c17/images/Cs78B_FDDz_UxhF79vDNdLwp8LtSom3fGxR49GtVaZM.jpg",
-   "price": null,
-   "source": "Google Events",
-   "categories": [
-    "Arts & Culture",
-    "Learning"
-   ],
-   "free": false,
-   "path": "/events/tarot-reading-class-jan-18-06ccb5/"
   },
   {
    "id": "Bayonne Public Library:LibCal-17197-17620003",
@@ -13215,6 +12954,26 @@
    ],
    "free": true,
    "path": "/events/power-lunch-for-people-on-the-go-jan-26-11a2ff/"
+  },
+  {
+   "id": "eventbrite:1987134081530",
+   "title": "Hudson Happy Hour",
+   "description": "Unwind Monday\u2013Thursday from 4\u20137 PM with elevated drink and bite specials\u2014paired with panoramic views of the Manhattan skyline.",
+   "start": "2027-01-26T16:00:00-05:00",
+   "end": "2027-01-26T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/hudson-happy-hour-tickets-1987134081530",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133082493%2F2894508074541%2F1%2Foriginal.20250923-191450?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.374134475219&fp-y=0.104085603113&s=e6119161db86dc67d1a9ae66cf780427",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/hudson-happy-hour-jan-26-c2de3b/"
   }
  ]
 }

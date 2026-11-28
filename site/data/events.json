@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-27T17:48:17.536762-05:00",
+ "generated": "2026-11-28T05:42:22.783253-05:00",
  "sources": {
-  "jersey_city_gov": 107,
-  "bayonne_library": 302,
+  "jersey_city_gov": 106,
+  "bayonne_library": 296,
   "hoboken_library": 114,
-  "stevens": 46,
+  "stevens": 48,
   "jc_families": 4,
   "luma": 7,
   "ticketmaster": 16,
   "seatgeek": 23,
-  "eventbrite": 440,
+  "eventbrite": 444,
   "serpapi_google_events": 64
  },
  "events": [
@@ -176,212 +176,6 @@
    "path": "/events/autism-2026-nov-20-7a94b8/"
   },
   {
-   "id": "eventbrite:1986851550472",
-   "title": "Feel Good Friday \u2013 Drinks & Bites Overlooking the Manhattan Skyline",
-   "description": "Feel Good Friday at The Exchange 4\u20137 PM: skyline views, $14 Espresso Martinis, $13 drinks, $16 bites\u2014get it in a $80 Espresso Tower.",
-   "start": "2026-11-27T16:00:00-05:00",
-   "end": "2026-11-27T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Hyatt Regency Jersey City on the Hudson",
-   "address": "2 Exchange Place, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/feel-good-friday-drinks-bites-overlooking-the-manhattan-skyline-tickets-1986851550472",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185620581%2F2894508074541%2F1%2Foriginal.20260528-150746?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.199&fp-y=0.339&s=a6ee7f0d9e47f18c179337e698d2e0fc",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/feel-good-friday-drinks-bites-overlooking-the-manhattan-nov-27-a716dc/"
-  },
-  {
-   "id": "eventbrite:1999736743431",
-   "title": "$5 FRIDAYS JERSEY CITY | HAPPY HOUR \u2192 TOP DJS + 2-FOR-1 BOTTLES",
-   "description": "Kick off your weekend with killer DJs and unbeatable 2-for-1 bottle deals at $5 Fridays!",
-   "start": "2026-11-27T16:00:00-05:00",
-   "end": "2026-11-27T20:00:00-05:00",
-   "all_day": false,
-   "venue": "The Ashford",
-   "address": "145 Newark Avenue, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/5-fridays-jersey-city-happy-hour-top-djs-2-for-1-bottles-tickets-1999736743431",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192645557%2F2997424828956%2F1%2Foriginal.20260904-014259?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.477&fp-y=0.856&s=3e9de0df4d799f0dbd198f1380403c6a",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/5-fridays-jersey-city-happy-hour-top-djs-2-for-1-bottle-nov-27-b6ac8e/"
-  },
-  {
-   "id": "eventbrite:1999737043328",
-   "title": "$5 FRIDAYS AT SIX26 | HAPPY HOUR + DRAG SHOW + TOP DJS",
-   "description": "Kick off your weekend with killer beats, drag vibes, and happy hour specials that won\u2019t break the bank.",
-   "start": "2026-11-27T16:00:00-05:00",
-   "end": "2026-11-27T20:00:00-05:00",
-   "all_day": false,
-   "venue": "Six26 - Lounge and Rooftop",
-   "address": "128 Christopher Columbus Drive, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/5-fridays-at-six26-happy-hour-drag-show-top-djs-tickets-1999737043328",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192643391%2F2997424828956%2F1%2Foriginal.20260904-010942?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.487&fp-y=0.852&s=e9e21ae1f6d46da2ccf67f51da4f1c48",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Food & Drink",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/5-fridays-at-six26-happy-hour-drag-show-top-djs-nov-27-890e97/"
-  },
-  {
-   "id": "eventbrite:2005312918922",
-   "title": "Line Dancing Workshop with Messiah Brown",
-   "description": "Learn fun line-dancing moves with Messiah Brown in person\u2014no experience needed, just bring your energy!",
-   "start": "2026-11-27T17:30:00-05:00",
-   "end": "2026-11-27T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Fluid Arts Studio",
-   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/line-dancing-workshop-with-messiah-brown-tickets-2005312918922",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198569361%2F3009697406825%2F1%2Foriginal.20261123-222959?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.981&fp-y=0.636&s=d65ddae849dc801d2c006a09e7ce1b29",
-   "price": "$19+",
-   "source": "Eventbrite",
-   "categories": [
-    "Fitness & Wellness",
-    "Learning",
-    "Sports"
-   ],
-   "free": false,
-   "path": "/events/line-dancing-workshop-with-messiah-brown-nov-27-9e8461/"
-  },
-  {
-   "id": "google:boardgamesfreedinner20261127jerseycity",
-   "title": "Board Games & FREE Dinner",
-   "description": "",
-   "start": "2026-11-27T18:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Zeppelin Hall Beer Garden",
-   "address": "Zeppelin Hall Beer Garden, Jersey City, NJ",
-   "city": "Jersey City",
-   "url": "http://www.secaucusnj.net/events/178800/Board-Games-FREE-Dinner-3x-Chance-to-Win-free-Entree",
-   "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLCdnIRHB9l6ed0M4fvCMCMJ2yh1TVjTTlUI3u1O9K2lQDQHR2Fa85Jyfhp8xkvsskLeXyJ2eZRlkLRcs",
-   "price": null,
-   "source": "secaucusnj.net",
-   "categories": [
-    "Food & Drink"
-   ],
-   "free": true,
-   "path": "/events/board-games-free-dinner-nov-27-fba6ee/"
-  },
-  {
-   "id": "eventbrite:1406594444849",
-   "title": "Dance Party at Madd Hatter",
-   "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
-   "start": "2026-11-27T19:00:00-05:00",
-   "end": "2026-11-27T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Madd Hatter Hoboken",
-   "address": "221 Washington Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/dance-party-at-madd-hatter-tickets-1406594444849",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049405253%2F1927671691523%2F1%2Foriginal.20250609-233401?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.520210170025&fp-y=0.489956985652&s=e25895bf0973affcc40406e03d5f2bad",
-   "price": "Free",
-   "source": "Eventbrite",
-   "categories": [
-    "Music",
-    "Arts & Culture",
-    "Nightlife"
-   ],
-   "free": true,
-   "path": "/events/dance-party-at-madd-hatter-nov-27-c58104/"
-  },
-  {
-   "id": "eventbrite:2004248296608",
-   "title": "Heart BEATS for Puerto Rico Celebrating Our Bomba y Plena Roots",
-   "description": "\u00a1Vengan a bailar, cantar y gozar! Kicking off the Parranda Holiday on Friday, Nov 27 at Grace Church, Doors Open: 7:00 PM",
-   "start": "2026-11-27T19:00:00-05:00",
-   "end": "2026-11-27T22:00:00-05:00",
-   "all_day": false,
-   "venue": "Grace Church Van Vorst",
-   "address": "39 Erie Street, Jersey City, NJ 07302",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/heart-beats-for-puerto-rico-celebrating-our-bomba-y-plena-roots-tickets-2004248296608",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F633991379%2F113362999825%2F1%2Foriginal.20231102-203911?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C251%2C2550%2C1275&s=33f19176406949831d264c2af9a55bee",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Music"
-   ],
-   "free": false,
-   "path": "/events/heart-beats-for-puerto-rico-celebrating-our-bomba-y-ple-nov-27-ec63fd/"
-  },
-  {
-   "id": "eventbrite:2004867377295",
-   "title": "Salsa Shines & Partnerwork: Connect, Move & Dance",
-   "description": "Build your salsa skills with timing, footwork & partnerwork. Learn a pattern and dance to music. Come solo or with a partner!",
-   "start": "2026-11-27T19:00:00-05:00",
-   "end": "2026-11-27T20:30:00-05:00",
-   "all_day": false,
-   "venue": "Fluid Arts Studio",
-   "address": "99 Mallory Avenue, Jersey City, NJ 07304",
-   "city": "Jersey City",
-   "url": "https://www.eventbrite.com/e/salsa-shines-partnerwork-connect-move-dance-tickets-2004867377295",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198075836%2F3009697406825%2F1%2Foriginal.20261116-144344?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.036&fp-y=0.591&s=9d9cce539d99da85fc07840591b53194",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/salsa-shines-partnerwork-connect-move-dance-nov-27-d7c167/"
-  },
-  {
-   "id": "google:live3coursechefcompetition20261127hoboken",
-   "title": "Live 3 Course Chef Competition",
-   "description": "",
-   "start": "2026-11-27T19:00:00-05:00",
-   "end": null,
-   "all_day": false,
-   "venue": "Hudson Table Hoboken",
-   "address": "Hudson Table Hoboken, Hoboken, NJ",
-   "city": "Hoboken",
-   "url": "https://www.njradar.com/events/live-3-course-chef-competition-featuring-high-end-mystery-basket-chef-ryan-vs-chef-trevor-hoboken-8443",
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNWgFxwzGUuOE-zSz5KCEsCEorr9IUpmvKxu6SdLgmXInQQNrcKxJyJC31ydCaFeX6Z_3dB_oQ9sdMCs",
-   "price": null,
-   "source": "njradar.com",
-   "categories": [
-    "Food & Drink",
-    "Learning"
-   ],
-   "free": false,
-   "path": "/events/live-3-course-chef-competition-nov-27-38a418/"
-  },
-  {
-   "id": "eventbrite:676802343027",
-   "title": "Muscle Men Male Strippers Revue & Male Strip Club Shows Hoboken, NJ",
-   "description": "Muscle Men Male Revue the hottest male stripper revue in Hoboken. Come visit this ultimate Hoboken male strip club show!",
-   "start": "2026-11-27T21:00:00-05:00",
-   "end": "2026-11-27T23:00:00-05:00",
-   "all_day": false,
-   "venue": "Muscle Men Male Strippers Hoboken NJ",
-   "address": "150-198 7th St, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/muscle-men-male-strippers-revue-male-strip-club-shows-hoboken-nj-tickets-676802343027",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F126587963%2F269303848782%2F1%2Foriginal.20190808-020455?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=261%2C0%2C1730%2C865&s=7825c824ad1bf882ee5ad9d6241bb501",
-   "price": "$12+",
-   "source": "Eventbrite",
-   "categories": [
-    "Arts & Culture"
-   ],
-   "free": false,
-   "path": "/events/muscle-men-male-strippers-revue-male-strip-club-shows-h-nov-27-6e70af/"
-  },
-  {
    "id": "eventbrite:1984140853705",
    "title": "Storytime with Laura - Saturday",
    "description": "Storytime with Laura Saturdays at 9am at Little City Books! $10",
@@ -484,6 +278,26 @@
    ],
    "free": false,
    "path": "/events/dinner-with-entrepreneurs-bayonne-nov-28-9f84cb/"
+  },
+  {
+   "id": "eventbrite:1250645858429",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-11-28T20:00:00-05:00",
+   "end": "2026-11-28T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645858429",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-nov-28-66f1a9/"
   },
   {
    "id": "eventbrite:676802353057",
@@ -2215,26 +2029,6 @@
    "path": "/events/hudson-happy-hour-dec-3-f4065d/"
   },
   {
-   "id": "City of Jersey City:21448004",
-   "title": "Community Mtg: Historic Paulus Hook Association",
-   "description": "Register Here\n\nJoin Mayor Solomon and the Historic Paulus Hook Association for a community meeting focused on the issues affecting residents.\n\nThis meeting is an opportunity for residents to speak directly with the Mayor, share feedback, ask questions, and discuss the issues and priorities affecting Jersey City residents.\n\nCommunity meetings are intended to bring City Hall directly into Jersey City neighborhoods and provide residents with an opportunity to have an open conversation about the concerns, ideas, and opportunities that matter to them.\n\nResidents of the neighborhood and surrounding ",
-   "start": "2026-12-03T18:00:00-05:00",
-   "end": "2026-12-03T19:00:00-05:00",
-   "all_day": false,
-   "venue": "Saints Peter and Paul Orthodox Cathedral: 109 Grand St.",
-   "address": "Saints Peter and Paul Orthodox Cathedral: 109 Grand St.",
-   "city": "Jersey City",
-   "url": null,
-   "image": null,
-   "price": "Free",
-   "source": "City of Jersey City",
-   "categories": [
-    "Civic"
-   ],
-   "free": true,
-   "path": "/events/community-mtg-historic-paulus-hook-association-dec-3-8bf176/"
-  },
-  {
    "id": "City of Jersey City:21342965",
    "title": "Zoning Board Meeting",
    "description": "Join via Zoom:\n\n(ID: 834 5083 8695): https://us02web.zoom.us/j/83450838695",
@@ -2254,6 +2048,26 @@
    ],
    "free": true,
    "path": "/events/zoning-board-meeting-dec-3-3d3453/"
+  },
+  {
+   "id": "City of Jersey City:21448004",
+   "title": "Community Mtg: Historic Paulus Hook Association",
+   "description": "Register Here\n\nJoin Mayor Solomon and the Historic Paulus Hook Association for a community meeting focused on the issues affecting residents.\n\nThis meeting is an opportunity for residents to speak directly with the Mayor, share feedback, ask questions, and discuss the issues and priorities affecting Jersey City residents.\n\nCommunity meetings are intended to bring City Hall directly into Jersey City neighborhoods and provide residents with an opportunity to have an open conversation about the concerns, ideas, and opportunities that matter to them.\n\nResidents of the neighborhood and surrounding ",
+   "start": "2026-12-03T18:00:00-05:00",
+   "end": "2026-12-03T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Saints Peter and Paul Orthodox Cathedral: 109 Grand St.",
+   "address": "Saints Peter and Paul Orthodox Cathedral: 109 Grand St.",
+   "city": "Jersey City",
+   "url": null,
+   "image": null,
+   "price": "Free",
+   "source": "City of Jersey City",
+   "categories": [
+    "Civic"
+   ],
+   "free": true,
+   "path": "/events/community-mtg-historic-paulus-hook-association-dec-3-8bf176/"
   },
   {
    "id": "luma:evt-EHdG7kYmSJRZ6uS",
@@ -2789,6 +2603,26 @@
    "path": "/events/oceans-between-our-names-duet-version-dec-4-1bd452/"
   },
   {
+   "id": "eventbrite:1250645868459",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-12-04T20:00:00-05:00",
+   "end": "2026-12-04T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645868459",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-dec-4-79ce29/"
+  },
+  {
    "id": "google:bingofriday20261204hoboken",
    "title": "Bingo Friday",
    "description": "",
@@ -2972,6 +2806,26 @@
    ],
    "free": false,
    "path": "/events/concert-band-performance-dec-5-20e7fa/"
+  },
+  {
+   "id": "eventbrite:1250645878489",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-12-05T20:00:00-05:00",
+   "end": "2026-12-05T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645878489",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-dec-5-d5df95/"
   },
   {
    "id": "google:freewalkerswinterhudsonriverloop20261206jerseycity",
@@ -5374,6 +5228,26 @@
    "path": "/events/the-secret-cinema-presents-creepy-christmas-films-dec-11-18d518/"
   },
   {
+   "id": "eventbrite:1250645888519",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-12-11T20:00:00-05:00",
+   "end": "2026-12-11T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645888519",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-dec-11-a75fe1/"
+  },
+  {
    "id": "google:livemusic20261211bayonne",
    "title": "Live Music",
    "description": "",
@@ -5803,6 +5677,26 @@
    ],
    "free": false,
    "path": "/events/ignore-tenderness-dec-12-2a7b96/"
+  },
+  {
+   "id": "eventbrite:1250645898549",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-12-12T20:00:00-05:00",
+   "end": "2026-12-12T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645898549",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-dec-12-d8e76e/"
   },
   {
    "id": "google:anthony\u00b2band20261212bayonne",
@@ -7995,6 +7889,26 @@
    "path": "/events/tally-ho-dj-caspers-birthday-bash-dec-18-279651/"
   },
   {
+   "id": "eventbrite:1250645908579",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-12-18T20:00:00-05:00",
+   "end": "2026-12-18T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645908579",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-dec-18-b91d24/"
+  },
+  {
    "id": "Bayonne Public Library:LibCal-17197-17327870",
    "title": "Music with Miss Julia (For 6 Months through 5 Years Old)",
    "description": "Join us for Music with Miss Julia! This monthly early childhood education music class will be held on Wednesdays at 10 am in the Children\u2019s Room of the Bayonne Public Library.\n\nThe classes will meet on:\n\n\tOctober 10th\n\tNovember 21st\n\tDecember 9th\n\nThis class is for ages 6 months through 5 years old. Sessions will include drums, tambourines, shakers, ukuleles, bubbles, parachute play, dancing, singing, scarves, and instrument exploration. \n\nAdvanced registration is required for all sessions individually. Walk-ins will be accommodated if space permits. Since this event is for children, please on",
@@ -8261,6 +8175,26 @@
    ],
    "free": true,
    "path": "/events/dance-party-at-madd-hatter-dec-19-812733/"
+  },
+  {
+   "id": "eventbrite:1250645918609",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-12-19T20:00:00-05:00",
+   "end": "2026-12-19T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645918609",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-dec-19-7219a8/"
   },
   {
    "id": "google:radiostarreturnstothevictavern20261219bayonne",
@@ -9363,6 +9297,26 @@
    "path": "/events/dance-party-at-madd-hatter-dec-25-1271e8/"
   },
   {
+   "id": "eventbrite:1250645928639",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-12-25T20:00:00-05:00",
+   "end": "2026-12-25T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645928639",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-dec-25-abfbd0/"
+  },
+  {
    "id": "eventbrite:1406594575239",
    "title": "Dance Party at Madd Hatter",
    "description": "Get ready to bust a move and groove all night long at the Dance Party at Madd Hatter - it's going to be lit!",
@@ -9446,6 +9400,26 @@
    ],
    "free": true,
    "path": "/events/tally-ho-customer-appreciation-party-dec-26-fd0f79/"
+  },
+  {
+   "id": "eventbrite:1250645938669",
+   "title": "Ebony Men Black Male Revue Strip Clubs & Black Male Strippers Hoboken, NJ 8-10PM",
+   "description": "Ebony Men Black Male Revue & Male Strip Club Shows\u00a0If you\u2019re looking for the finest in all black male exotic entertainment Hoboken has to o",
+   "start": "2026-12-26T20:00:00-05:00",
+   "end": "2026-12-26T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Ebony Men Black Male Strippers",
+   "address": "41 Sixth St, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/ebony-men-black-male-revue-strip-clubs-black-male-strippers-hoboken-nj-8-10pm-tickets-1250645938669",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F70034657%2F276162861113%2F1%2Foriginal.20190827-134604?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=196%2C0%2C1740%2C870&s=b6601e29efd482ae7984df2c19432cb5",
+   "price": "$12+",
+   "source": "Eventbrite",
+   "categories": [
+    "Arts & Culture"
+   ],
+   "free": false,
+   "path": "/events/ebony-men-black-male-revue-strip-clubs-black-male-strip-dec-26-e0dd51/"
   },
   {
    "id": "JC Families:108668-1798365600-1798995600@jcfamilies.com",
@@ -12974,6 +12948,66 @@
    ],
    "free": true,
    "path": "/events/hudson-happy-hour-jan-26-c2de3b/"
+  },
+  {
+   "id": "hoboken-library:17166409",
+   "title": "Board of Trustees Meeting",
+   "description": "The Hoboken Public Library Board of Trustees meets on the Fourth Tuesday of the month, at 6:30 pm at the Hoboken Public Library, 500 Park Avenue, Hoboken, NJ.\u00a0 Meetings are held in the Large Program Room in the Main Library\u2019s Lower Level.\u00a0 These meetings are open to the public.\n\nOption to join on Zoom: https://us02web.zoom.us/j/81434763989",
+   "start": "2027-01-26T18:30:00-05:00",
+   "end": "2027-01-26T20:00:00-05:00",
+   "all_day": false,
+   "venue": "Main Library",
+   "address": "500 Park Ave, Hoboken",
+   "city": "Hoboken",
+   "url": "https://hobokenlibrary.libnet.info/event/17166409",
+   "image": null,
+   "price": "Free",
+   "source": "Hoboken Public Library",
+   "categories": [
+    "Community"
+   ],
+   "free": true,
+   "path": "/events/board-of-trustees-meeting-jan-26-23b8a0/"
+  },
+  {
+   "id": "eventbrite:1397814734499",
+   "title": "Taco Tuesdays at Madd Hatter",
+   "description": "Unlimited Tacos every Tuesday at the madd hatter",
+   "start": "2027-01-26T19:00:00-05:00",
+   "end": "2027-01-26T22:00:00-05:00",
+   "all_day": false,
+   "venue": "Madd Hatter Hoboken",
+   "address": "221 Washington Street, Hoboken, NJ 07030",
+   "city": "Hoboken",
+   "url": "https://www.eventbrite.com/e/taco-tuesdays-at-madd-hatter-tickets-1397814734499",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1046383773%2F1927671691523%2F1%2Foriginal.20250605-061908?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481082800663&fp-y=0.555270522388&s=5600ffa6cc73c5e57593a6505864a6a3",
+   "price": "$0+",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": false,
+   "path": "/events/taco-tuesdays-at-madd-hatter-jan-26-98d1ff/"
+  },
+  {
+   "id": "eventbrite:1984580535806",
+   "title": "Taco & Tequila Tuesdays at The Exchange",
+   "description": "Kick off your Tuesdays with $6 chef\u2011selected tacos and $12 house margaritas from 4\u20137 PM at The Exchange\u2014your perfect midweek flavor break.",
+   "start": "2027-01-26T19:00:00-05:00",
+   "end": "2027-01-27T19:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/taco-tequila-tuesdays-at-the-exchange-tickets-1984580535806",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179147819%2F2894508074541%2F1%2Foriginal.20260305-205711?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=50be47c881f7dd9eb9cd7c1af4ae8279",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/taco-tequila-tuesdays-at-the-exchange-jan-26-36e55c/"
   }
  ]
 }

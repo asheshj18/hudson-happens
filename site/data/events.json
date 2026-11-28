@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T05:42:22.783253-05:00",
+ "generated": "2026-11-28T11:36:30.533733-05:00",
  "sources": {
   "jersey_city_gov": 106,
   "bayonne_library": 296,
@@ -174,26 +174,6 @@
    ],
    "free": false,
    "path": "/events/autism-2026-nov-20-7a94b8/"
-  },
-  {
-   "id": "eventbrite:1984140853705",
-   "title": "Storytime with Laura - Saturday",
-   "description": "Storytime with Laura Saturdays at 9am at Little City Books! $10",
-   "start": "2026-11-28T09:00:00-05:00",
-   "end": "2026-11-28T10:00:00-05:00",
-   "all_day": false,
-   "venue": "Little City Books",
-   "address": "100 Bloomfield Street, Hoboken, NJ 07030",
-   "city": "Hoboken",
-   "url": "https://www.eventbrite.com/e/storytime-with-laura-saturday-tickets-1984140853705",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179694701%2F294282509964%2F1%2Foriginal.20260312-152844?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&s=68b976d406464fb8184a1a561dc2933b",
-   "price": "$13+",
-   "source": "Eventbrite",
-   "categories": [
-    "Kids & Family"
-   ],
-   "free": false,
-   "path": "/events/storytime-with-laura-saturday-nov-28-f1f265/"
   },
   {
    "id": "eventbrite:2005318051273",
@@ -13008,6 +12988,26 @@
    ],
    "free": true,
    "path": "/events/taco-tequila-tuesdays-at-the-exchange-jan-26-36e55c/"
+  },
+  {
+   "id": "eventbrite:1986851382971",
+   "title": "Power Lunch for People on the Go",
+   "description": "Busy day? Refuel fast with our Power Lunch at The Exchange\u2014nutritious, delicious, and served Mon\u2013Fri, 11:30 AM\u20132 PM.",
+   "start": "2027-01-27T11:30:00-05:00",
+   "end": "2027-01-27T14:00:00-05:00",
+   "all_day": false,
+   "venue": "Hyatt Regency Jersey City on the Hudson",
+   "address": "2 Exchange Place, Jersey City, NJ 07302",
+   "city": "Jersey City",
+   "url": "https://www.eventbrite.com/e/power-lunch-for-people-on-the-go-tickets-1986851382971",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156281893%2F2894508074541%2F1%2Foriginal.20251017-214945?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5651cd982fe95080b9883bc88a1eed42",
+   "price": "Free",
+   "source": "Eventbrite",
+   "categories": [
+    "Food & Drink"
+   ],
+   "free": true,
+   "path": "/events/power-lunch-for-people-on-the-go-jan-27-4e9f11/"
   }
  ]
 }
